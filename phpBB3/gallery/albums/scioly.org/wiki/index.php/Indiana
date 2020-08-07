@@ -1,0 +1,1515 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Indiana - Scioly.org</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Indiana","wgTitle":"Indiana","wgCurRevisionId":104620,"wgRevisionId":104620,"wgArticleId":227,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["State Pages"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Indiana","wgRelevantArticleId":227,"wgRequestId":"7aefda32712533049ab9f6d4","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":[]});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","site":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@1ltrs49",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","jquery.tablesorter","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/wiki/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/wiki/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/wiki/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.8"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/wiki/opensearch_desc.php" title="Scioly.org (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://scioly.org/wiki/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Scioly.org Atom feed" href="/wiki/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/wiki/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Indiana rootpage-Indiana skin-vector action-view"><meta property="og:title" content="Science Olympiad Student Center"/>
+<meta property="og:type" content="website"/>
+<meta property="og:url" content="https://scioly.org/"/>
+
+<meta property="og:image" content="http://scioly.org/src/img/logo/logo_square.png"/>
+<meta property="og:image:secure_url" content="https://scioly.org/src/img/logo/logo_square.png"/> 
+<meta property="og:image:type" content="image/png"/> 
+<meta property="og:image:width" content="500"/> 
+<meta property="og:image:height" content="500"/>
+
+<meta property="og:description" content="A resource by and for Science Olympiad students, coaches, and alumni nationwide."/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script type="text/javascript" src="/src/js/jquery.min.js"></script>
+<script type="text/javascript" src="/src/js/main.js"></script>
+
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+<link rel="stylesheet" type="text/css" href="/src/css/main.css">
+
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<link rel="icon" href="/favicon.ico" type="image/x-icon"><div class="site-nav">
+	<a href="/">
+		<img src="/src/img/logo/logo.png">
+	</a>
+	<div class="hamburger" onclick="hamburger(this)">
+		<div>
+			<div></div>
+			<div></div>
+			<div></div>
+		</div>
+	</div>
+	<ul>
+		<li><a href="/forums">Forums</a></li>
+		<li><a href="/wiki">Wiki</a></li>
+		<li><a href="/tests">Test Exchange</a></li>
+		<!-- <li><a href="/gallery">Image Gallery</a></li> -->
+		<!-- <li><a href="/invitational">Invites</a></li> -->
+		<li><a href="/chat">Chat</a></li>
+		<li><a href="/login" class="button">Login</a></li>
+	</ul>
+</div>
+<img class="print-only" src="/src/img/logo/logo_black.png" style="max-width: 150px;"><link rel="stylesheet" type="text/css" href="/src/css/wiki.css">
+<div id="wrap-me-up">
+
+
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Indiana</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Scioly.org</div>				<div id="contentSub"></div>
+								<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p>Indiana has been one of the largest participants in Science Olympiad for many years now, with Division B claiming 2 slots at the national competition each year, and Division C claiming 2 slots at the national competition until 2015. Two National Tournaments have been held in this state as well, both of which occurred at Indiana University Bloomington (always referred to as "IU" by Indiana residents) in 1995 and 2006.
+</p>
+<table align="right" class="infobox">
+
+<tbody><tr>
+<th colspan="2" style="font-size: larger; text-align: center;"><b>Indiana</b>
+</th></tr>
+<tr>
+<td colspan="2"><center><a href="/wiki/index.php/File:Indiana.svg" class="image"><img alt="Indiana.svg" src="/wiki/images/thumb/4/41/Indiana.svg/200px-Indiana.svg.png" width="200" height="309" srcset="/wiki/images/thumb/4/41/Indiana.svg/300px-Indiana.svg.png 1.5x, /wiki/images/thumb/4/41/Indiana.svg/400px-Indiana.svg.png 2x" /></a></center>
+</td></tr>
+<tr>
+<td colspan="2" style="margin: 5px; background-color: lavender; text-align: center;"><b>General Information</b>
+</td></tr>
+<tr>
+<td style="width: 100px;"><b>Member of SO since</b>
+</td>
+<td>1985
+</td></tr>
+<tr>
+<td style="width: 100px;"><b>Total teams</b>
+</td>
+<td>194
+</td></tr>
+<tr>
+<td style="width: 100px;"><b><a href="/wiki/index.php/Division_B" title="Division B">Division B</a> Champion</b>
+</td>
+<td><a href="/wiki/index.php/Thomas_Jefferson_Middle_School" title="Thomas Jefferson Middle School">Thomas Jefferson Middle School</a>
+</td></tr>
+<tr>
+<td style="width: 100px;"><b><a href="/wiki/index.php/Division_C" title="Division C">Division C</a> Champion</b>
+</td>
+<td><a href="/wiki/index.php/Carmel_High_School" title="Carmel High School">Carmel High School</a>
+</td></tr>
+<tr>
+<td style="width: 100px;"><b>State Tournament Location</b>
+</td>
+<td>Purdue University West Lafayette
+</td></tr>
+<tr>
+<td style="width: 100px;"><b>Date</b>
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="width: 100px;"><b>Website</b>
+</td>
+<td><a rel="nofollow" class="external free" href="https://www.indianascienceolympiad.org/">https://www.indianascienceolympiad.org/</a>
+</td></tr>
+</tbody></table>
+<p><br />
+</p><p><br />
+</p>
+<div id="toc" class="toc"><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Past_State_Champions"><span class="tocnumber">1.1</span> <span class="toctext">Past State Champions</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Competitions"><span class="tocnumber">2</span> <span class="toctext">Competitions</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Invitationals_for_the_2020_Season"><span class="tocnumber">2.1</span> <span class="toctext">Invitationals for the 2020 Season</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Defunct_Invitationals"><span class="tocnumber">2.2</span> <span class="toctext">Defunct Invitationals</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Regional_Competitions_for_the_2020_Season"><span class="tocnumber">2.3</span> <span class="toctext">Regional Competitions for the 2020 Season</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Defunct_Regional_Competitions"><span class="tocnumber">2.4</span> <span class="toctext">Defunct Regional Competitions</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#State_Competition"><span class="tocnumber">2.5</span> <span class="toctext">State Competition</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#State_Tournament_Results"><span class="tocnumber">2.6</span> <span class="toctext">State Tournament Results</span></a>
+<ul>
+<li class="toclevel-3 tocsection-10"><a href="#Division_B"><span class="tocnumber">2.6.1</span> <span class="toctext">Division B</span></a></li>
+<li class="toclevel-3 tocsection-11"><a href="#Division_C"><span class="tocnumber">2.6.2</span> <span class="toctext">Division C</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#Teams"><span class="tocnumber">3</span> <span class="toctext">Teams</span></a>
+<ul>
+<li class="toclevel-2 tocsection-13"><a href="#Division_B_2"><span class="tocnumber">3.1</span> <span class="toctext">Division B</span></a>
+<ul>
+<li class="toclevel-3 tocsection-14"><a href="#Butler"><span class="tocnumber">3.1.1</span> <span class="toctext">Butler</span></a></li>
+<li class="toclevel-3 tocsection-15"><a href="#Goshen"><span class="tocnumber">3.1.2</span> <span class="toctext">Goshen</span></a></li>
+<li class="toclevel-3 tocsection-16"><a href="#Indiana_University_Northwest"><span class="tocnumber">3.1.3</span> <span class="toctext">Indiana University Northwest</span></a></li>
+<li class="toclevel-3 tocsection-17"><a href="#Ivy_Tech_Bloomington"><span class="tocnumber">3.1.4</span> <span class="toctext">Ivy Tech Bloomington</span></a></li>
+<li class="toclevel-3 tocsection-18"><a href="#Ivy_Tech_Terre_Haute"><span class="tocnumber">3.1.5</span> <span class="toctext">Ivy Tech Terre Haute</span></a></li>
+<li class="toclevel-3 tocsection-19"><a href="#Purdue_University_Northwest"><span class="tocnumber">3.1.6</span> <span class="toctext">Purdue University Northwest</span></a></li>
+<li class="toclevel-3 tocsection-20"><a href="#Purdue_West_Lafayette"><span class="tocnumber">3.1.7</span> <span class="toctext">Purdue West Lafayette</span></a></li>
+<li class="toclevel-3 tocsection-21"><a href="#St._Joseph.27s"><span class="tocnumber">3.1.8</span> <span class="toctext">St. Joseph's</span></a></li>
+<li class="toclevel-3 tocsection-22"><a href="#Past_teams"><span class="tocnumber">3.1.9</span> <span class="toctext">Past teams</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-23"><a href="#Division_C_2"><span class="tocnumber">3.2</span> <span class="toctext">Division C</span></a>
+<ul>
+<li class="toclevel-3 tocsection-24"><a href="#Butler_University_Regional"><span class="tocnumber">3.2.1</span> <span class="toctext">Butler University Regional</span></a></li>
+<li class="toclevel-3 tocsection-25"><a href="#Goshen_College_Regional"><span class="tocnumber">3.2.2</span> <span class="toctext">Goshen College Regional</span></a></li>
+<li class="toclevel-3 tocsection-26"><a href="#IU_Northwest_Regional"><span class="tocnumber">3.2.3</span> <span class="toctext">IU Northwest Regional</span></a></li>
+<li class="toclevel-3 tocsection-27"><a href="#Ivy_Tech_Regional"><span class="tocnumber">3.2.4</span> <span class="toctext">Ivy Tech Regional</span></a></li>
+<li class="toclevel-3 tocsection-28"><a href="#Ivy_Tech_Terre_Haute_2"><span class="tocnumber">3.2.5</span> <span class="toctext">Ivy Tech Terre Haute</span></a></li>
+<li class="toclevel-3 tocsection-29"><a href="#Purdue_Northwest_Regional"><span class="tocnumber">3.2.6</span> <span class="toctext">Purdue Northwest Regional</span></a></li>
+<li class="toclevel-3 tocsection-30"><a href="#Purdue_West_Lafayette_Regional"><span class="tocnumber">3.2.7</span> <span class="toctext">Purdue West Lafayette Regional</span></a></li>
+<li class="toclevel-3 tocsection-31"><a href="#St._Joseph.27s_College_Regional_.28defunct.29"><span class="tocnumber">3.2.8</span> <span class="toctext">St. Joseph's College Regional (defunct)</span></a></li>
+<li class="toclevel-3 tocsection-32"><a href="#Past_teams_2"><span class="tocnumber">3.2.9</span> <span class="toctext">Past teams</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-33"><a href="#External_Links"><span class="tocnumber">4</span> <span class="toctext">External Links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span></h2>
+<p>The state is home to <a href="/wiki/index.php/National_Tournament_Winners" title="National Tournament Winners">national champion</a> Thomas Jefferson Middle School, which won in <a href="/wiki/index.php/University_of_Southern_Colorado_1993" title="University of Southern Colorado 1993">1993</a>.
+</p><p><a href="/wiki/index.php/Thomas_Jefferson_Middle_School" title="Thomas Jefferson Middle School">Thomas Jefferson Middle School</a> has dominated Division B for most of its existence, although Batchelor and Ben Franklin have been known to make runs in the past. The Stanley Clark School, <a href="/wiki/index.php/Wilbur_Wright_Middle_School" title="Wilbur Wright Middle School">Wilbur Wright</a>, <a href="/wiki/index.php/Tri-North_Middle_School" title="Tri-North Middle School">Tri-North</a>, <a href="/wiki/index.php/Raymond_Park_Middle_School" title="Raymond Park Middle School">Raymond Park Middle School</a>, and <a href="/wiki/index.php/Chesterton_Middle_School" title="Chesterton Middle School">Chesterton Middle School</a> have become rising challengers in recent years. The competition between established champion Thomas Jefferson and newer contenders reached a new level of intensity in 2019, a year where both Thomas Jefferson and Raymond Park set the record for lowest scores. Thomas Jefferson won 1st place with 50 points, and Raymond Park got 2nd place with 66 points. Both scores remain state records today.
+</p><p>In Division C, <a href="/wiki/index.php/Bloomington_High_School_North" title="Bloomington High School North">Bloomington High School North</a>, <a href="/wiki/index.php/Bloomington_High_School_South" title="Bloomington High School South">Bloomington High School South</a> and <a href="/wiki/index.php/Valparaiso_High_School" title="Valparaiso High School">Valparaiso High School</a> have programs with extensive histories, almost always placing in the top 10 at the state tournament in any given year.  Other historically strong programs include Carmel High School and North Central High School.  
+</p><p>Beginning in the early 2010s, several northern Indiana schools had grown into formidable forces for the state title, most notably <a href="/wiki/index.php/Northridge_High_School_(Indiana)" title="Northridge High School (Indiana)">Northridge High School</a> and <a href="/wiki/index.php/Munster_High_School" title="Munster High School">Munster High School</a>, each of which has won a state championship. <a href="/wiki/index.php/Lake_Central_High_School" title="Lake Central High School">Lake Central High School</a> and John Adams High School have also proved top contenders in the last 5 years. After a streak of placing 4th place, Lake Central placed 3rd at the 2017 state tournament, and 2nd in 2018. Likewise, John Adams surpassed traditional favorites when it broke into the top 5 in 2018.
+</p><p>In 2013, <a href="/wiki/index.php/Munster_High_School" title="Munster High School">Munster High School</a> dominated the state tournament winning by a record-breaking margin of 79 points under the 2nd place school, <a href="/wiki/index.php/Bloomington_High_School_North" title="Bloomington High School North">Bloomington High School North</a>. They went on to win the 2014 State Tournament, and continued their victory with a win at the 2015 State Tournament. In 2015, they broke the previous state record with a score of 61 as well as gold medals in 11 out of 23 main events, setting a new record for most gold medals at a tournament. The Munster team would go on to secure a monumental finish at the 2015 National Science Olympiad competition at the University of Nebraska-Lincoln, where they placed 6th in the nation overall—one of the highest placing Division C teams in the history of Indiana. Despite losing to Carmel in 2016, Munster swiftly reclaimed the state title in 2017, where they once again broke their own record again, scoring only 59 points at the state tournament. 
+</p><p>In both 2018 and 2019, Carmel High School took the state title. This was first time where Carmel achieved two consecutive wins at the Indiana state tournament.
+</p>
+<h3><span class="mw-headline" id="Past_State_Champions">Past State Champions</span></h3>
+<p>This is a record of the past state champions and runners up, and their respective places at the national competition.  Scores at the state competition shown in parentheses.
+</p>
+<table class="wikitable sortable" style="text-align:center">
+
+<tbody><tr>
+<th rowspan="3"><big>Season</big></th>
+<th colspan="5"><big>Division B</big></th>
+<th colspan="5"><big>Division C</big>
+</th></tr>
+<tr>
+<th colspan="2"><big>Champion</big></th>
+<th colspan="2"><big>Runner-Up</big></th>
+<th><big>Third Place</big></th>
+<th colspan="2"><big>Champion</big></th>
+<th colspan="2"><big>Runner-Up</big></th>
+<th><big>Third Place</big>
+</th></tr>
+<tr>
+<th><big>Team</big></th>
+<th><big>Nats Place</big></th>
+<th><big>Team</big></th>
+<th><big>Nats Place</big></th>
+<th><big>Team</big></th>
+<th><big>Team</big></th>
+<th><big>Nats Place</big></th>
+<th><big>Team</big></th>
+<th><big>Nats Place</big></th>
+<th><big>Team</big>
+</th></tr>
+
+
+
+<tr>
+<td><b><a href="/wiki/index.php?title=1985_Indiana_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="1985 Indiana State Tournament (page does not exist)">1985</a> </b></td>
+<td>Gavit Middle School
+</td>
+<td>11th
+</td>
+<td>Charleston Middle School
+</td>
+<td>19th
+</td>
+<td>
+</td>
+<td>Gavit High School
+</td>
+<td>22nd
+</td>
+<td>Seymour High School
+</td>
+<td>24th
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=1986_Indiana_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="1986 Indiana State Tournament (page does not exist)">1986</a> </b></td>
+<td>Gavit Middle School
+</td>
+<td>9th
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td>Gavit High School
+</td>
+<td>29th
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=1987_Indiana_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="1987 Indiana State Tournament (page does not exist)">1987</a> </b></td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>North Central High School
+</td>
+<td>24th
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=1988_Indiana_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="1988 Indiana State Tournament (page does not exist)">1988</a> </b></td>
+<td>Carmel Clay Middle School
+</td>
+<td>
+</td>
+<td>Thomas Jefferson Middle School
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>North Central High School
+</td>
+<td>17th
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=1989_Indiana_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="1989 Indiana State Tournament (page does not exist)">1989</a> </b></td>
+<td>Gavit Middle School
+</td>
+<td>25th
+</td>
+<td>Thomas Jefferson Middle School
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td>Gavit High School
+</td>
+<td>33rd
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=1990_Indiana_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="1990 Indiana State Tournament (page does not exist)">1990</a> </b></td>
+<td>Thomas Jefferson Middle School
+</td>
+<td>21st
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>Gavit High School
+</td>
+<td>24th
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=1991_Indiana_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="1991 Indiana State Tournament (page does not exist)">1991</a> </b></td>
+<td>Thomas Jefferson Middle School
+</td>
+<td>29th
+</td>
+<td>Clay Junior High School
+</td>
+<td>27th
+</td>
+<td>
+</td>
+<td>Gavit High School
+</td>
+<td>35th
+</td>
+<td>North Central High School
+</td>
+<td>16th
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=1992_Indiana_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="1992 Indiana State Tournament (page does not exist)">1992</a> </b></td>
+<td>Thomas Jefferson Middle School
+</td>
+<td>12th
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td>North Central High School
+</td>
+<td>22nd
+</td>
+<td>Gavit High School
+</td>
+<td>41st
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=1993_Indiana_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="1993 Indiana State Tournament (page does not exist)">1993</a> </b></td>
+<td>Thomas Jefferson Middle School
+</td>
+<td><b>1st</b>
+</td>
+<td>Clay Junior High School
+</td>
+<td>8th
+</td>
+<td>
+</td>
+<td>North Central High School
+</td>
+<td>15th
+</td>
+<td>The Indiana Academy
+</td>
+<td>43rd
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=1994_Indiana_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="1994 Indiana State Tournament (page does not exist)">1994</a> </b></td>
+<td>Clay Junior High School
+</td>
+<td>10th
+</td>
+<td>Thomas Jefferson Middle School
+</td>
+<td>8th
+</td>
+<td>
+</td>
+<td>North Central High School
+</td>
+<td>26th
+</td>
+<td>The Indiana Academy
+</td>
+<td>37th
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=1995_Indiana_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="1995 Indiana State Tournament (page does not exist)">1995</a> </b></td>
+<td>Thomas Jefferson Middle School
+</td>
+<td>5th
+</td>
+<td>Clay Junior High School
+</td>
+<td>3rd
+</td>
+<td>
+</td>
+<td>North Central High School
+</td>
+<td>10th
+</td>
+<td>Bloomington High School South
+</td>
+<td>15th
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=1996_Indiana_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="1996 Indiana State Tournament (page does not exist)">1996</a> </b></td>
+<td>Thomas Jefferson Middle School
+</td>
+<td>2nd
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td><a href="/wiki/index.php?title=North_Central_High_School&amp;action=edit&amp;redlink=1" class="new" title="North Central High School (page does not exist)">North Central High School</a>
+</td>
+<td>6th
+</td>
+<td>Carmel High School
+</td>
+<td>9th
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=1997_Indiana_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="1997 Indiana State Tournament (page does not exist)">1997</a> </b></td>
+<td>Thomas Jefferson Middle School
+</td>
+<td>8th
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td>Bloomington High School South
+</td>
+<td>7th
+</td>
+<td>Carmel High School
+</td>
+<td>11th
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=1998_Indiana_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="1998 Indiana State Tournament (page does not exist)">1998</a> </b></td>
+<td>Thomas Jefferson Middle School
+</td>
+<td>16th
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td>Bloomington High School South
+</td>
+<td>19th
+</td>
+<td>Carmel High School
+</td>
+<td>15th
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=1999_Indiana_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="1999 Indiana State Tournament (page does not exist)">1999</a> </b></td>
+<td>Thomas Jefferson Middle School
+</td>
+<td>4th
+</td>
+<td>Benjamin Franklin Middle School
+</td>
+<td>25th
+</td>
+<td>
+</td>
+<td>Bloomington High School South
+</td>
+<td>12th
+</td>
+<td>Valparaiso High School
+</td>
+<td>11th
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=2000_Indiana_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2000 Indiana State Tournament (page does not exist)">2000</a> </b></td>
+<td>Thomas Jefferson Middle School
+</td>
+<td>2nd
+</td>
+<td>Batchelor Middle School
+</td>
+<td>13th
+</td>
+<td>
+</td>
+<td>Bloomington High School South
+</td>
+<td>11th
+</td>
+<td>Carmel High School
+</td>
+<td>31st
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=2001_Indiana_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2001 Indiana State Tournament (page does not exist)">2001</a> </b></td>
+<td>Thomas Jefferson Middle School
+</td>
+<td>3rd
+</td>
+<td>Benjamin Franklin Middle School
+</td>
+<td>14th
+</td>
+<td>
+</td>
+<td>Bloomington High School North
+</td>
+<td>14th
+</td>
+<td>Bloomington High School South
+</td>
+<td>25th
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=2002_Indiana_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2002 Indiana State Tournament (page does not exist)">2002</a> </b></td>
+<td><a href="/wiki/index.php?title=Batchelor_Middle_School&amp;action=edit&amp;redlink=1" class="new" title="Batchelor Middle School (page does not exist)">Batchelor Middle School</a>
+</td>
+<td>18th
+</td>
+<td>Thomas Jefferson Middle School
+</td>
+<td>3rd
+</td>
+<td>
+</td>
+<td>Bloomington High School North  (72)
+</td>
+<td>13th
+</td>
+<td>Carmel High School (133)
+</td>
+<td>26th
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=2003_Indiana_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2003 Indiana State Tournament (page does not exist)">2003</a> </b></td>
+<td>Thomas Jefferson Middle School (118)
+</td>
+<td>2nd
+</td>
+<td>Benjamin Franklin Middle School (139)
+</td>
+<td>22nd
+</td>
+<td>
+</td>
+<td>Bloomington High School North (108)
+</td>
+<td>24th
+</td>
+<td>Carmel High School (150)
+</td>
+<td>26th
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=2004_Indiana_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2004 Indiana State Tournament (page does not exist)">2004</a> </b></td>
+<td>Thomas Jefferson Middle School (97)
+</td>
+<td>4th
+</td>
+<td><a href="/wiki/index.php/Benjamin_Franklin_Middle_School" title="Benjamin Franklin Middle School">Benjamin Franklin Middle School</a> (117)
+</td>
+<td>18th
+</td>
+<td>
+</td>
+<td>Bloomington High School North (151)
+</td>
+<td>23rd
+</td>
+<td>Carmel High School (159)
+</td>
+<td>15th
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=2005_Indiana_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2005 Indiana State Tournament (page does not exist)">2005</a> </b></td>
+<td>Thomas Jefferson Middle School (110)
+</td>
+<td>2nd
+</td>
+<td>The Stanley Clark School (145)
+</td>
+<td>14th
+</td>
+<td>
+</td>
+<td>Bloomington High School North (84)
+</td>
+<td>25th
+</td>
+<td>Bloomington High School South (135)
+</td>
+<td>36th
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=2006_Indiana_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2006 Indiana State Tournament (page does not exist)">2006</a> </b></td>
+<td>Thomas Jefferson Middle School (116)
+</td>
+<td>10th
+</td>
+<td>Wilbur Wright Middle School (154)
+</td>
+<td>20th
+</td>
+<td>
+</td>
+<td>Bloomington High School South (131)
+</td>
+<td>35th
+</td>
+<td>Northridge High School (133)
+</td>
+<td>28th
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=2007_Indiana_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2007 Indiana State Tournament (page does not exist)">2007</a> </b></td>
+<td>Thomas Jefferson Middle School (94)
+</td>
+<td>11th
+</td>
+<td>Wilbur Wright Middle School (124)
+</td>
+<td>22nd
+</td>
+<td>
+</td>
+<td>Bloomington High School North (130)
+</td>
+<td>15th
+</td>
+<td>Valparaiso High School (137)
+</td>
+<td>11th
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=2008_Indiana_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2008 Indiana State Tournament (page does not exist)">2008</a> </b></td>
+<td>The Stanley Clark School
+</td>
+<td>21st
+</td>
+<td>Thomas Jefferson Middle School
+</td>
+<td>15th
+</td>
+<td>
+</td>
+<td>Bloomington High School North (95)
+</td>
+<td>10th
+</td>
+<td><a href="/wiki/index.php/Valparaiso_High_School" title="Valparaiso High School">Valparaiso High School</a> (97)
+</td>
+<td>11th
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=2009_Indiana_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2009 Indiana State Tournament (page does not exist)">2009</a> </b></td>
+<td>Thomas Jefferson Middle School
+</td>
+<td>8th
+</td>
+<td>The Stanley Clark School
+</td>
+<td>23rd
+</td>
+<td>
+</td>
+<td>Bloomington High School North
+</td>
+<td>21st
+</td>
+<td>Bloomington High School South
+</td>
+<td>14th
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=2010_Indiana_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2010 Indiana State Tournament (page does not exist)">2010</a> </b></td>
+<td>Thomas Jefferson Middle School
+</td>
+<td>9th
+</td>
+<td>Wilbur Wright Middle School
+</td>
+<td>23rd
+</td>
+<td>
+</td>
+<td>Bloomington High School South (74)
+</td>
+<td>13th
+</td>
+<td>Bloomington High School North (86)
+</td>
+<td>16th
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=2011_Indiana_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2011 Indiana State Tournament (page does not exist)">2011</a> </b></td>
+<td>Thomas Jefferson Middle School (100)
+</td>
+<td>12th
+</td>
+<td>The Stanley Clark School (134)
+</td>
+<td>25th
+</td>
+<td>
+</td>
+<td><a href="/wiki/index.php/Northridge_High_School" title="Northridge High School">Northridge High School</a> (123)
+</td>
+<td>21st
+</td>
+<td>Bloomington High School South (144)
+</td>
+<td>13th
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=2012_Indiana_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2012 Indiana State Tournament (page does not exist)">2012</a> </b></td>
+<td>Thomas Jefferson Middle School (90)
+</td>
+<td>19th
+</td>
+<td>Wilbur Wright Middle School (104)
+</td>
+<td>24th
+</td>
+<td>
+</td>
+<td>Bloomington High School North (135)
+</td>
+<td>23rd
+</td>
+<td><a href="/wiki/index.php/Bloomington_High_School_South" title="Bloomington High School South">Bloomington High School South</a> (140)
+</td>
+<td>25th
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=2013_Indiana_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2013 Indiana State Tournament (page does not exist)">2013</a> </b></td>
+<td>Thomas Jefferson Middle School (85)
+</td>
+<td>19th
+</td>
+<td><a href="/wiki/index.php/The_Stanley_Clark_School" title="The Stanley Clark School">The Stanley Clark School</a>
+</td>
+<td>37th
+</td>
+<td>
+</td>
+<td>Munster High School (87)
+</td>
+<td>18th
+</td>
+<td><a href="/wiki/index.php/Bloomington_High_School_North" title="Bloomington High School North">Bloomington High School North</a> (166)
+</td>
+<td>27th
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=2014_Indiana_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2014 Indiana State Tournament (page does not exist)">2014</a> </b></td>
+<td>Thomas Jefferson Middle School (95)
+</td>
+<td>20th
+</td>
+<td><a href="/wiki/index.php/Wilbur_Wright_Middle_School" title="Wilbur Wright Middle School">Wilbur Wright Middle School</a> (107)
+</td>
+<td>42nd
+</td>
+<td>
+</td>
+<td>Munster High School (78)
+</td>
+<td>15th
+</td>
+<td><a href="/wiki/index.php/Whiting_High_School" title="Whiting High School">Whiting High School</a> (162)
+</td>
+<td>35th
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=2015_Indiana_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2015 Indiana State Tournament (page does not exist)">2015</a> </b></td>
+<td>Thomas Jefferson Middle School (82)
+</td>
+<td>21st
+</td>
+<td>Chesterton Middle School (178)
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td>Munster High School (61)
+</td>
+<td>6th
+</td>
+<td>Carmel High School (134)
+</td>
+<td>N/A
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=2016_Indiana_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2016 Indiana State Tournament (page does not exist)">2016</a> </b></td>
+<td><a href="/wiki/index.php/Thomas_Jefferson_Middle_School" title="Thomas Jefferson Middle School">Thomas Jefferson Middle School</a> (96)
+</td>
+<td>24th
+</td>
+<td><a href="/wiki/index.php/Chesterton_Middle_School" title="Chesterton Middle School">Chesterton Middle School</a> (164)
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td><a href="/wiki/index.php/Carmel_High_School" title="Carmel High School">Carmel High School</a> (116)
+</td>
+<td>18th
+</td>
+<td><a href="/wiki/index.php/Munster_High_School" title="Munster High School">Munster High School</a> (123)
+</td>
+<td>N/A
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=2017_Indiana_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2017 Indiana State Tournament (page does not exist)">2017</a> </b></td>
+<td><a href="/wiki/index.php/Thomas_Jefferson_Middle_School" title="Thomas Jefferson Middle School">Thomas Jefferson Middle School</a> (83)
+</td>
+<td>25th
+</td>
+<td><a href="/wiki/index.php/Raymond_Park_Middle_School" title="Raymond Park Middle School">Raymond Park Middle School</a> (185)
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td><a href="/wiki/index.php/Munster_High_School" title="Munster High School">Munster High School</a> (59)
+</td>
+<td>17th
+</td>
+<td><a href="/wiki/index.php/Bloomington_High_School_South" title="Bloomington High School South">Bloomington High School South</a> (139)
+</td>
+<td>N/A
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php/2018_Indiana_State_Tournament" title="2018 Indiana State Tournament">2018</a> </b></td>
+<td><a href="/wiki/index.php/Thomas_Jefferson_Middle_School" title="Thomas Jefferson Middle School">Thomas Jefferson Middle School</a> (87)
+</td>
+<td>17th
+</td>
+<td><a href="/wiki/index.php/Raymond_Park_Middle_School" title="Raymond Park Middle School">Raymond Park Middle School</a> (135)
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td><a href="/wiki/index.php/Carmel_High_School" title="Carmel High School">Carmel High School</a> (77)
+</td>
+<td>24th
+</td>
+<td><a href="/wiki/index.php/Lake_Central_High_School" title="Lake Central High School">Lake Central High School</a> (144)
+</td>
+<td>N/A
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php/2019_Indiana_State_Tournament" title="2019 Indiana State Tournament">2019</a> </b></td>
+<td><a href="/wiki/index.php/Thomas_Jefferson_Middle_School" title="Thomas Jefferson Middle School">Thomas Jefferson Middle School</a> (50)
+</td>
+<td>20th
+</td>
+<td><a href="/wiki/index.php/Raymond_Park_Middle_School" title="Raymond Park Middle School">Raymond Park Middle School</a> (66)
+</td>
+<td>28th
+</td>
+<td>
+</td>
+<td><a href="/wiki/index.php/Carmel_High_School" title="Carmel High School">Carmel High School</a> (108)
+</td>
+<td>23rd
+</td>
+<td><a href="/wiki/index.php/Munster_High_School" title="Munster High School">Munster High School</a> (110)
+</td>
+<td>N/A
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php/2020_Indiana_State_Tournament" title="2020 Indiana State Tournament">2020</a> </b></td>
+<td colspan="10"><i>Cancelled due to the <a href="/wiki/index.php/2019-20_Coronavirus_outbreak" title="2019-20 Coronavirus outbreak">2019-20 Coronavirus outbreak</a></i>
+</td></tr>
+
+
+
+
+
+</tbody></table>
+<dl><dd></dd>
+<dd></dd>
+<dd></dd>
+<dd></dd>
+<dd></dd>
+<dd></dd>
+<dd></dd>
+<dd></dd>
+<dd></dd>
+<dd></dd></dl>
+<p><br />
+</p><p>Note: Starting in 2015, Indiana is no longer sending two teams per division to nationals. This was due to WV's revival of their Science Olympiad program and Indiana's stagnation in number of teams participating relative to the other states that year and in those that followed. In 2019, Indiana sent two division B teams to Nationals.
+</p>
+<h2><span class="mw-headline" id="Competitions">Competitions</span></h2>
+<h3><span class="mw-headline" id="Invitationals_for_the_2020_Season"><a href="/wiki/index.php/Invitationals" class="mw-redirect" title="Invitationals">Invitationals</a> for the 2020 Season</span></h3>
+<dl><dd><a href="/wiki/index.php/Hammond_Invitational" title="Hammond Invitational">Hammond Invitational</a> (B) - Dec. 14, 2019</dd>
+<dd><a href="/wiki/index.php/Manchester_Invitational" title="Manchester Invitational">Manchester Invitational</a> (B/C) - <a rel="nofollow" class="external autonumber" href="https://www.manchester.edu/academics/colleges/college-of-pharmacy-natural-health-sciences/science-olympiad-invitational">[1]</a> - Jan. 11, 2020</dd>
+<dd><a href="/wiki/index.php/Northridge_Invitational" title="Northridge Invitational">Northridge Invitational</a> (B/C) - <a rel="nofollow" class="external autonumber" href="https://sites.google.com/a/mcsin-k12.org/northridgesoinvitational/">[2]</a> - Jan. 18, 2020</dd>
+<dd><a href="/wiki/index.php/Raymond_Park_Invitational" title="Raymond Park Invitational">Raymond Park Invitational</a> (B/C) - <a rel="nofollow" class="external autonumber" href="https://sites.google.com/warren.k12.in.us/rpms-invitational/home">[3]</a> - Dec. 14, 2019</dd>
+<dd><a href="/wiki/index.php/Valparaiso_Invitational" title="Valparaiso Invitational">Valparaiso Invitational</a> (B) - <a rel="nofollow" class="external autonumber" href="http://valposcioly.com/">[4]</a> - January 11th, 2020</dd>
+<dd><a href="/wiki/index.php/Whiting_Invitational" title="Whiting Invitational">Whiting Invitational</a> (C) - Dec. 7, 2019</dd></dl>
+<h3><span class="mw-headline" id="Defunct_Invitationals">Defunct Invitationals</span></h3>
+<dl><dd><a href="/wiki/index.php/Lake_Central_Invitational" title="Lake Central Invitational">Lake Central Invitational</a> (C) - <a rel="nofollow" class="external autonumber" href="https://web.archive.org/web/20190824195007/http://www.lcsoinvite.com/">[5]</a> - Jan. 26, 2019</dd></dl>
+<h3><span class="mw-headline" id="Regional_Competitions_for_the_2020_Season">Regional Competitions for the 2020 Season</span></h3>
+<dl><dd><a href="/wiki/index.php/Butler_University_Regional" title="Butler University Regional">Butler University Regional</a> - <a rel="nofollow" class="external autonumber" href="http://www.butler.edu/science-olympiad">[6]</a> - Feb. 29, 2020</dd>
+<dd><a href="/wiki/index.php/Goshen_College_Regional" title="Goshen College Regional">Goshen College Regional</a> - <a rel="nofollow" class="external autonumber" href="https://www.goshen.edu/academics/science-olympiad/">[7]</a> - Feb. 8, 2020</dd>
+<dd><a href="/wiki/index.php/Indiana_University_Northwest_Regional" title="Indiana University Northwest Regional">Indiana University Northwest Regional</a> - <a rel="nofollow" class="external autonumber" href="http://www.iun.edu/%7eolympiad/">[8]</a> - Feb. 15, 2020</dd>
+<dd><a href="/wiki/index.php/Ivy_Tech_Bloomington_Regional" title="Ivy Tech Bloomington Regional">Ivy Tech Bloomington Regional</a> - <a rel="nofollow" class="external autonumber" href="http://faculty.ivytech.edu/~scote/ScienceOlympiadHome.html">[9]</a> - Feb. 1, 2020</dd>
+<dd><a href="/wiki/index.php/Ivy_Tech_Lafayette_Regional" title="Ivy Tech Lafayette Regional">Ivy Tech Lafayette Regional</a> - <a rel="nofollow" class="external autonumber" href="https://sites.google.com/site/ivytechlafso/">[10]</a> - Feb. 29, 2020</dd>
+<dd><a href="/wiki/index.php/Ivy_Tech_Terre_Haute_Regional" title="Ivy Tech Terre Haute Regional">Ivy Tech Terre Haute Regional</a> - <a rel="nofollow" class="external autonumber" href="https://www.ivytech.edu/terrehaute/30051.html">[11]</a> - Feb. 8, 2020</dd>
+<dd><a href="/wiki/index.php/Purdue_University_Northwest_Regional" title="Purdue University Northwest Regional">Purdue University Northwest Regional</a> - <a rel="nofollow" class="external autonumber" href="http://webs.purduecal.edu/scienceolympiad/">[12]</a> - Feb. 8, 2020</dd></dl>
+<h3><span class="mw-headline" id="Defunct_Regional_Competitions">Defunct Regional Competitions</span></h3>
+<dl><dd><a href="/wiki/index.php/IPFW_Regional" title="IPFW Regional">IPFW Regional</a> - <a rel="nofollow" class="external autonumber" href="https://www.pfw.edu/departments/coas/scienceolympiad/">[13]</a> - Feb. 1, 2014</dd>
+<dd><a href="/wiki/index.php/Vincennes_University_Regional" title="Vincennes University Regional">Vincennes University Regional</a> - <a rel="nofollow" class="external autonumber" href="https://web.archive.org/web/20160519142616/http://olympiad.vinu.edu/">[14]</a> - Feb. 13, 2016</dd>
+<dd><a href="/wiki/index.php/St._Joseph%27s_College_Regional" title="St. Joseph&#39;s College Regional">St. Joseph's College Regional</a> - <a rel="nofollow" class="external autonumber" href="https://web.archive.org/web/20170415142813/http://www.saintjoe.edu/science-olympiad">[15]</a> - Feb. 25, 2017</dd></dl>
+<h3><span class="mw-headline" id="State_Competition">State Competition</span></h3>
+<dl><dd>2006 location: Purdue (Main Campus/West Lafayette)</dd>
+<dd>2007, 2011 location: Purdue Calumet</dd>
+<dd>1992, 1999, 2009 location: IUPUI</dd>
+<dd>1997-1998, 2000-2005, 2008, 2010, 2012 - 2019 location: IU</dd>
+<dd>2020 location: <s><a rel="nofollow" class="external text" href="https://purduescioly.org/">Purdue University WL, March 21, 2020</a></s> <i>Cancelled due to the <a href="/wiki/index.php/2019-20_Coronavirus_outbreak" title="2019-20 Coronavirus outbreak">2019-20 Coronavirus outbreak</a>.</i></dd></dl>
+<h3><span class="mw-headline" id="State_Tournament_Results">State Tournament Results</span></h3>
+<h4><span class="mw-headline" id="Division_B">Division B</span></h4>
+<dl><dd><a href="/wiki/images/d/d4/2003_IN_B_Results.pdf" class="internal" title="2003 IN B Results.pdf">2003</a></dd>
+<dd><a href="/wiki/images/d/da/2004_IN_B_Results.pdf" class="internal" title="2004 IN B Results.pdf">2004</a></dd>
+<dd><a href="/wiki/images/c/c9/2005_IN_B_Results.pdf" class="internal" title="2005 IN B Results.pdf">2005</a></dd>
+<dd><a href="/wiki/images/d/d0/2006_IN_B_Results.pdf" class="internal" title="2006 IN B Results.pdf">2006</a></dd>
+<dd><a href="/wiki/images/a/a1/2007_IN_B_Results.pdf" class="internal" title="2007 IN B Results.pdf">2007</a></dd>
+<dd><a href="/wiki/images/6/69/2008_IN_B_Results.pdf" class="internal" title="2008 IN B Results.pdf">2008</a></dd>
+<dd><a href="/wiki/images/1/1c/2009_IN_B_Results.pdf" class="internal" title="2009 IN B Results.pdf">2009</a></dd>
+<dd><a href="/wiki/images/0/0b/2010_IN_B_Results.pdf" class="internal" title="2010 IN B Results.pdf">2010</a></dd>
+<dd><a href="/wiki/images/d/d4/2012_IN_B_Results.pdf" class="internal" title="2012 IN B Results.pdf">2012</a></dd>
+<dd><a href="/wiki/images/a/a1/2013_IN_B_Results.pdf" class="internal" title="2013 IN B Results.pdf">2013</a></dd>
+<dd><a href="/wiki/images/1/1b/2014_IN_B_Results.pdf" class="internal" title="2014 IN B Results.pdf">2014</a></dd>
+<dd><a href="/wiki/images/8/89/2015_IN_B_Results.pdf" class="internal" title="2015 IN B Results.pdf">2015</a></dd>
+<dd><a href="/wiki/images/c/ce/2016_IN_B_Results.pdf" class="internal" title="2016 IN B Results.pdf">2016</a></dd>
+<dd><a href="/wiki/images/f/f5/2017_IN_B_Results.pdf" class="internal" title="2017 IN B Results.pdf">2017</a></dd>
+<dd><a href="/wiki/images/3/37/2018_IN_B_Results.pdf" class="internal" title="2018 IN B Results.pdf">2018</a></dd>
+<dd><a href="/wiki/images/0/0f/2019_IN_B_Results.pdf" class="internal" title="2019 IN B Results.pdf">2019</a></dd></dl>
+<h4><span class="mw-headline" id="Division_C">Division C</span></h4>
+<dl><dd><a href="/wiki/images/5/5e/2003_IN_C_Results.pdf" class="internal" title="2003 IN C Results.pdf">2003</a></dd>
+<dd><a href="/wiki/images/2/25/2004_IN_C_Results.pdf" class="internal" title="2004 IN C Results.pdf">2004</a></dd>
+<dd><a href="/wiki/images/9/9d/2005_IN_C_Results.pdf" class="internal" title="2005 IN C Results.pdf">2005</a></dd>
+<dd><a href="/wiki/images/b/b8/2006_IN_C_Results.pdf" class="internal" title="2006 IN C Results.pdf">2006</a></dd>
+<dd><a href="/wiki/images/5/5d/2007_IN_C_Results.pdf" class="internal" title="2007 IN C Results.pdf">2007</a></dd>
+<dd><a href="/wiki/images/0/0b/2008_IN_C_Results.pdf" class="internal" title="2008 IN C Results.pdf">2008</a></dd>
+<dd><a href="/wiki/images/a/aa/2009_IN_C_Results.pdf" class="internal" title="2009 IN C Results.pdf">2009</a></dd>
+<dd><a href="/wiki/images/b/b3/2010_IN_C_Results.pdf" class="internal" title="2010 IN C Results.pdf">2010</a></dd>
+<dd><a href="/wiki/images/6/69/2011_IN_C_Results.pdf" class="internal" title="2011 IN C Results.pdf">2011</a></dd>
+<dd><a href="/wiki/images/6/62/2012_IN_C_Results.pdf" class="internal" title="2012 IN C Results.pdf">2012</a></dd>
+<dd><a href="/wiki/images/f/fb/2013_IN_C_Results.pdf" class="internal" title="2013 IN C Results.pdf">2013</a></dd>
+<dd><a href="/wiki/images/e/e3/2014_IN_C_Results.pdf" class="internal" title="2014 IN C Results.pdf">2014</a></dd>
+<dd><a href="/wiki/images/d/dc/2015_IN_C_Results.pdf" class="internal" title="2015 IN C Results.pdf">2015</a></dd>
+<dd><a href="/wiki/images/7/77/2016_IN_C_Results.pdf" class="internal" title="2016 IN C Results.pdf">2016</a></dd>
+<dd><a href="/wiki/images/e/e9/2017_IN_C_Results.pdf" class="internal" title="2017 IN C Results.pdf">2017</a></dd>
+<dd><a href="/wiki/images/b/b8/2018_IN_C_Results.pdf" class="internal" title="2018 IN C Results.pdf">2018</a></dd>
+<dd><a href="/wiki/images/7/73/2019_IN_C_Results.pdf" class="internal" title="2019 IN C Results.pdf">2019</a></dd></dl>
+<h2><span class="mw-headline" id="Teams">Teams</span></h2>
+<h3><span class="mw-headline" id="Division_B_2">Division B</span></h3>
+<h4><span class="mw-headline" id="Butler">Butler</span></h4>
+<p>7 teams advanced to the state tournament in 2019-20.
+</p>
+<dl><dd><a href="/wiki/index.php?title=Eastwood_Middle_School&amp;action=edit&amp;redlink=1" class="new" title="Eastwood Middle School (page does not exist)">Eastwood Middle School</a></dd>
+<dd><a href="/wiki/index.php?title=Hauser_Junior_High_School&amp;action=edit&amp;redlink=1" class="new" title="Hauser Junior High School (page does not exist)">Hauser Junior High School</a></dd>
+<dd><a href="/wiki/index.php?title=Madison_Junior_High_School&amp;action=edit&amp;redlink=1" class="new" title="Madison Junior High School (page does not exist)">Madison Junior High School</a></dd>
+<dd><a href="/wiki/index.php?title=Park_Tudor_School&amp;action=edit&amp;redlink=1" class="new" title="Park Tudor School (page does not exist)">Park Tudor School</a></dd>
+<dd><a href="/wiki/index.php/Raymond_Park_Middle_School" title="Raymond Park Middle School">Raymond Park Middle School</a></dd>
+<dd><a href="/wiki/index.php?title=Saint_Simon_the_Apostle_Catholic_School&amp;action=edit&amp;redlink=1" class="new" title="Saint Simon the Apostle Catholic School (page does not exist)">Saint Simon the Apostle Catholic School</a></dd>
+<dd><a href="/wiki/index.php?title=Saint_Vincent_de_Paul_Catholic_School&amp;action=edit&amp;redlink=1" class="new" title="Saint Vincent de Paul Catholic School (page does not exist)">Saint Vincent de Paul Catholic School</a></dd>
+<dd><a href="/wiki/index.php?title=Scottsburg_Middle_School&amp;action=edit&amp;redlink=1" class="new" title="Scottsburg Middle School (page does not exist)">Scottsburg Middle School</a></dd>
+<dd><a href="/wiki/index.php/Southport_Middle_School" title="Southport Middle School">Southport Middle School</a></dd>
+<dd><a href="/wiki/index.php/Tri-North_Middle_School" title="Tri-North Middle School">Tri-North Middle School</a></dd>
+<dd><a href="/wiki/index.php?title=Westlane_Middle_School&amp;action=edit&amp;redlink=1" class="new" title="Westlane Middle School (page does not exist)">Westlane Middle School</a></dd></dl>
+<h4><span class="mw-headline" id="Goshen">Goshen</span></h4>
+<p>4 teams advanced to the state tournament in 2019-20.
+</p>
+<dl><dd><a href="/wiki/index.php?title=Bethany_Christian_Middle_School&amp;action=edit&amp;redlink=1" class="new" title="Bethany Christian Middle School (page does not exist)">Bethany Christian Middle School</a></dd>
+<dd><a href="/wiki/index.php?title=Goshen_Middle_School&amp;action=edit&amp;redlink=1" class="new" title="Goshen Middle School (page does not exist)">Goshen Middle School</a></dd>
+<dd><a href="/wiki/index.php?title=LaSalle_Intermediate_Academy&amp;action=edit&amp;redlink=1" class="new" title="LaSalle Intermediate Academy (page does not exist)">LaSalle Intermediate Academy</a></dd>
+<dd><a href="/wiki/index.php?title=Manchester_Junior_High_School&amp;action=edit&amp;redlink=1" class="new" title="Manchester Junior High School (page does not exist)">Manchester Junior High School</a></dd>
+<dd><a href="/wiki/index.php?title=Northridge_Middle_School_(Indiana)&amp;action=edit&amp;redlink=1" class="new" title="Northridge Middle School (Indiana) (page does not exist)">Northridge Middle School</a></dd>
+<dd><a href="/wiki/index.php?title=Northview_Middle_School&amp;action=edit&amp;redlink=1" class="new" title="Northview Middle School (page does not exist)">Northview Middle School</a></dd>
+<dd><a href="/wiki/index.php/The_Stanley_Clark_School" title="The Stanley Clark School">The Stanley Clark School</a></dd></dl>
+<h4><span class="mw-headline" id="Indiana_University_Northwest">Indiana University Northwest</span></h4>
+<p>6 teams advanced to the state tournament in 2019-20.
+</p>
+<dl><dd><a href="/wiki/index.php/Chesterton_Middle_School" title="Chesterton Middle School">Chesterton Middle School</a></dd>
+<dd><a href="/wiki/index.php?title=Griffith_Middle_School&amp;action=edit&amp;redlink=1" class="new" title="Griffith Middle School (page does not exist)">Griffith Middle School</a></dd>
+<dd><a href="/wiki/index.php/Grimmer_Middle_School" title="Grimmer Middle School">Grimmer Middle School</a></dd>
+<dd><a href="/wiki/index.php?title=Kahler_Middle_School&amp;action=edit&amp;redlink=1" class="new" title="Kahler Middle School (page does not exist)">Kahler Middle School</a></dd>
+<dd><a href="/wiki/index.php/Kankakee_Valley_Middle_School" title="Kankakee Valley Middle School">Kankakee Valley Middle School</a></dd>
+<dd><a href="/wiki/index.php?title=Lowell_Middle_School&amp;action=edit&amp;redlink=1" class="new" title="Lowell Middle School (page does not exist)">Lowell Middle School</a></dd>
+<dd><a href="/wiki/index.php?title=Our_Lady_of_Grace_School&amp;action=edit&amp;redlink=1" class="new" title="Our Lady of Grace School (page does not exist)">Our Lady of Grace School</a></dd>
+<dd><a href="/wiki/index.php?title=St._Patrick_Catholic_School_(Indiana)&amp;action=edit&amp;redlink=1" class="new" title="St. Patrick Catholic School (Indiana) (page does not exist)">St. Patrick Catholic School</a></dd>
+<dd><a href="/wiki/index.php?title=Scott_Middle_School&amp;action=edit&amp;redlink=1" class="new" title="Scott Middle School (page does not exist)">Scott Middle School</a></dd>
+<dd><a href="/wiki/index.php/Taft_Middle_School" title="Taft Middle School">Taft Middle School</a></dd>
+<dd><a href="/wiki/index.php/Thomas_Jefferson_Middle_School" title="Thomas Jefferson Middle School">Thomas Jefferson Middle School</a></dd></dl>
+<h4><span class="mw-headline" id="Ivy_Tech_Bloomington">Ivy Tech Bloomington</span></h4>
+<dl><dd><a href="/wiki/index.php?title=Batchelor_Middle_School&amp;action=edit&amp;redlink=1" class="new" title="Batchelor Middle School (page does not exist)">Batchelor Middle School</a></dd>
+<dd><a href="/wiki/index.php?title=Brown_County_Intermediate_School&amp;action=edit&amp;redlink=1" class="new" title="Brown County Intermediate School (page does not exist)">Brown County Intermediate School</a></dd>
+<dd><a href="/wiki/index.php?title=Brown_County_Junior_High_School&amp;action=edit&amp;redlink=1" class="new" title="Brown County Junior High School (page does not exist)">Brown County Junior High School</a></dd>
+<dd><a href="/wiki/index.php/Jackson_Creek_Middle_School" title="Jackson Creek Middle School">Jackson Creek Middle School</a></dd>
+<dd><a href="/wiki/index.php?title=North_Harrison_Middle_School&amp;action=edit&amp;redlink=1" class="new" title="North Harrison Middle School (page does not exist)">North Harrison Middle School</a></dd></dl>
+<h4><span class="mw-headline" id="Ivy_Tech_Terre_Haute">Ivy Tech Terre Haute</span></h4>
+<dl><dd><a href="/wiki/index.php?title=Carlisle_Middle_School&amp;action=edit&amp;redlink=1" class="new" title="Carlisle Middle School (page does not exist)">Carlisle Middle School</a></dd>
+<dd><a href="/wiki/index.php?title=Central_Middle_School_(Indiana)&amp;action=edit&amp;redlink=1" class="new" title="Central Middle School (Indiana) (page does not exist)">Central Middle School</a></dd>
+<dd><a href="/wiki/index.php?title=St._Pope_John_Paul_II_Middle_School&amp;action=edit&amp;redlink=1" class="new" title="St. Pope John Paul II Middle School (page does not exist)">St. Pope John Paul II Middle School</a></dd>
+<dd><a href="/wiki/index.php?title=Sullivan_Middle_School&amp;action=edit&amp;redlink=1" class="new" title="Sullivan Middle School (page does not exist)">Sullivan Middle School</a></dd></dl>
+<h4><span class="mw-headline" id="Purdue_University_Northwest">Purdue University Northwest</span></h4>
+<dl><dd><a href="/wiki/index.php/Benjamin_Franklin_Middle_School" title="Benjamin Franklin Middle School">Benjamin Franklin Middle School</a></dd>
+<dd><a href="/wiki/index.php?title=Colonel_John_Wheeler_Middle_School&amp;action=edit&amp;redlink=1" class="new" title="Colonel John Wheeler Middle School (page does not exist)">Colonel John Wheeler Middle School</a></dd>
+<dd><a href="/wiki/index.php?title=Discovery_Charter_School&amp;action=edit&amp;redlink=1" class="new" title="Discovery Charter School (page does not exist)">Discovery Charter School</a></dd>
+<dd><a href="/wiki/index.php?title=Eggers_Middle_School&amp;action=edit&amp;redlink=1" class="new" title="Eggers Middle School (page does not exist)">Eggers Middle School</a></dd>
+<dd><a href="/wiki/index.php?title=Forest_Ridge_Academy&amp;action=edit&amp;redlink=1" class="new" title="Forest Ridge Academy (page does not exist)">Forest Ridge Academy</a></dd>
+<dd><a href="/wiki/index.php?title=Hanover_Central_Middle_School&amp;action=edit&amp;redlink=1" class="new" title="Hanover Central Middle School (page does not exist)">Hanover Central Middle School</a></dd>
+<dd><a href="/wiki/index.php?title=Hebron_Middle_School&amp;action=edit&amp;redlink=1" class="new" title="Hebron Middle School (page does not exist)">Hebron Middle School</a></dd>
+<dd><a href="/wiki/index.php?title=St._Mary_Catholic_Community_School&amp;action=edit&amp;redlink=1" class="new" title="St. Mary Catholic Community School (page does not exist)">St. Mary Catholic Community School</a></dd>
+<dd><a href="/wiki/index.php?title=St._Thomas_More_School&amp;action=edit&amp;redlink=1" class="new" title="St. Thomas More School (page does not exist)">St. Thomas More School</a></dd>
+<dd><a href="/wiki/index.php?title=Westville_Middle_School&amp;action=edit&amp;redlink=1" class="new" title="Westville Middle School (page does not exist)">Westville Middle School</a></dd>
+<dd><a href="/wiki/index.php/Wilbur_Wright_Middle_School" title="Wilbur Wright Middle School">Wilbur Wright Middle School</a></dd></dl>
+<h4><span class="mw-headline" id="Purdue_West_Lafayette">Purdue West Lafayette</span></h4>
+<dl><dd><a href="/wiki/index.php?title=Central_Middle_School_(Indiana)&amp;action=edit&amp;redlink=1" class="new" title="Central Middle School (Indiana) (page does not exist)">Central Middle School</a></dd>
+<dd><a href="/wiki/index.php?title=Indiana_Math_and_Science_Academy&amp;action=edit&amp;redlink=1" class="new" title="Indiana Math and Science Academy (page does not exist)">Indiana Math and Science Academy</a></dd>
+<dd><a href="/wiki/index.php?title=New_Community_School&amp;action=edit&amp;redlink=1" class="new" title="New Community School (page does not exist)">New Community School</a></dd>
+<dd><a href="/wiki/index.php?title=R.J._Baskett_Middle_School&amp;action=edit&amp;redlink=1" class="new" title="R.J. Baskett Middle School (page does not exist)">R.J. Baskett Middle School</a></dd>
+<dd><a href="/wiki/index.php?title=Wainwright_Middle_School&amp;action=edit&amp;redlink=1" class="new" title="Wainwright Middle School (page does not exist)">Wainwright Middle School</a></dd>
+<dd><a href="/wiki/index.php?title=West_Lafayette_Junior_High_School&amp;action=edit&amp;redlink=1" class="new" title="West Lafayette Junior High School (page does not exist)">West Lafayette Junior High School</a></dd>
+<dd><a href="/wiki/index.php/Taft_Middle_School" title="Taft Middle School">Taft Middle School</a></dd>
+<dd><a href="/wiki/index.php?title=Winamac_Middle_School&amp;action=edit&amp;redlink=1" class="new" title="Winamac Middle School (page does not exist)">Winamac Middle School</a></dd></dl>
+<h4><span id="St._Joseph's"></span><span class="mw-headline" id="St._Joseph.27s">St. Joseph's</span></h4>
+<p>(Doesn't host anymore, please update if you know where a specific team goes)
+</p>
+<dl><dd><a href="/wiki/index.php?title=North_Judson/San_Pierre_Junior_High_School&amp;action=edit&amp;redlink=1" class="new" title="North Judson/San Pierre Junior High School (page does not exist)">North Judson/San Pierre Junior High School</a></dd>
+<dd><a href="/wiki/index.php?title=Rensselaer_Middle_School&amp;action=edit&amp;redlink=1" class="new" title="Rensselaer Middle School (page does not exist)">Rensselaer Middle School</a></dd>
+<dd><a href="/wiki/index.php?title=Saint_Mary_Catholic_Community_School&amp;action=edit&amp;redlink=1" class="new" title="Saint Mary Catholic Community School (page does not exist)">Saint Mary Catholic Community School</a></dd>
+<dd><a href="/wiki/index.php?title=Saint_Paul_Catholic_School&amp;action=edit&amp;redlink=1" class="new" title="Saint Paul Catholic School (page does not exist)">Saint Paul Catholic School</a></dd>
+<dd><a href="/wiki/index.php?title=South_Newton_Junior_High_School&amp;action=edit&amp;redlink=1" class="new" title="South Newton Junior High School (page does not exist)">South Newton Junior High School</a></dd>
+<dd><a href="/wiki/index.php?title=Tri-County_Middle_School&amp;action=edit&amp;redlink=1" class="new" title="Tri-County Middle School (page does not exist)">Tri-County Middle School</a></dd></dl>
+<h4><span class="mw-headline" id="Past_teams">Past teams</span></h4>
+<p>Past teams are grouped by region.
+</p><p><i>Butler</i>
+</p>
+<dl><dd><a href="/wiki/index.php?title=Center_Grove_Middle_School&amp;action=edit&amp;redlink=1" class="new" title="Center Grove Middle School (page does not exist)">Center Grove Middle School</a></dd>
+<dd><a href="/wiki/index.php?title=Lynhurst_7th_%26_8th_Grade_Center&amp;action=edit&amp;redlink=1" class="new" title="Lynhurst 7th &amp; 8th Grade Center (page does not exist)">Lynhurst 7th &amp; 8th Grade Center</a></dd>
+<dd><a href="/wiki/index.php?title=Sycamore_Middle_School&amp;action=edit&amp;redlink=1" class="new" title="Sycamore Middle School (page does not exist)">Sycamore Middle School</a></dd>
+<dd><a href="/wiki/index.php?title=Traders_Point_Christian_Academy_Middle_School&amp;action=edit&amp;redlink=1" class="new" title="Traders Point Christian Academy Middle School (page does not exist)">Traders Point Christian Academy Middle School</a></dd>
+<dd><a href="/wiki/index.php?title=West_Side_Junior_High_School&amp;action=edit&amp;redlink=1" class="new" title="West Side Junior High School (page does not exist)">West Side Junior High School</a></dd></dl>
+<p><i>Indiana University Southeast</i> (defunct)
+</p>
+<dl><dd><a href="/wiki/index.php?title=Burris_Laboratory_School&amp;action=edit&amp;redlink=1" class="new" title="Burris Laboratory School (page does not exist)">Burris Laboratory School</a></dd>
+<dd><a href="/wiki/index.php?title=Highland_Hills_Middle_School&amp;action=edit&amp;redlink=1" class="new" title="Highland Hills Middle School (page does not exist)">Highland Hills Middle School</a></dd>
+<dd><a href="/wiki/index.php?title=International_School_of_Columbus&amp;action=edit&amp;redlink=1" class="new" title="International School of Columbus (page does not exist)">International School of Columbus</a></dd>
+<dd><a href="/wiki/index.php?title=Mitchell_Junior_High_School&amp;action=edit&amp;redlink=1" class="new" title="Mitchell Junior High School (page does not exist)">Mitchell Junior High School</a></dd></dl>
+<p><i>Purdue University Northwest</i>
+</p>
+<dl><dd><a href="/wiki/index.php?title=Donald_E._Gavit_Middle_School&amp;action=edit&amp;redlink=1" class="new" title="Donald E. Gavit Middle School (page does not exist)">Donald E. Gavit Middle School</a></dd>
+<dd><a href="/wiki/index.php?title=Whiting_Middle_School&amp;action=edit&amp;redlink=1" class="new" title="Whiting Middle School (page does not exist)">Whiting Middle School</a></dd></dl>
+<h3><span class="mw-headline" id="Division_C_2">Division C</span></h3>
+<h4><span class="mw-headline" id="Butler_University_Regional"><a rel="nofollow" class="external text" href="https://www.butler.edu/science-olympiad">Butler University Regional</a></span></h4>
+<p>5 teams advanced to the state tournament in 2019-20.
+</p>
+<dl><dd><a href="/wiki/index.php/Avon_High_School" title="Avon High School">Avon High School</a></dd>
+<dd><a href="/wiki/index.php/Bloomington_High_School_North" title="Bloomington High School North">Bloomington High School North</a></dd>
+<dd><a href="/wiki/index.php/Bloomington_High_School_South" title="Bloomington High School South">Bloomington High School South</a></dd>
+<dd><a href="/wiki/index.php/Carmel_High_School" title="Carmel High School">Carmel High School</a></dd>
+<dd><a href="/wiki/index.php?title=Hauser_Senior_High_School&amp;action=edit&amp;redlink=1" class="new" title="Hauser Senior High School (page does not exist)">Hauser Senior High School</a></dd>
+<dd><a href="/wiki/index.php?title=Mississinewa_High_School&amp;action=edit&amp;redlink=1" class="new" title="Mississinewa High School (page does not exist)">Mississinewa High School</a></dd>
+<dd><a href="/wiki/index.php?title=Mt._Vernon_High_School&amp;action=edit&amp;redlink=1" class="new" title="Mt. Vernon High School (page does not exist)">Mt. Vernon High School</a></dd>
+<dd><a href="/wiki/index.php?title=North_Central_High_School&amp;action=edit&amp;redlink=1" class="new" title="North Central High School (page does not exist)">North Central High School</a></dd>
+<dd><a href="/wiki/index.php?title=Park_Tudor_School&amp;action=edit&amp;redlink=1" class="new" title="Park Tudor School (page does not exist)">Park Tudor School</a></dd>
+<dd><a href="/wiki/index.php?title=Union_City_Jr./Sr._High_School&amp;action=edit&amp;redlink=1" class="new" title="Union City Jr./Sr. High School (page does not exist)">Union City Jr./Sr. High School</a></dd>
+<dd><a href="/wiki/index.php?title=Union_County_High_School&amp;action=edit&amp;redlink=1" class="new" title="Union County High School (page does not exist)">Union County High School</a></dd>
+<dd><a href="/wiki/index.php?title=Indiana_Math_and_Science_Academy_North&amp;action=edit&amp;redlink=1" class="new" title="Indiana Math and Science Academy North (page does not exist)">Indiana Math and Science Academy North</a></dd></dl>
+<h4><span class="mw-headline" id="Goshen_College_Regional"><a rel="nofollow" class="external text" href="https://www.goshen.edu/academics/science-olympiad/">Goshen College Regional</a></span></h4>
+<p>4 teams advanced to the state tournament in 2019-20.
+</p>
+<dl><dd><a href="/wiki/index.php?title=Bethany_Christian_High_School&amp;action=edit&amp;redlink=1" class="new" title="Bethany Christian High School (page does not exist)">Bethany Christian High School</a></dd>
+<dd><a href="/wiki/index.php?title=Columbia_City_High_School&amp;action=edit&amp;redlink=1" class="new" title="Columbia City High School (page does not exist)">Columbia City High School</a></dd>
+<dd><a href="/wiki/index.php?title=John_Adams_High_School&amp;action=edit&amp;redlink=1" class="new" title="John Adams High School (page does not exist)">John Adams High School</a></dd>
+<dd><a href="/wiki/index.php/Lake_Central_High_School" title="Lake Central High School">Lake Central High School</a></dd>
+<dd><a href="/wiki/index.php?title=LaLumiere_High_School&amp;action=edit&amp;redlink=1" class="new" title="LaLumiere High School (page does not exist)">LaLumiere High School</a></dd>
+<dd><a href="/wiki/index.php?title=Manchester_High_School&amp;action=edit&amp;redlink=1" class="new" title="Manchester High School (page does not exist)">Manchester High School</a></dd>
+<dd><a href="/wiki/index.php?title=Mishawaka_High_School&amp;action=edit&amp;redlink=1" class="new" title="Mishawaka High School (page does not exist)">Mishawaka High School</a></dd>
+<dd><a href="/wiki/index.php/Northridge_High_School_(Indiana)" title="Northridge High School (Indiana)">Northridge High School</a></dd>
+<dd><a href="/wiki/index.php?title=Penn_High_School&amp;action=edit&amp;redlink=1" class="new" title="Penn High School (page does not exist)">Penn High School</a></dd></dl>
+<h4><span class="mw-headline" id="IU_Northwest_Regional"><a rel="nofollow" class="external text" href="http://www.iun.edu/science-olympiad/">IU Northwest Regional</a></span></h4>
+<p>5 teams advanced to the state tournament in 2019-20.
+</p>
+<dl><dd><a href="/wiki/index.php?title=Chesterton_High_School&amp;action=edit&amp;redlink=1" class="new" title="Chesterton High School (page does not exist)">Chesterton High School</a></dd>
+<dd><a href="/wiki/index.php/Crown_Point_High_School" title="Crown Point High School">Crown Point High School</a></dd>
+<dd><a href="/wiki/index.php?title=East_Noble_High_School&amp;action=edit&amp;redlink=1" class="new" title="East Noble High School (page does not exist)">East Noble High School</a></dd>
+<dd><a href="/wiki/index.php/Highland_High_School" title="Highland High School">Highland High School</a></dd>
+<dd><a href="/wiki/index.php?title=Lowell_High_School&amp;action=edit&amp;redlink=1" class="new" title="Lowell High School (page does not exist)">Lowell High School</a></dd>
+<dd><a href="/wiki/index.php?title=Marian_High_School&amp;action=edit&amp;redlink=1" class="new" title="Marian High School (page does not exist)">Marian High School</a></dd>
+<dd><a href="/wiki/index.php?title=Marquette_High_School&amp;action=edit&amp;redlink=1" class="new" title="Marquette High School (page does not exist)">Marquette High School</a></dd>
+<dd><a href="/wiki/index.php?title=Merrillville_High_School&amp;action=edit&amp;redlink=1" class="new" title="Merrillville High School (page does not exist)">Merrillville High School</a></dd>
+<dd><a href="/wiki/index.php?title=North_Judson-San_Pierre_High_School&amp;action=edit&amp;redlink=1" class="new" title="North Judson-San Pierre High School (page does not exist)">North Judson-San Pierre High School</a></dd>
+<dd><a href="/wiki/index.php?title=Portage_High_School&amp;action=edit&amp;redlink=1" class="new" title="Portage High School (page does not exist)">Portage High School</a></dd>
+<dd><a href="/wiki/index.php?title=Saint_Joseph_High_School&amp;action=edit&amp;redlink=1" class="new" title="Saint Joseph High School (page does not exist)">Saint Joseph High School</a></dd></dl>
+<h4><span class="mw-headline" id="Ivy_Tech_Regional"><a rel="nofollow" class="external text" href="http://faculty.ivytech.edu/~scote/ScienceOlympiadHome.html">Ivy Tech Regional</a></span></h4>
+<p>5 Teams Advance to State
+</p>
+<dl><dd><a href="/wiki/index.php?title=Brown_County_High_School&amp;action=edit&amp;redlink=1" class="new" title="Brown County High School (page does not exist)">Brown County High School</a></dd>
+<dd><a href="/wiki/index.php?title=Brownstown_Central_High_School&amp;action=edit&amp;redlink=1" class="new" title="Brownstown Central High School (page does not exist)">Brownstown Central High School</a></dd>
+<dd><a href="/wiki/index.php?title=Columbus_North_High_School&amp;action=edit&amp;redlink=1" class="new" title="Columbus North High School (page does not exist)">Columbus North High School</a></dd>
+<dd><a href="/wiki/index.php?title=Floyd_Central_High_School&amp;action=edit&amp;redlink=1" class="new" title="Floyd Central High School (page does not exist)">Floyd Central High School</a></dd>
+<dd><a href="/wiki/index.php?title=Mitchell_High_School&amp;action=edit&amp;redlink=1" class="new" title="Mitchell High School (page does not exist)">Mitchell High School</a></dd>
+<dd><a href="/wiki/index.php?title=New_Albany_High_School_(Indiana)&amp;action=edit&amp;redlink=1" class="new" title="New Albany High School (Indiana) (page does not exist)">New Albany High School</a></dd>
+<dd><a href="/wiki/index.php?title=Salem_High_School_(Indiana)&amp;action=edit&amp;redlink=1" class="new" title="Salem High School (Indiana) (page does not exist)">Salem High School</a></dd></dl>
+<h4><span class="mw-headline" id="Ivy_Tech_Terre_Haute_2">Ivy Tech Terre Haute</span></h4>
+<dl><dd><a href="/wiki/index.php?title=Castle_High_School&amp;action=edit&amp;redlink=1" class="new" title="Castle High School (page does not exist)">Castle High School</a></dd>
+<dd><a href="/wiki/index.php/Fishers_High_School" title="Fishers High School">Fishers High School</a></dd>
+<dd><a href="/wiki/index.php?title=Linton-Stockton_High_School&amp;action=edit&amp;redlink=1" class="new" title="Linton-Stockton High School (page does not exist)">Linton-Stockton High School</a></dd>
+<dd><a href="/wiki/index.php/Salem_High_School" title="Salem High School">Salem High School</a></dd>
+<dd><a href="/wiki/index.php?title=Steel_City_Academy&amp;action=edit&amp;redlink=1" class="new" title="Steel City Academy (page does not exist)">Steel City Academy</a></dd>
+<dd><a href="/wiki/index.php/Sullivan_High_School_(Indiana)" title="Sullivan High School (Indiana)">Sullivan High School</a></dd>
+<dd><a href="/wiki/index.php?title=Terre_Haute_North_Vigo_High_School&amp;action=edit&amp;redlink=1" class="new" title="Terre Haute North Vigo High School (page does not exist)">Terre Haute North Vigo High School</a></dd>
+<dd><a href="/wiki/index.php/Warren_Central_High_School" title="Warren Central High School">Warren Central High School</a></dd></dl>
+<h4><span class="mw-headline" id="Purdue_Northwest_Regional"><a rel="nofollow" class="external text" href="https://academics.pnw.edu/honors/initiatives/scienceolympiad/">Purdue Northwest Regional</a></span></h4>
+<p>6 Teams Advance to State
+</p>
+<dl><dd><a href="/wiki/index.php?title=Bishop_Noll_Institute&amp;action=edit&amp;redlink=1" class="new" title="Bishop Noll Institute (page does not exist)">Bishop Noll Institute</a></dd>
+<dd><a href="/wiki/index.php?title=George_Rogers_Clark_High_School&amp;action=edit&amp;redlink=1" class="new" title="George Rogers Clark High School (page does not exist)">George Rogers Clark High School</a></dd>
+<dd><a href="/wiki/index.php?title=Donald_E._Gavit_High_School&amp;action=edit&amp;redlink=1" class="new" title="Donald E. Gavit High School (page does not exist)">Donald E. Gavit High School</a></dd>
+<dd><a href="/wiki/index.php?title=Hammond_Academy_of_Science_and_Technology&amp;action=edit&amp;redlink=1" class="new" title="Hammond Academy of Science and Technology (page does not exist)">Hammond Academy of Science and Technology</a></dd>
+<dd><a href="/wiki/index.php?title=LaPorte_High_School&amp;action=edit&amp;redlink=1" class="new" title="LaPorte High School (page does not exist)">LaPorte High School</a></dd>
+<dd><a href="/wiki/index.php?title=Morton_High_School&amp;action=edit&amp;redlink=1" class="new" title="Morton High School (page does not exist)">Morton High School</a></dd>
+<dd><a href="/wiki/index.php/Munster_High_School" title="Munster High School">Munster High School</a></dd>
+<dd><a href="/wiki/index.php?title=North_Judson_San_Pierre_Jr/Sr_High_School&amp;action=edit&amp;redlink=1" class="new" title="North Judson San Pierre Jr/Sr High School (page does not exist)">North Judson San Pierre Jr/Sr High School</a></dd>
+<dd><a href="/wiki/index.php?title=Rensselaer_Central_High_School&amp;action=edit&amp;redlink=1" class="new" title="Rensselaer Central High School (page does not exist)">Rensselaer Central High School</a></dd>
+<dd><a href="/wiki/index.php?title=Riley_High_School&amp;action=edit&amp;redlink=1" class="new" title="Riley High School (page does not exist)">Riley High School</a></dd>
+<dd><a href="/wiki/index.php/Valparaiso_High_School" title="Valparaiso High School">Valparaiso High School</a></dd>
+<dd><a href="/wiki/index.php/Whiting_High_School" title="Whiting High School">Whiting High School</a></dd>
+<dd><a href="/wiki/index.php?title=Westville_High_School&amp;action=edit&amp;redlink=1" class="new" title="Westville High School (page does not exist)">Westville High School</a></dd></dl>
+<h4><span class="mw-headline" id="Purdue_West_Lafayette_Regional"><a rel="nofollow" class="external text" href="http://web.ics.purdue.edu/~scienceo/">Purdue West Lafayette Regional</a></span></h4>
+<dl><dd><a href="/wiki/index.php?title=Bishop_Luers_High_School&amp;action=edit&amp;redlink=1" class="new" title="Bishop Luers High School (page does not exist)">Bishop Luers High School</a></dd>
+<dd><a href="/wiki/index.php?title=Central_Noble_High_School&amp;action=edit&amp;redlink=1" class="new" title="Central Noble High School (page does not exist)">Central Noble High School</a></dd>
+<dd><a href="/wiki/index.php?title=Frankfort_High_School&amp;action=edit&amp;redlink=1" class="new" title="Frankfort High School (page does not exist)">Frankfort High School</a></dd>
+<dd><a href="/wiki/index.php?title=McCutcheon_High_School&amp;action=edit&amp;redlink=1" class="new" title="McCutcheon High School (page does not exist)">McCutcheon High School</a></dd>
+<dd><a href="/wiki/index.php?title=Mississinewa_High_School&amp;action=edit&amp;redlink=1" class="new" title="Mississinewa High School (page does not exist)">Mississinewa High School</a></dd>
+<dd><a href="/wiki/index.php?title=North_Vermillion_High_School&amp;action=edit&amp;redlink=1" class="new" title="North Vermillion High School (page does not exist)">North Vermillion High School</a></dd>
+<dd><a href="/wiki/index.php?title=Pike_High_School&amp;action=edit&amp;redlink=1" class="new" title="Pike High School (page does not exist)">Pike High School</a></dd>
+<dd><a href="/wiki/index.php?title=Scottsburg_High_School&amp;action=edit&amp;redlink=1" class="new" title="Scottsburg High School (page does not exist)">Scottsburg High School</a></dd>
+<dd><a href="/wiki/index.php?title=South_Newton_High_School&amp;action=edit&amp;redlink=1" class="new" title="South Newton High School (page does not exist)">South Newton High School</a></dd>
+<dd><a href="/wiki/index.php?title=Southwood_High_School&amp;action=edit&amp;redlink=1" class="new" title="Southwood High School (page does not exist)">Southwood High School</a></dd>
+<dd><a href="/wiki/index.php/Warren_Central_High_School" title="Warren Central High School">Warren Central High School</a></dd>
+<dd><a href="/wiki/index.php?title=West_Lafayette_High_School&amp;action=edit&amp;redlink=1" class="new" title="West Lafayette High School (page does not exist)">West Lafayette High School</a></dd></dl>
+<h4><span id="St._Joseph's_College_Regional_(defunct)"></span><span class="mw-headline" id="St._Joseph.27s_College_Regional_.28defunct.29">St. Joseph's College Regional (defunct)</span></h4>
+<p>4 Schools Advance to State
+</p>
+<dl><dd><a href="/wiki/index.php?title=Bishop_Dwenger_High_School&amp;action=edit&amp;redlink=1" class="new" title="Bishop Dwenger High School (page does not exist)">Bishop Dwenger High School</a></dd>
+<dd><a href="/wiki/index.php?title=John_Adams_High_School&amp;action=edit&amp;redlink=1" class="new" title="John Adams High School (page does not exist)">John Adams High School</a></dd>
+<dd><a href="/wiki/index.php?title=Indiana_Academy&amp;action=edit&amp;redlink=1" class="new" title="Indiana Academy (page does not exist)">Indiana Academy</a></dd>
+<dd><a href="/wiki/index.php?title=Peru_High_School&amp;action=edit&amp;redlink=1" class="new" title="Peru High School (page does not exist)">Peru High School</a></dd>
+<dd><a href="/wiki/index.php?title=Winamac_High_School&amp;action=edit&amp;redlink=1" class="new" title="Winamac High School (page does not exist)">Winamac High School</a></dd>
+<dd><a href="/wiki/index.php?title=Marian_High_School&amp;action=edit&amp;redlink=1" class="new" title="Marian High School (page does not exist)">Marian High School</a></dd>
+<dd><a href="/wiki/index.php?title=Benton_Central_High_School&amp;action=edit&amp;redlink=1" class="new" title="Benton Central High School (page does not exist)">Benton Central High School</a></dd>
+<dd><a href="/wiki/index.php?title=Kankakee_Valley_High_School&amp;action=edit&amp;redlink=1" class="new" title="Kankakee Valley High School (page does not exist)">Kankakee Valley High School</a></dd>
+<dd><a href="/wiki/index.php?title=North_Judson-San_Pierre_High_School&amp;action=edit&amp;redlink=1" class="new" title="North Judson-San Pierre High School (page does not exist)">North Judson-San Pierre High School</a></dd></dl>
+<p><br />
+</p>
+<h4><span class="mw-headline" id="Past_teams_2">Past teams</span></h4>
+<dl><dd><a href="/wiki/index.php?title=Andrean_High_School&amp;action=edit&amp;redlink=1" class="new" title="Andrean High School (page does not exist)">Andrean High School</a></dd>
+<dd><a href="/wiki/index.php?title=Beech_Grove_High_School&amp;action=edit&amp;redlink=1" class="new" title="Beech Grove High School (page does not exist)">Beech Grove High School</a></dd>
+<dd><a href="/wiki/index.php?title=Cardinal_Ritter_High_School&amp;action=edit&amp;redlink=1" class="new" title="Cardinal Ritter High School (page does not exist)">Cardinal Ritter High School</a></dd>
+<dd><a href="/wiki/index.php?title=Center_Grove_High_School&amp;action=edit&amp;redlink=1" class="new" title="Center Grove High School (page does not exist)">Center Grove High School</a></dd>
+<dd><a href="/wiki/index.php?title=Central_High_School_(Indiana)&amp;action=edit&amp;redlink=1" class="new" title="Central High School (Indiana) (page does not exist)">Central High School</a></dd>
+<dd><a href="/wiki/index.php?title=Clay_City_High_School&amp;action=edit&amp;redlink=1" class="new" title="Clay City High School (page does not exist)">Clay City High School</a></dd>
+<dd><a href="/wiki/index.php?title=East_Chicago_Central_High_School&amp;action=edit&amp;redlink=1" class="new" title="East Chicago Central High School (page does not exist)">East Chicago Central High School</a></dd>
+<dd><a href="/wiki/index.php?title=Edison_Senior_High_School&amp;action=edit&amp;redlink=1" class="new" title="Edison Senior High School (page does not exist)">Edison Senior High School</a></dd>
+<dd><a href="/wiki/index.php?title=Fountain_Central_High_School&amp;action=edit&amp;redlink=1" class="new" title="Fountain Central High School (page does not exist)">Fountain Central High School</a></dd>
+<dd><a href="/wiki/index.php?title=Griffith_High_School&amp;action=edit&amp;redlink=1" class="new" title="Griffith High School (page does not exist)">Griffith High School</a></dd>
+<dd><a href="/wiki/index.php?title=Hanover_High_School&amp;action=edit&amp;redlink=1" class="new" title="Hanover High School (page does not exist)">Hanover High School</a></dd>
+<dd><a href="/wiki/index.php?title=La_Ville_Senior_High_School&amp;action=edit&amp;redlink=1" class="new" title="La Ville Senior High School (page does not exist)">La Ville Senior High School</a></dd>
+<dd><a href="/wiki/index.php?title=Madison_Consolidated_High_School&amp;action=edit&amp;redlink=1" class="new" title="Madison Consolidated High School (page does not exist)">Madison Consolidated High School</a></dd>
+<dd><a href="/wiki/index.php?title=Morton_Senior_High_School&amp;action=edit&amp;redlink=1" class="new" title="Morton Senior High School (page does not exist)">Morton Senior High School</a></dd>
+<dd><a href="/wiki/index.php?title=North_Daviess_High_School&amp;action=edit&amp;redlink=1" class="new" title="North Daviess High School (page does not exist)">North Daviess High School</a></dd>
+<dd><a href="/wiki/index.php?title=Plymouth_High_School_(Indiana)&amp;action=edit&amp;redlink=1" class="new" title="Plymouth High School (Indiana) (page does not exist)">Plymouth High School</a></dd>
+<dd><a href="/wiki/index.php?title=Rivet_High_School&amp;action=edit&amp;redlink=1" class="new" title="Rivet High School (page does not exist)">Rivet High School</a></dd>
+<dd><a href="/wiki/index.php?title=Salem_High_School_(Indiana)&amp;action=edit&amp;redlink=1" class="new" title="Salem High School (Indiana) (page does not exist)">Salem High School</a></dd>
+<dd><a href="/wiki/index.php?title=Shenandoah_High_School&amp;action=edit&amp;redlink=1" class="new" title="Shenandoah High School (page does not exist)">Shenandoah High School</a></dd>
+<dd><a href="/wiki/index.php?title=South_Newton_High_School&amp;action=edit&amp;redlink=1" class="new" title="South Newton High School (page does not exist)">South Newton High School</a></dd>
+<dd><a href="/wiki/index.php?title=Southport_High_School&amp;action=edit&amp;redlink=1" class="new" title="Southport High School (page does not exist)">Southport High School</a></dd>
+<dd><a href="/wiki/index.php?title=Tri-County_High_School&amp;action=edit&amp;redlink=1" class="new" title="Tri-County High School (page does not exist)">Tri-County High School</a></dd>
+<dd><a href="/wiki/index.php?title=Warsaw_Community_High_School&amp;action=edit&amp;redlink=1" class="new" title="Warsaw Community High School (page does not exist)">Warsaw Community High School</a></dd></dl>
+<h2><span class="mw-headline" id="External_Links">External Links</span></h2>
+<div role="navigation" class="navbox" aria-labelledby="Tournaments_of_Indiana" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="3"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/index.php/Template:Tournaments_of_Indiana" title="Template:Tournaments of Indiana"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/index.php?title=Template_talk:Tournaments_of_Indiana&amp;action=edit&amp;redlink=1" class="new" title="Template talk:Tournaments of Indiana (page does not exist)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a rel="nofollow" class="external text" href="https://scioly.org/wiki/index.php?title=Template:Tournaments_of_Indiana&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Tournaments_of_Indiana" style="font-size:114%;margin:0 4em">Tournaments of <a class="mw-selflink selflink">Indiana</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Invitationals</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Current</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Division B</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Hammond_Invitational" title="Hammond Invitational">Hammond Invitational</a></li>
+<li><a href="/wiki/index.php/Valparaiso_Invitational" title="Valparaiso Invitational">Valparaiso Invitational</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Division C</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Whiting_Invitational" title="Whiting Invitational">Whiting Invitational</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Both Divisions</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Manchester_Invitational" title="Manchester Invitational">Manchester Invitational</a></li>
+<li><a href="/wiki/index.php/Northridge_Invitational" title="Northridge Invitational">Northridge Invitational</a></li>
+<li><a href="/wiki/index.php/Raymond_Park_Invitational" title="Raymond Park Invitational">Raymond Park Invitational</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Defunct</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Division C</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Lake_Central_Invitational" title="Lake Central Invitational">Lake Central Invitational</a></li>
+<li><a href="/wiki/index.php/IUPUI_Invitational" title="IUPUI Invitational">IUPUI Invitational</a></li>
+<li><a href="/wiki/index.php/East_Chicago_Central_Invitational" title="East Chicago Central Invitational">East Chicago Central Invitational</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Both Divisions</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Mishawaka_Invitational" title="Mishawaka Invitational">Mishawaka Invitational</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td><td class="navbox-image" rowspan="4" style="width:1px;padding:0px 0px 0px 2px"><div><a href="/wiki/index.php/Indiana" title="Indiana"><img alt="Indiana flag.gif" src="/wiki/images/2/29/Indiana_flag.gif" width="150" height="118" /></a></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/index.php?title=Regions_of_Indiana&amp;action=edit&amp;redlink=1" class="new" title="Regions of Indiana (page does not exist)">Regionals</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Current</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Both Divisions</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Butler_University_Regional" title="Butler University Regional">Butler University Regional</a></li>
+<li><a href="/wiki/index.php/Goshen_College_Regional" title="Goshen College Regional">Goshen College Regional</a></li>
+<li><a href="/wiki/index.php/Indiana_University_Northwest_Regional" title="Indiana University Northwest Regional">Indiana University Northwest Regional</a></li>
+<li><a href="/wiki/index.php/Ivy_Tech_Bloomington_Regional" title="Ivy Tech Bloomington Regional">Ivy Tech Bloomington Regional</a></li>
+<li><a href="/wiki/index.php/Ivy_Tech_Lafayette_Regional" title="Ivy Tech Lafayette Regional">Ivy Tech Lafayette Regional</a></li>
+<li><a href="/wiki/index.php/Ivy_Tech_Terre_Haute_Regional" title="Ivy Tech Terre Haute Regional">Ivy Tech Terre Haute Regional</a></li>
+<li><a href="/wiki/index.php/Purdue_University_Northwest_Regional" title="Purdue University Northwest Regional">Purdue University Northwest Regional</a></li>
+<li><a href="/wiki/index.php/Purdue_University_Regional" title="Purdue University Regional">Purdue University Regional</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Defunct</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Both Divisions</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Ball_State_University_Regional" title="Ball State University Regional">Ball State University Regional</a></li>
+<li><a href="/wiki/index.php/IPFW_Regional" title="IPFW Regional">IPFW Regional</a></li>
+<li><a href="/wiki/index.php/St._Joseph%27s_College_Regional" title="St. Joseph&#39;s College Regional">St. Joseph's College Regional</a></li>
+<li><a href="/wiki/index.php/Vincennes_University_Regional" title="Vincennes University Regional">Vincennes University Regional</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">States</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php?title=2010_Indiana_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2010 Indiana State Tournament (page does not exist)">2010</a></li>
+<li><a href="/wiki/index.php?title=2011_Indiana_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2011 Indiana State Tournament (page does not exist)">2011</a></li>
+<li><a href="/wiki/index.php?title=2012_Indiana_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2012 Indiana State Tournament (page does not exist)">2012</a></li>
+<li><a href="/wiki/index.php?title=2013_Indiana_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2013 Indiana State Tournament (page does not exist)">2013</a></li>
+<li><a href="/wiki/index.php?title=2014_Indiana_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2014 Indiana State Tournament (page does not exist)">2014</a></li>
+<li><a href="/wiki/index.php?title=2015_Indiana_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2015 Indiana State Tournament (page does not exist)">2015</a></li>
+<li><a href="/wiki/index.php?title=2016_Indiana_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2016 Indiana State Tournament (page does not exist)">2016</a></li>
+<li><a href="/wiki/index.php?title=2017_Indiana_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2017 Indiana State Tournament (page does not exist)">2017</a></li>
+<li><a href="/wiki/index.php/2018_Indiana_State_Tournament" title="2018 Indiana State Tournament">2018</a></li>
+<li><a href="/wiki/index.php/2019_Indiana_State_Tournament" title="2019 Indiana State Tournament">2019</a></li>
+<li><a href="/wiki/index.php/2020_Indiana_State_Tournament" title="2020 Indiana State Tournament">2020</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Nationals</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Indiana_University_1995" title="Indiana University 1995">Indiana University 1995</a></li>
+<li><a href="/wiki/index.php/Indiana_University_2006" title="Indiana University 2006">Indiana University 2006</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="3"><div>State Website: <a rel="nofollow" class="external free" href="https://indianascienceolympiad.org/">https://indianascienceolympiad.org/</a></div></td></tr></tbody></table></div>
+
+<!-- 
+NewPP limit report
+Cached time: 20200806183120
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.900 seconds
+Real time usage: 1.100 seconds
+Preprocessor visited node count: 2892/1000000
+Preprocessor generated node count: 10748/1000000
+Post‐expand include size: 67971/2097152 bytes
+Template argument size: 15162/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.090/7.000 seconds
+Lua virtual size: 8.98 MB/50 MB
+Lua estimated memory usage: 0 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  385.827      1 -total
+ 95.34%  367.865      7 Template:Navbox
+ 50.51%  194.862      1 Template:Tournaments_of_Indiana
+ 46.94%  181.116      1 Template:State_tournament_results_box
+ 26.59%  102.573     36 Template:Strb_row
+  2.04%    7.853      1 Template:SOInfoBox
+-->
+</div>
+<!-- Saved in parser cache with key wiki-wikiv2_:pcache:idhash:227-0!canonical and timestamp 20200806183119 and revision id 104620
+ -->
+</div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://scioly.org/wiki/index.php?title=Indiana&amp;oldid=104620">https://scioly.org/wiki/index.php?title=Indiana&amp;oldid=104620</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/index.php/Special:Categories" title="Special:Categories">Category</a>: <ul><li><a href="/wiki/index.php/Category:State_Pages" title="Category:State Pages">State Pages</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-login"><a href="//scioly.org/forums/ucp.php?mode=login&amp;redirect=https%3A%2F%2Fscioly.org%2Fwiki%2Findex.php%2FIndiana" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/index.php/Indiana" title="View the content page [c]" accesskey="c">Page</a></span></li><li id="ca-talk" class="new"><span><a href="/wiki/index.php?title=Talk:Indiana&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/index.php/Indiana">Read</a></span></li><li id="ca-viewsource" class="collapsible"><span><a href="/wiki/index.php?title=Indiana&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li><li id="ca-history" class="collapsible"><span><a href="/wiki/index.php?title=Indiana&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/wiki/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Scioly.org" title="Search Scioly.org [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/index.php/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage"><a href="/wiki/index.php/Main_Page" title="Visit the main page [z]" accesskey="z">Main Page</a></li><li id="n-recentchanges"><a href="/wiki/index.php/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/wiki/index.php/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-MediaWiki-Help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">MediaWiki Help</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/index.php/Special:WhatLinksHere/Indiana" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/index.php/Special:RecentChangesLinked/Indiana" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/wiki/index.php/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="/wiki/index.php?title=Indiana&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/wiki/index.php?title=Indiana&amp;oldid=104620" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/wiki/index.php?title=Indiana&amp;action=info" title="More information about this page">Page information</a></li>				</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 20 July 2020, at 03:33.</li>
+								<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution</a> unless otherwise noted.</li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="http://creativecommons.org/licenses/by/3.0/"><img src="/wiki/resources/assets/licenses/cc-by.png" alt="Creative Commons Attribution" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<style>.MathJax_Display{display:inline !important;}
+.mathjax-wrapper{font-size:120%;}</style>
+<script type='text/x-mathjax-config'>MathJax.Hub.Config({displayAlign:'left',tex2jax:{displayMath:[['[math]','[/math]']]}})</script>
+<script src='//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.900","walltime":"1.100","ppvisitednodes":{"value":2892,"limit":1000000},"ppgeneratednodes":{"value":10748,"limit":1000000},"postexpandincludesize":{"value":67971,"limit":2097152},"templateargumentsize":{"value":15162,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%  385.827      1 -total"," 95.34%  367.865      7 Template:Navbox"," 50.51%  194.862      1 Template:Tournaments_of_Indiana"," 46.94%  181.116      1 Template:State_tournament_results_box"," 26.59%  102.573     36 Template:Strb_row","  2.04%    7.853      1 Template:SOInfoBox"]},"scribunto":{"limitreport-timeusage":{"value":"0.090","limit":"7.000"},"limitreport-virtmemusage":{"value":9420800,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20200806183120","ttl":86400,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":171});});</script>
+	</body>
+</html>

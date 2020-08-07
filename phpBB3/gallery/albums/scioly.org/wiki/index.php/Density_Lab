@@ -1,0 +1,866 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Density Lab - Scioly.org</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Density_Lab","wgTitle":"Density Lab","wgCurRevisionId":101859,"wgRevisionId":101859,"wgArticleId":9626,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Physical Science and Chemistry Events","Event Pages","Lab Event Pages"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Density_Lab","wgRelevantArticleId":9626,"wgRequestId":"f880d03b33f5ae95ec1a867d","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":[]});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","site":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@1ltrs49",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","jquery.tablesorter","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/wiki/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/wiki/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/wiki/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.8"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/wiki/opensearch_desc.php" title="Scioly.org (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://scioly.org/wiki/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Scioly.org Atom feed" href="/wiki/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/wiki/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Density_Lab rootpage-Density_Lab skin-vector action-view"><meta property="og:title" content="Science Olympiad Student Center"/>
+<meta property="og:type" content="website"/>
+<meta property="og:url" content="https://scioly.org/"/>
+
+<meta property="og:image" content="http://scioly.org/src/img/logo/logo_square.png"/>
+<meta property="og:image:secure_url" content="https://scioly.org/src/img/logo/logo_square.png"/> 
+<meta property="og:image:type" content="image/png"/> 
+<meta property="og:image:width" content="500"/> 
+<meta property="og:image:height" content="500"/>
+
+<meta property="og:description" content="A resource by and for Science Olympiad students, coaches, and alumni nationwide."/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script type="text/javascript" src="/src/js/jquery.min.js"></script>
+<script type="text/javascript" src="/src/js/main.js"></script>
+
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+<link rel="stylesheet" type="text/css" href="/src/css/main.css">
+
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<link rel="icon" href="/favicon.ico" type="image/x-icon"><div class="site-nav">
+	<a href="/">
+		<img src="/src/img/logo/logo.png">
+	</a>
+	<div class="hamburger" onclick="hamburger(this)">
+		<div>
+			<div></div>
+			<div></div>
+			<div></div>
+		</div>
+	</div>
+	<ul>
+		<li><a href="/forums">Forums</a></li>
+		<li><a href="/wiki">Wiki</a></li>
+		<li><a href="/tests">Test Exchange</a></li>
+		<!-- <li><a href="/gallery">Image Gallery</a></li> -->
+		<!-- <li><a href="/invitational">Invites</a></li> -->
+		<li><a href="/chat">Chat</a></li>
+		<li><a href="/login" class="button">Login</a></li>
+	</ul>
+</div>
+<img class="print-only" src="/src/img/logo/logo_black.png" style="max-width: 150px;"><link rel="stylesheet" type="text/css" href="/src/css/wiki.css">
+<div id="wrap-me-up">
+
+
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Density Lab</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Scioly.org</div>				<div id="contentSub"></div>
+								<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table align="right" class="infobox">
+
+<tbody><tr>
+<th colspan="2" style="font-size: larger; text-align: center;"><b>Density Lab</b>
+</th></tr>
+<tr>
+<td colspan="2"><center><i>This event is an event held in the current season.</i></center>
+</td></tr>
+<tr>
+<td colspan="2"><hr />
+</td></tr>
+<tr>
+<td><b>Type</b>
+</td>
+<td>Physics
+</td></tr>
+<tr>
+<td><b>Category</b>
+</td>
+<td>Lab
+</td></tr>
+
+
+
+
+
+
+
+
+<tr>
+<td><b>Latest Appearance</b>
+</td>
+<td>2020
+</td></tr>
+<tr>
+<td colspan="2" class="infobox-header"><b>Forum Threads</b>
+</td></tr>
+
+<tr>
+<td colspan="2" style="padding: 0;">
+<table class="infobox-events-link-table">
+
+<tbody><tr>
+<td><a rel="nofollow" class="external text" href="https://scioly.org/forums/viewtopic.php?f=284&amp;t=15381">2020</a>
+</td>
+<td><a rel="nofollow" class="external text" href="https://scioly.org/forums/viewtopic.php?f=284&amp;t=12172">2019</a>
+</td>
+<td><a rel="nofollow" class="external text" href="https://scioly.org/forums/viewtopic.php?f=264&amp;t=11048">2018 (Trial)</a>
+</td>
+<td><span> </span>
+</td>
+<td><span> </span>
+</td></tr>
+</tbody></table>
+</td></tr>
+
+
+<tr>
+<td colspan="2" class="infobox-header"><b>Forum Question Threads</b>
+</td></tr>
+
+<tr>
+<td colspan="2" style="padding: 0;">
+<table class="infobox-events-link-table">
+
+<tbody><tr>
+<td><a rel="nofollow" class="external text" href="https://scioly.org/forums/viewtopic.php?f=297&amp;t=15881">2020</a>
+</td>
+<td><a rel="nofollow" class="external text" href="https://scioly.org/forums/viewtopic.php?f=297&amp;t=12438">2019</a>
+</td>
+<td><span> </span>
+</td>
+<td><span> </span>
+</td>
+<td><span> </span>
+</td></tr>
+</tbody></table>
+</td></tr>
+
+
+<tr>
+<td colspan="2" class="infobox-header"><b>Official Resources</b>
+</td></tr>
+<tr>
+<td><b>Website</b>
+</td>
+<td><a rel="nofollow" class="external text" href="https://www.soinc.org/density-lab-b">soinc.org</a>
+</td></tr>
+
+
+
+<tr>
+<td colspan="2" class="infobox-header"><b>Division B Results</b>
+</td></tr>
+<tr>
+<td colspan="2" style="padding: 0;">
+<table class="infobox-scoreboard" style="margin: 0; padding: 0; width:100%;">
+
+
+<tbody><tr style="background-color: gold;">
+<td style="width: 10%; text-align: center;"><b>1st</b>
+</td>
+<td style="width: 90%; padding-left: 5px;"><b>Pleasant Ridge Middle School</b>
+</td></tr>
+<tr style="background-color: silver;">
+<td style="width: 10%; text-align: center;">2nd
+</td>
+<td style="width: 90%; padding-left: 5px;">Springhouse Middle School
+</td></tr>
+<tr style="background-color: #d1965c;">
+<td style="width: 10%; text-align: center;">3rd
+</td>
+<td style="width: 90%; padding-left: 5px;">Longfellow Middle School
+</td></tr>
+</tbody></table>
+</td></tr>
+
+</tbody></table>
+<p><b>Density Lab</b>, also known by the names <b>Buoyancy Lab</b> and <b>Buoy Oh Buoy</b>, is an event for the <a href="/wiki/index.php/2020" title="2020">2020</a> season. It previously was held in the <a href="/wiki/index.php/2019" title="2019">2019</a> season, the first season it was an official event. It was previously a trial event at the <a href="/wiki/index.php/Colorado_State_University_2018" title="Colorado State University 2018">2018 National Tournament</a>. This events consists of two parts - a written test on density, buoyancy, concentrations, and the behavior of gases, and one or more hands-on tasks relating to those concepts.
+</p><p><br />
+</p>
+<div id="toc" class="toc"><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Test_Description"><span class="tocnumber">1</span> <span class="toctext">Test Description</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Possible_Hands-On_Tasks"><span class="tocnumber">1.1</span> <span class="toctext">Possible Hands-On Tasks</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Density"><span class="tocnumber">2</span> <span class="toctext">Density</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Mass_Density"><span class="tocnumber">2.1</span> <span class="toctext">Mass Density</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Number_Density"><span class="tocnumber">2.2</span> <span class="toctext">Number Density</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Area_Density"><span class="tocnumber">2.3</span> <span class="toctext">Area Density</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Concentrations"><span class="tocnumber">3</span> <span class="toctext">Concentrations</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Gas_Laws"><span class="tocnumber">4</span> <span class="toctext">Gas Laws</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#Boyle.27s_Law"><span class="tocnumber">4.1</span> <span class="toctext">Boyle's Law</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Charles.27_Law"><span class="tocnumber">4.2</span> <span class="toctext">Charles' Law</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Gay-Lussac.27s_Law"><span class="tocnumber">4.3</span> <span class="toctext">Gay-Lussac's Law</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Combined_Gas_Law"><span class="tocnumber">4.4</span> <span class="toctext">Combined Gas Law</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Avogadro.27s_Law"><span class="tocnumber">4.5</span> <span class="toctext">Avogadro's Law</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Ideal_Gas_Law"><span class="tocnumber">4.6</span> <span class="toctext">Ideal Gas Law</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-15"><a href="#Archimedes.27_Principle"><span class="tocnumber">5</span> <span class="toctext">Archimedes' Principle</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#Reference"><span class="tocnumber">6</span> <span class="toctext">Reference</span></a>
+<ul>
+<li class="toclevel-2 tocsection-17"><a href="#Glossary"><span class="tocnumber">6.1</span> <span class="toctext">Glossary</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#Metric_Prefixes"><span class="tocnumber">6.2</span> <span class="toctext">Metric Prefixes</span></a></li>
+<li class="toclevel-2 tocsection-19"><a href="#Additional_Links"><span class="tocnumber">6.3</span> <span class="toctext">Additional Links</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Test_Description">Test Description</span></h2>
+<p>A Density Lab test consists of two parts, a written test and at least one hands-on task. The written test is 50% to 75% of the total event score, while the hands-on portion contributes the remaining 25% to 50%. The event requires a basic knowledge of chemistry and physics as they pertain to density, concentrations, gas behavior, and buoyancy.
+</p><p>Students must use metric units with correct <a href="/wiki/index.php/Significant_Figures" title="Significant Figures">significant figures</a>, unless instructed otherwise.
+</p>
+<h3><span class="mw-headline" id="Possible_Hands-On_Tasks">Possible Hands-On Tasks</span></h3>
+<p>Students may be required to:
+</p>
+<ul><li>measure or calculate the mass density of a given solid</li>
+<li>collect a volume of gas and calculate the volume, mass, and mass density</li>
+<li>determine the number density of multiple objects, such as the number of brown M&amp;M's in a bag of M&amp;M's</li>
+<li>determine the mass that a given helium balloon can lift</li>
+<li>determine the depth to which an object may sink in water</li>
+<li>determine the density of a material at different temperatures</li></ul>
+<p>Most hands-on tasks will require students to make measurements using provided instruments. For this reason, it is recommended that students practice the hands-on tasks using a variety of instrumentation and techniques.
+</p>
+<h2><span class="mw-headline" id="Density">Density</span></h2>
+<p>In general, <b>density</b> is a description of the amount of a substance per unit volume or area. There are several common expressions of density, including mass density, number density, and area density. Usually the term density is used to refer to mass density.
+</p><p>Densities are expressed in a variety of different units, depending on what type of density it is and the units used to express the mass, number, area, and volume of the substance. All densities, however, are rates and thus their units follow the general form [Unit of mass or number] per [Unit of volume or area]. For example, the mass density of gold is approximately 19.3 grams per cubic centimeter.
+</p><p>In general, the density of a material is greatest when it is a solid and decreases as it changes phase to a liquid and from a liquid to a gas. This is not always the case, however; water is less dense as a solid than liquid. Likewise, within a single phase, density usually decreases with increasing temperature, a phenomenon known as <i>thermal expansion</i>. Conversely, substances within a single phase usually increase in density with decreasing temperature, known as <i>thermal contraction</i>.
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:202px;"><a href="/wiki/index.php/File:Density_Equation.png" class="image"><img alt="" src="/wiki/images/2/2c/Density_Equation.png" width="200" height="135" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/index.php/File:Density_Equation.png" class="internal" title="Enlarge"></a></div>(Mass) Density equation.</div></div></div>
+<h3><span class="mw-headline" id="Mass_Density">Mass Density</span></h3>
+<p><b>Mass density</b>, usually just called density, is the mass of a substance per unit volume. It is usually represented by the lowercase Greek letter rho ([math]\rho[/math]).
+</p><p>The formula for calculating density is shown in the image to the right.
+</p>
+<h3><span class="mw-headline" id="Number_Density">Number Density</span></h3>
+<p><b>Number density</b> is the number of countable objects per unit volume. It is given by the formula [math]\rho_{N} = \frac{N}{V}[/math] where [math]\rho_{N}[/math] is the number density of the objects, [math]N[/math] is the number of the objects, and [math]V[/math] is the volume of space being examined.
+</p><p>Number density can be calculated for any objects, though it is often used for the density of individual atoms or molecules. It is important to specify the object the number density refers to when writing the unit.
+</p>
+<h3><span class="mw-headline" id="Area_Density">Area Density</span></h3>
+<p><b>Area density</b> is the mass of an object per unit of surface area. It is commonly used for expressing density of objects such as paper or fabrics, whose thickness is not easily found using typical measuring instruments.
+</p><p>The formula for area density is [math]\rho_A = \frac{m}{A}[/math] where [math]\rho_{A}[/math] is the area density, [math]m[/math] is the mass of the object, and [math]A[/math] is the surface area over which the density is expressed.
+</p>
+<h2><span class="mw-headline" id="Concentrations">Concentrations</span></h2>
+<p>A <b>concentration</b> is an expression of the amount of one substance that is present in a given amount of a mixture of substances. Similar to density, concentrations may be expressed in multiple ways, including mass per unit mass ("mass/mass"), mass per unit volume ("mass/volume"), and volume per unit volume ("volume/volume").
+</p><p>Similar to density, the units used to express concentration will depend on the units of mass or volume used to measure the substance and mixture, but are rates and follow the general form [Unit of mass or volume] per [Unit of mass or volume]. For example, the concentration of salts in seawater is approximately 3.5 grams per liter.
+</p><p>When a concentration is mass/mass or volume/volume and the mass or volume of the substance and mixture are measured in the same units, the concentration may also be expressed as a proportion in percent, parts-per-million, or parts-per-billion notation. For example, if one gram of red dye was added to 100 grams of water, the concentration may be expressed as 0.01 grams (of dye) per gram (of water), or 1%. If expressing a concentration as a proportion, it is necessary to specify whether the proportion refers to a mass/mass or volume/volume concentration by stating "by mass" or "by volume" afterward. In the previous example, this would be done by stating the concentration as "1% <i>by mass</i>".
+</p>
+<h2><span class="mw-headline" id="Gas_Laws">Gas Laws</span></h2>
+<p>Gas laws describe the relationship between key variables of gases. These variables include:
+</p>
+<ul><li><b>Temperature</b> (T) - a measure of the average kinetic energy of gas molecules; usually given in units of kelvin (K)</li>
+<li><b>Pressure</b> (P) - a measure of force per unit area resulting from collisions of gas molecules; usually given in units of pascals (Pa), equivalent to one newton per square meter</li>
+<li><b>Volume</b> (V) - the amount of space occupied by the gas; usually given in units of cubic meters (m³)</li>
+<li><b>Amount of substance</b> (n) - the number of atoms or molecules of the gas; usually given in units of moles (mol), equivalent to 6.022×10<sup>23</sup> atoms or molecules</li></ul>
+<div class="thumb tright"><div class="thumbinner" style="width:452px;"><a href="/wiki/index.php/File:Basic_Gas_Laws.png" class="image"><img alt="" src="/wiki/images/9/9a/Basic_Gas_Laws.png" width="450" height="249" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/index.php/File:Basic_Gas_Laws.png" class="internal" title="Enlarge"></a></div>Common gas law equations.</div></div></div>
+<p>When using gas laws that involve temperature, it is necessary to only use units of absolute temperature. Absolute temperature scales express absolute zero, the lowest theoretically-possible temperature, as zero on the scale. Therefore, doubling the temperature on an absolute scale represents a double in the average kinetic energy of the gas particles. The most common scale of absolute temperature is the Kelvin scale. In contrast, Fahrenheit and Celsius temperatures are not absolute and must be converted to an absolute temperature before being used for calculation.
+</p><p>A summary of the gas laws are shown in the image to the right and the table below.
+</p>
+<table class="wikitable">
+<caption>Summary of Gas Laws
+</caption>
+<tbody><tr>
+<th>Law
+</th>
+<th>Variable quantities
+</th>
+<th>Constant quantities
+</th></tr>
+<tr>
+<th>Boyle's Law
+</th>
+<td>Pressure (P), Volume (V)
+</td>
+<td>Temperature (T), Amount (n)
+</td></tr>
+<tr>
+<th>Charles' Law
+</th>
+<td>Volume (V), Temperature (T)
+</td>
+<td>Pressure (P), Amount (n)
+</td></tr>
+<tr>
+<th>Gay-Lussac's Law
+</th>
+<td>Pressure (P), Temperature (T)
+</td>
+<td>Volume (V), Amount (n)
+</td></tr>
+<tr>
+<th>Combined Gas Law
+</th>
+<td>Pressure (P), Volume (V), Temperature (T)
+</td>
+<td>Amount (n)
+</td></tr>
+<tr>
+<th>Avogadro's Law
+</th>
+<td>Volume (V), Amount (n)
+</td>
+<td>Pressure (P), Temperature (T)
+</td></tr>
+<tr>
+<th>Ideal Gas Law
+</th>
+<td>Pressure (P), Volume (V), Temperature (T), Amount (n)
+</td>
+<td>None
+</td></tr>
+</tbody></table>
+<h3><span id="Boyle's_Law"></span><span class="mw-headline" id="Boyle.27s_Law">Boyle's Law</span></h3>
+<p><b>Boyle's law</b> states that for a constant temperature and amount of gas, the pressure and volume are inversely proportional. Mathematically, this can be stated as the product of the pressure and volume of the gas being a constant: [math]PV=k[/math]
+</p><p>For two combinations of pressure and volume for a fixed amount and temperature of gas, the relationship may also be written [math]P_{1}V_{1}=P_{2}V_{2}[/math]
+</p>
+<h3><span id="Charles'_Law"></span><span class="mw-headline" id="Charles.27_Law">Charles' Law</span></h3>
+<p><b>Charles' Law</b> states that for a constant amount and pressure of gas, the volume and temperature are directly proportional. Mathematically, this can be stated as the ratio of the volume of the gas to the temperature of the gas being a constant: [math]\frac{V}{T}=k[/math]
+</p><p>For two combinations of volume and temperature for a fixed amount and pressure of gas, the relationship may also be written [math]\frac{V_{1}}{T_{1}}=\frac{V_{2}}{T_{2}}[/math]
+</p>
+<h3><span id="Gay-Lussac's_Law"></span><span class="mw-headline" id="Gay-Lussac.27s_Law">Gay-Lussac's Law</span></h3>
+<p><b>Gay-Lussac's Law</b> states that for a constant volume and amount of gas, the pressure and temperature are directly proportional. Mathematically, this can be stated as the ratio of the pressure of the gas to the temperature of the gas being a constant: [math]\frac{P}{T}=k[/math]
+</p><p>For two combinations of pressure and temperature for a fixed amount and volume of gas, the relationship may also be written [math]\frac{P_{1}}{T_{1}}=\frac{P_{2}}{T_{2}}[/math]
+</p>
+<h3><span class="mw-headline" id="Combined_Gas_Law">Combined Gas Law</span></h3>
+<p>Any two of Boyle's, Charles', and Gay-Lussac's laws may be combined to find the <b>combined gas law</b>, which states that for a constant amount of gas, the ratio of the product of pressure and volume to the temperature of the gas is a constant: [math]\frac{PV}{T}=k[/math]
+</p><p>For two combinations of pressure, volume, and temperature for a fixed amount of gas, the relationship may also be written [math]\frac{P_{1}V_{1}}{T_{1}}=\frac{P_{2}V_{2}}{T_{2}}[/math]
+</p>
+<h3><span id="Avogadro's_Law"></span><span class="mw-headline" id="Avogadro.27s_Law">Avogadro's Law</span></h3>
+<p><b>Avogadro's law</b> states that for a constant pressure and temperature of gas, the amount of gas is directly proportional to the volume occupied by the gas. This can be stated as the ratio of the volume of the gas to the amount of gas being a constant: [math]\frac{V}{n}=k[/math]
+</p><p>Many physical processes that occur at Earth's surface are assumed to occur at conditions of <b>standard temperature and pressure</b> (STP). These conditions are often stated to be a temperature of 0°C and a pressure of 1 bar. Under these conditions of standard and pressure, 1 mole of gas occupies a volume of approximately 22.71 liters.
+</p>
+<h3><span class="mw-headline" id="Ideal_Gas_Law">Ideal Gas Law</span></h3>
+<p>The <b>ideal gas law</b> relates the pressure, volume, amount, and temperature of a gas to one another. It is given by the equation [math]PV=nRT[/math], where [math]R[/math] is a constant known as the <b>ideal gas constant</b>.
+</p><p>The value and units of the ideal gas constant will depend on the units used to express the variables in the ideal gas law. Some common values are given in the table below.
+</p>
+<table class="wikitable" style="text-align: center">
+<caption>Common Values of Ideal Gas Constant (R)
+</caption>
+<tbody><tr>
+<th>Value of R
+</th>
+<th>Unit of Pressure
+</th>
+<th>Unit of Volume
+</th>
+<th>Unit of Amount
+</th>
+<th>Unit of Temperature
+</th>
+<th>Unit for R
+</th></tr>
+<tr>
+<th>8.314
+</th>
+<td>Pascal (Pa)
+</td>
+<td>Cubic meter (m<sup>3</sup>)
+</td>
+<td>Mole (mol)
+</td>
+<td>Kelvin (K)
+</td>
+<td>[math]\frac{Pa*m^{3}}{mol*K}[/math]
+</td></tr>
+<tr>
+<th>8314
+</th>
+<td>Pascal (Pa)
+</td>
+<td>Liter (L)
+</td>
+<td>Mole (mol)
+</td>
+<td>Kelvin (K)
+</td>
+<td>[math]\frac{Pa*L}{mol*K}[/math]
+</td></tr>
+<tr>
+<th>8.314×10<sup>-5</sup>
+</th>
+<td>Bar (bar)
+</td>
+<td>Cubic meter (m<sup>3</sup>)
+</td>
+<td>Mole (mol)
+</td>
+<td>Kelvin (K)
+</td>
+<td>[math]\frac{bar*m^{3}}{mol*K}[/math]
+</td></tr>
+<tr>
+<th>0.08314
+</th>
+<td>Bar (bar)
+</td>
+<td>Liter (L)
+</td>
+<td>Mole (mol)
+</td>
+<td>Kelvin (K)
+</td>
+<td>[math]\frac{bar*L}{mol*K}[/math]
+</td></tr>
+<tr>
+<th>0.08206
+</th>
+<td>Atmosphere (atm)
+</td>
+<td>Liter (L)
+</td>
+<td>Mole (mol)
+</td>
+<td>Kelvin (K)
+</td>
+<td>[math]\frac{atm*L}{mol*K}[/math]
+</td></tr>
+</tbody></table>
+<h2><span id="Archimedes'_Principle"></span><span class="mw-headline" id="Archimedes.27_Principle">Archimedes' Principle</span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:252px;"><a href="/wiki/index.php/File:Archimedes%27_Principle.png" class="image"><img alt="" src="/wiki/images/c/c4/Archimedes%27_Principle.png" width="250" height="200" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/index.php/File:Archimedes%27_Principle.png" class="internal" title="Enlarge"></a></div>Example of Archimedes' Principle</div></div></div>
+<p><b>Archimedes' Principle</b> states that any body completely or partially submerged in a fluid (gas or liquid) is acted upon by an upward, or buoyant, force. The magnitude of this force is equal to the weight of the fluid displaced by the body.
+</p><p>If the object is completely submerged, the volume of displaced fluid is equivalent to the volume of the object. If the object is floating and is only partially submerged, the volume of displaced fluid is equal to the fraction of the object's volume below the surface of the fluid. The weight of the displaced fluid is equivalent to the magnitude of the buoyant force and may be calculated using the formula [math]F_g=ma[/math] where [math]F_g[/math] represents the gravitational force or weight acting on the volume of displaced fluid, [math]m[/math] is the mass of the displaced fluid, and [math]a[/math] is the acceleration due to gravity, which is essentially constant at 9.8 m/s<sup>2</sup> near Earth's surface.
+</p><p>In the case that an object is floating and does not rise or sink, the buoyant force on the object is equivalent in magnitude to the weight of the floating object and is opposite in direction. If the object is rising, the buoyant force must be greater than the magnitude of the of the weight of the floating object. If the object sinks, the buoyant force has a lesser magnitude than the weight of the floating object; however, the buoyant force will reduce the sensible weight of the object, as shown in the diagram to the right.
+</p>
+<h2><span class="mw-headline" id="Reference">Reference</span></h2>
+<h3><span class="mw-headline" id="Glossary">Glossary</span></h3>
+<table class="wikitable sortable">
+<tbody><tr>
+<th>Term
+</th>
+<th>Definition
+</th></tr>
+<tr>
+<th>Archimedes' principle
+</th>
+<td>A statement that any body submerged in a fluid is subject to an upward buoyant force that has a magnitude equal to the weight of the fluid displaced by the body.
+</td></tr>
+<tr>
+<th>Area density
+</th>
+<td>The amount of mass per unit surface area. It is usually represented by the Greek letter rho with a subscript A ([math]\rho_{A}[/math]).
+</td></tr>
+<tr>
+<th>Avogadro's law
+</th>
+<td>A gas law which states that for a constant temperature and pressure of a gas, the volume occupied by the gas is directly proportional to the amount of gas.
+</td></tr>
+<tr>
+<th>Boyle's law
+</th>
+<td>A gas law which states that for a constant temperature and amount of gas, pressure and volume are inversely proportional to each other.
+</td></tr>
+<tr>
+<th>Charles' law
+</th>
+<td>A gas law which states that for a constant pressure and amount of gas, temperature and volume are directly proportional to each other.
+</td></tr>
+<tr>
+<th>Combined gas law
+</th>
+<td>A gas law resulting from a combination of any two of Boyle's, Charles', or Gay-Lussac's laws. States that for a constant amount of gas the ratio of the product of the pressure and volume to the temperature is a constant.
+</td></tr>
+<tr>
+<th>Concentration
+</th>
+<td>An expression of the amount of one substance that is present in a given amount of a mixture of substances.
+</td></tr>
+<tr>
+<th>Density
+</th>
+<td>The amount of a substance per unit volume or area. See also <i>mass density</i>.
+</td></tr>
+<tr>
+<th>Gay-Lussac's law
+</th>
+<td>A gas law which states that for a constant volume and amount of gas, pressure and temperature are directly proportional to each other.
+</td></tr>
+<tr>
+<th>Ideal gas law
+</th>
+<td>A gas law relating the pressure, volume, amount, and temperature of a gas to one another.
+</td></tr>
+<tr>
+<th>Mass density
+</th>
+<td>The mass of a substance per unit volume. It is usually represented by the Greek letter rho ([math]\rho[/math]). May also be referred to simply as <i>density</i>.
+</td></tr>
+<tr>
+<th>Mixture
+</th>
+<td>A collection of two or more distinct substances.
+</td></tr>
+<tr>
+<th>Mole
+</th>
+<td>A unit for expressing an amount of substance, equal to 6.022×10<sup>23</sup> atoms or molecules.
+</td></tr>
+<tr>
+<th>Number density
+</th>
+<td>The number of countable objects per unit volume. It is usually represented by the Greek letter rho with a subscript N ([math]\rho_{N}[/math]).
+</td></tr>
+<tr>
+<th>Weight
+</th>
+<td>The gravitational force acting on an object.
+</td></tr>
+</tbody></table>
+<h3><span class="mw-headline" id="Metric_Prefixes">Metric Prefixes</span></h3>
+<table class="wikitable">
+<caption>Metric Prefixes
+</caption>
+<tbody><tr>
+<th>Prefix
+</th>
+<th>Symbol
+</th>
+<th>Multiplier
+</th></tr>
+<tr>
+<th>giga
+</th>
+<td>G
+</td>
+<td>[math]10^9[/math]
+</td></tr>
+<tr>
+<th>mega
+</th>
+<td>M
+</td>
+<td>[math]10^6[/math]
+</td></tr>
+<tr>
+<th>kilo
+</th>
+<td>k
+</td>
+<td>[math]10^3[/math]
+</td></tr>
+<tr>
+<th>hecto
+</th>
+<td>h
+</td>
+<td>[math]10^2[/math]
+</td></tr>
+<tr>
+<th>deca (also deka)
+</th>
+<td>da
+</td>
+<td>[math]10^1[/math]
+</td></tr>
+<tr>
+<th>---
+</th>
+<td>---
+</td>
+<td>[math]10^0[/math]
+</td></tr>
+<tr>
+<th>deci
+</th>
+<td>d
+</td>
+<td>[math]10^{-1}[/math]
+</td></tr>
+<tr>
+<th>centi
+</th>
+<td>c
+</td>
+<td>[math]10^{-2}[/math]
+</td></tr>
+<tr>
+<th>milli
+</th>
+<td>m
+</td>
+<td>[math]10^{-3}[/math]
+</td></tr>
+<tr>
+<th>micro
+</th>
+<td>[math]\mu[/math]
+</td>
+<td>[math]10^{-6}[/math]
+</td></tr>
+<tr>
+<th>nano
+</th>
+<td>n
+</td>
+<td>[math]10^{-9}[/math]
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Additional_Links">Additional Links</span></h3>
+<dl><dd><a rel="nofollow" class="external text" href="https://www.soinc.org/sites/default/files/uploaded_files/Density_BC19_091917.pdf">2018 Trial Event rules</a></dd>
+<dd><a rel="nofollow" class="external text" href="https://www.soinc.org/sites/default/files/uploaded_files/Buoy%20Oh%20Buoy%2012.pdf">2012 NYS Trial rules</a></dd>
+<dd><a href="/wiki/images/f/f7/Significant_Figures_%28Revised%29.pptx" class="internal" title="Significant Figures (Revised).pptx">Significant Figures Tutorial (PPTX)</a></dd></dl>
+<div style="text-align: center;">
+<table style="border: 1px solid #000; font-size:12pt; margin: 0 auto; padding:4pt; line-height:1.25em; color:#000;">
+<caption><b><a href="/wiki/index.php/2018_National_Tournament" class="mw-redirect" title="2018 National Tournament">2018 National Tournament</a> Trial Events</b>
+</caption>
+<tbody><tr>
+<td><b>Division B:</b> <a class="mw-selflink selflink">Density Lab</a> · <a href="/wiki/index.php/Solar_Power" title="Solar Power">Solar Power</a> | <b>Division C:</b> <a href="/wiki/index.php/Codebusters" title="Codebusters">Code Busters</a> · <a href="/wiki/index.php/WiFi_Lab" title="WiFi Lab">WiFi Lab</a>
+</td></tr></tbody></table>
+</div>
+<p><br />
+</p>
+<div role="navigation" class="navbox" aria-labelledby="Physical_Science_and_Chemistry_Events" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/index.php/Template:Physics_and_Chemistry_Event" title="Template:Physics and Chemistry Event"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/index.php?title=Template_talk:Physics_and_Chemistry_Event&amp;action=edit&amp;redlink=1" class="new" title="Template talk:Physics and Chemistry Event (page does not exist)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a rel="nofollow" class="external text" href="https://scioly.org/wiki/index.php?title=Template:Physics_and_Chemistry_Event&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Physical_Science_and_Chemistry_Events" style="font-size:114%;margin:0 4em">Physical Science and Chemistry Events</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">National Events</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Air_Trajectory" title="Air Trajectory">Air Trajectory</a></li>
+<li><a href="/wiki/index.php/Balloon_Race" title="Balloon Race">Balloon Race</a></li>
+<li><a href="/wiki/index.php/Can%27t_Judge_a_Powder" class="mw-redirect" title="Can&#39;t Judge a Powder">Can't Judge a Powder</a></li>
+<li><a href="/wiki/index.php/Chemistry_Lab" title="Chemistry Lab">Chemistry Lab</a></li>
+<li><a href="/wiki/index.php/Circuit_Lab" title="Circuit Lab">Circuit Lab</a></li>
+<li><a href="/wiki/index.php/Crave_the_Wave" title="Crave the Wave">Crave the Wave</a></li>
+<li><a href="/wiki/index.php/Crime_Busters" title="Crime Busters">Crime Busters</a></li>
+<li><a class="mw-selflink selflink">Density Lab</a></li>
+<li><a href="/wiki/index.php/Environmental_Chemistry" title="Environmental Chemistry">Environmental Chemistry</a></li>
+<li><a href="/wiki/index.php/Food_Science" title="Food Science">Food Science</a></li>
+<li><a href="/wiki/index.php/Forensics" title="Forensics">Forensics</a></li>
+<li><a href="/wiki/index.php/Hovercraft" title="Hovercraft">Hovercraft</a></li>
+<li><a href="/wiki/index.php/It%27s_About_Time" title="It&#39;s About Time">It's About Time</a></li>
+<li><a href="/wiki/index.php/Machines" title="Machines">Machines</a></li>
+<li><a href="/wiki/index.php/MagLev" title="MagLev">MagLev</a></li>
+<li><a href="/wiki/index.php/Materials_Science" title="Materials Science">Materials Science</a></li>
+<li><a href="/wiki/index.php/Optics" title="Optics">Optics</a></li>
+<li><a href="/wiki/index.php/Physics_Lab" title="Physics Lab">Physics Lab</a></li>
+<li><a href="/wiki/index.php/Potions_and_Poisons" title="Potions and Poisons">Potions and Poisons</a></li>
+<li><a href="/wiki/index.php/Protein_Modeling" title="Protein Modeling">Protein Modeling</a></li>
+<li><a href="/wiki/index.php/Sounds_of_Music" title="Sounds of Music">Sounds of Music</a></li>
+<li><a href="/wiki/index.php/Storm_the_Castle" title="Storm the Castle">Storm the Castle</a></li>
+<li><a href="/wiki/index.php/Thermodynamics" title="Thermodynamics">Thermodynamics</a></li>
+<li><a href="/wiki/index.php/Wind_Power" title="Wind Power">Wind Power</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Trial Events</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Solar_Power" title="Solar Power">Solar Power</a></li>
+<li><a href="/wiki/index.php/WiFi_Lab" title="WiFi Lab">WiFi Lab</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Event Resources</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Circuit_Lab/Episodes" title="Circuit Lab/Episodes">Circuit Lab Episodes</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="2020.2F2021_Events" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/index.php/Template:2021Events" title="Template:2021Events"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/index.php?title=Template_talk:2021Events&amp;action=edit&amp;redlink=1" class="new" title="Template talk:2021Events (page does not exist)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a rel="nofollow" class="external text" href="https://scioly.org/wiki/index.php?title=Template:2021Events&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="2020.2F2021_Events" style="font-size:114%;margin:0 4em">2020/2021 Events</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Division B Events</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Anatomy_and_Physiology" title="Anatomy and Physiology">Anatomy and Physiology</a></li>
+<li><a href="/wiki/index.php/Boomilever" title="Boomilever">Boomilever</a></li>
+<li><a href="/wiki/index.php/Circuit_Lab" title="Circuit Lab">Circuit Lab</a></li>
+<li><a href="/wiki/index.php/Crime_Busters" title="Crime Busters">Crime Busters</a></li>
+<li><a class="mw-selflink selflink">Density Lab</a></li>
+<li><a href="/wiki/index.php/Disease_Detectives" title="Disease Detectives">Disease Detectives</a></li>
+<li><a href="/wiki/index.php/Dynamic_Planet_Topics" title="Dynamic Planet Topics">Dynamic Planet</a></li>
+<li><a href="/wiki/index.php/Elastic_Launched_Glider" title="Elastic Launched Glider">Elastic Launched Glider</a></li>
+<li><a href="/wiki/index.php/Experimental_Design" title="Experimental Design">Experimental Design</a></li>
+<li><a href="/wiki/index.php/Food_Science" title="Food Science">Food Science</a></li>
+<li><a href="/wiki/index.php/Fossils" title="Fossils">Fossils</a></li>
+<li><a href="/wiki/index.php/Game_On" title="Game On">Game On</a></li>
+<li><a href="/wiki/index.php/Heredity" title="Heredity">Heredity</a></li>
+<li><a href="/wiki/index.php/Machines" title="Machines">Machines</a></li>
+<li><a href="/wiki/index.php/Meteorology" title="Meteorology">Meteorology</a></li>
+<li><a href="/wiki/index.php/Mission_Possible" title="Mission Possible">Mission Possible</a></li>
+<li><a href="/wiki/index.php/Mousetrap_Vehicle" title="Mousetrap Vehicle">Mousetrap Vehicle</a></li>
+<li><a href="/wiki/index.php/Ornithology" title="Ornithology">Ornithology</a></li>
+<li><a href="/wiki/index.php/Ping_Pong_Parachute" title="Ping Pong Parachute">Ping Pong Parachute</a></li>
+<li><a href="/wiki/index.php/Reach_for_the_Stars" title="Reach for the Stars">Reach for the Stars</a></li>
+<li><a href="/wiki/index.php/Road_Scholar" title="Road Scholar">Road Scholar</a></li>
+<li><a href="/wiki/index.php/Water_Quality" title="Water Quality">Water Quality</a></li>
+<li><a href="/wiki/index.php/Write_It_Do_It" title="Write It Do It">Write It Do It</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Division C Events</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Anatomy_and_Physiology" title="Anatomy and Physiology">Anatomy and Physiology</a></li>
+<li><a href="/wiki/index.php/Astronomy" title="Astronomy">Astronomy</a></li>
+<li><a href="/wiki/index.php/Boomilever" title="Boomilever">Boomilever</a></li>
+<li><a href="/wiki/index.php/Chemistry_Lab" title="Chemistry Lab">Chemistry Lab</a></li>
+<li><a href="/wiki/index.php/Circuit_Lab" title="Circuit Lab">Circuit Lab</a></li>
+<li><a href="/wiki/index.php/Codebusters" title="Codebusters">Codebusters</a></li>
+<li><a href="/wiki/index.php/Designer_Genes" title="Designer Genes">Designer Genes</a></li>
+<li><a href="/wiki/index.php/Detector_Building" title="Detector Building">Detector Building</a></li>
+<li><a href="/wiki/index.php/Disease_Detectives" title="Disease Detectives">Disease Detectives</a></li>
+<li><a href="/wiki/index.php/Dynamic_Planet_Topics" title="Dynamic Planet Topics">Dynamic Planet</a></li>
+<li><a href="/wiki/index.php/Experimental_Design" title="Experimental Design">Experimental Design</a></li>
+<li><a href="/wiki/index.php/Forensics" title="Forensics">Forensics</a></li>
+<li><a href="/wiki/index.php/Fossils" title="Fossils">Fossils</a></li>
+<li><a href="/wiki/index.php/GeoLogic_Mapping" title="GeoLogic Mapping">GeoLogic Mapping</a></li>
+<li><a href="/wiki/index.php/Gravity_Vehicle" title="Gravity Vehicle">Gravity Vehicle</a></li>
+<li><a href="/wiki/index.php/Machines" title="Machines">Machines</a></li>
+<li><a href="/wiki/index.php/Ornithology" title="Ornithology">Ornithology</a></li>
+<li><a href="/wiki/index.php/Ping_Pong_Parachute" title="Ping Pong Parachute">Ping Pong Parachute</a></li>
+<li><a href="/wiki/index.php/Protein_Modeling" title="Protein Modeling">Protein Modeling</a></li>
+<li><a href="/wiki/index.php/Sounds_of_Music" title="Sounds of Music">Sounds of Music</a></li>
+<li><a href="/wiki/index.php/Water_Quality" title="Water Quality">Water Quality</a></li>
+<li><a href="/wiki/index.php/Wright_Stuff" title="Wright Stuff">Wright Stuff</a></li>
+<li><a href="/wiki/index.php/Write_It_Do_It" title="Write It Do It">Write It Do It</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Division B National Trials 2020</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Aerial_Scramble" title="Aerial Scramble">Aerial Scramble</a></li>
+<li><a href="/wiki/index.php/Amazing_Mechatronics" title="Amazing Mechatronics">Amazing Mechatronics</a></li>
+<li><a href="/wiki/index.php/Codebusters" title="Codebusters">Codebusters</a></li>
+<li><a href="/wiki/index.php/Storm_the_Castle" title="Storm the Castle">Storm the Castle</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Division C National Trials 2020</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Aerial_Scramble" title="Aerial Scramble">Aerial Scramble</a></li>
+<li><a href="/wiki/index.php/Amazing_Mechatronics" title="Amazing Mechatronics">Amazing Mechatronics</a></li>
+<li><a href="/wiki/index.php/Environmental_Chemistry" title="Environmental Chemistry">Environmental Chemistry</a></li>
+<li><a href="/wiki/index.php/Trajectory" title="Trajectory">Trajectory</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Division B National Trials 2021</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Aerial_Scramble" title="Aerial Scramble">Aerial Scramble</a></li>
+<li><a href="/wiki/index.php/Awesome_Aquifers" title="Awesome Aquifers">Awesome Aquifers</a></li>
+<li><a href="/wiki/index.php/Botany" title="Botany">Botany</a></li>
+<li><a href="/wiki/index.php/Codebusters" title="Codebusters">Codebusters</a></li>
+<li><a href="/wiki/index.php/Electric_Wright_Stuff" title="Electric Wright Stuff">Electric Wright Stuff</a></li>
+<li><a href="/wiki/index.php/Home_Horticulture" title="Home Horticulture">Home Horticulture</a></li>
+<li><a href="/wiki/index.php/Solar_Power" title="Solar Power">Solar Power</a></li>
+<li><a href="/wiki/index.php/Storm_the_Castle" title="Storm the Castle">Storm the Castle</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Division C National Trials 2021</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Aerial_Scramble" title="Aerial Scramble">Aerial Scramble</a></li>
+<li><a href="/wiki/index.php/Botany" title="Botany">Botany</a></li>
+<li><a href="/wiki/index.php/Electric_Wright_Stuff" title="Electric Wright Stuff">Electric Wright Stuff</a></li>
+<li><a href="/wiki/index.php/Environmental_Chemistry" title="Environmental Chemistry">Environmental Chemistry</a></li>
+<li><a href="/wiki/index.php/Home_Horticulture" title="Home Horticulture">Home Horticulture</a></li>
+<li><a href="/wiki/index.php/Robot_Tour" title="Robot Tour">Robot Tour</a></li>
+<li><a href="/wiki/index.php/Solar_Power" title="Solar Power">Solar Power</a></li>
+<li><a href="/wiki/index.php/Trajectory" title="Trajectory">Trajectory</a></li>
+<li><a href="/wiki/index.php/WiFi_Lab" title="WiFi Lab">WiFi Lab</a></li></ul>
+</div></td></tr></tbody></table></div>
+
+<!-- 
+NewPP limit report
+Cached time: 20200806172107
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.364 seconds
+Real time usage: 0.438 seconds
+Preprocessor visited node count: 543/1000000
+Preprocessor generated node count: 4750/1000000
+Post‐expand include size: 24683/2097152 bytes
+Template argument size: 1734/2097152 bytes
+Highest expansion depth: 10/40
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 106/5000000 bytes
+Lua time usage: 0.030/7.000 seconds
+Lua virtual size: 8.62 MB/50 MB
+Lua estimated memory usage: 0 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  162.625      1 -total
+ 60.50%   98.388      2 Template:Navbox
+ 49.74%   80.887      1 Template:Physics_and_Chemistry_Event
+ 28.47%   46.302      1 Template:EventLinksBox
+ 18.13%   29.488      1 Template:2021Events
+  2.46%    3.998      1 Template:2018_National_Trials
+-->
+</div>
+<!-- Saved in parser cache with key wiki-wikiv2_:pcache:idhash:9626-0!canonical and timestamp 20200806172106 and revision id 101859
+ -->
+</div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://scioly.org/wiki/index.php?title=Density_Lab&amp;oldid=101859">https://scioly.org/wiki/index.php?title=Density_Lab&amp;oldid=101859</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/index.php/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/index.php/Category:Physical_Science_and_Chemistry_Events" title="Category:Physical Science and Chemistry Events">Physical Science and Chemistry Events</a></li><li><a href="/wiki/index.php/Category:Event_Pages" title="Category:Event Pages">Event Pages</a></li><li><a href="/wiki/index.php/Category:Lab_Event_Pages" title="Category:Lab Event Pages">Lab Event Pages</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-login"><a href="//scioly.org/forums/ucp.php?mode=login&amp;redirect=https%3A%2F%2Fscioly.org%2Fwiki%2Findex.php%2FDensity_Lab" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/index.php/Density_Lab" title="View the content page [c]" accesskey="c">Page</a></span></li><li id="ca-talk"><span><a href="/wiki/index.php/Talk:Density_Lab" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discussion</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/index.php/Density_Lab">Read</a></span></li><li id="ca-viewsource" class="collapsible"><span><a href="/wiki/index.php?title=Density_Lab&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li><li id="ca-history" class="collapsible"><span><a href="/wiki/index.php?title=Density_Lab&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/wiki/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Scioly.org" title="Search Scioly.org [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/index.php/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage"><a href="/wiki/index.php/Main_Page" title="Visit the main page [z]" accesskey="z">Main Page</a></li><li id="n-recentchanges"><a href="/wiki/index.php/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/wiki/index.php/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-MediaWiki-Help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">MediaWiki Help</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/index.php/Special:WhatLinksHere/Density_Lab" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/index.php/Special:RecentChangesLinked/Density_Lab" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/wiki/index.php/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="/wiki/index.php?title=Density_Lab&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/wiki/index.php?title=Density_Lab&amp;oldid=101859" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/wiki/index.php?title=Density_Lab&amp;action=info" title="More information about this page">Page information</a></li>				</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 29 June 2020, at 22:46.</li>
+								<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution</a> unless otherwise noted.</li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="http://creativecommons.org/licenses/by/3.0/"><img src="/wiki/resources/assets/licenses/cc-by.png" alt="Creative Commons Attribution" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<style>.MathJax_Display{display:inline !important;}
+.mathjax-wrapper{font-size:120%;}</style>
+<script type='text/x-mathjax-config'>MathJax.Hub.Config({displayAlign:'left',tex2jax:{displayMath:[['[math]','[/math]']]}})</script>
+<script src='//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.364","walltime":"0.438","ppvisitednodes":{"value":543,"limit":1000000},"ppgeneratednodes":{"value":4750,"limit":1000000},"postexpandincludesize":{"value":24683,"limit":2097152},"templateargumentsize":{"value":1734,"limit":2097152},"expansiondepth":{"value":10,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":106,"limit":5000000},"timingprofile":["100.00%  162.625      1 -total"," 60.50%   98.388      2 Template:Navbox"," 49.74%   80.887      1 Template:Physics_and_Chemistry_Event"," 28.47%   46.302      1 Template:EventLinksBox"," 18.13%   29.488      1 Template:2021Events","  2.46%    3.998      1 Template:2018_National_Trials"]},"scribunto":{"limitreport-timeusage":{"value":"0.030","limit":"7.000"},"limitreport-virtmemusage":{"value":9035776,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20200806172107","ttl":86400,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":113});});</script>
+	</body>
+</html>

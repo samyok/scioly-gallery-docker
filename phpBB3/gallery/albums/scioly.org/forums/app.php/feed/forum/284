@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+	<link rel="self" type="application/atom+xml" href="https://scioly.org/forums/app.php/feed/forum/284" />
+
+	<title>Scioly.org</title>
+	<subtitle>Science Olympiad Student Center</subtitle>
+	<link href="https://scioly.org/forums/index.php" />
+	<updated>2020-07-21T01:21:46-07:00</updated>
+
+	<author><name><![CDATA[Scioly.org]]></name></author>
+	<id>https://scioly.org/forums/app.php/feed/forum/284</id>
+
+		<entry>
+		<author><name><![CDATA[Nydauron]]></name></author>
+		<updated>2020-07-21T01:21:46-07:00</updated>
+
+		<published>2020-07-21T01:21:46-07:00</published>
+		<id>https://scioly.org/forums/viewtopic.php?t=15370&amp;p=423679#p423679</id>
+		<link href="https://scioly.org/forums/viewtopic.php?t=15370&amp;p=423679#p423679"/>
+		<title type="html"><![CDATA[Lab Events • Re: Circuit Lab B/C]]></title>
+
+					<category term="Lab Events" scheme="https://scioly.org/forums/viewforum.php?f=284" label="Lab Events"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewtopic.php?t=15370&amp;p=423679#p423679"><![CDATA[
+<blockquote class="uncited"><div><blockquote class="uncited"><div>What exactly are digital logic and digital operations and how many questions should I expect on the test? Thanks</div></blockquote>It's also probably a good idea to mess around with logic gate diagrams and try putting different gates together to get comfortable with them, tests will occasionally ask you to represent a logic formula with gates or vice versa, or even to model a circuit with logic gates</div></blockquote>This might be too advanced and complicated just to address this, but I thought I'd just put this out there.<br><br>An easy way to test circuits virtually is by using Verilog. I used it in my computer architecture class to help simulate complicated circuits, including registers, adders, and pipelined MIPS processors. In the beginning of the course, we used it to develop simple logic circuits to help familiarize with the language. Obviously, for the scope of Circuit Lab, you aren't going to be tested on computer architecture circuits, but simply just basic logic.<br><br>The language itself is pretty easy to learn. I'd say that the only downside is the <a href="https://iverilog.fandom.com/wiki/Installation_Guide" class="postlink">installation process</a> which might seem a bit complicated. Also, the program works best on Unix. (Installing it on Windows is kind of a pain, so I'd recommend you to get and setup the <a href="https://microsoft.com/en-us/p/ubuntu/9nblggh4msv6?activetab=pivot:overviewtab" class="postlink">Ubuntu client for Windows</a> and then following the Unix/Linux instructions if you want to install iVerilog. MacOS is built on top of Unix, so it's less of a pain.) Another hurdle some people might have is that this is a command line program, meaning the Verilog code must be complied and run using commands. I feel this is more of a learning curve as commands can found through some Google searches, but some people might not want to go through the hassle.<br><br>Again, Verilog is something that isn't necessary to have to evaluate these types of circuits, as it is really meant to evaluate registers and other computer circuits. I just wanted to put it out there, because you never know where it might come in handy for.<p>Statistics: Posted by <a href="https://scioly.org/forums/memberlist.php?mode=viewprofile&amp;u=36547">Nydauron</a> — July 21st, 2020, 1:21 am</p><hr />
+]]></content>
+	</entry>
+		<entry>
+		<author><name><![CDATA[jaggie34]]></name></author>
+		<updated>2020-07-21T00:02:35-07:00</updated>
+
+		<published>2020-07-21T00:02:35-07:00</published>
+		<id>https://scioly.org/forums/viewtopic.php?t=15370&amp;p=423676#p423676</id>
+		<link href="https://scioly.org/forums/viewtopic.php?t=15370&amp;p=423676#p423676"/>
+		<title type="html"><![CDATA[Lab Events • Re: Circuit Lab B/C]]></title>
+
+					<category term="Lab Events" scheme="https://scioly.org/forums/viewforum.php?f=284" label="Lab Events"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewtopic.php?t=15370&amp;p=423676#p423676"><![CDATA[
+<blockquote class="uncited"><div>What exactly are digital logic and digital operations and how many questions should I expect on the test? Thanks</div></blockquote>It's also probably a good idea to mess around with logic gate diagrams and try putting different gates together to get comfortable with them, tests will occasionally ask you to represent a logic formula with gates or vice versa, or even to model a circuit with logic gates<p>Statistics: Posted by <a href="https://scioly.org/forums/memberlist.php?mode=viewprofile&amp;u=42303">jaggie34</a> — July 21st, 2020, 12:02 am</p><hr />
+]]></content>
+	</entry>
+		<entry>
+		<author><name><![CDATA[jaah5211]]></name></author>
+		<updated>2020-07-19T18:25:19-07:00</updated>
+
+		<published>2020-07-19T18:25:19-07:00</published>
+		<id>https://scioly.org/forums/viewtopic.php?t=15362&amp;p=423634#p423634</id>
+		<link href="https://scioly.org/forums/viewtopic.php?t=15362&amp;p=423634#p423634"/>
+		<title type="html"><![CDATA[Lab Events • Re: Food Science B]]></title>
+
+					<category term="Lab Events" scheme="https://scioly.org/forums/viewforum.php?f=284" label="Lab Events"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewtopic.php?t=15362&amp;p=423634#p423634"><![CDATA[
+<blockquote class="uncited"><div><blockquote class="uncited"><div>In rule 2b, it says we must build a salinometer capable of measuring 1-10 percent salt solution. It also states that it must operate within a 500 ml beaker filled with at least 400 milliliters of water. But at the regional contest, while measuring the salt content of pickling liquids, we had to work with a 100 ml graduated cylinder. Should I expect to see that at state? Or should I just focus on 400 and 500ml when building the salinometer.</div></blockquote>I have run Food Science for several invitationals as well as having supplied the materials for the NYC Regional. The rule clearly states what you are saying. If you are provided a 100mL graduated cylinder I would definitely say something during the test. That is not appropriate.</div></blockquote> I would say it is a mistake from the regional (when they gave you a 100 mL graduated cylinder). At state, invitational and state, expect to see what is on the rule.<p>Statistics: Posted by <a href="https://scioly.org/forums/memberlist.php?mode=viewprofile&amp;u=34549">jaah5211</a> — July 19th, 2020, 6:25 pm</p><hr />
+]]></content>
+	</entry>
+		<entry>
+		<author><name><![CDATA[drcubbin]]></name></author>
+		<updated>2020-07-17T08:54:14-07:00</updated>
+
+		<published>2020-07-17T08:54:14-07:00</published>
+		<id>https://scioly.org/forums/viewtopic.php?t=15362&amp;p=423571#p423571</id>
+		<link href="https://scioly.org/forums/viewtopic.php?t=15362&amp;p=423571#p423571"/>
+		<title type="html"><![CDATA[Lab Events • Re: Food Science B]]></title>
+
+					<category term="Lab Events" scheme="https://scioly.org/forums/viewforum.php?f=284" label="Lab Events"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewtopic.php?t=15362&amp;p=423571#p423571"><![CDATA[
+<blockquote class="uncited"><div>Do we need to know about the fungus/yeasts in food like saccharomyces?</div></blockquote>I would almost guarantee a question or two on Saccharomyces.<p>Statistics: Posted by <a href="https://scioly.org/forums/memberlist.php?mode=viewprofile&amp;u=24806">drcubbin</a> — July 17th, 2020, 8:54 am</p><hr />
+]]></content>
+	</entry>
+		<entry>
+		<author><name><![CDATA[drcubbin]]></name></author>
+		<updated>2020-07-17T08:50:40-07:00</updated>
+
+		<published>2020-07-17T08:50:40-07:00</published>
+		<id>https://scioly.org/forums/viewtopic.php?t=15362&amp;p=423570#p423570</id>
+		<link href="https://scioly.org/forums/viewtopic.php?t=15362&amp;p=423570#p423570"/>
+		<title type="html"><![CDATA[Lab Events • Re: Food Science B]]></title>
+
+					<category term="Lab Events" scheme="https://scioly.org/forums/viewforum.php?f=284" label="Lab Events"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewtopic.php?t=15362&amp;p=423570#p423570"><![CDATA[
+<blockquote class="uncited"><div>In rule 2b, it says we must build a salinometer capable of measuring 1-10 percent salt solution. It also states that it must operate within a 500 ml beaker filled with at least 400 milliliters of water. But at the regional contest, while measuring the salt content of pickling liquids, we had to work with a 100 ml graduated cylinder. Should I expect to see that at state? Or should I just focus on 400 and 500ml when building the salinometer.</div></blockquote>I have run Food Science for several invitationals as well as having supplied the materials for the NYC Regional. The rule clearly states what you are saying. If you are provided a 100mL graduated cylinder I would definitely say something during the test. That is not appropriate.<p>Statistics: Posted by <a href="https://scioly.org/forums/memberlist.php?mode=viewprofile&amp;u=24806">drcubbin</a> — July 17th, 2020, 8:50 am</p><hr />
+]]></content>
+	</entry>
+		<entry>
+		<author><name><![CDATA[lindsmaurer]]></name></author>
+		<updated>2020-07-10T08:12:35-07:00</updated>
+
+		<published>2020-07-10T08:12:35-07:00</published>
+		<id>https://scioly.org/forums/viewtopic.php?t=15370&amp;p=423295#p423295</id>
+		<link href="https://scioly.org/forums/viewtopic.php?t=15370&amp;p=423295#p423295"/>
+		<title type="html"><![CDATA[Lab Events • Re: Circuit Lab B/C]]></title>
+
+					<category term="Lab Events" scheme="https://scioly.org/forums/viewforum.php?f=284" label="Lab Events"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewtopic.php?t=15370&amp;p=423295#p423295"><![CDATA[
+<blockquote class="uncited"><div>What exactly are digital logic and digital operations and how many questions should I expect on the test? Thanks</div></blockquote>Digital logic/operations is performing different operations using digital logic gates:<br><a href="https://avyscomputerscienceblog.files.wordpress.com/2016/08/logic-gates.png?w=676" class="postlink">https://avyscomputerscienceblog.files.w ... .png?w=676</a><br>(image was too big to attach but it's a good image)<br><br>Usually questions consist of asking you to create a truth table for a circuit created using those gates, identifying a gate that was created from other gates, creating or identifying a representation of a gate (which can be a lab or a test question), or questions on the gates themselves. There will also often be questions on boolean algebra in the same section as digital logic questions. Those are usually fairly simple, but I would suggest knowing the basics of boolean algebra, along with what Sum-of-Product form and Product-of-Sum forms are and how to convert. <br><br>As for how many questions to expect, usually easier tests won't have any, as they will stick to the core topics of the event, but harder tests will have 3-4 questions, and you may come across an occasional lab, so it's definitely worth knowing.<p>Statistics: Posted by <a href="https://scioly.org/forums/memberlist.php?mode=viewprofile&amp;u=37297">lindsmaurer</a> — July 10th, 2020, 8:12 am</p><hr />
+]]></content>
+	</entry>
+		<entry>
+		<author><name><![CDATA[ivanioc]]></name></author>
+		<updated>2020-07-10T07:29:11-07:00</updated>
+
+		<published>2020-07-10T07:29:11-07:00</published>
+		<id>https://scioly.org/forums/viewtopic.php?t=15370&amp;p=423294#p423294</id>
+		<link href="https://scioly.org/forums/viewtopic.php?t=15370&amp;p=423294#p423294"/>
+		<title type="html"><![CDATA[Lab Events • Re: Circuit Lab B/C]]></title>
+
+					<category term="Lab Events" scheme="https://scioly.org/forums/viewforum.php?f=284" label="Lab Events"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewtopic.php?t=15370&amp;p=423294#p423294"><![CDATA[
+What exactly are digital logic and digital operations and how many questions should I expect on the test? Thanks<p>Statistics: Posted by <a href="https://scioly.org/forums/memberlist.php?mode=viewprofile&amp;u=68417">ivanioc</a> — July 10th, 2020, 7:29 am</p><hr />
+]]></content>
+	</entry>
+		<entry>
+		<author><name><![CDATA[gz839918]]></name></author>
+		<updated>2020-07-07T13:41:01-07:00 </updated>
+
+		<published>2020-07-07T13:39:09-07:00</published>
+		<id>https://scioly.org/forums/viewtopic.php?t=15370&amp;p=423184#p423184</id>
+		<link href="https://scioly.org/forums/viewtopic.php?t=15370&amp;p=423184#p423184"/>
+		<title type="html"><![CDATA[Lab Events • Re: Circuit Lab B/C]]></title>
+
+					<category term="Lab Events" scheme="https://scioly.org/forums/viewforum.php?f=284" label="Lab Events"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewtopic.php?t=15370&amp;p=423184#p423184"><![CDATA[
+<blockquote class="uncited"><div>I had a question regarding electron volts. What are the corresponding formulas for finding eV per photon, work function, and velocity of the electrons? How many questions regarding this should I expect on the test?</div></blockquote>An electron-volt is a unit of energy; it's just an electron charge (<em class="text-italics">e</em>) multiplied by one volt (V), which gives the unit a nice memorable abbreviation of eV. In SI Units, the electron charge is 1.60 × 10<sup>−19</sup> coulombs, so 1 eV = <span style="font-size:130%;line-height:116%">(</span>1.60 × 10<sup>−19</sup> C<span style="font-size:130%;line-height:116%">)</span>(1 V) = 1.60 × 10<sup>−19</sup> C·V, which is also the same in joules because C·V = J.<br><br>You can find the energy of a single photon by <em class="text-italics">E</em> = <em class="text-italics">hf</em>, where <em class="text-italics">f</em> is the photon's frequency and <em class="text-italics">h</em> is Planck's constant. The work function is the amount of energy needed for a photon to make current start to flow in a material—it differs from material to material, but if you're given a graph or some data, you'd look at what amount of energy per photon would cause current to go from zero to a nonzero number.<br><br>An electron's kinetic energy is <img style="vertical-align:middle" src="http://latex.codecogs.com/png.latex?\text{\scriptsize $K = \frac12mv^2$}"><!--&lt;img src="http://www.forkosh.com/mathtex.cgi?{TEXT}" alt="{TEXT}" border=0 align="middle"&gt;-->, so once you know it's kinetic energy, you know it's velocity. It's a lot easier said than done because most of the time, you don't really know the kinetic energy of any individual electron. However, if your test asks about a photoelectric experiment, you can calculate the <em class="text-italics">maximum</em> speed of electrons through <em class="text-italics">K</em> = −Δ<em class="text-italics">U</em> = <em class="text-italics">e</em><em class="text-italics">V</em><sub>stop</sub>, where <em class="text-italics">e</em> is the electron charge again. (Sorry if this is confusing; if so, <a href="https://www.khanacademy.org/science/physics/quantum-physics/photons/a/photoelectric-effect" class="postlink">reading about the photoelectric effect</a> may give you a bit more background on where these equations come from.)<br><br>Because different test writers are in charge at different tournaments, it's entirely possible that that these topics come up at one tournament, but not another. I don't think I saw electron energy on tests very often back when I was in high school, but it always helps to learn more. Good luck! :<span style="font-size:85%;line-height:116%"></span>)<p>Statistics: Posted by <a href="https://scioly.org/forums/memberlist.php?mode=viewprofile&amp;u=47584">gz839918</a> — July 7th, 2020, 1:39 pm</p><hr />
+]]></content>
+	</entry>
+		<entry>
+		<author><name><![CDATA[ivanioc]]></name></author>
+		<updated>2020-07-07T09:27:04-07:00</updated>
+
+		<published>2020-07-07T09:27:04-07:00</published>
+		<id>https://scioly.org/forums/viewtopic.php?t=15370&amp;p=423169#p423169</id>
+		<link href="https://scioly.org/forums/viewtopic.php?t=15370&amp;p=423169#p423169"/>
+		<title type="html"><![CDATA[Lab Events • Re: Circuit Lab B/C]]></title>
+
+					<category term="Lab Events" scheme="https://scioly.org/forums/viewforum.php?f=284" label="Lab Events"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewtopic.php?t=15370&amp;p=423169#p423169"><![CDATA[
+I had a question regarding electron volts. What are the corresponding formulas for finding eV per photon, work function, and velocity of the electrons? How many questions regarding this should I expect on the test?<p>Statistics: Posted by <a href="https://scioly.org/forums/memberlist.php?mode=viewprofile&amp;u=68417">ivanioc</a> — July 7th, 2020, 9:27 am</p><hr />
+]]></content>
+	</entry>
+		<entry>
+		<author><name><![CDATA[kaylhsu23@gmail.com]]></name></author>
+		<updated>2020-07-07T09:15:23-07:00</updated>
+
+		<published>2020-07-07T09:15:23-07:00</published>
+		<id>https://scioly.org/forums/viewtopic.php?t=15362&amp;p=423167#p423167</id>
+		<link href="https://scioly.org/forums/viewtopic.php?t=15362&amp;p=423167#p423167"/>
+		<title type="html"><![CDATA[Lab Events • Re: Food Science B]]></title>
+
+					<category term="Lab Events" scheme="https://scioly.org/forums/viewforum.php?f=284" label="Lab Events"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewtopic.php?t=15362&amp;p=423167#p423167"><![CDATA[
+Do I need to know what each and every fermented food or just a select few?<p>Statistics: Posted by <a href="https://scioly.org/forums/memberlist.php?mode=viewprofile&amp;u=68419">kaylhsu23@gmail.com</a> — July 7th, 2020, 9:15 am</p><hr />
+]]></content>
+	</entry>
+	</feed>

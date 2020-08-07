@@ -1,0 +1,1646 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Wisconsin - Scioly.org</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Wisconsin","wgTitle":"Wisconsin","wgCurRevisionId":105545,"wgRevisionId":105545,"wgArticleId":287,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["State Pages"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Wisconsin","wgRelevantArticleId":287,"wgRequestId":"64d0b37b85db6383ddd97553","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":[]});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","site":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@1ltrs49",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","jquery.tablesorter","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/wiki/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/wiki/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/wiki/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.8"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/wiki/opensearch_desc.php" title="Scioly.org (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://scioly.org/wiki/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Scioly.org Atom feed" href="/wiki/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/wiki/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Wisconsin rootpage-Wisconsin skin-vector action-view"><meta property="og:title" content="Science Olympiad Student Center"/>
+<meta property="og:type" content="website"/>
+<meta property="og:url" content="https://scioly.org/"/>
+
+<meta property="og:image" content="http://scioly.org/src/img/logo/logo_square.png"/>
+<meta property="og:image:secure_url" content="https://scioly.org/src/img/logo/logo_square.png"/> 
+<meta property="og:image:type" content="image/png"/> 
+<meta property="og:image:width" content="500"/> 
+<meta property="og:image:height" content="500"/>
+
+<meta property="og:description" content="A resource by and for Science Olympiad students, coaches, and alumni nationwide."/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script type="text/javascript" src="/src/js/jquery.min.js"></script>
+<script type="text/javascript" src="/src/js/main.js"></script>
+
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+<link rel="stylesheet" type="text/css" href="/src/css/main.css">
+
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<link rel="icon" href="/favicon.ico" type="image/x-icon"><div class="site-nav">
+	<a href="/">
+		<img src="/src/img/logo/logo.png">
+	</a>
+	<div class="hamburger" onclick="hamburger(this)">
+		<div>
+			<div></div>
+			<div></div>
+			<div></div>
+		</div>
+	</div>
+	<ul>
+		<li><a href="/forums">Forums</a></li>
+		<li><a href="/wiki">Wiki</a></li>
+		<li><a href="/tests">Test Exchange</a></li>
+		<!-- <li><a href="/gallery">Image Gallery</a></li> -->
+		<!-- <li><a href="/invitational">Invites</a></li> -->
+		<li><a href="/chat">Chat</a></li>
+		<li><a href="/login" class="button">Login</a></li>
+	</ul>
+</div>
+<img class="print-only" src="/src/img/logo/logo_black.png" style="max-width: 150px;"><link rel="stylesheet" type="text/css" href="/src/css/wiki.css">
+<div id="wrap-me-up">
+
+
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Wisconsin</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Scioly.org</div>				<div id="contentSub"></div>
+								<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table align="right" class="infobox">
+
+<tbody><tr>
+<th colspan="2" style="font-size: larger; text-align: center;"><b>Wisconsin</b>
+</th></tr>
+<tr>
+<td colspan="2"><center><a href="/wiki/index.php/File:Wisconsin.svg" class="image"><img alt="Wisconsin.svg" src="/wiki/images/thumb/3/38/Wisconsin.svg/200px-Wisconsin.svg.png" width="200" height="205" srcset="/wiki/images/thumb/3/38/Wisconsin.svg/300px-Wisconsin.svg.png 1.5x, /wiki/images/thumb/3/38/Wisconsin.svg/400px-Wisconsin.svg.png 2x" /></a></center>
+</td></tr>
+<tr>
+<td colspan="2" style="margin: 5px; background-color: lavender; text-align: center;"><b>General Information</b>
+</td></tr>
+<tr>
+<td style="width: 100px;"><b>Member of SO since</b>
+</td>
+<td>1985
+</td></tr>
+<tr>
+<td style="width: 100px;"><b>Total teams</b>
+</td>
+<td>172
+</td></tr>
+<tr>
+<td style="width: 100px;"><b><a href="/wiki/index.php/Division_B" title="Division B">Division B</a> Champion</b>
+</td>
+<td><a href="/wiki/index.php/Hamilton_Middle_School_(Wisconsin)" title="Hamilton Middle School (Wisconsin)">Hamilton Middle School</a>
+</td></tr>
+<tr>
+<td style="width: 100px;"><b><a href="/wiki/index.php/Division_C" title="Division C">Division C</a> Champion</b>
+</td>
+<td><a href="/wiki/index.php/Madison_West_High_School" title="Madison West High School">Madison West High School</a>
+</td></tr>
+<tr>
+<td style="width: 100px;"><b>State Tournament Location</b>
+</td>
+<td>University of Wisconsin - Stevens Point (2020-2021)
+</td></tr>
+<tr>
+<td style="width: 100px;"><b>Date</b>
+</td>
+<td>April 16-17, 2021
+</td></tr>
+<tr>
+<td style="width: 100px;"><b>Website</b>
+</td>
+<td><a rel="nofollow" class="external free" href="http://wisconsinso.org/">http://wisconsinso.org/</a>
+</td></tr>
+</tbody></table>
+<p>Wisconsin has a strong Science Olympiad presence.
+</p>
+<div id="toc" class="toc"><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Past_State_Champions"><span class="tocnumber">1.1</span> <span class="toctext">Past State Champions</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Competitions"><span class="tocnumber">2</span> <span class="toctext">Competitions</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Invitationals"><span class="tocnumber">2.1</span> <span class="toctext">Invitationals</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Regional_Competitions"><span class="tocnumber">2.2</span> <span class="toctext">Regional Competitions</span></a>
+<ul>
+<li class="toclevel-3 tocsection-6"><a href="#Division_B"><span class="tocnumber">2.2.1</span> <span class="toctext">Division B</span></a></li>
+<li class="toclevel-3 tocsection-7"><a href="#Division_C"><span class="tocnumber">2.2.2</span> <span class="toctext">Division C</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-8"><a href="#State_Competition"><span class="tocnumber">2.3</span> <span class="toctext">State Competition</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#State_Tournament_Results"><span class="tocnumber">2.4</span> <span class="toctext">State Tournament Results</span></a>
+<ul>
+<li class="toclevel-3 tocsection-10"><a href="#Division_B_2"><span class="tocnumber">2.4.1</span> <span class="toctext">Division B</span></a></li>
+<li class="toclevel-3 tocsection-11"><a href="#Division_C_2"><span class="tocnumber">2.4.2</span> <span class="toctext">Division C</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#Current_Teams"><span class="tocnumber">3</span> <span class="toctext">Current Teams</span></a>
+<ul>
+<li class="toclevel-2 tocsection-13"><a href="#Division_B_3"><span class="tocnumber">3.1</span> <span class="toctext">Division B</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Division_C_3"><span class="tocnumber">3.2</span> <span class="toctext">Division C</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-15"><a href="#Defunct_Teams"><span class="tocnumber">4</span> <span class="toctext">Defunct Teams</span></a>
+<ul>
+<li class="toclevel-2 tocsection-16"><a href="#Division_B_4"><span class="tocnumber">4.1</span> <span class="toctext">Division B</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#Division_C_4"><span class="tocnumber">4.2</span> <span class="toctext">Division C</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-18"><a href="#External_Links"><span class="tocnumber">5</span> <span class="toctext">External Links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span></h2>
+<h3><span class="mw-headline" id="Past_State_Champions">Past State Champions</span></h3>
+<p>This is a record of the past state champions and runners up, and their respective places at the national competition, if applicable.  Scores at the state competition may be shown in parentheses.  Prior to 2009, tournament scoring was based on a high score wins model, with a first place getting 11 points, second place getting 10 points, and so on.  In 2009 and onward the traditional model of low score wins by assigning one point per place per event was established in Wisconsin.
+</p>
+<table class="wikitable sortable" style="text-align:center">
+
+<tbody><tr>
+<th rowspan="3"><big>Season</big></th>
+<th colspan="5"><big>Division B</big></th>
+<th colspan="5"><big>Division C</big>
+</th></tr>
+<tr>
+<th colspan="2"><big>Champion</big></th>
+<th colspan="2"><big>Runner-Up</big></th>
+<th><big>Third Place</big></th>
+<th colspan="2"><big>Champion</big></th>
+<th colspan="2"><big>Runner-Up</big></th>
+<th><big>Third Place</big>
+</th></tr>
+<tr>
+<th><big>Team</big></th>
+<th><big>Nats Place</big></th>
+<th><big>Team</big></th>
+<th><big>Nats Place</big></th>
+<th><big>Team</big></th>
+<th><big>Team</big></th>
+<th><big>Nats Place</big></th>
+<th><big>Team</big></th>
+<th><big>Nats Place</big></th>
+<th><big>Team</big>
+</th></tr>
+
+
+
+<tr>
+<td><b><a href="/wiki/index.php/1985_Wisconsin_State_Tournament" title="1985 Wisconsin State Tournament">1985</a> </b></td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td><a href="/wiki/index.php/Neenah_High_School" title="Neenah High School">Neenah High School</a>
+</td>
+<td>3rd
+</td>
+<td><a href="/wiki/index.php/Madison_West_High_School" title="Madison West High School">Madison West High School</a>
+</td>
+<td>21st
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php/1986_Wisconsin_State_Tournament" title="1986 Wisconsin State Tournament">1986</a> </b></td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td><a href="/wiki/index.php/Neenah_High_School" title="Neenah High School">Neenah High School</a>
+</td>
+<td>11th
+</td>
+<td><a href="/wiki/index.php/Madison_West_High_School" title="Madison West High School">Madison West High School</a>
+</td>
+<td>15th
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php/1987_Wisconsin_State_Tournament" title="1987 Wisconsin State Tournament">1987</a> </b></td>
+<td><a href="/wiki/index.php/Morse_Middle_School" class="mw-redirect" title="Morse Middle School">Morse Middle School</a>
+</td>
+<td>14th
+</td>
+<td><a href="/wiki/index.php/Menomonie_Middle_School" title="Menomonie Middle School">Menomonie Middle School</a>
+</td>
+<td>18th
+</td>
+<td>
+</td>
+<td><a href="/wiki/index.php/Madison_West_High_School" title="Madison West High School">Madison West High School</a>
+</td>
+<td>15th
+</td>
+<td><a href="/wiki/index.php/Washington_Park_High_School" title="Washington Park High School">Washington Park High School</a>
+</td>
+<td>19th
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php/1988_Wisconsin_State_Tournament" title="1988 Wisconsin State Tournament">1988</a> </b></td>
+<td><a href="/wiki/index.php/Morse_Middle_School" class="mw-redirect" title="Morse Middle School">Morse Middle School</a>
+</td>
+<td>4th
+</td>
+<td><a href="/wiki/index.php/Menomonie_Middle_School" title="Menomonie Middle School">Menomonie Middle School</a>
+</td>
+<td>17th
+</td>
+<td>
+</td>
+<td><a href="/wiki/index.php/Washington_Park_High_School" title="Washington Park High School">Washington Park High School</a> (150)
+</td>
+<td>4th
+</td>
+<td><a href="/wiki/index.php/Madison_West_High_School" title="Madison West High School">Madison West High School</a> (127)
+</td>
+<td>22nd
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php/1989_Wisconsin_State_Tournament" title="1989 Wisconsin State Tournament">1989</a> </b></td>
+<td><a href="/wiki/index.php/Menomonie_Middle_School" title="Menomonie Middle School">Menomonie Middle School</a>
+</td>
+<td>17th
+</td>
+<td><a href="/wiki/index.php/Morse_Middle_School" class="mw-redirect" title="Morse Middle School">Morse Middle School</a>
+</td>
+<td>24th
+</td>
+<td>
+</td>
+<td><a href="/wiki/index.php/Madison_West_High_School" title="Madison West High School">Madison West High School</a> (173)
+</td>
+<td>2nd
+</td>
+<td><a href="/wiki/index.php/Washington_Park_High_School" title="Washington Park High School">Washington Park High School</a> (153)
+</td>
+<td>11th
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php/1990_Wisconsin_State_Tournament" title="1990 Wisconsin State Tournament">1990</a> </b></td>
+<td><a href="/wiki/index.php/Morse_Middle_School" class="mw-redirect" title="Morse Middle School">Morse Middle School</a>
+</td>
+<td>18th
+</td>
+<td><a href="/wiki/index.php/Platteville_Middle_School" title="Platteville Middle School">Platteville Middle School</a>
+</td>
+<td>26th
+</td>
+<td>
+</td>
+<td><a href="/wiki/index.php/Washington_Park_High_School" title="Washington Park High School">Washington Park High School</a> (147)
+</td>
+<td>29th
+</td>
+<td><a href="/wiki/index.php/Madison_West_High_School" title="Madison West High School">Madison West High School</a> (142)
+</td>
+<td>24th
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php/1991_Wisconsin_State_Tournament" title="1991 Wisconsin State Tournament">1991</a> </b></td>
+<td><a href="/wiki/index.php/James_Madison_Middle_School" title="James Madison Middle School">James Madison Middle School</a> (109)
+</td>
+<td>33rd
+</td>
+<td><a href="/wiki/index.php/Morse_Middle_School" class="mw-redirect" title="Morse Middle School">Morse Middle School</a> (108.5)
+</td>
+<td>23rd
+</td>
+<td>
+</td>
+<td><a href="/wiki/index.php/Washington_Park_High_School" title="Washington Park High School">Washington Park High School</a> (176)
+</td>
+<td>12th
+</td>
+<td><a href="/wiki/index.php/Madison_West_High_School" title="Madison West High School">Madison West High School</a> (118)
+</td>
+<td>9th
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php/1992_Wisconsin_State_Tournament" title="1992 Wisconsin State Tournament">1992</a> </b></td>
+<td><a href="/wiki/index.php/Morse_Middle_School" class="mw-redirect" title="Morse Middle School">Morse Middle School</a>
+</td>
+<td>15th
+</td>
+<td><a href="/wiki/index.php/Wilson_Middle_School_(Wisconsin)" title="Wilson Middle School (Wisconsin)">Wilson Middle School</a>
+</td>
+<td>28th
+</td>
+<td>
+</td>
+<td><a href="/wiki/index.php/Madison_West_High_School" title="Madison West High School">Madison West High School</a> (168)
+</td>
+<td>13th
+</td>
+<td><a href="/wiki/index.php/Washington_Park_High_School" title="Washington Park High School">Washington Park High School</a> (158)
+</td>
+<td>-
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php/1993_Wisconsin_State_Tournament" title="1993 Wisconsin State Tournament">1993</a> </b></td>
+<td><a href="/wiki/index.php/James_Madison_Middle_School" title="James Madison Middle School">James Madison Middle School</a>
+</td>
+<td>25th
+</td>
+<td><a href="/wiki/index.php/Morse_Middle_School" class="mw-redirect" title="Morse Middle School">Morse Middle School</a>
+</td>
+<td>27th
+</td>
+<td>
+</td>
+<td><a href="/wiki/index.php/Madison_West_High_School" title="Madison West High School">Madison West High School</a> (174)
+</td>
+<td>19th
+</td>
+<td><a href="/wiki/index.php/Washington_Park_High_School" title="Washington Park High School">Washington Park High School</a> (133)
+</td>
+<td>-
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php/1994_Wisconsin_State_Tournament" title="1994 Wisconsin State Tournament">1994</a> </b></td>
+<td><a href="/wiki/index.php/Morse_Middle_School" class="mw-redirect" title="Morse Middle School">Morse Middle School</a>
+</td>
+<td>29th
+</td>
+<td><a href="/wiki/index.php/James_Madison_Middle_School" title="James Madison Middle School">James Madison Middle School</a>
+</td>
+<td>-
+</td>
+<td>
+</td>
+<td><a href="/wiki/index.php/Rufus_King_High_School" title="Rufus King High School">Rufus King High School</a> (168)
+</td>
+<td>13th
+</td>
+<td><a href="/wiki/index.php/Madison_West_High_School" title="Madison West High School">Madison West High School</a> (168)
+</td>
+<td>-
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php/1995_Wisconsin_State_Tournament" title="1995 Wisconsin State Tournament">1995</a> </b></td>
+<td><a href="/wiki/index.php/Morse_Middle_School" class="mw-redirect" title="Morse Middle School">Morse Middle School</a>
+</td>
+<td>20th
+</td>
+<td><a href="/wiki/index.php/James_Madison_Middle_School" title="James Madison Middle School">James Madison Middle School</a>
+</td>
+<td>-
+</td>
+<td>
+</td>
+<td><a href="/wiki/index.php/Madison_West_High_School" title="Madison West High School">Madison West High School</a> (181)
+</td>
+<td>33rd
+</td>
+<td><a href="/wiki/index.php/Washington_Park_High_School" title="Washington Park High School">Washington Park High School</a> (175)
+</td>
+<td>-
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php/1996_Wisconsin_State_Tournament" title="1996 Wisconsin State Tournament">1996</a> </b></td>
+<td><a href="/wiki/index.php/Morse_Middle_School" class="mw-redirect" title="Morse Middle School">Morse Middle School</a>
+</td>
+<td>13th
+</td>
+<td><a href="/wiki/index.php/Cherokee_Heights_Middle_School" title="Cherokee Heights Middle School">Cherokee Heights Middle School</a>
+</td>
+<td>-
+</td>
+<td>
+</td>
+<td><a href="/wiki/index.php/Madison_West_High_School" title="Madison West High School">Madison West High School</a> (185)
+</td>
+<td>22nd
+</td>
+<td><a href="/wiki/index.php/Rufus_King_High_School" title="Rufus King High School">Rufus King High School</a> (175)
+</td>
+<td>-
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php/1997_Wisconsin_State_Tournament" title="1997 Wisconsin State Tournament">1997</a> </b></td>
+<td><a href="/wiki/index.php/Cherokee_Heights_Middle_School" title="Cherokee Heights Middle School">Cherokee Heights Middle School</a>
+</td>
+<td>33rd
+</td>
+<td><a href="/wiki/index.php/Morse_Middle_School" class="mw-redirect" title="Morse Middle School">Morse Middle School</a>
+</td>
+<td>-
+</td>
+<td>
+</td>
+<td><a href="/wiki/index.php/Madison_West_High_School" title="Madison West High School">Madison West High School</a> (173)
+</td>
+<td>15th
+</td>
+<td><a href="/wiki/index.php/Washington_Park_High_School" title="Washington Park High School">Washington Park High School</a> (142)
+</td>
+<td>-
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php/1998_Wisconsin_State_Tournament" title="1998 Wisconsin State Tournament">1998</a> </b></td>
+<td><a href="/wiki/index.php/Platteville_Middle_School" title="Platteville Middle School">Platteville Middle School</a>
+</td>
+<td>45th
+</td>
+<td><a href="/wiki/index.php/Morse_Middle_School" class="mw-redirect" title="Morse Middle School">Morse Middle School</a>
+</td>
+<td>-
+</td>
+<td>
+</td>
+<td><a href="/wiki/index.php/Washington_Park_High_School" title="Washington Park High School">Washington Park High School</a> (156)
+</td>
+<td>34th
+</td>
+<td><a href="/wiki/index.php/Madison_West_High_School" title="Madison West High School">Madison West High School</a> (152)
+</td>
+<td>-
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php/1999_Wisconsin_State_Tournament" title="1999 Wisconsin State Tournament">1999</a> </b></td>
+<td><a href="/wiki/index.php/Platteville_Middle_School" title="Platteville Middle School">Platteville Middle School</a>
+</td>
+<td>40th
+</td>
+<td><a href="/wiki/index.php/North_Crawford_Middle_School" title="North Crawford Middle School">North Crawford Middle School</a>
+</td>
+<td>-
+</td>
+<td>
+</td>
+<td><a href="/wiki/index.php/Pittsville_High_School" title="Pittsville High School">Pittsville High School</a> (141)
+</td>
+<td>41st
+</td>
+<td><a href="/wiki/index.php/Madison_West_High_School" title="Madison West High School">Madison West High School</a> (136)
+</td>
+<td>-
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php/2000_Wisconsin_State_Tournament" title="2000 Wisconsin State Tournament">2000</a> </b></td>
+<td><a href="/wiki/index.php/Morse_Middle_School" class="mw-redirect" title="Morse Middle School">Morse Middle School</a>
+</td>
+<td>41st
+</td>
+<td><a href="/wiki/index.php/Platteville_Middle_School" title="Platteville Middle School">Platteville Middle School</a>
+</td>
+<td>-
+</td>
+<td>
+</td>
+<td><a href="/wiki/index.php/Washington_Park_High_School" title="Washington Park High School">Washington Park High School</a>  (157)
+</td>
+<td>47th
+</td>
+<td><a href="/wiki/index.php/Madison_West_High_School" title="Madison West High School">Madison West High School</a> (156)
+</td>
+<td>-
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php/2001_Wisconsin_State_Tournament" title="2001 Wisconsin State Tournament">2001</a> </b></td>
+<td><a href="/wiki/index.php/Morse_Middle_School" class="mw-redirect" title="Morse Middle School">Morse Middle School</a> (166.5)
+</td>
+<td>26th
+</td>
+<td><a href="/wiki/index.php/Rice_Lake_Middle_School" title="Rice Lake Middle School">Rice Lake Middle School</a> (130)
+</td>
+<td>-
+</td>
+<td>
+</td>
+<td><a href="/wiki/index.php/Madison_West_High_School" title="Madison West High School">Madison West High School</a> (166)
+</td>
+<td>21st
+</td>
+<td><a href="/wiki/index.php/Menomonie_Sr._High_School" class="mw-redirect" title="Menomonie Sr. High School">Menomonie Sr. High School</a> (140)
+</td>
+<td>-
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php/2002_Wisconsin_State_Tournament" title="2002 Wisconsin State Tournament">2002</a> </b></td>
+<td><a href="/wiki/index.php/Cherokee_Heights_Middle_School" title="Cherokee Heights Middle School">Cherokee Heights Middle School</a> (138)
+</td>
+<td>44th
+</td>
+<td><a href="/wiki/index.php/Morse_Middle_School" class="mw-redirect" title="Morse Middle School">Morse Middle School</a> (122)
+</td>
+<td>-
+</td>
+<td>
+</td>
+<td><a href="/wiki/index.php/Madison_West_High_School" title="Madison West High School">Madison West High School</a> (193)
+</td>
+<td>21st
+</td>
+<td><a href="/wiki/index.php/Menomonie_Sr._High_School" class="mw-redirect" title="Menomonie Sr. High School">Menomonie Sr. High School</a> (119)
+</td>
+<td>-
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php/2003_Wisconsin_State_Tournament" title="2003 Wisconsin State Tournament">2003</a> </b></td>
+<td><a href="/wiki/index.php/Morse_Middle_School" class="mw-redirect" title="Morse Middle School">Morse Middle School</a>
+</td>
+<td>23rd
+</td>
+<td><a href="/wiki/index.php/Cherokee_Heights_Middle_School" title="Cherokee Heights Middle School">Cherokee Heights Middle School</a>
+</td>
+<td>-
+</td>
+<td>
+</td>
+<td><a href="/wiki/index.php/Madison_West_High_School" title="Madison West High School">Madison West High School</a> (195)
+</td>
+<td>26th
+</td>
+<td><a href="/wiki/index.php/Menomonie_Sr._High_School" class="mw-redirect" title="Menomonie Sr. High School">Menomonie Sr. High School</a> (160)
+</td>
+<td>-
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php/2004_Wisconsin_State_Tournament" title="2004 Wisconsin State Tournament">2004</a> </b></td>
+<td><a href="/wiki/index.php/Menomonie_Middle_School" title="Menomonie Middle School">Menomonie Middle School</a> (168)
+</td>
+<td>38th
+</td>
+<td><a href="/wiki/index.php/Morse_Middle_School" class="mw-redirect" title="Morse Middle School">Morse Middle School</a> (124)
+</td>
+<td>-
+</td>
+<td>
+</td>
+<td><a href="/wiki/index.php/Madison_West_High_School" title="Madison West High School">Madison West High School</a>
+</td>
+<td>28th
+</td>
+<td><a href="/wiki/index.php/Medford_High_School" title="Medford High School">Medford High School</a>
+</td>
+<td>-
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php/2005_Wisconsin_State_Tournament" title="2005 Wisconsin State Tournament">2005</a> </b></td>
+<td><a href="/wiki/index.php/Menomonie_Middle_School" title="Menomonie Middle School">Menomonie Middle School</a>
+</td>
+<td>45th
+</td>
+<td><a href="/wiki/index.php/Rice_Lake_Middle_School" title="Rice Lake Middle School">Rice Lake Middle School</a>
+</td>
+<td>-
+</td>
+<td>
+</td>
+<td><a href="/wiki/index.php/Madison_West_High_School" title="Madison West High School">Madison West High School</a> (179)
+</td>
+<td>22nd
+</td>
+<td><a href="/wiki/index.php/Madison_LaFollette_High_School" title="Madison LaFollette High School">Madison LaFollette High School</a> (142)
+</td>
+<td>-
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php/2006_Wisconsin_State_Tournament" title="2006 Wisconsin State Tournament">2006</a> </b></td>
+<td><a href="/wiki/index.php/Menomonie_Middle_School" title="Menomonie Middle School">Menomonie Middle School</a> (151)
+</td>
+<td>35th
+</td>
+<td><a href="/wiki/index.php/Marshall_Middle_School_(Wisconsin)" title="Marshall Middle School (Wisconsin)">Marshall Middle School</a> (119.5)
+</td>
+<td>51st
+</td>
+<td>
+</td>
+<td><a href="/wiki/index.php/Madison_West_High_School" title="Madison West High School">Madison West High School</a> (179)
+</td>
+<td>21st
+</td>
+<td><a href="/wiki/index.php/Madison_LaFollette_High_School" title="Madison LaFollette High School">Madison LaFollette High School</a> (139)
+</td>
+<td>-
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php/2007_Wisconsin_State_Tournament" title="2007 Wisconsin State Tournament">2007</a> </b></td>
+<td><a href="/wiki/index.php/Rice_Lake_Middle_School" title="Rice Lake Middle School">Rice Lake Middle School</a>
+</td>
+<td>49th
+</td>
+<td><a href="/wiki/index.php/Menomonie_Middle_School" title="Menomonie Middle School">Menomonie Middle School</a>
+</td>
+<td>48th
+</td>
+<td>
+</td>
+<td><a href="/wiki/index.php/Madison_West_High_School" title="Madison West High School">Madison West High School</a> (165)
+</td>
+<td>22nd
+</td>
+<td><a href="/wiki/index.php/Madison_LaFollette_High_School" title="Madison LaFollette High School">Madison LaFollette High School</a> (149)
+</td>
+<td>-
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php/2008_Wisconsin_State_Tournament" title="2008 Wisconsin State Tournament">2008</a> </b></td>
+<td><a href="/wiki/index.php/Marshall_Middle_School_(Wisconsin)" title="Marshall Middle School (Wisconsin)">Marshall Middle School</a>
+</td>
+<td>45th
+</td>
+<td><a href="/wiki/index.php/Rice_Lake_Middle_School" title="Rice Lake Middle School">Rice Lake Middle School</a>
+</td>
+<td>-
+</td>
+<td>
+</td>
+<td><a href="/wiki/index.php/Menomonie_Sr._High_School" class="mw-redirect" title="Menomonie Sr. High School">Menomonie Sr. High School</a> (163)
+</td>
+<td>25th
+</td>
+<td><a href="/wiki/index.php/Madison_West_High_School" title="Madison West High School">Madison West High School</a> (155)
+</td>
+<td>-
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php/2009_Wisconsin_State_Tournament" title="2009 Wisconsin State Tournament">2009</a> </b></td>
+<td><a href="/wiki/index.php/Menomonie_Middle_School" title="Menomonie Middle School">Menomonie Middle School</a> (155)
+</td>
+<td>37th
+</td>
+<td><a href="/wiki/index.php/Marshall_Middle_School_(Wisconsin)" title="Marshall Middle School (Wisconsin)">Marshall Middle School</a> (164)
+</td>
+<td>-
+</td>
+<td>
+</td>
+<td><a href="/wiki/index.php/Menomonie_Sr._High_School" class="mw-redirect" title="Menomonie Sr. High School">Menomonie Sr. High School</a> (46)
+</td>
+<td>28th
+</td>
+<td><a href="/wiki/index.php/Madison_West_High_School" title="Madison West High School">Madison West High School</a> (67)
+</td>
+<td>-
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php/2010_Wisconsin_State_Tournament" title="2010 Wisconsin State Tournament">2010</a> </b></td>
+<td><a href="/wiki/index.php/Hamilton_Middle_School" title="Hamilton Middle School">Hamilton Middle School</a> (162)
+</td>
+<td>34th
+</td>
+<td><a href="/wiki/index.php/Eagle_School_of_Madison" title="Eagle School of Madison">Eagle School of Madison</a> (181)
+</td>
+<td>-
+</td>
+<td>
+</td>
+<td><a href="/wiki/index.php/Madison_West_High_School" title="Madison West High School">Madison West High School</a> (76)
+</td>
+<td>25th
+</td>
+<td><a href="/wiki/index.php/Menomonie_Sr._High_School" class="mw-redirect" title="Menomonie Sr. High School">Menomonie Sr. High School</a> (76)
+</td>
+<td>-
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php/2011_Wisconsin_State_Tournament" title="2011 Wisconsin State Tournament">2011</a> </b></td>
+<td><a href="/wiki/index.php/Hamilton_Middle_School" title="Hamilton Middle School">Hamilton Middle School</a> (116)
+</td>
+<td>16th
+</td>
+<td><a href="/wiki/index.php/Menomonie_Middle_School" title="Menomonie Middle School">Menomonie Middle School</a> (201)
+</td>
+<td>-
+</td>
+<td>
+</td>
+<td><a href="/wiki/index.php/Menomonie_Sr._High_School" class="mw-redirect" title="Menomonie Sr. High School">Menomonie Sr. High School</a> (60)
+</td>
+<td>12th
+</td>
+<td><a href="/wiki/index.php/Madison_West_High_School" title="Madison West High School">Madison West High School</a> (119)
+</td>
+<td>-
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php/2012_Wisconsin_State_Tournament" title="2012 Wisconsin State Tournament">2012</a> </b></td>
+<td><a href="/wiki/index.php/Hamilton_Middle_School" title="Hamilton Middle School">Hamilton Middle School</a> (85)
+</td>
+<td>12th
+</td>
+<td><a href="/wiki/index.php/Eagle_School_of_Madison" title="Eagle School of Madison">Eagle School of Madison</a> (188)
+</td>
+<td>-
+</td>
+<td>
+</td>
+<td><a href="/wiki/index.php/Madison_West_High_School" title="Madison West High School">Madison West High School</a> (54)
+</td>
+<td>20th
+</td>
+<td><a href="/wiki/index.php/Menomonie_Sr._High_School" class="mw-redirect" title="Menomonie Sr. High School">Menomonie Sr. High School</a> (57)
+</td>
+<td>-
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php/2013_Wisconsin_State_Tournament" title="2013 Wisconsin State Tournament">2013</a> </b></td>
+<td><a href="/wiki/index.php/Hamilton_Middle_School" title="Hamilton Middle School">Hamilton Middle School</a> (106)
+</td>
+<td>20th
+</td>
+<td><a href="/wiki/index.php/Waunakee_Middle_School" title="Waunakee Middle School">Waunakee Middle School</a> (183)
+</td>
+<td>-
+</td>
+<td>
+</td>
+<td><a href="/wiki/index.php/Madison_West_High_School" title="Madison West High School">Madison West High School</a> (78)
+</td>
+<td>17th
+</td>
+<td><a href="/wiki/index.php/Menomonie_Sr._High_School" class="mw-redirect" title="Menomonie Sr. High School">Menomonie Sr. High School</a> (112)
+</td>
+<td>-
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php/2014_Wisconsin_State_Tournament" title="2014 Wisconsin State Tournament">2014</a> </b></td>
+<td><a href="/wiki/index.php/Hamilton_Middle_School" title="Hamilton Middle School">Hamilton Middle School</a> (100)
+</td>
+<td>27th
+</td>
+<td><a href="/wiki/index.php/Waunakee_Middle_School" title="Waunakee Middle School">Waunakee Middle School</a> (131)
+</td>
+<td>-
+</td>
+<td>
+</td>
+<td><a href="/wiki/index.php/Menomonie_Sr._High_School" class="mw-redirect" title="Menomonie Sr. High School">Menomonie Sr. High School</a> (70)
+</td>
+<td>26th
+</td>
+<td><a href="/wiki/index.php/Madison_West_High_School" title="Madison West High School">Madison West High School</a> (123)
+</td>
+<td>-
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php/2015_Wisconsin_State_Tournament" title="2015 Wisconsin State Tournament">2015</a> </b></td>
+<td><a href="/wiki/index.php/Hamilton_Middle_School" title="Hamilton Middle School">Hamilton Middle School</a> (97)
+</td>
+<td>27th
+</td>
+<td><a href="/wiki/index.php/Menomonie_Middle_School" title="Menomonie Middle School">Menomonie Middle School</a> (142)
+</td>
+<td>-
+</td>
+<td>
+</td>
+<td><a href="/wiki/index.php/Menomonie_Sr._High_School" class="mw-redirect" title="Menomonie Sr. High School">Menomonie Sr. High School</a> (66)
+</td>
+<td>24th
+</td>
+<td><a href="/wiki/index.php/Madison_West_High_School" title="Madison West High School">Madison West High School</a> (69)
+</td>
+<td>-
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php/2016_Wisconsin_State_Tournament" title="2016 Wisconsin State Tournament">2016</a> </b></td>
+<td><a href="/wiki/index.php/Hamilton_Middle_School" title="Hamilton Middle School">Hamilton Middle School</a> (82)
+</td>
+<td>18th
+</td>
+<td><a href="/wiki/index.php/Menomonie_Middle_School" title="Menomonie Middle School">Menomonie Middle School</a> (91)
+</td>
+<td>-
+</td>
+<td>
+</td>
+<td><a href="/wiki/index.php/Menomonie_Sr._High_School" class="mw-redirect" title="Menomonie Sr. High School">Menomonie Sr. High School</a> (58)
+</td>
+<td>22nd
+</td>
+<td><a href="/wiki/index.php/Madison_West_High_School" title="Madison West High School">Madison West High School</a> (59)
+</td>
+<td>-
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php/2017_Wisconsin_State_Tournament" title="2017 Wisconsin State Tournament">2017</a> </b></td>
+<td><a href="/wiki/index.php/Hamilton_Middle_School" title="Hamilton Middle School">Hamilton Middle School</a> (42)
+</td>
+<td>12th
+</td>
+<td><a href="/wiki/index.php/Menomonie_Middle_School" title="Menomonie Middle School">Menomonie Middle School</a> (95)
+</td>
+<td>-
+</td>
+<td>
+</td>
+<td><a href="/wiki/index.php/Medford_High_School" title="Medford High School">Medford High School</a> (98)
+</td>
+<td>40th
+</td>
+<td><a href="/wiki/index.php/Menomonie_Sr._High_School" class="mw-redirect" title="Menomonie Sr. High School">Menomonie Sr. High School</a> (110)
+</td>
+<td>-
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php/2018_Wisconsin_State_Tournament" title="2018 Wisconsin State Tournament">2018</a> </b></td>
+<td><a href="/wiki/index.php/Hamilton_Middle_School" title="Hamilton Middle School">Hamilton Middle School</a> (46)
+</td>
+<td>16th
+</td>
+<td><a href="/wiki/index.php/Menomonie_Middle_School" title="Menomonie Middle School">Menomonie Middle School</a> (125)
+</td>
+<td>-
+</td>
+<td>
+</td>
+<td><a href="/wiki/index.php/Madison_West_High_School" title="Madison West High School">Madison West High School</a> (61)
+</td>
+<td>22nd
+</td>
+<td><a href="/wiki/index.php/Menomonie_Sr._High_School" class="mw-redirect" title="Menomonie Sr. High School">Menomonie Sr. High School</a> (91)
+</td>
+<td>-
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php/2019_Wisconsin_State_Tournament" title="2019 Wisconsin State Tournament">2019</a> </b></td>
+<td><a href="/wiki/index.php/Hamilton_Middle_School_(Wisconsin)" title="Hamilton Middle School (Wisconsin)">Hamilton Middle School</a> (45)
+</td>
+<td>16th
+</td>
+<td><a href="/wiki/index.php/Boyceville_Middle_School" title="Boyceville Middle School">Boyceville Middle School</a> (100)
+</td>
+<td>-
+</td>
+<td>
+</td>
+<td><a href="/wiki/index.php/Madison_West_High_School" title="Madison West High School">Madison West High School</a> (55)
+</td>
+<td>20th
+</td>
+<td><a href="/wiki/index.php/Menomonie_Sr._High_School" class="mw-redirect" title="Menomonie Sr. High School">Menomonie Sr. High School</a> (67)
+</td>
+<td>-
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php/2020_Wisconsin_State_Tournament" title="2020 Wisconsin State Tournament">2020</a> </b></td>
+<td colspan="10"><i>Cancelled due to the <a href="/wiki/index.php/2019-20_Coronavirus_outbreak" title="2019-20 Coronavirus outbreak">2019-20 Coronavirus outbreak</a></i>
+</td></tr>
+
+
+
+
+
+</tbody></table>
+<dl><dd></dd>
+<dd></dd>
+<dd></dd>
+<dd></dd>
+<dd></dd>
+<dd></dd>
+<dd></dd>
+<dd></dd>
+<dd></dd>
+<dd></dd></dl>
+<p><br />
+</p>
+<h2><span class="mw-headline" id="Competitions">Competitions</span></h2>
+<h3><span class="mw-headline" id="Invitationals"><a href="/wiki/index.php/Invitationals" class="mw-redirect" title="Invitationals">Invitationals</a></span></h3>
+<dl><dd><a href="/wiki/index.php/Belleville_Invitational" title="Belleville Invitational">Belleville Invitational</a> (B/C) - Belleville High School - November 16, 2019 - <a rel="nofollow" class="external autonumber" href="https://www.wisconsinso.org/bellevillediv-c">[1]</a></dd>
+<dd><a href="/wiki/index.php/Boyceville_Invitational" title="Boyceville Invitational">Boyceville Invitational</a> (B/C) - Boyceville High School - December 7, 2019 - <a rel="nofollow" class="external autonumber" href="http://scienceolympiad.boycevillescience.com/invite/">[2]</a></dd>
+<dd><a href="/wiki/index.php/Marquette_University_High_Invitational" title="Marquette University High Invitational">Marquette University High Invitational</a> (C) - Marquette University High School - December 7, 2019 - <a rel="nofollow" class="external autonumber" href="https://www.wisconsinso.org/muhsdiv-c">[3]</a></dd>
+<dd><a href="/wiki/index.php/Medford_Invitational" title="Medford Invitational">Medford Invitational</a> (B/C) - Medford High School - January 11, 2020</dd>
+<dd><a href="/wiki/index.php/UW-RF_Border_Battle_Invitational" title="UW-RF Border Battle Invitational">UW-RF Border Battle Invitational</a> (C) - UW-River Falls - January 25, 2020 - <a rel="nofollow" class="external autonumber" href="https://www.uwrf.edu/PHYS/olympiad/">[4]</a></dd>
+<dd><a href="/wiki/index.php/Badger_Invitational" title="Badger Invitational">Badger Invitational</a> (B/C) - Hamilton Middle School - February 29, 2020 - <a rel="nofollow" class="external autonumber" href="https://www.wisconsinso.org/badger-div-b-c">[5]</a></dd>
+<dd><a href="/wiki/index.php/Slinger_Invitational" title="Slinger Invitational">Slinger Invitational</a> (C) - Slinger High School - March 14, 2020</dd></dl>
+<h3><span class="mw-headline" id="Regional_Competitions">Regional Competitions</span></h3>
+<p>For more information regarding current and past regionals, see <a href="/wiki/index.php/Regions_of_Wisconsin" title="Regions of Wisconsin">Regions of Wisconsin</a>
+</p>
+<h4><span class="mw-headline" id="Division_B">Division B</span></h4>
+<dl><dd><a href="/wiki/index.php/Wisconsin_South_East_Regional" title="Wisconsin South East Regional">South East Regional</a> - UW-Milwaukee - January 25, 2020</dd>
+<dd><a href="/wiki/index.php/Wisconsin_Division_B_West_Regional" title="Wisconsin Division B West Regional">West Regional</a> - Boyceville High School - February 15, 2020</dd></dl>
+<h4><span class="mw-headline" id="Division_C">Division C</span></h4>
+<dl><dd><a href="/wiki/index.php/Wisconsin_South_East_Regional" title="Wisconsin South East Regional">South East Regional</a> - UW-Milwaukee - January 25, 2020</dd>
+<dd><a href="/wiki/index.php/Wisconsin_South_Central_Regional" title="Wisconsin South Central Regional">South Central Regional</a> - Madison Edgewood College - February 1, 2020</dd>
+<dd><a href="/wiki/index.php/Wisconsin_North_Regional" title="Wisconsin North Regional">North Regional</a> - UW-Stevens Point - February 15, 2020</dd>
+<dd><a href="/wiki/index.php/Wisconsin_Division_C_West_Regional" title="Wisconsin Division C West Regional">West Regional</a> - Menomonie High School - March 7, 2020</dd></dl>
+<h3><span class="mw-headline" id="State_Competition">State Competition</span></h3>
+<dl><dd>2021 Division B &amp; C location: UW-Stevens Point Friday-Saturday April 16-17, 2021</dd></dl>
+<h3><span class="mw-headline" id="State_Tournament_Results">State Tournament Results</span></h3>
+<div style="width: 50%; float: left;">
+<h4><span class="mw-headline" id="Division_B_2">Division B</span></h4>
+<dl><dd><a href="/wiki/images/c/cd/1991_Wisconsin_B_State.pdf" class="internal" title="1991 Wisconsin B State.pdf">1991</a></dd>
+<dd><a href="/wiki/images/0/04/2001_Wisconsin_B_State.pdf" class="internal" title="2001 Wisconsin B State.pdf">2001</a></dd>
+<dd><a href="/wiki/images/2/28/2002_Wisconsin_B_State.pdf" class="internal" title="2002 Wisconsin B State.pdf">2002</a></dd>
+<dd><a href="/wiki/images/b/b2/2004_Wisconsin_B_State.pdf" class="internal" title="2004 Wisconsin B State.pdf">2004</a></dd>
+<dd><a href="/wiki/images/d/d8/2006_Wisconsin_B_State.pdf" class="internal" title="2006 Wisconsin B State.pdf">2006</a></dd>
+<dd><a href="/wiki/images/0/00/2009_Wisconsin_B_State.pdf" class="internal" title="2009 Wisconsin B State.pdf">2009</a></dd>
+<dd><a href="/wiki/images/f/f0/2010_Wisconsin_B_State.pdf" class="internal" title="2010 Wisconsin B State.pdf">2010</a></dd>
+<dd><a href="/wiki/images/c/c3/2011_Wisconsin_B_State.pdf" class="internal" title="2011 Wisconsin B State.pdf">2011</a></dd>
+<dd><a href="/wiki/images/9/9f/2012_Wisconsin_B_State.pdf" class="internal" title="2012 Wisconsin B State.pdf">2012</a></dd>
+<dd><a href="/wiki/images/c/ca/2013_Wisconsin_B_State.pdf" class="internal" title="2013 Wisconsin B State.pdf">2013</a></dd>
+<dd><a href="/wiki/images/d/d2/2014_Wisconsin_B_State.pdf" class="internal" title="2014 Wisconsin B State.pdf">2014</a></dd>
+<dd><a href="/wiki/images/c/cd/2015_WI_B_Results.jpg" class="internal" title="2015 WI B Results.jpg">2015</a></dd>
+<dd><a href="/wiki/images/f/fa/2016_WI_B_Results.jpg" class="internal" title="2016 WI B Results.jpg">2016</a></dd>
+<dd><a href="/wiki/images/3/33/2017_WI_B_Results.pdf" class="internal" title="2017 WI B Results.pdf">2017</a></dd>
+<dd><a href="/wiki/images/0/0a/2018_WI_B_Results.png" class="internal" title="2018 WI B Results.png">2018</a></dd>
+<dd><a href="/wiki/images/4/4d/2019_WI_B_Results.pdf" class="internal" title="2019 WI B Results.pdf">2019</a></dd></dl>
+</div>
+<div style="width: 50%; float: left;">
+<h4><span class="mw-headline" id="Division_C_2">Division C</span></h4>
+<dl><dd><a href="/wiki/images/b/bf/1988_Wisconsin_C_State.pdf" class="internal" title="1988 Wisconsin C State.pdf">1988</a></dd>
+<dd><a href="/wiki/images/9/96/1989_Wisconsin_C_State.pdf" class="internal" title="1989 Wisconsin C State.pdf">1989</a></dd>
+<dd><a href="/wiki/images/0/0b/1990_Wisconsin_C_State.pdf" class="internal" title="1990 Wisconsin C State.pdf">1990</a></dd>
+<dd><a href="/wiki/images/d/dc/1991_Wisconsin_C_State.pdf" class="internal" title="1991 Wisconsin C State.pdf">1991</a></dd>
+<dd><a href="/wiki/images/3/37/1992_Wisconsin_C_State.pdf" class="internal" title="1992 Wisconsin C State.pdf">1992</a></dd>
+<dd><a href="/wiki/images/1/1a/1993_Wisconsin_C_State.pdf" class="internal" title="1993 Wisconsin C State.pdf">1993</a></dd>
+<dd><a href="/wiki/images/4/4b/1994_Wisconsin_C_State.pdf" class="internal" title="1994 Wisconsin C State.pdf">1994</a></dd>
+<dd><a href="/wiki/images/4/44/1995_Wisconsin_C_State.pdf" class="internal" title="1995 Wisconsin C State.pdf">1995</a></dd>
+<dd><a href="/wiki/images/4/48/1996_Wisconsin_C_State.pdf" class="internal" title="1996 Wisconsin C State.pdf">1996</a></dd>
+<dd><a href="/wiki/images/9/9c/1997_Wisconsin_C_State.pdf" class="internal" title="1997 Wisconsin C State.pdf">1997</a></dd>
+<dd><a href="/wiki/images/5/50/1998_Wisconsin_C_State.pdf" class="internal" title="1998 Wisconsin C State.pdf">1998</a></dd>
+<dd><a href="/wiki/images/a/a3/1999_Wisconsin_C_State.pdf" class="internal" title="1999 Wisconsin C State.pdf">1999</a></dd>
+<dd><a href="/wiki/images/2/2b/2000_Wisconsin_C_State.pdf" class="internal" title="2000 Wisconsin C State.pdf">2000</a></dd>
+<dd><a href="/wiki/images/c/c0/2001_Wisconsin_C_State.pdf" class="internal" title="2001 Wisconsin C State.pdf">2001</a></dd>
+<dd><a href="/wiki/images/5/53/2002_Wisconsin_C_State.pdf" class="internal" title="2002 Wisconsin C State.pdf">2002</a></dd>
+<dd><a href="/wiki/images/4/46/2003_Wisconsin_C_State.pdf" class="internal" title="2003 Wisconsin C State.pdf">2003</a></dd>
+<dd><a href="/wiki/images/e/e8/2004_Wisconsin_C_State.pdf" class="internal" title="2004 Wisconsin C State.pdf">2004</a></dd>
+<dd><a href="/wiki/images/1/1a/2005_Wisconsin_C_State.pdf" class="internal" title="2005 Wisconsin C State.pdf">2005</a></dd>
+<dd><a href="/wiki/images/9/95/2006_Wisconsin_C_State.pdf" class="internal" title="2006 Wisconsin C State.pdf">2006</a></dd>
+<dd><a href="/wiki/images/a/a7/2007_Wisconsin_C_State.pdf" class="internal" title="2007 Wisconsin C State.pdf">2007</a></dd>
+<dd><a href="/wiki/images/9/95/2008_Wisconsin_C_State.pdf" class="internal" title="2008 Wisconsin C State.pdf">2008</a></dd>
+<dd><a href="/wiki/images/2/24/2009_Wisconsin_C_State.pdf" class="internal" title="2009 Wisconsin C State.pdf">2009</a></dd>
+<dd><a href="/wiki/images/2/2a/2010_Wisconsin_C_State.pdf" class="internal" title="2010 Wisconsin C State.pdf">2010</a></dd>
+<dd><a href="/wiki/images/6/66/2011_Wisconsin_C_State.pdf" class="internal" title="2011 Wisconsin C State.pdf">2011</a></dd>
+<dd><a href="/wiki/images/6/69/2012_Wisconsin_C_State.pdf" class="internal" title="2012 Wisconsin C State.pdf">2012</a></dd>
+<dd><a href="/wiki/images/f/f5/2013_Wisconsin_C_State.pdf" class="internal" title="2013 Wisconsin C State.pdf">2013</a></dd>
+<dd><a href="/wiki/images/2/28/2014_Wisconsin_C_State.pdf" class="internal" title="2014 Wisconsin C State.pdf">2014</a></dd>
+<dd><a href="/wiki/images/d/db/2015_WI_C_Results.jpg" class="internal" title="2015 WI C Results.jpg">2015</a></dd>
+<dd><a href="/wiki/images/a/a2/2016_WI_C_Results.jpg" class="internal" title="2016 WI C Results.jpg">2016</a></dd>
+<dd><a href="/wiki/images/0/06/2017_WI_C_Results.pdf" class="internal" title="2017 WI C Results.pdf">2017</a></dd>
+<dd><a href="/wiki/images/e/ec/2018_WI_C_Results.png" class="internal" title="2018 WI C Results.png">2018</a></dd>
+<dd><a href="/wiki/images/e/e9/2019_WI_C_Results.pdf" class="internal" title="2019 WI C Results.pdf">2019</a></dd></dl>
+</div>
+<div style="clear: left;">
+<h2><span class="mw-headline" id="Current_Teams">Current Teams</span></h2>
+<div style="width: 50%; float: left;">
+<h3><span class="mw-headline" id="Division_B_3">Division B</span></h3>
+<dl><dd><a href="/wiki/index.php/All_Saints_Catholic_School_(Wisconsin)" title="All Saints Catholic School (Wisconsin)">All Saints Catholic School</a></dd>
+<dd><a href="/wiki/index.php/Argyle_Middle_School" title="Argyle Middle School">Argyle Middle School</a></dd>
+<dd><a href="/wiki/index.php/Badger_Ridge_Middle_School_and_Core_Knowledge_Charter_School" title="Badger Ridge Middle School and Core Knowledge Charter School">Badger Ridge Middle School and Core Knowledge Charter School</a></dd>
+<dd><a href="/wiki/index.php/Belleville_Middle_School" title="Belleville Middle School">Belleville Middle School</a></dd>
+<dd><a href="/wiki/index.php/Birchwood_Middle_School_(Wisconsin)" title="Birchwood Middle School (Wisconsin)">Birchwood Middle School</a></dd>
+<dd><a href="/wiki/index.php/Boyceville_Middle_School" title="Boyceville Middle School">Boyceville Middle School</a></dd>
+<dd><a href="/wiki/index.php/Campbellsport_Middle_School" title="Campbellsport Middle School">Campbellsport Middle School</a></dd>
+<dd><a href="/wiki/index.php/Chetek-Weyerhaeuser_Middle_School" title="Chetek-Weyerhaeuser Middle School">Chetek-Weyerhaeuser Middle School</a></dd>
+<dd><a href="/wiki/index.php/Eagle_School_of_Madison" title="Eagle School of Madison">Eagle School of Madison</a></dd>
+<dd><a href="/wiki/index.php/Elmwood_Middle_School" title="Elmwood Middle School">Elmwood Middle School</a></dd>
+<dd><a href="/wiki/index.php/Elk_Mound_Middle_School" title="Elk Mound Middle School">Elk Mound Middle School</a></dd>
+<dd><a href="/wiki/index.php/Fort_Atkinson_Middle_School" title="Fort Atkinson Middle School">Fort Atkinson Middle School</a></dd>
+<dd><a href="/wiki/index.php/Glacial_Drumlin_Middle_School" title="Glacial Drumlin Middle School">Glacial Drumlin Middle School</a></dd>
+<dd><a href="/wiki/index.php/Hamilton_Middle_School_(Wisconsin)" title="Hamilton Middle School (Wisconsin)">Hamilton Middle School</a></dd>
+<dd><a href="/wiki/index.php/Harborside_Academy_Middle_School" title="Harborside Academy Middle School">Harborside Academy Middle School</a></dd>
+<dd><a href="/wiki/index.php/Hartford_Central_Middle_School" title="Hartford Central Middle School">Hartford Central Middle School</a></dd>
+<dd><a href="/wiki/index.php/Hudson_Middle_School_(Wisconsin)" title="Hudson Middle School (Wisconsin)">Hudson Middle School</a></dd>
+<dd><a href="/wiki/index.php/JC_McKenna_Middle_School" title="JC McKenna Middle School">JC McKenna Middle School</a></dd>
+<dd><a href="/wiki/index.php/Johnson_Creek_Middle_School" title="Johnson Creek Middle School">Johnson Creek Middle School</a></dd>
+<dd><a href="/wiki/index.php/Lake_Country_School" title="Lake Country School">Lake Country School</a></dd>
+<dd><a href="/wiki/index.php/Madison_Country_Day_School_(B)" title="Madison Country Day School (B)"> Madison Country Day School</a></dd>
+<dd><a href="/wiki/index.php/Marshall_Middle_School_(Wisconsin)" title="Marshall Middle School (Wisconsin)">Marshall Middle School</a></dd>
+<dd><a href="/wiki/index.php/Medford_Middle_School" title="Medford Middle School">Medford Middle School</a></dd>
+<dd><a href="/wiki/index.php/Menomonie_Middle_School" title="Menomonie Middle School">Menomonie Middle School</a></dd>
+<dd><a href="/wiki/index.php/Meyer_Middle_School" title="Meyer Middle School">Meyer Middle School</a></dd>
+<dd><a href="/wiki/index.php/Monroe_Middle_School" title="Monroe Middle School">Monroe Middle School</a></dd>
+<dd><a href="/wiki/index.php/Mount_Horeb_Middle_School" title="Mount Horeb Middle School">Mount Horeb Middle School</a></dd>
+<dd><a href="/wiki/index.php/New_Richmond_Middle_School" title="New Richmond Middle School">New Richmond Middle School</a></dd>
+<dd><a href="/wiki/index.php/Nikolay_Middle_School" title="Nikolay Middle School">Nikolay Middle School</a></dd>
+<dd><a href="/wiki/index.php/Platteville_Middle_School" title="Platteville Middle School">Platteville Middle School</a></dd>
+<dd><a href="/wiki/index.php/Poynette_Middle_School" title="Poynette Middle School">Poynette Middle School</a></dd>
+<dd><a href="/wiki/index.php/Shorewood_Intermediate_School" title="Shorewood Intermediate School">Shorewood Intermediate School</a></dd>
+<dd><a href="/wiki/index.php/Sparta_Innovations_STEM_Academy" title="Sparta Innovations STEM Academy">Sparta Innovations STEM Academy</a></dd>
+<dd><a href="/wiki/index.php/Sparta_Meadowview_Middle_School" title="Sparta Meadowview Middle School">Sparta Meadowview Middle School</a></dd>
+<dd><a href="/wiki/index.php/Spring_Valley_Middle_School_(Wisconsin)" title="Spring Valley Middle School (Wisconsin)">Spring Valley Middle School</a></dd>
+<dd><a href="/wiki/index.php/Stanley_Boyd_Middle_School" title="Stanley Boyd Middle School">Stanley Boyd Middle School</a></dd>
+<dd><a href="/wiki/index.php/Tomah_Middle_School" title="Tomah Middle School">Tomah Middle School</a></dd>
+<dd><a href="/wiki/index.php/Waunakee_Middle_School" title="Waunakee Middle School">Waunakee Middle School</a></dd></dl>
+</div>
+<div style="width: 50%; float: left;">
+<h3><span class="mw-headline" id="Division_C_3">Division C</span></h3>
+<dl><dd><a href="/wiki/index.php/Appleton_Xavier_High_School" title="Appleton Xavier High School">Appleton Xavier High School</a></dd>
+<dd><a href="/wiki/index.php/Argyle_High_School" title="Argyle High School">Argyle High School</a></dd>
+<dd><a href="/wiki/index.php/Athens_High_School_(Wisconsin)" title="Athens High School (Wisconsin)">Athens High School</a></dd>
+<dd><a href="/wiki/index.php/Baldwin-Woodville_High_School" title="Baldwin-Woodville High School">Baldwin-Woodville High School</a></dd>
+<dd><a href="/wiki/index.php/Baraboo_High_School" title="Baraboo High School">Baraboo High School</a></dd>
+<dd><a href="/wiki/index.php/Belleville_High_School" title="Belleville High School">Belleville High School</a></dd>
+<dd><a href="/wiki/index.php/Beloit_Turner_High_School" class="mw-redirect" title="Beloit Turner High School">Beloit Turner High School</a></dd>
+<dd><a href="/wiki/index.php/Birchwood_High_School" title="Birchwood High School">Birchwood High School</a></dd>
+<dd><a href="/wiki/index.php/Bloomer_High_School" title="Bloomer High School">Bloomer High School</a></dd>
+<dd><a href="/wiki/index.php/Boyceville_High_School" title="Boyceville High School">Boyceville High School</a></dd>
+<dd><a href="/wiki/index.php/Brookfield_Central_High_School" title="Brookfield Central High School">Brookfield Central High School</a></dd>
+<dd><a href="/wiki/index.php/Brookfield_East_High_School" title="Brookfield East High School">Brookfield East High School</a></dd>
+<dd><a href="/wiki/index.php/Cambridge_High_School_(Wisconsin)" title="Cambridge High School (Wisconsin)">Cambridge High School</a></dd>
+<dd><a href="/wiki/index.php/Campbellsport_High_School" title="Campbellsport High School">Campbellsport High School</a></dd>
+<dd><a href="/wiki/index.php/Chetek-Weyerhaeuser_High_School" title="Chetek-Weyerhaeuser High School">Chetek-Weyerhaeuser High School</a></dd>
+<dd><a href="/wiki/index.php/Chilton_High_School" title="Chilton High School">Chilton High School</a></dd>
+<dd><a href="/wiki/index.php/Chippewa_Falls_High_School" title="Chippewa Falls High School">Chippewa Falls High School</a></dd>
+<dd><a href="/wiki/index.php/Colfax_High_School" title="Colfax High School">Colfax High School</a></dd>
+<dd><a href="/wiki/index.php/Denmark_High_School" title="Denmark High School">Denmark High School</a></dd>
+<dd><a href="/wiki/index.php/Edgewood_High_School" title="Edgewood High School">Edgewood High School</a></dd>
+<dd><a href="/wiki/index.php/Elk_Mound_High_School" title="Elk Mound High School">Elk Mound High School</a></dd>
+<dd><a href="/wiki/index.php/Elmwood_High_School" title="Elmwood High School">Elmwood High School</a></dd>
+<dd><a href="/wiki/index.php/Eleva-Strum_High_School" title="Eleva-Strum High School">Eleva-Strum High School</a></dd>
+<dd><a href="/wiki/index.php/Evansville_High_School" title="Evansville High School">Evansville High School</a></dd>
+<dd><a href="/wiki/index.php/Fall_Creek_High_School" title="Fall Creek High School">Fall Creek High School</a></dd>
+<dd><a href="/wiki/index.php/Harborside_Academy_High_School" title="Harborside Academy High School">Harborside Academy High School</a></dd>
+<dd><a href="/wiki/index.php/Horicon_High_School" title="Horicon High School">Horicon High School</a></dd>
+<dd><a href="/wiki/index.php/Hudson_High_School_(Wisconsin)" title="Hudson High School (Wisconsin)">Hudson High School</a></dd>
+<dd><a href="/wiki/index.php/Indian_Trail_Academy_High_School" title="Indian Trail Academy High School">Indian Trail Academy High School</a></dd>
+<dd><a href="/wiki/index.php/Kohler_High_School" title="Kohler High School">Kohler High School</a></dd>
+<dd><a href="/wiki/index.php/Lakeland_Union_High_School" title="Lakeland Union High School">Lakeland Union High School</a></dd>
+<dd><a href="/wiki/index.php/Madison_Country_Day_School" title="Madison Country Day School">Madison Country Day School</a></dd>
+<dd><a href="/wiki/index.php/Madison_LaFollette_High_School" title="Madison LaFollette High School">Madison LaFollette High School</a></dd>
+<dd><a href="/wiki/index.php/Madison_Memorial_High_School" title="Madison Memorial High School">Madison Memorial High School</a></dd>
+<dd><a href="/wiki/index.php/Madison_West_High_School" title="Madison West High School">Madison West High School</a></dd>
+<dd><a href="/wiki/index.php/Marquette_University_High_School" title="Marquette University High School">Marquette University High School</a></dd>
+<dd><a href="/wiki/index.php/Marshall_High_School" title="Marshall High School">Marshall High School</a></dd>
+<dd><a href="/wiki/index.php/Marshfield_High_School" title="Marshfield High School">Marshfield High School</a></dd>
+<dd><a href="/wiki/index.php/Medford_High_School" title="Medford High School">Medford High School</a></dd>
+<dd><a href="/wiki/index.php/Menomonie_High_School" title="Menomonie High School">Menomonie High School</a></dd>
+<dd><a href="/wiki/index.php/Monona_Grove_High_School" title="Monona Grove High School">Monona Grove High School</a></dd>
+<dd><a href="/wiki/index.php/Monroe_High_School_(Wisconsin)" title="Monroe High School (Wisconsin)">Monroe High School</a></dd>
+<dd><a href="/wiki/index.php/Mosinee_High_School" title="Mosinee High School">Mosinee High School</a></dd>
+<dd><a href="/wiki/index.php/Mount_Horeb_High_School" title="Mount Horeb High School">Mount Horeb High School</a></dd>
+<dd><a href="/wiki/index.php/Nathan_Hale_High_School" title="Nathan Hale High School">Nathan Hale High School</a></dd>
+<dd><a href="/wiki/index.php/New_Richmond_High_School" title="New Richmond High School">New Richmond High School</a></dd>
+<dd><a href="/wiki/index.php/Onalaska_High_School" title="Onalaska High School">Onalaska High School</a></dd>
+<dd><a href="/wiki/index.php/Oregon_High_School" title="Oregon High School">Oregon High School</a></dd>
+<dd><a href="/wiki/index.php/Osseo-Fairchild_High_School" title="Osseo-Fairchild High School">Osseo-Fairchild High School</a></dd>
+<dd><a href="/wiki/index.php/Pewaukee_High_School" title="Pewaukee High School">Pewaukee High School</a></dd>
+<dd><a href="/wiki/index.php/Platteville_High_School" title="Platteville High School">Platteville High School</a></dd>
+<dd><a href="/wiki/index.php/Poynette_High_School" title="Poynette High School">Poynette High School</a></dd>
+<dd><a href="/wiki/index.php/Prairie_School" class="mw-redirect" title="Prairie School">Prairie School</a></dd>
+<dd><a href="/wiki/index.php/Reedsburg_High_School" title="Reedsburg High School">Reedsburg High School</a></dd>
+<dd><a href="/wiki/index.php/Saint_Croix_Central_High_School" title="Saint Croix Central High School">Saint Croix Central High School</a></dd>
+<dd><a href="/wiki/index.php/Sheboygan_North_High_School" title="Sheboygan North High School">Sheboygan North High School</a></dd>
+<dd><a href="/wiki/index.php/Shell_Lake_High_School" title="Shell Lake High School">Shell Lake High School</a></dd>
+<dd><a href="/wiki/index.php/Shorewood_High_School_(Wisconsin)" title="Shorewood High School (Wisconsin)">Shorewood High School</a></dd>
+<dd><a href="/wiki/index.php/Slinger_High_School" title="Slinger High School">Slinger High School</a></dd>
+<dd><a href="/wiki/index.php/Sparta_High_School_(Wisconsin)" title="Sparta High School (Wisconsin)">Sparta High School</a></dd>
+<dd><a href="/wiki/index.php/Spring_Valley_High_School" title="Spring Valley High School">Spring Valley High School</a></dd>
+<dd><a href="/wiki/index.php/Sun_Prairie_High_School" title="Sun Prairie High School">Sun Prairie High School</a></dd>
+<dd><a href="/wiki/index.php/Tomah_High_School" title="Tomah High School">Tomah High School</a></dd>
+<dd><a href="/wiki/index.php/Waunakee_High_School" title="Waunakee High School">Waunakee High School</a></dd>
+<dd><a href="/wiki/index.php/Wausau_East_High_School" title="Wausau East High School">Wausau East High School</a></dd>
+<dd><a href="/wiki/index.php/Wausau_West_High_School" title="Wausau West High School">Wausau West High School</a></dd>
+<dd><a href="/wiki/index.php/West_Bend_West_High_School" title="West Bend West High School">West Bend West High School</a></dd>
+<dd><a href="/wiki/index.php/Whitefish_Bay_Dominican_High_School" title="Whitefish Bay Dominican High School">Whitefish Bay Dominican High School</a></dd>
+<dd><a href="/wiki/index.php/Whitnall_High_School" title="Whitnall High School">Whitnall High School</a></dd></dl>
+</div>
+<div style="clear: left;">
+<h2><span class="mw-headline" id="Defunct_Teams">Defunct Teams</span></h2>
+<div style="width: 50%; float: left;">
+<h3><span class="mw-headline" id="Division_B_4">Division B</span></h3>
+<dl><dd><a href="/wiki/index.php/Akira_Toki_Middle_School" title="Akira Toki Middle School">Akira Toki Middle School</a></dd>
+<dd><a href="/wiki/index.php/ALPS_Charter_School" title="ALPS Charter School">ALPS Charter School</a></dd>
+<dd><a href="/wiki/index.php/Arkansaw_Middle_School" title="Arkansaw Middle School">Arkansaw Middle School</a></dd>
+<dd><a href="/wiki/index.php/Armitage_Academy" title="Armitage Academy">Armitage Academy</a></dd>
+<dd><a href="/wiki/index.php/Beaver_Dam_Middle_School" title="Beaver Dam Middle School">Beaver Dam Middle School</a></dd>
+<dd><a href="/wiki/index.php/Benjamin_Franklin_Middle_School" title="Benjamin Franklin Middle School">Benjamin Franklin Middle School</a></dd>
+<dd><a href="/wiki/index.php/Berlin_Middle_School" title="Berlin Middle School">Berlin Middle School</a></dd>
+<dd><a href="/wiki/index.php/Bessie_Allen_Middle_School" title="Bessie Allen Middle School">Bessie Allen Middle School</a></dd>
+<dd><a href="/wiki/index.php/Blackhawk_Middle_School" title="Blackhawk Middle School">Blackhawk Middle School</a></dd>
+<dd><a href="/wiki/index.php/Bloomer_Middle_School" title="Bloomer Middle School">Bloomer Middle School</a></dd>
+<dd><a href="/wiki/index.php/Bullen_Middle_School" title="Bullen Middle School">Bullen Middle School</a></dd>
+<dd><a href="/wiki/index.php/Butternut_Middle_School" title="Butternut Middle School">Butternut Middle School</a></dd>
+<dd><a href="/wiki/index.php/Cadott_Middle_School" title="Cadott Middle School">Cadott Middle School</a></dd>
+<dd><a href="/wiki/index.php/Catholic_East_Elementary_School" title="Catholic East Elementary School">Catholic East Elementary School</a></dd>
+<dd><a href="/wiki/index.php/Cherokee_Heights_Middle_School" title="Cherokee Heights Middle School">Cherokee Heights Middle School</a></dd>
+<dd><a href="/wiki/index.php/Chippewa_Falls_Middle_School" title="Chippewa Falls Middle School">Chippewa Falls Middle School</a></dd>
+<dd><a href="/wiki/index.php/Classical_Middle_School" title="Classical Middle School">Classical Middle School</a></dd>
+<dd><a href="/wiki/index.php/Colfax_Middle_School" title="Colfax Middle School">Colfax Middle School</a></dd>
+<dd><a href="/wiki/index.php/Cumberland_Middle_School" title="Cumberland Middle School">Cumberland Middle School</a></dd>
+<dd><a href="/wiki/index.php/DC_Everest_Middle_School" title="DC Everest Middle School">DC Everest Middle School</a></dd>
+<dd><a href="/wiki/index.php/DeLong_Middle_School" title="DeLong Middle School">DeLong Middle School</a></dd>
+<dd><a href="/wiki/index.php/DePere_Middle_School" title="DePere Middle School">DePere Middle School</a></dd>
+<dd><a href="/wiki/index.php/East_Troy_Middle_School" title="East Troy Middle School">East Troy Middle School</a></dd>
+<dd><a href="/wiki/index.php/Edgewood_Middle_School" title="Edgewood Middle School">Edgewood Middle School</a></dd>
+<dd><a href="/wiki/index.php/Einstein_Middle_School" title="Einstein Middle School">Einstein Middle School</a></dd>
+<dd><a href="/wiki/index.php/Eisenhower_Middle_School_(Wisconsin)" title="Eisenhower Middle School (Wisconsin)">Eisenhower Middle School</a></dd>
+<dd><a href="/wiki/index.php/Eleva_Strum_Middle_School" title="Eleva Strum Middle School">Eleva Strum Middle School</a></dd>
+<dd><a href="/wiki/index.php/Fall_Creek_Middle_School" title="Fall Creek Middle School">Fall Creek Middle School</a></dd>
+<dd><a href="/wiki/index.php/Fort_Atkinson_St._Joseph_School" title="Fort Atkinson St. Joseph School">Fort Atkinson St. Joseph School</a></dd>
+<dd><a href="/wiki/index.php/Fox_West_Academy" title="Fox West Academy">Fox West Academy</a></dd>
+<dd><a href="/wiki/index.php/Friess_Middle_School" title="Friess Middle School">Friess Middle School</a></dd>
+<dd><a href="/wiki/index.php/Fritsche_Middle_School" title="Fritsche Middle School">Fritsche Middle School</a></dd>
+<dd><a href="/wiki/index.php/Gerritts_Middle_School" title="Gerritts Middle School">Gerritts Middle School</a></dd>
+<dd><a href="/wiki/index.php/Glenwood_City_Middle_School" title="Glenwood City Middle School">Glenwood City Middle School</a></dd>
+<dd><a href="/wiki/index.php/Green_Lake_Middle_School" title="Green Lake Middle School">Green Lake Middle School</a></dd>
+<dd><a href="/wiki/index.php/Holy_Family_Homeschool" title="Holy Family Homeschool">Holy Family Homeschool</a></dd>
+<dd><a href="/wiki/index.php/Horace_Mann_Middle_School_(Wisconsin)" title="Horace Mann Middle School (Wisconsin)">Horace Mann Middle School</a></dd>
+<dd><a href="/wiki/index.php/Horning_Middle_School" title="Horning Middle School">Horning Middle School</a></dd>
+<dd><a href="/wiki/index.php/Hortonville_Middle_School" title="Hortonville Middle School">Hortonville Middle School</a></dd>
+<dd><a href="/wiki/index.php/Jack_Young_Middle_School" title="Jack Young Middle School">Jack Young Middle School</a></dd>
+<dd><a href="/wiki/index.php/Jackie_Robinson_Middle_School" title="Jackie Robinson Middle School">Jackie Robinson Middle School</a></dd>
+<dd><a href="/wiki/index.php/James_Madison_Middle_School" title="James Madison Middle School">James Madison Middle School</a></dd>
+<dd><a href="/wiki/index.php/Jefferson_Middle_School_(Wisconsin)" title="Jefferson Middle School (Wisconsin)">Jefferson Middle School</a></dd>
+<dd><a href="/wiki/index.php/John_Muir_Middle_School" title="John Muir Middle School">John Muir Middle School</a></dd>
+<dd><a href="/wiki/index.php/Kenosha_STEM_Middle_School" title="Kenosha STEM Middle School">Kenosha STEM Middle School</a></dd>
+<dd><a href="/wiki/index.php/La_Crosse_Aquinas_Middle_School" title="La Crosse Aquinas Middle School">La Crosse Aquinas Middle School</a></dd>
+<dd><a href="/wiki/index.php/Lake_Denoon_Middle_School" title="Lake Denoon Middle School">Lake Denoon Middle School</a></dd>
+<dd><a href="/wiki/index.php/Lake_Geneva_Middle_School" title="Lake Geneva Middle School">Lake Geneva Middle School</a></dd>
+<dd><a href="/wiki/index.php/Lincoln_Middle_School_(Wisconsin)" title="Lincoln Middle School (Wisconsin)">Lincoln Middle School</a></dd>
+<dd><a href="/wiki/index.php/Longfellow_Middle_School_(Wisconsin)" title="Longfellow Middle School (Wisconsin)">Longfellow Middle School</a></dd>
+<dd><a href="/wiki/index.php/Manawa_Middle_School" title="Manawa Middle School">Manawa Middle School</a></dd>
+<dd><a href="/wiki/index.php/Manitowoc_Wilson_Middle_School" title="Manitowoc Wilson Middle School">Manitowoc Wilson Middle School</a></dd>
+<dd><a href="/wiki/index.php/Markesan_Middle_School" title="Markesan Middle School">Markesan Middle School</a></dd>
+<dd><a href="/wiki/index.php/Marshfield_Middle_School" title="Marshfield Middle School">Marshfield Middle School</a></dd>
+<dd><a href="/wiki/index.php/Merrill_Middle_School" title="Merrill Middle School">Merrill Middle School</a></dd>
+<dd><a href="/wiki/index.php/Milwaukee_School_of_Languages" title="Milwaukee School of Languages">Milwaukee School of Languages</a></dd>
+<dd><a href="/wiki/index.php/Morse_Middle_School" class="mw-redirect" title="Morse Middle School">Morse Middle School</a></dd>
+<dd><a href="/wiki/index.php/McKinley_Middle_School" title="McKinley Middle School">McKinley Middle School</a></dd>
+<dd><a href="/wiki/index.php/McNeel_Middle_School" title="McNeel Middle School">McNeel Middle School</a></dd>
+<dd><a href="/wiki/index.php/MHLT_Elementary_School" title="MHLT Elementary School">MHLT Elementary School</a></dd>
+<dd><a href="/wiki/index.php/New_Lisbon_Middle_School" title="New Lisbon Middle School">New Lisbon Middle School</a></dd>
+<dd><a href="/wiki/index.php/North_Crawford_Middle_School" title="North Crawford Middle School">North Crawford Middle School</a></dd>
+<dd><a href="/wiki/index.php/Oak_Creek_Middle_School" title="Oak Creek Middle School">Oak Creek Middle School</a></dd>
+<dd><a href="/wiki/index.php/Oaklawn_Academy" title="Oaklawn Academy">Oaklawn Academy</a></dd>
+<dd><a href="/wiki/index.php/Oaklawn_Elementary_School" title="Oaklawn Elementary School">Oaklawn Elementary School</a></dd>
+<dd><a href="/wiki/index.php/Olson_Middle_School" title="Olson Middle School">Olson Middle School</a></dd>
+<dd><a href="/wiki/index.php/Onalaska_Middle_School" title="Onalaska Middle School">Onalaska Middle School</a></dd>
+<dd><a href="/wiki/index.php/Oregon_Middle_School" title="Oregon Middle School">Oregon Middle School</a></dd>
+<dd><a href="/wiki/index.php/Oshkosh_Merrill_Middle_School" title="Oshkosh Merrill Middle School">Oshkosh Merrill Middle School</a></dd>
+<dd><a href="/wiki/index.php/Pardeeville_Middle_School" title="Pardeeville Middle School">Pardeeville Middle School</a></dd>
+<dd><a href="/wiki/index.php/Patrick_Marsh_Middle_School" title="Patrick Marsh Middle School">Patrick Marsh Middle School</a></dd>
+<dd><a href="/wiki/index.php/Perry_Tipler_Middle_School" title="Perry Tipler Middle School">Perry Tipler Middle School</a></dd>
+<dd><a href="/wiki/index.php/Pilgrim_Park_Middle_School" title="Pilgrim Park Middle School">Pilgrim Park Middle School</a></dd>
+<dd><a href="/wiki/index.php/Pittsville_Middle_School" title="Pittsville Middle School">Pittsville Middle School</a></dd>
+<dd><a href="/wiki/index.php/Prairie_du_Chien_Middle_School" title="Prairie du Chien Middle School">Prairie du Chien Middle School</a></dd>
+<dd><a href="/wiki/index.php/Prairie_School_(B)" title="Prairie School (B)">Prairie School</a></dd>
+<dd><a href="/wiki/index.php/Queen_of_Apostles_School" title="Queen of Apostles School">Queen of Apostles School</a></dd>
+<dd><a href="/wiki/index.php/Resurrection_Catholic_School" title="Resurrection Catholic School">Resurrection Catholic School</a></dd>
+<dd><a href="/wiki/index.php/Rice_Lake_Middle_School" title="Rice Lake Middle School">Rice Lake Middle School</a></dd>
+<dd><a href="/wiki/index.php/Richland_Center_Middle_School" title="Richland Center Middle School">Richland Center Middle School</a></dd>
+<dd><a href="/wiki/index.php/Ripon_Middle_School" title="Ripon Middle School">Ripon Middle School</a></dd>
+<dd><a href="/wiki/index.php/River_Bluff_Middle_School" title="River Bluff Middle School">River Bluff Middle School</a></dd>
+<dd><a href="/wiki/index.php/River_Valley_Middle_School" title="River Valley Middle School">River Valley Middle School</a></dd>
+<dd><a href="/wiki/index.php/Riverdale_Middle_School" title="Riverdale Middle School">Riverdale Middle School</a></dd>
+<dd><a href="/wiki/index.php/Roosevelt_Middle_School_(Wisconsin)" title="Roosevelt Middle School (Wisconsin)">Roosevelt Middle School</a></dd>
+<dd><a href="/wiki/index.php/Rusch_Elementary_School" title="Rusch Elementary School">Rusch Elementary School</a></dd>
+<dd><a href="/wiki/index.php/Sabish_Middle_School" title="Sabish Middle School">Sabish Middle School</a></dd>
+<dd><a href="/wiki/index.php/Saint_Bridget_Parish_School" title="Saint Bridget Parish School">Saint Bridget Parish School</a></dd>
+<dd><a href="/wiki/index.php/Sauk_Prairie_Middle_School" title="Sauk Prairie Middle School">Sauk Prairie Middle School</a></dd>
+<dd><a href="/wiki/index.php/Savanna_Oaks_Middle_School" title="Savanna Oaks Middle School">Savanna Oaks Middle School</a></dd>
+<dd><a href="/wiki/index.php/Sennett_Middle_School" title="Sennett Middle School">Sennett Middle School</a></dd>
+<dd><a href="/wiki/index.php/Seton_Catholic_Middle_School" title="Seton Catholic Middle School">Seton Catholic Middle School</a></dd>
+<dd><a href="/wiki/index.php/Shattuck_Middle_School" title="Shattuck Middle School">Shattuck Middle School</a></dd>
+<dd><a href="/wiki/index.php/Shawano_Middle_School" title="Shawano Middle School">Shawano Middle School</a></dd>
+<dd><a href="/wiki/index.php/Sholes_Middle_School" title="Sholes Middle School">Sholes Middle School</a></dd>
+<dd><a href="/wiki/index.php/South_Milwaukee_Middle_School" title="South Milwaukee Middle School">South Milwaukee Middle School</a></dd>
+<dd><a href="/wiki/index.php/Spring_Hill_Middle_School" title="Spring Hill Middle School">Spring Hill Middle School</a></dd>
+<dd><a href="/wiki/index.php/St._Bernard_Middle_School" title="St. Bernard Middle School">St. Bernard Middle School</a></dd>
+<dd><a href="/wiki/index.php/St._Catherine%27s_Middle_School" title="St. Catherine&#39;s Middle School">St. Catherine's Middle School</a></dd>
+<dd><a href="/wiki/index.php/St._Francis_Borgia_School" title="St. Francis Borgia School">St. Francis Borgia School</a></dd>
+<dd><a href="/wiki/index.php/St._John%27s_Lutheran_School" title="St. John&#39;s Lutheran School">St. John's Lutheran School</a></dd>
+<dd><a href="/wiki/index.php/St._Lucy%27s_School" title="St. Lucy&#39;s School">St. Lucy's School</a></dd>
+<dd><a href="/wiki/index.php/St._Richard_Middle_School" title="St. Richard Middle School">St. Richard Middle School</a></dd>
+<dd><a href="/wiki/index.php/St._Vincent_Palotti_Middle_School" title="St. Vincent Palotti Middle School">St. Vincent Palotti Middle School</a></dd>
+<dd><a href="/wiki/index.php/Thomas_Jefferson_Middle_School_(Wisconsin)" title="Thomas Jefferson Middle School (Wisconsin)">Thomas Jefferson Middle School</a></dd>
+<dd><a href="/wiki/index.php/Urban_Middle_School" title="Urban Middle School">Urban Middle School</a></dd>
+<dd><a href="/wiki/index.php/Valders_Middle_School" title="Valders Middle School">Valders Middle School</a></dd>
+<dd><a href="/wiki/index.php/Van_Hise_Elementary_School" title="Van Hise Elementary School">Van Hise Elementary School</a></dd>
+<dd><a href="/wiki/index.php/Walker_Middle_School" title="Walker Middle School">Walker Middle School</a></dd>
+<dd><a href="/wiki/index.php/Washington_Middle_School_(Wisconsin)" title="Washington Middle School (Wisconsin)">Washington Middle School</a></dd>
+<dd><a href="/wiki/index.php/Waupun_Middle_School" title="Waupun Middle School">Waupun Middle School</a></dd>
+<dd><a href="/wiki/index.php/Webb_Middle_School" title="Webb Middle School">Webb Middle School</a></dd>
+<dd><a href="/wiki/index.php/Webster_Middle_School" title="Webster Middle School">Webster Middle School</a></dd>
+<dd><a href="/wiki/index.php/Webster_Transitional_Middle_School" title="Webster Transitional Middle School">Webster Transitional Middle School</a></dd>
+<dd><a href="/wiki/index.php/West_Salem_Middle_School" title="West Salem Middle School">West Salem Middle School</a></dd>
+<dd><a href="/wiki/index.php/Whitehorse_Middle_School" title="Whitehorse Middle School">Whitehorse Middle School</a></dd>
+<dd><a href="/wiki/index.php/Wilson_Middle_School_(Wisconsin)" title="Wilson Middle School (Wisconsin)">Wilson Middle School</a></dd>
+<dd><a href="/wiki/index.php/Wisconsin_Career_Academy_(B)" title="Wisconsin Career Academy (B)">Wisconsin Career Academy</a></dd>
+<dd><a href="/wiki/index.php/Wisconsin_Heights_Middle_School" title="Wisconsin Heights Middle School">Wisconsin Heights Middle School</a></dd>
+<dd><a href="/wiki/index.php/Wittenberg_Middle_School" title="Wittenberg Middle School">Wittenberg Middle School</a></dd></dl>
+</div>
+<div style="width: 50%; float: left;">
+<h3><span class="mw-headline" id="Division_C_4">Division C</span></h3>
+<dl><dd><a href="/wiki/index.php/Adams-Friendship_High_School" title="Adams-Friendship High School">Adams-Friendship High School</a></dd>
+<dd><a href="/wiki/index.php/Almond-Bancroft_High_School" title="Almond-Bancroft High School">Almond-Bancroft High School</a></dd>
+<dd><a href="/wiki/index.php/Appleton_East_High_School" title="Appleton East High School">Appleton East High School</a></dd>
+<dd><a href="/wiki/index.php/Appleton_North_High_School" title="Appleton North High School">Appleton North High School</a></dd>
+<dd><a href="/wiki/index.php/Appleton_West_High_School" title="Appleton West High School">Appleton West High School</a></dd>
+<dd><a href="/wiki/index.php/Bangor_High_School" title="Bangor High School">Bangor High School</a></dd>
+<dd><a href="/wiki/index.php/Beaver_Dam_High_School" title="Beaver Dam High School">Beaver Dam High School</a></dd>
+<dd><a href="/wiki/index.php/Bradford_High_School" title="Bradford High School">Bradford High School</a></dd>
+<dd><a href="/wiki/index.php/Brillion_High_School" title="Brillion High School">Brillion High School</a></dd>
+<dd><a href="/wiki/index.php/Brown_Deer_High_School" title="Brown Deer High School">Brown Deer High School</a></dd>
+<dd><a href="/wiki/index.php/Bruce_High_School" title="Bruce High School">Bruce High School</a></dd>
+<dd><a href="/wiki/index.php/Burlington_High_School" title="Burlington High School">Burlington High School</a></dd>
+<dd><a href="/wiki/index.php/Butternut_High_School" title="Butternut High School">Butternut High School</a></dd>
+<dd><a href="/wiki/index.php/Cadott_High_School" title="Cadott High School">Cadott High School</a></dd>
+<dd><a href="/wiki/index.php/Clear_Lake_High_School" title="Clear Lake High School">Clear Lake High School</a></dd>
+<dd><a href="/wiki/index.php/Columbus_High_School" title="Columbus High School">Columbus High School</a></dd>
+<dd><a href="/wiki/index.php/Cornell_High_School" title="Cornell High School">Cornell High School</a></dd>
+<dd><a href="/wiki/index.php/Cuba_City_High_School" title="Cuba City High School">Cuba City High School</a></dd>
+<dd><a href="/wiki/index.php/DC_Everest_High_School" title="DC Everest High School">DC Everest High School</a></dd>
+<dd><a href="/wiki/index.php/DeForest_High_School" title="DeForest High School">DeForest High School</a></dd>
+<dd><a href="/wiki/index.php/Delavan-Darien_High_School" title="Delavan-Darien High School">Delavan-Darien High School</a></dd>
+<dd><a href="/wiki/index.php/Divine_Savior_Holy_Angels_High_School" title="Divine Savior Holy Angels High School">Divine Savior Holy Angels High School</a></dd>
+<dd><a href="/wiki/index.php/Durand_High_School_(Wisconsin)" title="Durand High School (Wisconsin)">Durand High School</a></dd>
+<dd><a href="/wiki/index.php/East_Troy_High_School" title="East Troy High School">East Troy High School</a></dd>
+<dd><a href="/wiki/index.php/Eau_Claire_Memorial_High_School" title="Eau Claire Memorial High School">Eau Claire Memorial High School</a></dd>
+<dd><a href="/wiki/index.php/Eau_Claire_North_High_School" title="Eau Claire North High School">Eau Claire North High School</a></dd>
+<dd><a href="/wiki/index.php/Edgerton_High_School" title="Edgerton High School">Edgerton High School</a></dd>
+<dd><a href="/wiki/index.php/Elkhorn_High_School" title="Elkhorn High School">Elkhorn High School</a></dd>
+<dd><a href="/wiki/index.php/Fond_du_Lac_High_School" title="Fond du Lac High School">Fond du Lac High School</a></dd>
+<dd><a href="/wiki/index.php/Fort_Atkinson_High_School" title="Fort Atkinson High School">Fort Atkinson High School</a></dd>
+<dd><a href="/wiki/index.php/Fox_Valley_Lutheran_High_School" title="Fox Valley Lutheran High School">Fox Valley Lutheran High School</a></dd>
+<dd><a href="/wiki/index.php/Gale_Ettrick_Trempeleau_High_School" title="Gale Ettrick Trempeleau High School">Gale Ettrick Trempeleau High School</a></dd>
+<dd><a href="/wiki/index.php/Glenwood_City_High_School" title="Glenwood City High School">Glenwood City High School</a></dd>
+<dd><a href="/wiki/index.php/Green_Bay_East_High_School" title="Green Bay East High School">Green Bay East High School</a></dd>
+<dd><a href="/wiki/index.php/Green_Lake_High_School" title="Green Lake High School">Green Lake High School</a></dd>
+<dd><a href="/wiki/index.php/Greenfield_High_School" title="Greenfield High School">Greenfield High School</a></dd>
+<dd><a href="/wiki/index.php/Hartford_Union_High_School" title="Hartford Union High School">Hartford Union High School</a></dd>
+<dd><a href="/wiki/index.php/Hilbert_High_School" title="Hilbert High School">Hilbert High School</a></dd>
+<dd><a href="/wiki/index.php/Holmen_High_School" title="Holmen High School">Holmen High School</a></dd>
+<dd><a href="/wiki/index.php/Holy_Name_Seminary" title="Holy Name Seminary">Holy Name Seminary</a></dd>
+<dd><a href="/wiki/index.php/Homestead_High_School_(Wisconsin)" title="Homestead High School (Wisconsin)">Homestead High School</a></dd>
+<dd><a href="/wiki/index.php/Horlick_High_School" title="Horlick High School">Horlick High School</a></dd>
+<dd><a href="/wiki/index.php/Janesville_Parker_High_School" title="Janesville Parker High School">Janesville Parker High School</a></dd>
+<dd><a href="/wiki/index.php/JI_Case_High_School" title="JI Case High School">JI Case High School</a></dd>
+<dd><a href="/wiki/index.php/Kaukauna_High_School" title="Kaukauna High School">Kaukauna High School</a></dd>
+<dd><a href="/wiki/index.php/Kettle_Moraine_High_School" title="Kettle Moraine High School">Kettle Moraine High School</a></dd>
+<dd><a href="/wiki/index.php/Kimberly_High_School" title="Kimberly High School">Kimberly High School</a></dd>
+<dd><a href="/wiki/index.php/La_Crosse_Aquinas_High_School" title="La Crosse Aquinas High School">La Crosse Aquinas High School</a></dd>
+<dd><a href="/wiki/index.php/La_Crosse_Logan_High_School" title="La Crosse Logan High School">La Crosse Logan High School</a></dd>
+<dd><a href="/wiki/index.php/Lake_Mills_High_School" title="Lake Mills High School">Lake Mills High School</a></dd>
+<dd><a href="/wiki/index.php/Lakeside_Lutheran_High_School" title="Lakeside Lutheran High School">Lakeside Lutheran High School</a></dd>
+<dd><a href="/wiki/index.php/Lodi_High_School" title="Lodi High School">Lodi High School</a></dd>
+<dd><a href="/wiki/index.php/Manawa_Little_Wolf_High_School" title="Manawa Little Wolf High School">Manawa Little Wolf High School</a></dd>
+<dd><a href="/wiki/index.php/Manitowoc_Lincoln_High_School" title="Manitowoc Lincoln High School">Manitowoc Lincoln High School</a></dd>
+<dd><a href="/wiki/index.php/Manitowoc_Lutheran_High_School" title="Manitowoc Lutheran High School">Manitowoc Lutheran High School</a></dd>
+<dd><a href="/wiki/index.php/Markesan_High_School" title="Markesan High School">Markesan High School</a></dd>
+<dd><a href="/wiki/index.php/Mauston_High_School" title="Mauston High School">Mauston High School</a></dd>
+<dd><a href="/wiki/index.php/McFarland_High_School" title="McFarland High School">McFarland High School</a></dd>
+<dd><a href="/wiki/index.php/Menominee_Falls_High_School" title="Menominee Falls High School">Menominee Falls High School</a></dd>
+<dd><a href="/wiki/index.php/Mercer_High_School" title="Mercer High School">Mercer High School</a></dd>
+<dd><a href="/wiki/index.php/Merrill_High_School" title="Merrill High School">Merrill High School</a></dd>
+<dd><a href="/wiki/index.php/Middleton_High_School" title="Middleton High School">Middleton High School</a></dd>
+<dd><a href="/wiki/index.php/Milton_High_School_(Wisconsin)" title="Milton High School (Wisconsin)">Milton High School</a></dd>
+<dd><a href="/wiki/index.php/Milwaukee_Riverside_High_School" title="Milwaukee Riverside High School">Milwaukee Riverside High School</a></dd>
+<dd><a href="/wiki/index.php/Milwaukee_Vincent_High_School" title="Milwaukee Vincent High School">Milwaukee Vincent High School</a></dd>
+<dd><a href="/wiki/index.php/Milwaukee_Washington_High_School" title="Milwaukee Washington High School">Milwaukee Washington High School</a></dd>
+<dd><a href="/wiki/index.php/Mukwonago_High_School" title="Mukwonago High School">Mukwonago High School</a></dd>
+<dd><a href="/wiki/index.php/Neenah_High_School" title="Neenah High School">Neenah High School</a></dd>
+<dd><a href="/wiki/index.php/Nekoosa_High_School" title="Nekoosa High School">Nekoosa High School</a></dd>
+<dd><a href="/wiki/index.php/Nicolet_High_School" title="Nicolet High School">Nicolet High School</a></dd>
+<dd><a href="/wiki/index.php/North_Crawford_High_School" title="North Crawford High School">North Crawford High School</a></dd>
+<dd><a href="/wiki/index.php/Oak_Creek_High_School" title="Oak Creek High School">Oak Creek High School</a></dd>
+<dd><a href="/wiki/index.php/Oconomowoc_High_School" title="Oconomowoc High School">Oconomowoc High School</a></dd>
+<dd><a href="/wiki/index.php/Oshkosh_North_High_School" title="Oshkosh North High School">Oshkosh North High School</a></dd>
+<dd><a href="/wiki/index.php/Oshkosh_West_High_School" title="Oshkosh West High School">Oshkosh West High School</a></dd>
+<dd><a href="/wiki/index.php/Phillips_High_School" title="Phillips High School">Phillips High School</a></dd>
+<dd><a href="/wiki/index.php/Pittsville_High_School" title="Pittsville High School">Pittsville High School</a></dd>
+<dd><a href="/wiki/index.php/Port_Edwards_High_School" title="Port Edwards High School">Port Edwards High School</a></dd>
+<dd><a href="/wiki/index.php/Port_Washington_High_School" title="Port Washington High School">Port Washington High School</a></dd>
+<dd><a href="/wiki/index.php/Prairie_du_Chien_High_School" title="Prairie du Chien High School">Prairie du Chien High School</a></dd>
+<dd><a href="/wiki/index.php/Pulaski_High_School" title="Pulaski High School">Pulaski High School</a></dd>
+<dd><a href="/wiki/index.php/Rice_Lake_High_School" title="Rice Lake High School">Rice Lake High School</a></dd>
+<dd><a href="/wiki/index.php/Ripon_High_School" title="Ripon High School">Ripon High School</a></dd>
+<dd><a href="/wiki/index.php/Rufus_King_High_School" title="Rufus King High School">Rufus King High School</a></dd>
+<dd><a href="/wiki/index.php/Sauk_Prairie_High_School" title="Sauk Prairie High School">Sauk Prairie High School</a></dd>
+<dd><a href="/wiki/index.php/Sheboygan_South_High_School" title="Sheboygan South High School">Sheboygan South High School</a></dd>
+<dd><a href="/wiki/index.php/South_Milwaukee_High_School" title="South Milwaukee High School">South Milwaukee High School</a></dd>
+<dd><a href="/wiki/index.php/St._Catherine%27s_High_School" title="St. Catherine&#39;s High School">St. Catherine's High School</a></dd>
+<dd><a href="/wiki/index.php/Stanley_Boyd_High_School" title="Stanley Boyd High School">Stanley Boyd High School</a></dd>
+<dd><a href="/wiki/index.php/Stevens_Point_Area_High_School" title="Stevens Point Area High School">Stevens Point Area High School</a></dd>
+<dd><a href="/wiki/index.php/Sussex-Hamilton_High_School" title="Sussex-Hamilton High School">Sussex-Hamilton High School</a></dd>
+<dd><a href="/wiki/index.php/Three_Lakes_High_School" title="Three Lakes High School">Three Lakes High School</a></dd>
+<dd><a href="/wiki/index.php/Tremper_High_School" title="Tremper High School">Tremper High School</a></dd>
+<dd><a href="/wiki/index.php/Union_Grove_High_School" title="Union Grove High School">Union Grove High School</a></dd>
+<dd><a href="/wiki/index.php/Verona_High_School" title="Verona High School">Verona High School</a></dd>
+<dd><a href="/wiki/index.php/Washington_Park_High_School" title="Washington Park High School">Washington Park High School</a></dd>
+<dd><a href="/wiki/index.php/Waterford_Union_High_School" title="Waterford Union High School">Waterford Union High School</a></dd>
+<dd><a href="/wiki/index.php/Waukesha_Catholic_Memorial_High_School" title="Waukesha Catholic Memorial High School">Waukesha Catholic Memorial High School</a></dd>
+<dd><a href="/wiki/index.php/Waukesha_South_High_School" title="Waukesha South High School">Waukesha South High School</a></dd>
+<dd><a href="/wiki/index.php/Wautoma_High_School" title="Wautoma High School">Wautoma High School</a></dd>
+<dd><a href="/wiki/index.php/West_Salem_High_School" title="West Salem High School">West Salem High School</a></dd>
+<dd><a href="/wiki/index.php/Wisconsin_Career_Academy" title="Wisconsin Career Academy">Wisconsin Career Academy</a></dd>
+<dd><a href="/wiki/index.php/Wisconsin_Dells_High_School" title="Wisconsin Dells High School">Wisconsin Dells High School</a></dd>
+<dd><a href="/wiki/index.php/Wisconsin_Heights_High_School" title="Wisconsin Heights High School">Wisconsin Heights High School</a></dd>
+<dd><a href="/wiki/index.php/Wisconsin_Lutheran_High_School" title="Wisconsin Lutheran High School">Wisconsin Lutheran High School</a></dd>
+<dd><a href="/wiki/index.php/Wisconsin_Rapids_High_School" title="Wisconsin Rapids High School">Wisconsin Rapids High School</a></dd></dl>
+</div>
+<div style="clear: left;">
+<h2><span class="mw-headline" id="External_Links">External Links</span></h2>
+<div role="navigation" class="navbox" aria-labelledby="Tournaments_of_Wisconsin" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="3"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/index.php/Template:Tournaments_of_Wisconsin" title="Template:Tournaments of Wisconsin"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/index.php?title=Template_talk:Tournaments_of_Wisconsin&amp;action=edit&amp;redlink=1" class="new" title="Template talk:Tournaments of Wisconsin (page does not exist)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a rel="nofollow" class="external text" href="https://scioly.org/wiki/index.php?title=Template:Tournaments_of_Wisconsin&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Tournaments_of_Wisconsin" style="font-size:114%;margin:0 4em">Tournaments of <a class="mw-selflink selflink">Wisconsin</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Invitationals</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Current</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Division C</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Slinger_Invitational" title="Slinger Invitational">Slinger Invitational</a></li>
+<li><a href="/wiki/index.php/UW-RF_Border_Battle_Invitational" title="UW-RF Border Battle Invitational">UW-RF Border Battle Invitational</a></li>
+<li><a href="/wiki/index.php/Marquette_University_High_Invitational" title="Marquette University High Invitational">Marquette University High Invitational</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Both Divisions</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Belleville_Invitational" title="Belleville Invitational">Belleville Invitational</a></li>
+<li><a href="/wiki/index.php/Boyceville_Invitational" title="Boyceville Invitational">Boyceville Invitational</a></li>
+<li><a href="/wiki/index.php/Medford_Invitational" title="Medford Invitational">Medford Invitational</a></li>
+<li><a href="/wiki/index.php/Badger_Invitational" title="Badger Invitational">Badger Invitational</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Defunct</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Division B</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/UW-Oshkosh_Invitational" title="UW-Oshkosh Invitational">UW-Oshkosh Invitational</a></li>
+<li><a href="/wiki/index.php/UW-Stout_Invitational" title="UW-Stout Invitational">UW-Stout Invitational</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Both Divisions</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/UW-Madison_Invitational" title="UW-Madison Invitational">UW-Madison Invitational</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td><td class="navbox-image" rowspan="4" style="width:1px;padding:0px 0px 0px 2px"><div><a href="/wiki/index.php/Wisconsin" title="Wisconsin"><img alt="WIFlag.png" src="/wiki/images/7/7c/WIFlag.png" width="150" height="100" /></a></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/index.php/Regions_of_Wisconsin" title="Regions of Wisconsin">Regionals</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Current</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Division B</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Wisconsin_Division_B_West_Regional" title="Wisconsin Division B West Regional">Wisconsin West Regional</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Division C</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Wisconsin_Division_C_West_Regional" title="Wisconsin Division C West Regional">Wisconsin West Regional</a></li>
+<li><a href="/wiki/index.php/Wisconsin_South_Central_Regional" title="Wisconsin South Central Regional">Wisconsin South Central Regional</a></li>
+<li><a href="/wiki/index.php/Wisconsin_North_Regional" title="Wisconsin North Regional">Wisconsin North Regional</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Both Divisions</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Wisconsin_South_East_Regional" title="Wisconsin South East Regional">Wisconsin South East Regional</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Defunct</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Division B</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Waunakee_Regional" title="Waunakee Regional">Waunakee Regional</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Both Divisions</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Wisconsin_East_Central_Regional" title="Wisconsin East Central Regional">Wisconsin East Central Regional</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">States</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/1985_Wisconsin_State_Tournament" title="1985 Wisconsin State Tournament">1985</a></li>
+<li><a href="/wiki/index.php/1986_Wisconsin_State_Tournament" title="1986 Wisconsin State Tournament">1986</a></li>
+<li><a href="/wiki/index.php/1987_Wisconsin_State_Tournament" title="1987 Wisconsin State Tournament">1987</a></li>
+<li><a href="/wiki/index.php/1988_Wisconsin_State_Tournament" title="1988 Wisconsin State Tournament">1988</a></li>
+<li><a href="/wiki/index.php/1989_Wisconsin_State_Tournament" title="1989 Wisconsin State Tournament">1989</a></li>
+<li><a href="/wiki/index.php/1990_Wisconsin_State_Tournament" title="1990 Wisconsin State Tournament">1990</a></li>
+<li><a href="/wiki/index.php/1991_Wisconsin_State_Tournament" title="1991 Wisconsin State Tournament">1991</a></li>
+<li><a href="/wiki/index.php/1992_Wisconsin_State_Tournament" title="1992 Wisconsin State Tournament">1992</a></li>
+<li><a href="/wiki/index.php/1993_Wisconsin_State_Tournament" title="1993 Wisconsin State Tournament">1993</a></li>
+<li><a href="/wiki/index.php/1994_Wisconsin_State_Tournament" title="1994 Wisconsin State Tournament">1994</a></li>
+<li><a href="/wiki/index.php/1995_Wisconsin_State_Tournament" title="1995 Wisconsin State Tournament">1995</a></li>
+<li><a href="/wiki/index.php/1996_Wisconsin_State_Tournament" title="1996 Wisconsin State Tournament">1996</a></li>
+<li><a href="/wiki/index.php/1997_Wisconsin_State_Tournament" title="1997 Wisconsin State Tournament">1997</a></li>
+<li><a href="/wiki/index.php/1998_Wisconsin_State_Tournament" title="1998 Wisconsin State Tournament">1998</a></li>
+<li><a href="/wiki/index.php/1999_Wisconsin_State_Tournament" title="1999 Wisconsin State Tournament">1999</a></li>
+<li><a href="/wiki/index.php/2000_Wisconsin_State_Tournament" title="2000 Wisconsin State Tournament">2000</a></li>
+<li><a href="/wiki/index.php/2001_Wisconsin_State_Tournament" title="2001 Wisconsin State Tournament">2001</a></li>
+<li><a href="/wiki/index.php/2002_Wisconsin_State_Tournament" title="2002 Wisconsin State Tournament">2002</a></li>
+<li><a href="/wiki/index.php/2003_Wisconsin_State_Tournament" title="2003 Wisconsin State Tournament">2003</a></li>
+<li><a href="/wiki/index.php/2004_Wisconsin_State_Tournament" title="2004 Wisconsin State Tournament">2004</a></li>
+<li><a href="/wiki/index.php/2005_Wisconsin_State_Tournament" title="2005 Wisconsin State Tournament">2005</a></li>
+<li><a href="/wiki/index.php/2006_Wisconsin_State_Tournament" title="2006 Wisconsin State Tournament">2006</a></li>
+<li><a href="/wiki/index.php/2007_Wisconsin_State_Tournament" title="2007 Wisconsin State Tournament">2007</a></li>
+<li><a href="/wiki/index.php/2008_Wisconsin_State_Tournament" title="2008 Wisconsin State Tournament">2008</a></li>
+<li><a href="/wiki/index.php/2009_Wisconsin_State_Tournament" title="2009 Wisconsin State Tournament">2009</a></li>
+<li><a href="/wiki/index.php/2010_Wisconsin_State_Tournament" title="2010 Wisconsin State Tournament">2010</a></li>
+<li><a href="/wiki/index.php/2011_Wisconsin_State_Tournament" title="2011 Wisconsin State Tournament">2011</a></li>
+<li><a href="/wiki/index.php/2012_Wisconsin_State_Tournament" title="2012 Wisconsin State Tournament">2012</a></li>
+<li><a href="/wiki/index.php/2013_Wisconsin_State_Tournament" title="2013 Wisconsin State Tournament">2013</a></li>
+<li><a href="/wiki/index.php/2014_Wisconsin_State_Tournament" title="2014 Wisconsin State Tournament">2014</a></li>
+<li><a href="/wiki/index.php/2015_Wisconsin_State_Tournament" title="2015 Wisconsin State Tournament">2015</a></li>
+<li><a href="/wiki/index.php/2016_Wisconsin_State_Tournament" title="2016 Wisconsin State Tournament">2016</a></li>
+<li><a href="/wiki/index.php/2017_Wisconsin_State_Tournament" title="2017 Wisconsin State Tournament">2017</a></li>
+<li><a href="/wiki/index.php/2018_Wisconsin_State_Tournament" title="2018 Wisconsin State Tournament">2018</a></li>
+<li><a href="/wiki/index.php/2019_Wisconsin_State_Tournament" title="2019 Wisconsin State Tournament">2019</a></li>
+<li><a href="/wiki/index.php/2020_Wisconsin_State_Tournament" title="2020 Wisconsin State Tournament">2020</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Nationals</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/University_of_Wisconsin_2011" title="University of Wisconsin 2011">University of Wisconsin 2011</a></li>
+<li><a href="/wiki/index.php/University_of_Wisconsin_2016" title="University of Wisconsin 2016">University of Wisconsin 2016</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="3"><div>State Website: <a rel="nofollow" class="external free" href="https://www.wisconsinso.org/">https://www.wisconsinso.org/</a></div></td></tr></tbody></table></div>
+</div></div></div>
+<!-- 
+NewPP limit report
+Cached time: 20200806211433
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 1.032 seconds
+Real time usage: 1.271 seconds
+Preprocessor visited node count: 2836/1000000
+Preprocessor generated node count: 10714/1000000
+Post‐expand include size: 77800/2097152 bytes
+Template argument size: 17282/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.100/7.000 seconds
+Lua virtual size: 8.99 MB/50 MB
+Lua estimated memory usage: 0 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  402.010      1 -total
+ 97.37%  391.454      7 Template:Navbox
+ 51.27%  206.106      1 Template:Tournaments_of_Wisconsin
+ 46.68%  187.651      1 Template:State_tournament_results_box
+ 26.95%  108.359     36 Template:Strb_row
+  1.70%    6.834      1 Template:SOInfoBox
+-->
+</div>
+<!-- Saved in parser cache with key wiki-wikiv2_:pcache:idhash:287-0!canonical and timestamp 20200806211431 and revision id 105545
+ -->
+</div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://scioly.org/wiki/index.php?title=Wisconsin&amp;oldid=105545">https://scioly.org/wiki/index.php?title=Wisconsin&amp;oldid=105545</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/index.php/Special:Categories" title="Special:Categories">Category</a>: <ul><li><a href="/wiki/index.php/Category:State_Pages" title="Category:State Pages">State Pages</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-login"><a href="//scioly.org/forums/ucp.php?mode=login&amp;redirect=https%3A%2F%2Fscioly.org%2Fwiki%2Findex.php%2FWisconsin" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/index.php/Wisconsin" title="View the content page [c]" accesskey="c">Page</a></span></li><li id="ca-talk" class="new"><span><a href="/wiki/index.php?title=Talk:Wisconsin&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/index.php/Wisconsin">Read</a></span></li><li id="ca-viewsource" class="collapsible"><span><a href="/wiki/index.php?title=Wisconsin&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li><li id="ca-history" class="collapsible"><span><a href="/wiki/index.php?title=Wisconsin&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/wiki/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Scioly.org" title="Search Scioly.org [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/index.php/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage"><a href="/wiki/index.php/Main_Page" title="Visit the main page [z]" accesskey="z">Main Page</a></li><li id="n-recentchanges"><a href="/wiki/index.php/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/wiki/index.php/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-MediaWiki-Help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">MediaWiki Help</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/index.php/Special:WhatLinksHere/Wisconsin" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/index.php/Special:RecentChangesLinked/Wisconsin" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/wiki/index.php/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="/wiki/index.php?title=Wisconsin&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/wiki/index.php?title=Wisconsin&amp;oldid=105545" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/wiki/index.php?title=Wisconsin&amp;action=info" title="More information about this page">Page information</a></li>				</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 30 July 2020, at 21:36.</li>
+								<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution</a> unless otherwise noted.</li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="http://creativecommons.org/licenses/by/3.0/"><img src="/wiki/resources/assets/licenses/cc-by.png" alt="Creative Commons Attribution" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<style>.MathJax_Display{display:inline !important;}
+.mathjax-wrapper{font-size:120%;}</style>
+<script type='text/x-mathjax-config'>MathJax.Hub.Config({displayAlign:'left',tex2jax:{displayMath:[['[math]','[/math]']]}})</script>
+<script src='//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.032","walltime":"1.271","ppvisitednodes":{"value":2836,"limit":1000000},"ppgeneratednodes":{"value":10714,"limit":1000000},"postexpandincludesize":{"value":77800,"limit":2097152},"templateargumentsize":{"value":17282,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%  402.010      1 -total"," 97.37%  391.454      7 Template:Navbox"," 51.27%  206.106      1 Template:Tournaments_of_Wisconsin"," 46.68%  187.651      1 Template:State_tournament_results_box"," 26.95%  108.359     36 Template:Strb_row","  1.70%    6.834      1 Template:SOInfoBox"]},"scribunto":{"limitreport-timeusage":{"value":"0.100","limit":"7.000"},"limitreport-virtmemusage":{"value":9428992,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20200806211433","ttl":86400,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":126});});</script>
+	</body>
+</html>

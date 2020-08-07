@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Field Guides - Scioly.org</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Field_Guides","wgTitle":"Field Guides","wgCurRevisionId":93355,"wgRevisionId":93355,"wgArticleId":5072,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["General Competition","Resources"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Field_Guides","wgRelevantArticleId":5072,"wgRequestId":"7f47287650973c3d69860926","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":[]});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","site":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@1ltrs49",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/wiki/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/wiki/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/wiki/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.8"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/wiki/opensearch_desc.php" title="Scioly.org (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://scioly.org/wiki/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Scioly.org Atom feed" href="/wiki/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/wiki/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Field_Guides rootpage-Field_Guides skin-vector action-view"><meta property="og:title" content="Science Olympiad Student Center"/>
+<meta property="og:type" content="website"/>
+<meta property="og:url" content="https://scioly.org/"/>
+
+<meta property="og:image" content="http://scioly.org/src/img/logo/logo_square.png"/>
+<meta property="og:image:secure_url" content="https://scioly.org/src/img/logo/logo_square.png"/> 
+<meta property="og:image:type" content="image/png"/> 
+<meta property="og:image:width" content="500"/> 
+<meta property="og:image:height" content="500"/>
+
+<meta property="og:description" content="A resource by and for Science Olympiad students, coaches, and alumni nationwide."/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script type="text/javascript" src="/src/js/jquery.min.js"></script>
+<script type="text/javascript" src="/src/js/main.js"></script>
+
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+<link rel="stylesheet" type="text/css" href="/src/css/main.css">
+
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<link rel="icon" href="/favicon.ico" type="image/x-icon"><div class="site-nav">
+	<a href="/">
+		<img src="/src/img/logo/logo.png">
+	</a>
+	<div class="hamburger" onclick="hamburger(this)">
+		<div>
+			<div></div>
+			<div></div>
+			<div></div>
+		</div>
+	</div>
+	<ul>
+		<li><a href="/forums">Forums</a></li>
+		<li><a href="/wiki">Wiki</a></li>
+		<li><a href="/tests">Test Exchange</a></li>
+		<!-- <li><a href="/gallery">Image Gallery</a></li> -->
+		<!-- <li><a href="/invitational">Invites</a></li> -->
+		<li><a href="/chat">Chat</a></li>
+		<li><a href="/login" class="button">Login</a></li>
+	</ul>
+</div>
+<img class="print-only" src="/src/img/logo/logo_black.png" style="max-width: 150px;"><link rel="stylesheet" type="text/css" href="/src/css/wiki.css">
+<div id="wrap-me-up">
+
+
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Field Guides</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Scioly.org</div>				<div id="contentSub"></div>
+								<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p>In some events (such as <a href="/wiki/index.php/Forestry" title="Forestry">Forestry</a>), students are allowed commercially published field guides that can be tabbed or annotated. Note that in recent years most events have begun to move away from allowing field guides. As of the 2018 season, <a href="/wiki/index.php/Herpetology" title="Herpetology">Herpetology</a> allows field guides, but only as a replacement for a three-ring binder; teams may not bring both.  
+</p>
+<div id="toc" class="toc"><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Using_a_Field_Guide"><span class="tocnumber">1</span> <span class="toctext">Using a Field Guide</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Choosing_a_Field_Guide"><span class="tocnumber">1.1</span> <span class="toctext">Choosing a Field Guide</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Tabbing"><span class="tocnumber">1.2</span> <span class="toctext">Tabbing</span></a>
+<ul>
+<li class="toclevel-3 tocsection-4"><a href="#Post-its.2FSticky_Notes"><span class="tocnumber">1.2.1</span> <span class="toctext">Post-its/Sticky Notes</span></a></li>
+<li class="toclevel-3 tocsection-5"><a href="#Flags"><span class="tocnumber">1.2.2</span> <span class="toctext">Flags</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Using_a_Field_Guide">Using a Field Guide</span></h2>
+<p>There are many ways to use a field guide to prepare for an event. They serve as very helpful study tools and can be used to add information to a binder. Even if an event does not allow a field guide in the test, picking one up to prepare with can be a good way to find information. Some teams may get their field guides hole punched and place them in their binder, or remove pages from the guide and place them alongside written notes. The key to using a field guide is learning how it is laid out and where important information is located. Making notes in a field guide is another efficient way to use them. If the guide is missing important information for a specific event, it is easy to either write on the page or add sticky notes with information. 
+</p>
+<h3><span class="mw-headline" id="Choosing_a_Field_Guide">Choosing a Field Guide</span></h3>
+<p>The types of field guides available for an event typically depend on what the event is. Some events such as <a href="/wiki/index.php/Rocks_and_Minerals" title="Rocks and Minerals">Rocks and Minerals</a> may only have a handful of field guides available, but events such as <a href="/wiki/index.php/Herpetology" title="Herpetology">Herpetology</a> may have a wide variety of field guides available. Events having to do with animal identification typically have a variety of field guides available on the state and national level. State level competitions tend to focus on specimens that can be found in that area, and the areas that they can be found. 
+</p><p>Choosing a field guide to use is something that should be taken especially seriously if a student plans on using the guide at competition. Field guides should have good quality pictures and have information that is easy to parse quickly. Any field guide can be a good field guide if it is worked with enough, but some field guides are easier to start using than others. If the field guide is going to be placed in a binder, pages can also be removed and pages can be added from other field guides. This is useful if a team prefers the pictures from one field guide but the information from another.
+</p>
+<h3><span class="mw-headline" id="Tabbing">Tabbing</span></h3>
+<p>Field guides are typically less organized than written notes are, as students can not control where information is placed. However, placing tabs in a field guide can make it much easier to use and find information. Tabbing is especially useful when a field guide has more information than what is used for the event, or when a field guide is divided into sections. There are a few options that students have for what material they choose to tab with. 
+</p>
+<h4><span id="Post-its/Sticky_Notes"></span><span class="mw-headline" id="Post-its.2FSticky_Notes">Post-its/Sticky Notes</span></h4>
+<div class="thumb tright"><div class="thumbinner" style="width:152px;"><a href="/wiki/index.php/File:Post.jpg" class="image"><img alt="" src="/wiki/images/7/73/Post.jpg" width="150" height="150" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/index.php/File:Post.jpg" class="internal" title="Enlarge"></a></div>Post-its/Sticky Notes</div></div></div>
+<p>One material is the ordinary Post-it or sticky note. Sticky notes can hold more information than regular flags can, so more information about a section can fit onto the outside of a tab. However, they are easy to tear or remove from a field guide if care is not taken. Sticky notes can also be used for annotating field guides and making notes without messing up the pages.
+</p><p><b>Pros</b>
+</p>
+<ul><li>Easily removable</li>
+<li>Thin and shapeable; can cut them to preferred sizes</li>
+<li>Inexpensive (Averages $4.00-$5.00 for one 3x3 cube, 470 sheets)</li>
+<li>Easily found in stores and online</li></ul>
+<p><b>Cons</b>
+</p>
+<ul><li>Adhesive is not very powerful, so the tab may lose its "stickiness" quickly</li>
+<li>Must be cut down to size, as the sheets are generally too big for most books</li>
+<li>Can curl if the field guide is used frequently</li></ul>
+<h4><span class="mw-headline" id="Flags">Flags</span></h4>
+<div class="thumb tright"><div class="thumbinner" style="width:152px;"><a href="/wiki/index.php/File:Flag.jpg" class="image"><img alt="" src="/wiki/images/0/08/Flag.jpg" width="150" height="150" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/index.php/File:Flag.jpg" class="internal" title="Enlarge"></a></div>Flags</div></div></div>
+<p>Flags are similar to sticky notes in that they also have a small strip of adhesive on one side. However, flags are usually smaller and thinner. They may be made of paper or a thin, transparent plastic. Plastic flags are typically very robust and good for quick page turns. They come in a variety of sizes, with thin flags being good for marking smaller sections and large rectangular flags being good for marking important information. Larger plastic flags are typically stiffer than smaller or paper flags. 
+</p><p><b>Pros</b>
+</p>
+<ul><li>Minimal if any resizing</li>
+<li>Can fit multiple on one page</li>
+<li>Also inexpensive</li>
+<li>Easily located in stores and online</li>
+<li>Transparent flags can be used for highlighting</li></ul>
+<p><b>Cons</b>
+</p>
+<ul><li>May tear easily, especially paper flags</li>
+<li>Small, so little room to write on them</li></ul>
+<div role="navigation" class="navbox" aria-labelledby="General_Competition_Resources" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/index.php/Template:Competition_Navbox" title="Template:Competition Navbox"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/index.php/Template_talk:Competition_Navbox" title="Template talk:Competition Navbox"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a rel="nofollow" class="external text" href="https://scioly.org/wiki/index.php?title=Template:Competition_Navbox&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="General_Competition_Resources" style="font-size:114%;margin:0 4em">General Competition Resources</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">About Scioly.org</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Forums</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Scioly.org:BBCode" title="Scioly.org:BBCode">BBCode</a></li>
+<li><a href="/wiki/index.php/Scioly.org:Scioly_Summer_Study_Session" title="Scioly.org:Scioly Summer Study Session">Scioly Summer Study Session</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Wiki</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Help:Editing" title="Help:Editing">Help:Editing</a></li>
+<li><a href="/wiki/index.php/How_to_Write_a_Practice_Test" title="How to Write a Practice Test">How to Write a Practice Test</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">General</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Scioly.org:IRC" title="Scioly.org:IRC">IRC</a></li>
+<li><a href="/wiki/index.php/Scioly.org:History" title="Scioly.org:History">History</a></li>
+<li><a href="/wiki/index.php/Scioly.org:FAQ" title="Scioly.org:FAQ">FAQ</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Event Tools</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Binders" title="Binders">Binders</a></li>
+<li><a href="/wiki/index.php/Calculators" title="Calculators">Calculators</a></li>
+<li><a class="mw-selflink selflink">Field Guides</a></li>
+<li><a href="/wiki/index.php/Microscope" title="Microscope">Microscope</a></li>
+<li><a href="/wiki/index.php/Note_Sheets" title="Note Sheets">Note Sheets</a></li>
+<li><a href="/wiki/index.php/Safety_Glasses" title="Safety Glasses">Safety Glasses</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Competition Help</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Preparing_for_Competition" title="Preparing for Competition">Preparing for Competition</a></li>
+<li><a href="/wiki/index.php/Rules_Manual" title="Rules Manual">Rules Manual</a></li>
+<li><a href="/wiki/index.php/Scoring" title="Scoring">Scoring</a></li>
+<li><a href="/wiki/index.php/Significant_Figures" title="Significant Figures">Significant Figures</a></li>
+<li><a href="/wiki/index.php/Starting_A_Science_Olympiad_Team" title="Starting A Science Olympiad Team">Starting A Science Olympiad Team</a></li>
+<li><a href="/wiki/index.php/Test_Taking_Skills" title="Test Taking Skills">Test Taking Skills</a></li></ul>
+</div></td></tr></tbody></table></div>
+
+<!-- 
+NewPP limit report
+Cached time: 20200806194659
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.136 seconds
+Real time usage: 0.215 seconds
+Preprocessor visited node count: 90/1000000
+Preprocessor generated node count: 216/1000000
+Post‐expand include size: 12163/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.040/7.000 seconds
+Lua virtual size: 8.73 MB/50 MB
+Lua estimated memory usage: 0 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+112.27%  116.765      2 Template:Navbox
+100.00%  104.004      1 Template:Competition_Navbox
+100.00%  104.004      1 -total
+-->
+</div>
+<!-- Saved in parser cache with key wiki-wikiv2_:pcache:idhash:5072-0!canonical and timestamp 20200806194659 and revision id 93355
+ -->
+</div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://scioly.org/wiki/index.php?title=Field_Guides&amp;oldid=93355">https://scioly.org/wiki/index.php?title=Field_Guides&amp;oldid=93355</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/index.php/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/index.php/Category:General_Competition" title="Category:General Competition">General Competition</a></li><li><a href="/wiki/index.php/Category:Resources" title="Category:Resources">Resources</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-login"><a href="//scioly.org/forums/ucp.php?mode=login&amp;redirect=https%3A%2F%2Fscioly.org%2Fwiki%2Findex.php%2FField_Guides" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/index.php/Field_Guides" title="View the content page [c]" accesskey="c">Page</a></span></li><li id="ca-talk"><span><a href="/wiki/index.php/Talk:Field_Guides" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discussion</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/index.php/Field_Guides">Read</a></span></li><li id="ca-viewsource" class="collapsible"><span><a href="/wiki/index.php?title=Field_Guides&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li><li id="ca-history" class="collapsible"><span><a href="/wiki/index.php?title=Field_Guides&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/wiki/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Scioly.org" title="Search Scioly.org [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/index.php/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage"><a href="/wiki/index.php/Main_Page" title="Visit the main page [z]" accesskey="z">Main Page</a></li><li id="n-recentchanges"><a href="/wiki/index.php/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/wiki/index.php/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-MediaWiki-Help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">MediaWiki Help</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/index.php/Special:WhatLinksHere/Field_Guides" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/index.php/Special:RecentChangesLinked/Field_Guides" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/wiki/index.php/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="/wiki/index.php?title=Field_Guides&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/wiki/index.php?title=Field_Guides&amp;oldid=93355" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/wiki/index.php?title=Field_Guides&amp;action=info" title="More information about this page">Page information</a></li>				</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 18 May 2020, at 15:01.</li>
+								<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution</a> unless otherwise noted.</li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="http://creativecommons.org/licenses/by/3.0/"><img src="/wiki/resources/assets/licenses/cc-by.png" alt="Creative Commons Attribution" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<style>.MathJax_Display{display:inline !important;}
+.mathjax-wrapper{font-size:120%;}</style>
+<script type='text/x-mathjax-config'>MathJax.Hub.Config({displayAlign:'left',tex2jax:{displayMath:[['[math]','[/math]']]}})</script>
+<script src='//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.136","walltime":"0.215","ppvisitednodes":{"value":90,"limit":1000000},"ppgeneratednodes":{"value":216,"limit":1000000},"postexpandincludesize":{"value":12163,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["112.27%  116.765      2 Template:Navbox","100.00%  104.004      1 Template:Competition_Navbox","100.00%  104.004      1 -total"]},"scribunto":{"limitreport-timeusage":{"value":"0.040","limit":"7.000"},"limitreport-virtmemusage":{"value":9154560,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20200806194659","ttl":86400,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":223});});</script>
+	</body>
+</html>

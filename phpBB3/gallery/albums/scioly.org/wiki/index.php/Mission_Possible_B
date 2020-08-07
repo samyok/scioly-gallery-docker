@@ -1,0 +1,563 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Mission Possible B - Scioly.org</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Mission_Possible_B","wgTitle":"Mission Possible B","wgCurRevisionId":105296,"wgRevisionId":105296,"wgArticleId":150,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Event Pages","Building Event Pages","Technology and Engineering Events","Mission Possible"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Mission_Possible_B","wgRelevantArticleId":150,"wgRequestId":"700c6afb96f3f0c0c88809e2","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":[]});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","site":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@1ltrs49",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/wiki/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/wiki/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/wiki/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.8"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/wiki/opensearch_desc.php" title="Scioly.org (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://scioly.org/wiki/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Scioly.org Atom feed" href="/wiki/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/wiki/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Mission_Possible_B rootpage-Mission_Possible_B skin-vector action-view"><meta property="og:title" content="Science Olympiad Student Center"/>
+<meta property="og:type" content="website"/>
+<meta property="og:url" content="https://scioly.org/"/>
+
+<meta property="og:image" content="http://scioly.org/src/img/logo/logo_square.png"/>
+<meta property="og:image:secure_url" content="https://scioly.org/src/img/logo/logo_square.png"/> 
+<meta property="og:image:type" content="image/png"/> 
+<meta property="og:image:width" content="500"/> 
+<meta property="og:image:height" content="500"/>
+
+<meta property="og:description" content="A resource by and for Science Olympiad students, coaches, and alumni nationwide."/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script type="text/javascript" src="/src/js/jquery.min.js"></script>
+<script type="text/javascript" src="/src/js/main.js"></script>
+
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+<link rel="stylesheet" type="text/css" href="/src/css/main.css">
+
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<link rel="icon" href="/favicon.ico" type="image/x-icon"><div class="site-nav">
+	<a href="/">
+		<img src="/src/img/logo/logo.png">
+	</a>
+	<div class="hamburger" onclick="hamburger(this)">
+		<div>
+			<div></div>
+			<div></div>
+			<div></div>
+		</div>
+	</div>
+	<ul>
+		<li><a href="/forums">Forums</a></li>
+		<li><a href="/wiki">Wiki</a></li>
+		<li><a href="/tests">Test Exchange</a></li>
+		<!-- <li><a href="/gallery">Image Gallery</a></li> -->
+		<!-- <li><a href="/invitational">Invites</a></li> -->
+		<li><a href="/chat">Chat</a></li>
+		<li><a href="/login" class="button">Login</a></li>
+	</ul>
+</div>
+<img class="print-only" src="/src/img/logo/logo_black.png" style="max-width: 150px;"><link rel="stylesheet" type="text/css" href="/src/css/wiki.css">
+<div id="wrap-me-up">
+
+
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Mission Possible B</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Scioly.org</div>				<div id="contentSub"></div>
+								<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><dl><dd><i>This page is about the Mission Possible competition for <a href="/wiki/index.php/Division_B" title="Division B">Division B</a>. To find information about Mission Possible for <a href="/wiki/index.php/Division_C" title="Division C">Division C</a>, or to learn more about different types of energy transfers for enrichment, please see <a href="/wiki/index.php/Mission_Possible_C" title="Mission Possible C">Mission Possible C</a>.</i></dd></dl>
+<table align="right" class="infobox">
+
+<tbody><tr>
+<th colspan="2" style="font-size: larger; text-align: center;"><b>Mission Possible B</b>
+</th></tr>
+<tr>
+<td colspan="2"><center><i>This event is an event held in the current season.</i></center>
+</td></tr>
+<tr>
+<td colspan="2"><hr />
+</td></tr>
+<tr>
+<td><b>Type</b>
+</td>
+<td>Engineering
+</td></tr>
+<tr>
+<td><b>Category</b>
+</td>
+<td>Build
+</td></tr>
+<tr>
+<td colspan="2" class="infobox-header"><b>Event Information</b>
+</td></tr>
+
+
+
+
+
+
+
+<tr>
+<td><b>Latest Appearance</b>
+</td>
+<td>2020
+</td></tr>
+<tr>
+<td colspan="2" class="infobox-header"><b>Forum Threads</b>
+</td></tr>
+
+<tr>
+<td colspan="2" style="padding: 0;">
+<table class="infobox-events-link-table">
+
+<tbody><tr>
+<td><a rel="nofollow" class="external text" href="https://scioly.org/forums/viewforum.php?f=318">2020</a>
+</td>
+<td><span> </span>
+</td>
+<td><span> </span>
+</td>
+<td><a rel="nofollow" class="external text" href="http://scioly.org/phpBB3/viewtopic.php?f=247&amp;t=9267">2017</a>
+</td>
+<td><a rel="nofollow" class="external text" href="http://scioly.org/phpBB3/viewforum.php?f=210">2016</a>
+</td></tr>
+</tbody></table>
+</td></tr>
+<tr>
+<td colspan="2" style="padding: 0;">
+<table class="infobox-events-link-table">
+
+<tbody><tr>
+<td><span> </span>
+</td>
+<td><span> </span>
+</td>
+<td><a rel="nofollow" class="external text" href="http://scioly.org/phpBB3/viewforum.php?f=148">2013</a>
+</td>
+<td><a rel="nofollow" class="external text" href="http://scioly.org/phpBB3/viewforum.php?f=122">2012</a>
+</td>
+<td><span> </span>
+</td></tr>
+</tbody></table>
+</td></tr>
+
+
+
+
+
+
+<tr>
+<td colspan="2" class="infobox-header"><b>Official Resources</b>
+</td></tr>
+<tr>
+<td><b>Website</b>
+</td>
+<td><a rel="nofollow" class="external text" href="https://www.soinc.org/mission-possible-b">soinc.org</a>
+</td></tr>
+
+
+
+<tr>
+<td colspan="2" class="infobox-header"><b>Division B Results</b>
+</td></tr>
+<tr>
+<td colspan="2" style="padding: 0;">
+<table class="infobox-scoreboard" style="margin: 0; padding: 0; width:100%;">
+
+
+<tbody><tr style="background-color: gold;">
+<td style="width: 10%; text-align: center;"><b>1st</b>
+</td>
+<td style="width: 90%; padding-left: 5px;"><b>Russell Independent Middle School</b>
+</td></tr>
+<tr style="background-color: silver;">
+<td style="width: 10%; text-align: center;">2nd
+</td>
+<td style="width: 90%; padding-left: 5px;">Daniel Wright Junior High School
+</td></tr>
+<tr style="background-color: #d1965c;">
+<td style="width: 10%; text-align: center;">3rd
+</td>
+<td style="width: 90%; padding-left: 5px;">Community Middle School
+</td></tr>
+</tbody></table>
+</td></tr>
+
+</tbody></table>
+<p><b>Mission Possible B</b> is an event in which teams make a Rube Goldberg device which uses certain tasks and runs as close as possible to the ideal time to gain the maximum number of points.
+</p><p><br />
+</p>
+<div id="toc" class="toc"><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Overview"><span class="tocnumber">1</span> <span class="toctext">Overview</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Simple_Machines"><span class="tocnumber">2</span> <span class="toctext">Simple Machines</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Levers"><span class="tocnumber">2.1</span> <span class="toctext">Levers</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Inclined_Planes"><span class="tocnumber">2.2</span> <span class="toctext">Inclined Planes</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Wedge"><span class="tocnumber">2.3</span> <span class="toctext">Wedge</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Screw"><span class="tocnumber">2.4</span> <span class="toctext">Screw</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Wheel_and_Axle"><span class="tocnumber">2.5</span> <span class="toctext">Wheel and Axle</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Pulley"><span class="tocnumber">2.6</span> <span class="toctext">Pulley</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Requirements"><span class="tocnumber">3</span> <span class="toctext">Requirements</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#Transfers"><span class="tocnumber">3.1</span> <span class="toctext">Transfers</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Time-Waster"><span class="tocnumber">3.2</span> <span class="toctext">Time-Waster</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#TSL"><span class="tocnumber">3.3</span> <span class="toctext">TSL</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="#Yearly_Task"><span class="tocnumber">4</span> <span class="toctext">Yearly Task</span></a>
+<ul>
+<li class="toclevel-2 tocsection-14"><a href="#Starting_Tasks"><span class="tocnumber">4.1</span> <span class="toctext">Starting Tasks</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Ending_Tasks"><span class="tocnumber">4.2</span> <span class="toctext">Ending Tasks</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-16"><a href="#Things_to_Keep_in_Mind_While_Building"><span class="tocnumber">5</span> <span class="toctext">Things to Keep in Mind While Building</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#Tips"><span class="tocnumber">6</span> <span class="toctext">Tips</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#See_Also"><span class="tocnumber">7</span> <span class="toctext">See Also</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Overview">Overview</span></h2>
+<p>Mission Possible is all about using <a href="/wiki/index.php/Simple_Machines" class="mw-redirect" title="Simple Machines">simple machines</a> to create a chain reaction, using a number of tasks designated by the rules to achieve the maximum points.
+</p><p>This type of machine is called a <a rel="nofollow" class="external text" href="http://en.wikipedia.org/wiki/Rube_Goldberg_machine">Rube Goldberg device</a>. A man named <a rel="nofollow" class="external text" href="http://en.wikipedia.org/wiki/Rube_Goldberg">Rube Goldberg</a> made up this type of machine, and so it was named after him. Basically, a Rube Goldberg machine implements a way to finish an often simple task in a very complicated fashion.
+</p><p>For example, a machine might start with the opening task, which was, most recently, using a plunger.. The hit front the plunger might knock down a domino, which might land in a pulley that pulls an object a few centimeters. The pulling of the object would hit a lever which would open a flap that would allow a ball to roll down a ramp, hitting a mousetrap that would then release a string with a weight on it, which would hit another lever and raise an object, and so on and so forth until you reach the final task, which was raising a flag in 2016. However, this example machine doesn't use all the simple machine transfers (there are a maximum of 18 storable transfers), so it is not ideal. This is a frustrating event at times, since it requires a lot of testing and tweaking.
+</p><p>The challenging part of this event is not building the machine, but making it reliable so it works every time. Since it is not ideal for anything to have to intervene after the reaction has started, the reaction should seamlessly work on its own every time.
+</p>
+<h2><span class="mw-headline" id="Simple_Machines">Simple Machines</span></h2>
+<p>There are six types of simple machines. They are:
+</p>
+<ul><li>Lever</li>
+<li>Inclined Plane</li>
+<li>Wedge</li>
+<li>Screw</li>
+<li>Wheel and Axle</li>
+<li>Pulley</li></ul>
+<h3><span class="mw-headline" id="Levers">Levers</span></h3>
+<p>Levers are one of the most commonly used simple machines in both everyone's daily lives and this event. There are three types of levers, called first class, second class, and third class. First class levers are probably the kind that most people think of when thinking of a lever–the fulcrum is in the center, and the load goes on one end and the force on the other. Some real-life examples of first class levers are pliers and a hammer (when using it to pry up a nail). In the pliers example, the hinge on the pliers becomes the <b>fulcrum</b>, the <b>load</b> is enclosed in the jaws of the pliers and the <b>effort</b> comes from the hand squeezing the handles. Next, is the second class lever. This lever has its fulcrum on one end, with the load in the middle and the effort on the other side.  Two prominent examples of this lever are wheelbarrows and nutcrackers. To go more in-depth, imagine a wheelbarrow. There are handles to hold on to, or where one provides the <b>effort</b>. The wheels provide a point of balance–in other words, a <b>fulcrum</b>. And, of course, the <b>load</b>, the mulch or dirt that is being carried, is in between. Finally, the third class lever is similar to the second class except that it has the effort in the middle and the load on the end. A great example would be an arm- the elbow is the <b>fulcrum</b>, the <b>load</b> would be whatever is being held in the hand, and the <b>effort</b>  comes from the forearm.
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/wiki/index.php/File:InclineFBD.png" class="image"><img alt="" src="/wiki/images/c/c4/InclineFBD.png" width="300" height="204" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/index.php/File:InclineFBD.png" class="internal" title="Enlarge"></a></div>A free body diagram of an inclined plane</div></div></div>
+<h3><span class="mw-headline" id="Inclined_Planes">Inclined Planes</span></h3>
+<p>Another common simple machine is the inclined plane. This simple machine uses a ramp that lessens the force needed to get something the same distance off the ground as if you were just lifting it. In the Science Olympiad rules, inclined planes must have an object pushed or pulled <i>up</i> them (NOT down, as this would be too easy to accomplish. Inclined planes in real life include wheelchair ramps, staircases, and slides (though that goes downwards).
+</p>
+<h3><span class="mw-headline" id="Wedge">Wedge</span></h3>
+<p>Although wedges may look somewhat similar to an inclined plane in theory, in practice they work quite differently. Wedges allow you to push two objects apart more easily (or to split an object in half). When the wedge is pressed in between two objects in your machine, it should separate the two, not just push slightly and cause something to fall because of gravity. There are many real-life applications of wedges, including knives, nails, and axes, to name a few.
+</p>
+<h3><span class="mw-headline" id="Screw">Screw</span></h3>
+<p>Sometimes less commonly used in the event, screws are a simple machine that convert rotational force to linear motion. They accomplish this task through <b>threads</b> with a certain <b>pitch</b> (in more commonly used terms, ridges with a certain angle relative to the body of the screw) that force the screw farther into its hole. The main real-world examples of screws are, well, screws, along with threaded rods (this rotational to linear motion is what allows for many braking systems in vehicle events) and the moving part of vises.
+</p>
+<h3><span class="mw-headline" id="Wheel_and_Axle">Wheel and Axle</span></h3>
+<p>A wheel and axle is a simple machine that consists of a wheel attached to an axle (think about cars) and transfers energy from one part to another.  This part is often very challenging to get right.  First of all, you cannot just roll a wheel attached to an axle down an inclined plane.  That would be an example of only one force, the wheel and axle combined, in one directional force.  For a wheel and axle to be legal, <b>the forces have to oppose</b>.  A common example for this is a <b>windlass</b><a rel="nofollow" class="external autonumber" href="https://en.wikipedia.org/wiki/Windlass">[1]</a>.  This involves an axle inserted into a vertical surface and a wheel put onto the axle so that it can spin, and attaching a string to the axle, so that if the wheel spins, the axle does also, pulling the string.  Since the axle is staying put, <b>opposing the force</b>, or the wheel, and transferring energy via the string, then this would be a legal and functioning wheel and axle.
+</p>
+<h3><span class="mw-headline" id="Pulley">Pulley</span></h3>
+<p>A pulley is a wheel and axle that changes the direction of a force with a <b>mechanical advantage</b><a rel="nofollow" class="external autonumber" href="https://en.wikipedia.org/wiki/Mechanical_advantage">[2]</a> to transfer energy.  As with a similar wheel and axle, this is a very challenging simple machine to get right.  First of all, the definition of a pulley is often confusing.  It cannot just be a wheel and axle with a string on one side and a weight on the other.  It has to have a mechanical advantage, or a benefit of saving energy, to be considered a pulley.  The mechanical advantage of a pulley is the number of parts of the string that act on the force.  An example of this fitting into a Mission Possible device is sliding a piece of wood out from under a weight attached to one side of a string, using three wheels and axles and a length of string to lift another, lighter, weight that lifts up to send a ball rolling down a ramp and up an inclined plane.
+</p>
+<h2><span class="mw-headline" id="Requirements">Requirements</span></h2>
+<h3><span class="mw-headline" id="Transfers">Transfers</span></h3>
+<p>While it may be tempting to fill a machine with many levers and other more common simple machines, in order to maximize points, teams should try to include as many of the types of simple machines as they can. Point will be rewarded for each <i>unique</i> transfer (counting each class of levers separately). 
+</p>
+<h3><span class="mw-headline" id="Time-Waster">Time-Waster</span></h3>
+<p>A device will need to run as close as possible to the Target Time provided by the Event Supervisors at the competition. While some devices might naturally take a long time to run, most will only take a few seconds. It is important to implement a way to adjust the time each run takes, which may not (and probably won't) be a simple machine. Often, these parts of devices include a substance such as sand or rice going through a small opening, building up and eventually becoming heavy enough to trigger the next task. However, these methods can be inconsistent, and many other ways are possible.
+</p>
+<h3><span class="mw-headline" id="TSL">TSL</span></h3>
+<p>Another important component of this event is writing a <b>Transfer Sequence Log</b>, or TSL for short. This document lists all transfers, including the start and end task, and how many points they're worth (even if they're repeats and worth nothing), as well as a brief description of each. It's worth points, so not doing will result in a lower score.
+</p>
+<h2><span class="mw-headline" id="Yearly_Task">Yearly Task</span></h2>
+<p>Most recent years have included one or more tasks that the device must complete, either to start the device, during the run of the device, and/or when completing the device run. These predetermined tasks generally vary from year to year in order to ensure that teams need to address a new engineering challenge every year.
+</p>
+<h3><span class="mw-headline" id="Starting_Tasks">Starting Tasks</span></h3>
+<p>The current starting task: 
+</p>
+<ul><li>Dropping a golf ball into the device so that it initiates the next action</li></ul>
+<p>Some start tasks in recent years have been:
+</p>
+<ul><li>Dropping a racquetball into the machine</li>
+<li>Operating a plunger</li></ul>
+<p><br />
+The starting tasks often involve putting kinetic energy in your device in ways that might be very variable depending on how you do them each time. For instance, you could accidentally pull your plunger back a different distance every time if you were not careful about it. This could create errors in your device's run. You should try to figure out a way to make your start task the same every time.
+</p>
+<h3><span class="mw-headline" id="Ending_Tasks">Ending Tasks</span></h3>
+<p>The current ending task: 
+</p>
+<ul><li>Moving a golf ball on to a golf tee</li></ul>
+<p>Recently, some of the ending tasks have been:
+</p>
+<ul><li>Raising a flag</li>
+<li>Ringing a bell</li></ul>
+<p>Generally, the ending tasks involve something the judges can either hear or see- some kind of output. It is important to make sure that your task is obvious when it is completed-this is important not only for timing of your device but, in the case of the bell, actually getting the points for that task. If, for example, your bell could not be heard ringing, you wouldn't get its points.
+</p>
+<h2><span class="mw-headline" id="Things_to_Keep_in_Mind_While_Building">Things to Keep in Mind While Building</span></h2>
+<ol><li>Make sure to label each task within the machine with little pieces of paper. That's a requirement!</li>
+<li>The simple machines of the same type do not have to be unique. Note that consecutive machines of the same type (even though unique) still only count as one machine.</li>
+<li>Make sure to meet the general requirements. Teams that fail to do so will be placed in the second tier. Make sure that all parts of the device, including the outer walls and base plate fall within the legal dimensions of the device.</li>
+<li>Be safe by using a mechanical timer to achieve as close to the ideal time as possible. One method would be to use a long screw to eat up time. This way, the time it might take to finish that particular task can be adjusted.</li>
+<li>No loops or parallel paths are permitted in the device. Make sure that the action is linear from start to finish.</li>
+<li>The highest part of the device automatically designates the top boundary of the device.</li>
+<li>You can start and set parts of the device operating before the pulling of the string (such as pendulums, springs, etc.).</li>
+<li>Teams cannot touch the device after it has been started without losing points. This is why the reliability of the machine is important; there will be no need for interference.</li>
+<li>Don't forget your TSL! It is required, and gives easy points.</li>
+<li>Remember that you will probably lose any positive points for time if your device fails to complete the task, but continues to operate.</li>
+<li>Try to stay within the ideal time, but if that is not possible, better have it finish than fail!</li></ol>
+<h2><span class="mw-headline" id="Tips">Tips</span></h2>
+<ol><li>Know both the task sequence list and rules well enough to be able to explain everything.</li>
+<li>Go with the simplest way possible. Don't over-complicate things, creating more room for failure. Also, build things with a durability factor. There is more reliability this way.</li>
+<li>Draw all the designs and keep them together in case something doesn't work and need to build something new.</li>
+<li>Prepare for every scenario possible. Bring just-in-case items like tools or extra materials you need, but don't go overboard.</li>
+<li>Test the device prior to competition <b>many</b> times--do not just build it and bring it in.</li>
+<li>Always allow room for improvement. This will reduce the chance of failure if you keep it simple. Teams do not need to prepare a state-ready box for regional competition if it is not necessary.</li>
+<li>Practice with your partners and make sure that they know what they're doing!</li>
+<li>Teams can use small pieces from Erector sets or Lego sets to get gears (not legal for some tasks), pulleys, and plates of metal with holes pre-drilled.</li>
+<li><b>KISS</b>! Keep it simple, stupid. This has been mentioned many times but it can not be stressed enough. Yes, domino trains are cool. Baking soda and vinegar inflating balloons are even cooler. However, they don't count for anything except maybe time (but there are easier ways to extend the run time of a device), and they affect the reliability factor of a machine. Stay with safer transfers and the tasks listed in the rules.</li>
+<li>Teams should ensure that everything needed is present. Make sure nothing is forgotten.</li>
+<li>Devise a system in which each of the people in the event has a designated part in setting up the machine so that the device can be ready as quickly as possible.</li>
+<li>And last but not least, <b>know the rules</b>. Teams should always have a copy of the rules during the competition to be able back themselves up for any doubts the event supervisors may have with the device.</li></ol>
+<h2><span class="mw-headline" id="See_Also">See Also</span></h2>
+<ul><li><a href="/wiki/index.php/Mission_Possible_C" title="Mission Possible C">Mission Possible C</a> (Rules are different, but many concepts are similar)</li>
+<li><a href="/wiki/index.php/Simple_Machines" class="mw-redirect" title="Simple Machines">This page</a> which has information on simple machines and mechanical advantage</li>
+<li><a rel="nofollow" class="external text" href="https://www.soinc.org/sites/default/files/uploaded_files/MissionPossibleB2017TSLSample.pdf">TSL Sample</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Technology_and_Engineering_Events" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/index.php/Template:Technology_and_Engineering_Event" title="Template:Technology and Engineering Event"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/index.php?title=Template_talk:Technology_and_Engineering_Event&amp;action=edit&amp;redlink=1" class="new" title="Template talk:Technology and Engineering Event (page does not exist)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a rel="nofollow" class="external text" href="https://scioly.org/wiki/index.php?title=Template:Technology_and_Engineering_Event&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Technology_and_Engineering_Events" style="font-size:114%;margin:0 4em">Technology and Engineering Events</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">National Events</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Balloon_Launch_Glider" title="Balloon Launch Glider">Balloon Launch Glider</a></li>
+<li><a href="/wiki/index.php/Battery_Buggy" title="Battery Buggy">Battery Buggy</a></li>
+<li><a href="/wiki/index.php/Boomilever" title="Boomilever">Boomilever</a></li>
+<li><a href="/wiki/index.php/Bridge_Building" title="Bridge Building">Bridge Building</a></li>
+<li><a href="/wiki/index.php/Detector_Building" title="Detector Building">Detector Building</a></li>
+<li><a href="/wiki/index.php/Egg-O-Naut" title="Egg-O-Naut">Egg-O-Naut</a></li>
+<li><a href="/wiki/index.php/Elastic_Launched_Glider" title="Elastic Launched Glider">Elastic Launched Glider</a></li>
+<li><a href="/wiki/index.php/Electric_Vehicle" title="Electric Vehicle">Electric Vehicle</a></li>
+<li><a href="/wiki/index.php/Elevated_Bridge" title="Elevated Bridge">Elevated Bridge</a></li>
+<li><a href="/wiki/index.php/Gravity_Vehicle" title="Gravity Vehicle">Gravity Vehicle</a></li>
+<li><a href="/wiki/index.php/Helicopters" title="Helicopters">Helicopters</a></li>
+<li><a href="/wiki/index.php/Junkyard_Challenge" title="Junkyard Challenge">Junkyard Challenge</a></li>
+<li><a href="/wiki/index.php/Mission_Possible" title="Mission Possible">Mission Possible</a></li>
+<li><a href="/wiki/index.php/Mousetrap_Vehicle" title="Mousetrap Vehicle">Mousetrap Vehicle</a></li>
+<li><a href="/wiki/index.php/Robo-Cross" title="Robo-Cross">Robo-Cross</a></li>
+<li><a href="/wiki/index.php/Robot_Arm" title="Robot Arm">Robot Arm</a></li>
+<li><a href="/wiki/index.php/Robot_Ramble" title="Robot Ramble">Robot Ramble</a></li>
+<li><a href="/wiki/index.php/Roller_Coaster" title="Roller Coaster">Roller Coaster</a></li>
+<li><a href="/wiki/index.php/Scrambler" title="Scrambler">Scrambler</a></li>
+<li><a href="/wiki/index.php/Towers" title="Towers">Towers</a></li>
+<li><a href="/wiki/index.php/Wheeled_Vehicle" title="Wheeled Vehicle">Wheeled Vehicle</a></li>
+<li><a href="/wiki/index.php/Wright_Stuff" title="Wright Stuff">Wright Stuff</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Trial Events</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Aerial_Scramble" title="Aerial Scramble">Aerial Scramble</a></li>
+<li><a href="/wiki/index.php/Amazing_Mechatronics" title="Amazing Mechatronics">Amazing Mechatronics</a></li>
+<li><a href="/wiki/index.php/Electric_Wright_Stuff" title="Electric Wright Stuff">Electric Wright Stuff</a></li>
+<li><a href="/wiki/index.php/Flying_Bird" title="Flying Bird">Flying Bird</a></li>
+<li><a href="/wiki/index.php/Robot_Tour" title="Robot Tour">Robot Tour</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Event Resources</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/MPC_Index" title="MPC Index">Mission Possible Series</a></li>
+<li><a href="/wiki/index.php/Zero_Cost_Scrambler" title="Zero Cost Scrambler">Zero Cost Scrambler</a></li>
+<li><a href="/wiki/index.php/Aia%27s_Boomilever_Guide" title="Aia&#39;s Boomilever Guide">Aia's Boomilever Guide</a></li>
+<li><a href="/wiki/index.php/Mousetrap_Vehicle_2010_Design" title="Mousetrap Vehicle 2010 Design">Mousetrap Vehicle 2010 Design</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="2020.2F2021_Events" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/index.php/Template:2021Events" title="Template:2021Events"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/index.php?title=Template_talk:2021Events&amp;action=edit&amp;redlink=1" class="new" title="Template talk:2021Events (page does not exist)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a rel="nofollow" class="external text" href="https://scioly.org/wiki/index.php?title=Template:2021Events&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="2020.2F2021_Events" style="font-size:114%;margin:0 4em">2020/2021 Events</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Division B Events</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Anatomy_and_Physiology" title="Anatomy and Physiology">Anatomy and Physiology</a></li>
+<li><a href="/wiki/index.php/Boomilever" title="Boomilever">Boomilever</a></li>
+<li><a href="/wiki/index.php/Circuit_Lab" title="Circuit Lab">Circuit Lab</a></li>
+<li><a href="/wiki/index.php/Crime_Busters" title="Crime Busters">Crime Busters</a></li>
+<li><a href="/wiki/index.php/Density_Lab" title="Density Lab">Density Lab</a></li>
+<li><a href="/wiki/index.php/Disease_Detectives" title="Disease Detectives">Disease Detectives</a></li>
+<li><a href="/wiki/index.php/Dynamic_Planet_Topics" title="Dynamic Planet Topics">Dynamic Planet</a></li>
+<li><a href="/wiki/index.php/Elastic_Launched_Glider" title="Elastic Launched Glider">Elastic Launched Glider</a></li>
+<li><a href="/wiki/index.php/Experimental_Design" title="Experimental Design">Experimental Design</a></li>
+<li><a href="/wiki/index.php/Food_Science" title="Food Science">Food Science</a></li>
+<li><a href="/wiki/index.php/Fossils" title="Fossils">Fossils</a></li>
+<li><a href="/wiki/index.php/Game_On" title="Game On">Game On</a></li>
+<li><a href="/wiki/index.php/Heredity" title="Heredity">Heredity</a></li>
+<li><a href="/wiki/index.php/Machines" title="Machines">Machines</a></li>
+<li><a href="/wiki/index.php/Meteorology" title="Meteorology">Meteorology</a></li>
+<li><a href="/wiki/index.php/Mission_Possible" title="Mission Possible">Mission Possible</a></li>
+<li><a href="/wiki/index.php/Mousetrap_Vehicle" title="Mousetrap Vehicle">Mousetrap Vehicle</a></li>
+<li><a href="/wiki/index.php/Ornithology" title="Ornithology">Ornithology</a></li>
+<li><a href="/wiki/index.php/Ping_Pong_Parachute" title="Ping Pong Parachute">Ping Pong Parachute</a></li>
+<li><a href="/wiki/index.php/Reach_for_the_Stars" title="Reach for the Stars">Reach for the Stars</a></li>
+<li><a href="/wiki/index.php/Road_Scholar" title="Road Scholar">Road Scholar</a></li>
+<li><a href="/wiki/index.php/Water_Quality" title="Water Quality">Water Quality</a></li>
+<li><a href="/wiki/index.php/Write_It_Do_It" title="Write It Do It">Write It Do It</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Division C Events</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Anatomy_and_Physiology" title="Anatomy and Physiology">Anatomy and Physiology</a></li>
+<li><a href="/wiki/index.php/Astronomy" title="Astronomy">Astronomy</a></li>
+<li><a href="/wiki/index.php/Boomilever" title="Boomilever">Boomilever</a></li>
+<li><a href="/wiki/index.php/Chemistry_Lab" title="Chemistry Lab">Chemistry Lab</a></li>
+<li><a href="/wiki/index.php/Circuit_Lab" title="Circuit Lab">Circuit Lab</a></li>
+<li><a href="/wiki/index.php/Codebusters" title="Codebusters">Codebusters</a></li>
+<li><a href="/wiki/index.php/Designer_Genes" title="Designer Genes">Designer Genes</a></li>
+<li><a href="/wiki/index.php/Detector_Building" title="Detector Building">Detector Building</a></li>
+<li><a href="/wiki/index.php/Disease_Detectives" title="Disease Detectives">Disease Detectives</a></li>
+<li><a href="/wiki/index.php/Dynamic_Planet_Topics" title="Dynamic Planet Topics">Dynamic Planet</a></li>
+<li><a href="/wiki/index.php/Experimental_Design" title="Experimental Design">Experimental Design</a></li>
+<li><a href="/wiki/index.php/Forensics" title="Forensics">Forensics</a></li>
+<li><a href="/wiki/index.php/Fossils" title="Fossils">Fossils</a></li>
+<li><a href="/wiki/index.php/GeoLogic_Mapping" title="GeoLogic Mapping">GeoLogic Mapping</a></li>
+<li><a href="/wiki/index.php/Gravity_Vehicle" title="Gravity Vehicle">Gravity Vehicle</a></li>
+<li><a href="/wiki/index.php/Machines" title="Machines">Machines</a></li>
+<li><a href="/wiki/index.php/Ornithology" title="Ornithology">Ornithology</a></li>
+<li><a href="/wiki/index.php/Ping_Pong_Parachute" title="Ping Pong Parachute">Ping Pong Parachute</a></li>
+<li><a href="/wiki/index.php/Protein_Modeling" title="Protein Modeling">Protein Modeling</a></li>
+<li><a href="/wiki/index.php/Sounds_of_Music" title="Sounds of Music">Sounds of Music</a></li>
+<li><a href="/wiki/index.php/Water_Quality" title="Water Quality">Water Quality</a></li>
+<li><a href="/wiki/index.php/Wright_Stuff" title="Wright Stuff">Wright Stuff</a></li>
+<li><a href="/wiki/index.php/Write_It_Do_It" title="Write It Do It">Write It Do It</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Division B National Trials 2020</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Aerial_Scramble" title="Aerial Scramble">Aerial Scramble</a></li>
+<li><a href="/wiki/index.php/Amazing_Mechatronics" title="Amazing Mechatronics">Amazing Mechatronics</a></li>
+<li><a href="/wiki/index.php/Codebusters" title="Codebusters">Codebusters</a></li>
+<li><a href="/wiki/index.php/Storm_the_Castle" title="Storm the Castle">Storm the Castle</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Division C National Trials 2020</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Aerial_Scramble" title="Aerial Scramble">Aerial Scramble</a></li>
+<li><a href="/wiki/index.php/Amazing_Mechatronics" title="Amazing Mechatronics">Amazing Mechatronics</a></li>
+<li><a href="/wiki/index.php/Environmental_Chemistry" title="Environmental Chemistry">Environmental Chemistry</a></li>
+<li><a href="/wiki/index.php/Trajectory" title="Trajectory">Trajectory</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Division B National Trials 2021</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Aerial_Scramble" title="Aerial Scramble">Aerial Scramble</a></li>
+<li><a href="/wiki/index.php/Awesome_Aquifers" title="Awesome Aquifers">Awesome Aquifers</a></li>
+<li><a href="/wiki/index.php/Botany" title="Botany">Botany</a></li>
+<li><a href="/wiki/index.php/Codebusters" title="Codebusters">Codebusters</a></li>
+<li><a href="/wiki/index.php/Electric_Wright_Stuff" title="Electric Wright Stuff">Electric Wright Stuff</a></li>
+<li><a href="/wiki/index.php/Home_Horticulture" title="Home Horticulture">Home Horticulture</a></li>
+<li><a href="/wiki/index.php/Solar_Power" title="Solar Power">Solar Power</a></li>
+<li><a href="/wiki/index.php/Storm_the_Castle" title="Storm the Castle">Storm the Castle</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Division C National Trials 2021</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Aerial_Scramble" title="Aerial Scramble">Aerial Scramble</a></li>
+<li><a href="/wiki/index.php/Botany" title="Botany">Botany</a></li>
+<li><a href="/wiki/index.php/Electric_Wright_Stuff" title="Electric Wright Stuff">Electric Wright Stuff</a></li>
+<li><a href="/wiki/index.php/Environmental_Chemistry" title="Environmental Chemistry">Environmental Chemistry</a></li>
+<li><a href="/wiki/index.php/Home_Horticulture" title="Home Horticulture">Home Horticulture</a></li>
+<li><a href="/wiki/index.php/Robot_Tour" title="Robot Tour">Robot Tour</a></li>
+<li><a href="/wiki/index.php/Solar_Power" title="Solar Power">Solar Power</a></li>
+<li><a href="/wiki/index.php/Trajectory" title="Trajectory">Trajectory</a></li>
+<li><a href="/wiki/index.php/WiFi_Lab" title="WiFi Lab">WiFi Lab</a></li></ul>
+</div></td></tr></tbody></table></div>
+
+<!-- 
+NewPP limit report
+Cached time: 20200806174712
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.344 seconds
+Real time usage: 0.458 seconds
+Preprocessor visited node count: 518/1000000
+Preprocessor generated node count: 4686/1000000
+Post‐expand include size: 24692/2097152 bytes
+Template argument size: 1909/2097152 bytes
+Highest expansion depth: 10/40
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.050/7.000 seconds
+Lua virtual size: 8.62 MB/50 MB
+Lua estimated memory usage: 0 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  240.496      1 -total
+ 63.67%  153.134      2 Template:Navbox
+ 51.99%  125.040      1 Template:Technology_and_Engineering_Event
+ 29.94%   72.007      1 Template:EventLinksBox
+ 17.41%   41.880      1 Template:2021Events
+-->
+</div>
+<!-- Saved in parser cache with key wiki-wikiv2_:pcache:idhash:150-0!canonical and timestamp 20200806174711 and revision id 105296
+ -->
+</div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://scioly.org/wiki/index.php?title=Mission_Possible_B&amp;oldid=105296">https://scioly.org/wiki/index.php?title=Mission_Possible_B&amp;oldid=105296</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/index.php/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/index.php/Category:Event_Pages" title="Category:Event Pages">Event Pages</a></li><li><a href="/wiki/index.php/Category:Building_Event_Pages" title="Category:Building Event Pages">Building Event Pages</a></li><li><a href="/wiki/index.php/Category:Technology_and_Engineering_Events" title="Category:Technology and Engineering Events">Technology and Engineering Events</a></li><li><a href="/wiki/index.php/Category:Mission_Possible" title="Category:Mission Possible">Mission Possible</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-login"><a href="//scioly.org/forums/ucp.php?mode=login&amp;redirect=https%3A%2F%2Fscioly.org%2Fwiki%2Findex.php%2FMission_Possible_B" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/index.php/Mission_Possible_B" title="View the content page [c]" accesskey="c">Page</a></span></li><li id="ca-talk" class="new"><span><a href="/wiki/index.php?title=Talk:Mission_Possible_B&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/index.php/Mission_Possible_B">Read</a></span></li><li id="ca-viewsource" class="collapsible"><span><a href="/wiki/index.php?title=Mission_Possible_B&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li><li id="ca-history" class="collapsible"><span><a href="/wiki/index.php?title=Mission_Possible_B&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/wiki/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Scioly.org" title="Search Scioly.org [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/index.php/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage"><a href="/wiki/index.php/Main_Page" title="Visit the main page [z]" accesskey="z">Main Page</a></li><li id="n-recentchanges"><a href="/wiki/index.php/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/wiki/index.php/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-MediaWiki-Help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">MediaWiki Help</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/index.php/Special:WhatLinksHere/Mission_Possible_B" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/index.php/Special:RecentChangesLinked/Mission_Possible_B" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/wiki/index.php/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="/wiki/index.php?title=Mission_Possible_B&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/wiki/index.php?title=Mission_Possible_B&amp;oldid=105296" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/wiki/index.php?title=Mission_Possible_B&amp;action=info" title="More information about this page">Page information</a></li>				</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 29 July 2020, at 16:37.</li>
+								<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution</a> unless otherwise noted.</li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="http://creativecommons.org/licenses/by/3.0/"><img src="/wiki/resources/assets/licenses/cc-by.png" alt="Creative Commons Attribution" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<style>.MathJax_Display{display:inline !important;}
+.mathjax-wrapper{font-size:120%;}</style>
+<script type='text/x-mathjax-config'>MathJax.Hub.Config({displayAlign:'left',tex2jax:{displayMath:[['[math]','[/math]']]}})</script>
+<script src='//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.344","walltime":"0.458","ppvisitednodes":{"value":518,"limit":1000000},"ppgeneratednodes":{"value":4686,"limit":1000000},"postexpandincludesize":{"value":24692,"limit":2097152},"templateargumentsize":{"value":1909,"limit":2097152},"expansiondepth":{"value":10,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%  240.496      1 -total"," 63.67%  153.134      2 Template:Navbox"," 51.99%  125.040      1 Template:Technology_and_Engineering_Event"," 29.94%   72.007      1 Template:EventLinksBox"," 17.41%   41.880      1 Template:2021Events"]},"scribunto":{"limitreport-timeusage":{"value":"0.050","limit":"7.000"},"limitreport-virtmemusage":{"value":9035776,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20200806174712","ttl":86400,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":120});});</script>
+	</body>
+</html>

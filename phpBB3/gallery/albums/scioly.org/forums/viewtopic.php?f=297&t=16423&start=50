@@ -1,0 +1,1771 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-gb">
+<head>
+<meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+<title>Water Quality B/C - Page 6 - Scioly.org</title>
+
+	<link rel="alternate" type="application/atom+xml" title="Feed - Scioly.org" href="/forums/app.php/feed">	<link rel="alternate" type="application/atom+xml" title="Feed - News" href="/forums/app.php/feed/news">	<link rel="alternate" type="application/atom+xml" title="Feed - All forums" href="/forums/app.php/feed/forums">	<link rel="alternate" type="application/atom+xml" title="Feed - New Topics" href="/forums/app.php/feed/topics">	<link rel="alternate" type="application/atom+xml" title="Feed - Active Topics" href="/forums/app.php/feed/topics_active">	<link rel="alternate" type="application/atom+xml" title="Feed - Forum - Question Marathons" href="/forums/app.php/feed/forum/297">	<link rel="alternate" type="application/atom+xml" title="Feed - Topic - Water Quality B/C" href="/forums/app.php/feed/topic/16423">	
+	<link rel="canonical" href="https://scioly.org/forums/viewtopic.php?t=16423&amp;start=50">
+
+<!--
+	phpBB style name: prosilver
+	Based on style:   prosilver (this is the default phpBB3 style)
+	Original author:  Tom Beddard ( http://www.subBlue.com/ )
+	Modified by:
+-->
+
+<link href="./assets/css/font-awesome.min.css?assets_version=50" rel="stylesheet">
+<link href="./styles/scioly/theme/stylesheet.css?assets_version=50" rel="stylesheet">
+<link href="./styles/scioly/theme/en/stylesheet.css?assets_version=50" rel="stylesheet">
+
+
+
+
+<!--[if lte IE 9]>
+	<link href="./styles/scioly/theme/tweaks.css?assets_version=50" rel="stylesheet">
+<![endif]-->
+
+
+<link href="./ext/gfksx/ThanksForPosts/styles/prosilver/theme/thanks.css?assets_version=50" rel="stylesheet" media="screen" />
+
+
+
+</head>
+<body id="phpbb" class="nojs notouch section-viewtopic ltr ">
+
+
+<!-- <script type="text/javascript" src="/src/js/snowstorm.js"></script> -->
+<!-- <script type="text/javascript" src="/src/js/fireworks.js"></script> -->
+<script type="text/javascript" src="/src/js/jquery.min.js"></script>
+<script type="text/javascript" src="/src/js/forums.js"></script>
+<link rel="stylesheet" type="text/css" href="/src/css/forums.css">
+
+<script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');ga('create', 'UA-340310-1', 'auto');ga('send', 'pageview');</script>
+
+<div class="banner" style="background-color: #f4f4f4; color: #555555;"><span class="close" onclick="this.parentElement.style.display='none'; close_banner();">&times;</span><span class="message"><a href="https://scioly.org/chat.php" style="color: #555555;">This is a test announcement! We're redoing how banners appear on this site.</a></span></div><script type="text/javascript">
+	var banner_id = "banner_" + 15;
+	var banner_boolean = localStorage.getItem(banner_id);
+
+	$(document).ready(function() {
+		if (banner_boolean == "false") {
+			$('.banner').hide();
+		}
+	});
+
+	function close_banner() {
+		localStorage.setItem(banner_id, "false");
+	}
+</script>
+<style>
+	.banner > .close {
+		margin-left: 15px;
+		float: right;
+		font-size: 20px;
+		line-height: 16px;
+		cursor: pointer;
+		transition: 0.3s;
+	}
+	.banner > .message {
+		display: block;
+		margin-right: 30px;
+	}
+</style>
+
+<div class="navbar navbar-default navbar-fixed-top" role="navigation" style="top: auto;">
+	<div class="site-nav">
+		<a href="https://scioly.org/">
+				<img src="https://scioly.org/src/img/logo/logo.png">
+		</a>
+		<div class="hamburger" onclick="hamburger(this)">
+			<div>
+				<div></div>
+				<div></div>
+				<div></div>
+			</div>
+		</div>
+		<ul>
+			<li><a href="https://scioly.org/forums">Forums</a></li>
+			<li><a href="https://scioly.org/wiki">Wiki</a></li>
+			<li><a href="https://scioly.org/tests">Test Exchange</a></li>
+			<!-- <li><a href="https://scioly.org/gallery">Image Gallery</a></li> -->
+			<!-- <li><a href="https://scioly.org/invitational">Invites</a></li> -->
+			<li><a href="https://scioly.org/chat">Chat</a></li>
+			<li><a href="/login" class="insert-button">Login</a></li>		</ul>
+	</div>
+	<img class="print-only" src="https://scioly.org/src/img/logo/logo_black.png" style="max-width: 150px;">
+</div>
+
+
+
+<div id="wrap" class="wrap">
+	<a id="top" class="top-anchor" accesskey="t"></a>
+	<div id="page-header">
+		<div class="headerbar" role="banner">
+					<div class="inner">
+
+			<div id="site-description" class="site-description">
+				<a id="logo" class="logo" href="https://scioly.org" title="Scioly.org"><span class="site_logo"></span></a>
+				<h1>Scioly.org</h1>
+				<p>Science Olympiad Student Center</p>
+				<p class="skiplink"><a href="#start_here">Skip to content</a></p>
+			</div>
+
+									<div id="search-box" class="search-box search-header" role="search">
+				<form action="./search.php" method="get" id="search">
+				<fieldset>
+					<input name="keywords" id="keywords" type="search" maxlength="128" title="Search for keywords" class="inputbox search tiny" size="20" value="" placeholder="Search…" />
+					<button class="button button-search" type="submit" title="Search">
+						<i class="icon fa-search fa-fw" aria-hidden="true"></i><span class="sr-only">Search</span>
+					</button>
+					<a href="./search.php" class="button button-search-end" title="Advanced search">
+						<i class="icon fa-cog fa-fw" aria-hidden="true"></i><span class="sr-only">Advanced search</span>
+					</a>
+					
+				</fieldset>
+				</form>
+			</div>
+						
+			</div>
+					</div>
+				<div class="navbar" role="navigation">
+	<div class="inner">
+
+	<ul id="nav-main" class="nav-main linklist" role="menubar">
+
+		<li id="quick-links" class="quick-links dropdown-container responsive-menu" data-skip-responsive="true">
+			<a href="#" class="dropdown-trigger">
+				<i class="icon fa-bars fa-fw" aria-hidden="true"></i><span>Quick links</span>
+			</a>
+			<div class="dropdown">
+				<div class="pointer"><div class="pointer-inner"></div></div>
+				<ul class="dropdown-contents" role="menu">
+					
+											<li class="separator"></li>
+																									<li>
+								<a href="./search.php?search_id=unanswered" role="menuitem">
+									<i class="icon fa-file-o fa-fw icon-gray" aria-hidden="true"></i><span>Unanswered topics</span>
+								</a>
+							</li>
+							<li>
+								<a href="./search.php?search_id=active_topics" role="menuitem">
+									<i class="icon fa-file-o fa-fw icon-blue" aria-hidden="true"></i><span>Active topics</span>
+								</a>
+							</li>
+							<li class="separator"></li>
+							<li>
+								<a href="./search.php" role="menuitem">
+									<i class="icon fa-search fa-fw" aria-hidden="true"></i><span>Search</span>
+								</a>
+							</li>
+					
+											<li class="separator"></li>
+													<li>
+								<a href="./memberlist.php" role="menuitem">
+									<i class="icon fa-group fa-fw" aria-hidden="true"></i><span>Members</span>
+								</a>
+							</li>
+																			<li>
+								<a href="./memberlist.php?mode=team" role="menuitem">
+									<i class="icon fa-shield fa-fw" aria-hidden="true"></i><span>The team</span>
+								</a>
+							</li>
+																<li class="separator"></li>
+
+									</ul>
+			</div>
+		</li>
+
+				<li data-skip-responsive="true">
+			<a href="/forums/app.php/help/faq" rel="help" title="Frequently Asked Questions" role="menuitem">
+				<i class="icon fa-question-circle fa-fw" aria-hidden="true"></i><span>FAQ</span>
+			</a>
+		</li>
+						
+			<li class="rightside"  data-skip-responsive="true">
+			<a href="./ucp.php?mode=login" title="Login" accesskey="x" role="menuitem">
+				<i class="icon fa-power-off fa-fw" aria-hidden="true"></i><span>Login</span>
+			</a>
+		</li>
+					<li class="rightside" data-skip-responsive="true">
+				<a href="./ucp.php?mode=register" role="menuitem">
+					<i class="icon fa-pencil-square-o  fa-fw" aria-hidden="true"></i><span>Register</span>
+				</a>
+			</li>
+						</ul>
+
+	<ul id="nav-breadcrumbs" class="nav-breadcrumbs linklist navlinks" role="menubar">
+								<li class="breadcrumbs" itemscope itemtype="http://schema.org/BreadcrumbList">
+							<span class="crumb"  itemtype="http://schema.org/ListItem" itemprop="itemListElement" itemscope><a href="https://scioly.org" itemtype="https://schema.org/Thing" itemprop="item" data-navbar-reference="home"><i class="icon fa-home fa-fw" aria-hidden="true"></i><span itemprop="name">Scioly.org</span></a><meta itemprop="position" content="1" /></span>
+										<span class="crumb"  itemtype="http://schema.org/ListItem" itemprop="itemListElement" itemscope><a href="./index.php" itemtype="https://schema.org/Thing" itemprop="item" accesskey="h" data-navbar-reference="index"><span itemprop="name">Forums</span></a><meta itemprop="position" content="2" /></span>
+
+											<span class="crumb"  itemtype="http://schema.org/ListItem" itemprop="itemListElement" itemscope data-forum-id="1"><a href="./viewforum.php?f=1" itemtype="https://schema.org/Thing" itemprop="item"><span itemprop="name">Event Forums</span></a><meta itemprop="position" content="3" /></span>
+															<span class="crumb"  itemtype="http://schema.org/ListItem" itemprop="itemListElement" itemscope data-forum-id="297"><a href="./viewforum.php?f=297" itemtype="https://schema.org/Thing" itemprop="item"><span itemprop="name">Question Marathons</span></a><meta itemprop="position" content="4" /></span>
+												</li>
+		
+					<li class="rightside responsive-search">
+				<a href="./search.php" title="View the advanced search options" role="menuitem">
+					<i class="icon fa-search fa-fw" aria-hidden="true"></i><span class="sr-only">Search</span>
+				</a>
+			</li>
+			</ul>
+
+	</div>
+</div>
+	</div>
+
+	
+	<a id="start_here" class="anchor"></a>
+	<div id="page-body" class="page-body" role="main">
+		
+		
+<h2 class="topic-title"><a href="./viewtopic.php?f=297&amp;t=16423&amp;start=50">Water Quality B/C</a></h2>
+<!-- NOTE: remove the style="display: none" when you want to have the forum description on the topic body -->
+<div style="display: none !important;">Test your knowledge of various Science Olympiad events.<br /></div>
+
+
+<div class="action-bar bar-top">
+	
+			<a href="./posting.php?mode=reply&amp;f=297&amp;t=16423" class="button" title="Post a reply">
+							<span>Post Reply</span> <i class="icon fa-reply fa-fw" aria-hidden="true"></i>
+					</a>
+	
+			<div class="dropdown-container dropdown-button-control topic-tools">
+		<span title="Topic tools" class="button button-secondary dropdown-trigger dropdown-select">
+			<i class="icon fa-wrench fa-fw" aria-hidden="true"></i>
+			<span class="caret"><i class="icon fa-sort-down fa-fw" aria-hidden="true"></i></span>
+		</span>
+		<div class="dropdown">
+			<div class="pointer"><div class="pointer-inner"></div></div>
+			<ul class="dropdown-contents">
+																												<li>
+					<a href="./viewtopic.php?f=297&amp;t=16423&amp;start=50&amp;view=print" title="Print view" accesskey="p">
+						<i class="icon fa-print fa-fw" aria-hidden="true"></i><span>Print view</span>
+					</a>
+				</li>
+											</ul>
+		</div>
+	</div>
+	
+			<div class="search-box" role="search">
+			<form method="get" id="topic-search" action="./search.php">
+			<fieldset>
+				<input class="inputbox search tiny"  type="search" name="keywords" id="search_keywords" size="20" placeholder="Search this topic…" />
+				<button class="button button-search" type="submit" title="Search">
+					<i class="icon fa-search fa-fw" aria-hidden="true"></i><span class="sr-only">Search</span>
+				</button>
+				<a href="./search.php" class="button button-search-end" title="Advanced search">
+					<i class="icon fa-cog fa-fw" aria-hidden="true"></i><span class="sr-only">Advanced search</span>
+				</a>
+				<input type="hidden" name="t" value="16423" />
+<input type="hidden" name="sf" value="msgonly" />
+
+			</fieldset>
+			</form>
+		</div>
+	
+			<div class="pagination">
+			79 posts
+							<ul>
+	<li class="dropdown-container dropdown-button-control dropdown-page-jump page-jump">
+		<a class="button button-icon-only dropdown-trigger" href="#" title="Click to jump to page…" role="button"><i class="icon fa-level-down fa-rotate-270" aria-hidden="true"></i><span class="sr-only">Page <strong>6</strong> of <strong>8</strong></span></a>
+		<div class="dropdown">
+			<div class="pointer"><div class="pointer-inner"></div></div>
+			<ul class="dropdown-contents">
+				<li>Jump to page:</li>
+				<li class="page-jump-form">
+					<input type="number" name="page-number" min="1" max="999999" title="Enter the page number you wish to go to" class="inputbox tiny" data-per-page="10" data-base-url=".&#x2F;viewtopic.php&#x3F;f&#x3D;297&amp;amp&#x3B;t&#x3D;16423" data-start-name="start" />
+					<input class="button2" value="Go" type="button" />
+				</li>
+			</ul>
+		</div>
+	</li>
+			<li class="arrow previous"><a class="button button-icon-only" href="./viewtopic.php?f=297&amp;t=16423&amp;start=40" rel="prev" role="button"><i class="icon fa-chevron-left fa-fw" aria-hidden="true"></i><span class="sr-only">Previous</span></a></li>
+				<li><a class="button" href="./viewtopic.php?f=297&amp;t=16423" role="button">1</a></li>
+			<li class="ellipsis" role="separator"><span>…</span></li>
+				<li><a class="button" href="./viewtopic.php?f=297&amp;t=16423&amp;start=30" role="button">4</a></li>
+				<li><a class="button" href="./viewtopic.php?f=297&amp;t=16423&amp;start=40" role="button">5</a></li>
+			<li class="active"><span>6</span></li>
+				<li><a class="button" href="./viewtopic.php?f=297&amp;t=16423&amp;start=60" role="button">7</a></li>
+				<li><a class="button" href="./viewtopic.php?f=297&amp;t=16423&amp;start=70" role="button">8</a></li>
+				<li class="arrow next"><a class="button button-icon-only" href="./viewtopic.php?f=297&amp;t=16423&amp;start=60" rel="next" role="button"><i class="icon fa-chevron-right fa-fw" aria-hidden="true"></i><span class="sr-only">Next</span></a></li>
+	</ul>
+					</div>
+		</div>
+
+
+
+
+			<div id="p408818" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile408818">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=45800" class="avatar"><img class="avatar" src="./download/file.php?avatar=45800_1580762851.png" width="29" height="40" alt="User avatar" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=45800" style="color: #000000;" class="username-coloured">BennyTheJett</a>							</dt>
+
+						<dd class="profile-rank">Exalted Member<br /><img src="./images/ranks/exalt1.gif" alt="Exalted Member" title="Exalted Member" /></dd>			
+		<dd class="profile-posts"><strong>Posts:</strong> <a href="./search.php?author_id=45800&amp;sr=posts">281</a></dd>		<dd class="profile-joined"><strong>Joined:</strong> February 21st, 2019, 2:05 pm</dd>		
+		
+											<dd class="profile-custom-field profile-division"><strong>Division:</strong> C</dd>
+												<dd class="profile-custom-field profile-pronouns"><strong>Pronouns:</strong> He/Him/His</dd>
+							<dd class="profile-posts" data-user-give-id="45800">
+    <strong>Has thanked:</strong>
+    <a href="/forums/app.php/thankslist/givens/45800/true">40 times</a>
+</dd>
+<dd class="profile-posts" data-user-receive-id="45800">
+    <strong>Been&nbsp;thanked:</strong>
+    <a href="/forums/app.php/thankslist/givens/45800/false">75 times</a>
+</dd>
+
+						
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content408818">
+
+						<h3 class="first"><a href="#p408818">Re: Water Quality B/C</a></h3>
+
+													<ul class="post-buttons">
+																																									<li>
+							<a href="./posting.php?mode=quote&amp;f=297&amp;p=408818" title="Reply with quote" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Quote</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="./viewtopic.php?p=408818#p408818" title="Post">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Post</span>
+					</a>
+								<span class="responsive-hide">by <strong><a href="./memberlist.php?mode=viewprofile&amp;u=45800" style="color: #000000;" class="username-coloured">BennyTheJett</a></strong> &raquo; </span>February 7th, 2020, 8:45 am
+			</p>
+			
+			
+			
+			<div class="content">From my research, CO<sub>2</sub> is more soluble in warmer water than oxygen. CO<sub>2</sub> is also less soluble in warmer water, however CO<sub>2</sub> is more soluble than oxygen to start with. My bad on the poor wording, and sorry for starting an argument.</div>
+
+			
+			
+									
+						<div id='list_thanks408818'>
+	</div>
+<div id='div_post_reput408818'>
+	</div>
+			<div id="sig408818" class="signature"><strong class="text-strong">2021 Events:</strong><br>
+Astronomy, Dynamic Planet, Fossils, Geologic Mapping, Water Quality, Possibly Geocaching.<br>
+<br>
+<span style="font-size:85%;line-height:116%"><strong class="text-strong">President and Founder (also the only member atm)  of the Pibot Domination Corps</strong></span></div>
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Top">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Top</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+	<hr class="divider" />
+				<div id="p408819" class="post has-profile bg1">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile408819">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=45800" class="avatar"><img class="avatar" src="./download/file.php?avatar=45800_1580762851.png" width="29" height="40" alt="User avatar" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=45800" style="color: #000000;" class="username-coloured">BennyTheJett</a>							</dt>
+
+						<dd class="profile-rank">Exalted Member<br /><img src="./images/ranks/exalt1.gif" alt="Exalted Member" title="Exalted Member" /></dd>			
+		<dd class="profile-posts"><strong>Posts:</strong> <a href="./search.php?author_id=45800&amp;sr=posts">281</a></dd>		<dd class="profile-joined"><strong>Joined:</strong> February 21st, 2019, 2:05 pm</dd>		
+		
+											<dd class="profile-custom-field profile-division"><strong>Division:</strong> C</dd>
+												<dd class="profile-custom-field profile-pronouns"><strong>Pronouns:</strong> He/Him/His</dd>
+							<dd class="profile-posts" data-user-give-id="45800">
+    <strong>Has thanked:</strong>
+    <a href="/forums/app.php/thankslist/givens/45800/true">40 times</a>
+</dd>
+<dd class="profile-posts" data-user-receive-id="45800">
+    <strong>Been&nbsp;thanked:</strong>
+    <a href="/forums/app.php/thankslist/givens/45800/false">75 times</a>
+</dd>
+
+						
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content408819">
+
+						<h3 ><a href="#p408819">Re: Water Quality B/C</a></h3>
+
+													<ul class="post-buttons">
+																																									<li>
+							<a href="./posting.php?mode=quote&amp;f=297&amp;p=408819" title="Reply with quote" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Quote</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="./viewtopic.php?p=408819#p408819" title="Post">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Post</span>
+					</a>
+								<span class="responsive-hide">by <strong><a href="./memberlist.php?mode=viewprofile&amp;u=45800" style="color: #000000;" class="username-coloured">BennyTheJett</a></strong> &raquo; </span>February 7th, 2020, 8:55 am
+			</p>
+			
+			
+			
+			<div class="content">When sunlight hits the surface of the ocean, which color is most likely to attenuate first? Last?<br>
+<br>
+How does the crown of thorns starfish move?<br>
+<br>
+The barramundi cod was speared in 2010 off of what US state, raising fear that it would become an invasive species?</div>
+
+			
+			
+									
+						<div id='list_thanks408819'>
+	</div>
+<div id='div_post_reput408819'>
+	</div>
+			<div id="sig408819" class="signature"><strong class="text-strong">2021 Events:</strong><br>
+Astronomy, Dynamic Planet, Fossils, Geologic Mapping, Water Quality, Possibly Geocaching.<br>
+<br>
+<span style="font-size:85%;line-height:116%"><strong class="text-strong">President and Founder (also the only member atm)  of the Pibot Domination Corps</strong></span></div>
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Top">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Top</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+	<hr class="divider" />
+				<div id="p408924" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile408924">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=59158" class="avatar"><img class="avatar" src="./download/file.php?avatar=59158_1585862089.jpg" width="56" height="60" alt="User avatar" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=59158" class="username">SilverBreeze</a>							</dt>
+
+						<dd class="profile-rank">Member<br /><img src="./images/ranks/stars4.gif" alt="Member" title="Member" /></dd>			
+		<dd class="profile-posts"><strong>Posts:</strong> <a href="./search.php?author_id=59158&amp;sr=posts">216</a></dd>		<dd class="profile-joined"><strong>Joined:</strong> November 28th, 2019, 3:42 pm</dd>		
+		
+											<dd class="profile-custom-field profile-division"><strong>Division:</strong> C</dd>
+												<dd class="profile-custom-field profile-state"><strong>State:</strong> CA</dd>
+												<dd class="profile-custom-field profile-pronouns"><strong>Pronouns:</strong> She/Her/Hers</dd>
+												<dd class="profile-custom-field profile-phpbb_location"><strong>Location:</strong> Pretend hugging Umaroth because social distancing</dd>
+							<dd class="profile-posts" data-user-give-id="59158">
+    <strong>Has thanked:</strong>
+    <a href="/forums/app.php/thankslist/givens/59158/true">60 times</a>
+</dd>
+<dd class="profile-posts" data-user-receive-id="59158">
+    <strong>Been&nbsp;thanked:</strong>
+    <a href="/forums/app.php/thankslist/givens/59158/false">86 times</a>
+</dd>
+
+						
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content408924">
+
+						<h3 ><a href="#p408924">Re: Water Quality B/C</a></h3>
+
+													<ul class="post-buttons">
+																																									<li>
+							<a href="./posting.php?mode=quote&amp;f=297&amp;p=408924" title="Reply with quote" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Quote</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="./viewtopic.php?p=408924#p408924" title="Post">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Post</span>
+					</a>
+								<span class="responsive-hide">by <strong><a href="./memberlist.php?mode=viewprofile&amp;u=59158" class="username">SilverBreeze</a></strong> &raquo; </span>February 8th, 2020, 6:22 pm
+			</p>
+			
+			
+			
+			<div class="content">Not sure, but here: <span class="bbcode-spoiler">1. Red, blue<br>
+2. tube feet<br>
+3. FL</span><style type="text/css">
+span.bbcode-spoiler {
+	color: #000000;
+	background: #000000;
+	border-radius: 3px;
+	padding: 0 3px;
+	transition: 0.3s;
+}
+span.bbcode-spoiler a {
+	border-bottom: none !important;
+	color: #000000 !important;
+}
+span.bbcode-spoiler a:hover {
+	background-color: transparent !important;
+}
+span.bbcode-spoiler:hover {
+	color: #ffffff;
+}
+span.bbcode-spoiler:hover a {
+	border-bottom: #2e66b6 !important;
+	color: #2e66b6 !important;
+}
+@media print {
+	span.bbcode-spoiler {
+		background-color: #cccccc !important;
+		color: #000000 !important;
+	}
+}
+</style></div>
+
+			
+			
+									
+						<div id='list_thanks408924'>
+	</div>
+<div id='div_post_reput408924'>
+	</div>
+			<div id="sig408924" class="signature">Troy SciOly 2019 - now<br>
+Suzanne SciOly 2016 - 2019<br>
+Please don’t replay rules next year.<br>
+Events this season: Water Quality, Forensics, Ornithology, (some experience in DP)</div>
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Top">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Top</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+	<hr class="divider" />
+				<div id="p408929" class="post has-profile bg1">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile408929">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=45800" class="avatar"><img class="avatar" src="./download/file.php?avatar=45800_1580762851.png" width="29" height="40" alt="User avatar" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=45800" style="color: #000000;" class="username-coloured">BennyTheJett</a>							</dt>
+
+						<dd class="profile-rank">Exalted Member<br /><img src="./images/ranks/exalt1.gif" alt="Exalted Member" title="Exalted Member" /></dd>			
+		<dd class="profile-posts"><strong>Posts:</strong> <a href="./search.php?author_id=45800&amp;sr=posts">281</a></dd>		<dd class="profile-joined"><strong>Joined:</strong> February 21st, 2019, 2:05 pm</dd>		
+		
+											<dd class="profile-custom-field profile-division"><strong>Division:</strong> C</dd>
+												<dd class="profile-custom-field profile-pronouns"><strong>Pronouns:</strong> He/Him/His</dd>
+							<dd class="profile-posts" data-user-give-id="45800">
+    <strong>Has thanked:</strong>
+    <a href="/forums/app.php/thankslist/givens/45800/true">40 times</a>
+</dd>
+<dd class="profile-posts" data-user-receive-id="45800">
+    <strong>Been&nbsp;thanked:</strong>
+    <a href="/forums/app.php/thankslist/givens/45800/false">75 times</a>
+</dd>
+
+						
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content408929">
+
+						<h3 ><a href="#p408929">Re: Water Quality B/C</a></h3>
+
+													<ul class="post-buttons">
+																																									<li>
+							<a href="./posting.php?mode=quote&amp;f=297&amp;p=408929" title="Reply with quote" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Quote</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="./viewtopic.php?p=408929#p408929" title="Post">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Post</span>
+					</a>
+								<span class="responsive-hide">by <strong><a href="./memberlist.php?mode=viewprofile&amp;u=45800" style="color: #000000;" class="username-coloured">BennyTheJett</a></strong> &raquo; </span>February 8th, 2020, 6:32 pm
+			</p>
+			
+			
+			
+			<div class="content">Nailed it! Your turn!</div>
+
+			
+			
+									
+						<div id='list_thanks408929'>
+	</div>
+<div id='div_post_reput408929'>
+	</div>
+			<div id="sig408929" class="signature"><strong class="text-strong">2021 Events:</strong><br>
+Astronomy, Dynamic Planet, Fossils, Geologic Mapping, Water Quality, Possibly Geocaching.<br>
+<br>
+<span style="font-size:85%;line-height:116%"><strong class="text-strong">President and Founder (also the only member atm)  of the Pibot Domination Corps</strong></span></div>
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Top">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Top</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+	<hr class="divider" />
+				<div id="p408992" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile408992">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=59158" class="avatar"><img class="avatar" src="./download/file.php?avatar=59158_1585862089.jpg" width="56" height="60" alt="User avatar" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=59158" class="username">SilverBreeze</a>							</dt>
+
+						<dd class="profile-rank">Member<br /><img src="./images/ranks/stars4.gif" alt="Member" title="Member" /></dd>			
+		<dd class="profile-posts"><strong>Posts:</strong> <a href="./search.php?author_id=59158&amp;sr=posts">216</a></dd>		<dd class="profile-joined"><strong>Joined:</strong> November 28th, 2019, 3:42 pm</dd>		
+		
+											<dd class="profile-custom-field profile-division"><strong>Division:</strong> C</dd>
+												<dd class="profile-custom-field profile-state"><strong>State:</strong> CA</dd>
+												<dd class="profile-custom-field profile-pronouns"><strong>Pronouns:</strong> She/Her/Hers</dd>
+												<dd class="profile-custom-field profile-phpbb_location"><strong>Location:</strong> Pretend hugging Umaroth because social distancing</dd>
+							<dd class="profile-posts" data-user-give-id="59158">
+    <strong>Has thanked:</strong>
+    <a href="/forums/app.php/thankslist/givens/59158/true">60 times</a>
+</dd>
+<dd class="profile-posts" data-user-receive-id="59158">
+    <strong>Been&nbsp;thanked:</strong>
+    <a href="/forums/app.php/thankslist/givens/59158/false">86 times</a>
+</dd>
+
+						
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content408992">
+
+						<h3 ><a href="#p408992">Re: Water Quality B/C</a></h3>
+
+													<ul class="post-buttons">
+																																									<li>
+							<a href="./posting.php?mode=quote&amp;f=297&amp;p=408992" title="Reply with quote" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Quote</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="./viewtopic.php?p=408992#p408992" title="Post">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Post</span>
+					</a>
+								<span class="responsive-hide">by <strong><a href="./memberlist.php?mode=viewprofile&amp;u=59158" class="username">SilverBreeze</a></strong> &raquo; </span>February 9th, 2020, 11:42 am
+			</p>
+			
+			
+			
+			<div class="content">1. What percent of energy is transferred between trophic levels?<br>
+2. What compounds are responsible for acid rain?<br>
+3. What does protogynous mean, with regard to lifecycles?</div>
+
+			
+			
+									
+						<div id='list_thanks408992'>
+	</div>
+<div id='div_post_reput408992'>
+	</div>
+			<div id="sig408992" class="signature">Troy SciOly 2019 - now<br>
+Suzanne SciOly 2016 - 2019<br>
+Please don’t replay rules next year.<br>
+Events this season: Water Quality, Forensics, Ornithology, (some experience in DP)</div>
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Top">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Top</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+	<hr class="divider" />
+				<div id="p408996" class="post has-profile bg1">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile408996">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=34397" class="avatar"><img class="avatar" src="./download/file.php?avatar=34397_1518328664.jpg" width="75" height="75" alt="User avatar" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=34397" class="username">kate!</a>							</dt>
+
+						<dd class="profile-rank">Member<br /><img src="./images/ranks/stars4.gif" alt="Member" title="Member" /></dd>			
+		<dd class="profile-posts"><strong>Posts:</strong> <a href="./search.php?author_id=34397&amp;sr=posts">442</a></dd>		<dd class="profile-joined"><strong>Joined:</strong> October 11th, 2017, 12:07 pm</dd>		
+		
+											<dd class="profile-custom-field profile-division"><strong>Division:</strong> C</dd>
+												<dd class="profile-custom-field profile-state"><strong>State:</strong> NY</dd>
+												<dd class="profile-custom-field profile-pronouns"><strong>Pronouns:</strong> She/Her/Hers</dd>
+												<dd class="profile-custom-field profile-phpbb_location"><strong>Location:</strong> Ward Melville HS</dd>
+							<dd class="profile-posts" data-user-give-id="34397">
+    <strong>Has thanked:</strong>
+    <a href="/forums/app.php/thankslist/givens/34397/true">13 times</a>
+</dd>
+<dd class="profile-posts" data-user-receive-id="34397">
+    <strong>Been&nbsp;thanked:</strong>
+    <a href="/forums/app.php/thankslist/givens/34397/false">1 time</a>
+</dd>
+
+						
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content408996">
+
+						<h3 ><a href="#p408996">Re: Water Quality B/C</a></h3>
+
+													<ul class="post-buttons">
+																																									<li>
+							<a href="./posting.php?mode=quote&amp;f=297&amp;p=408996" title="Reply with quote" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Quote</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="./viewtopic.php?p=408996#p408996" title="Post">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Post</span>
+					</a>
+								<span class="responsive-hide">by <strong><a href="./memberlist.php?mode=viewprofile&amp;u=34397" class="username">kate!</a></strong> &raquo; </span>February 9th, 2020, 12:03 pm
+			</p>
+			
+			
+			
+			<div class="content"><span class="bbcode-spoiler">
+1. 10%<br>
+2. NO<sub>x</sub> and SO<sub>2</sub> or nitrous oxides and sulfur dioxide<br>
+3. Um I think this means the organism is a hermaphrodite but like.. first they're female and then they turn male?</span><style type="text/css">
+span.bbcode-spoiler {
+	color: #000000;
+	background: #000000;
+	border-radius: 3px;
+	padding: 0 3px;
+	transition: 0.3s;
+}
+span.bbcode-spoiler a {
+	border-bottom: none !important;
+	color: #000000 !important;
+}
+span.bbcode-spoiler a:hover {
+	background-color: transparent !important;
+}
+span.bbcode-spoiler:hover {
+	color: #ffffff;
+}
+span.bbcode-spoiler:hover a {
+	border-bottom: #2e66b6 !important;
+	color: #2e66b6 !important;
+}
+@media print {
+	span.bbcode-spoiler {
+		background-color: #cccccc !important;
+		color: #000000 !important;
+	}
+}
+</style></div>
+
+			
+			
+									
+						<div id='list_thanks408996'>
+	</div>
+<div id='div_post_reput408996'>
+	</div>
+			<div id="sig408996" class="signature">Two years ago I knew stuff about rocks, minerals, experiments, and ecosystems, yay!<br>
+Last year I knew stuff about amphibians, reptiles, freshwater, and more experiments, yay again!<br>
+Now I know stuff about oceanography, saltwater, birds, and fossils, yay for the third time!</div>
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Top">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Top</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+	<hr class="divider" />
+				<div id="p409006" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile409006">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=59158" class="avatar"><img class="avatar" src="./download/file.php?avatar=59158_1585862089.jpg" width="56" height="60" alt="User avatar" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=59158" class="username">SilverBreeze</a>							</dt>
+
+						<dd class="profile-rank">Member<br /><img src="./images/ranks/stars4.gif" alt="Member" title="Member" /></dd>			
+		<dd class="profile-posts"><strong>Posts:</strong> <a href="./search.php?author_id=59158&amp;sr=posts">216</a></dd>		<dd class="profile-joined"><strong>Joined:</strong> November 28th, 2019, 3:42 pm</dd>		
+		
+											<dd class="profile-custom-field profile-division"><strong>Division:</strong> C</dd>
+												<dd class="profile-custom-field profile-state"><strong>State:</strong> CA</dd>
+												<dd class="profile-custom-field profile-pronouns"><strong>Pronouns:</strong> She/Her/Hers</dd>
+												<dd class="profile-custom-field profile-phpbb_location"><strong>Location:</strong> Pretend hugging Umaroth because social distancing</dd>
+							<dd class="profile-posts" data-user-give-id="59158">
+    <strong>Has thanked:</strong>
+    <a href="/forums/app.php/thankslist/givens/59158/true">60 times</a>
+</dd>
+<dd class="profile-posts" data-user-receive-id="59158">
+    <strong>Been&nbsp;thanked:</strong>
+    <a href="/forums/app.php/thankslist/givens/59158/false">86 times</a>
+</dd>
+
+						
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content409006">
+
+						<h3 ><a href="#p409006">Re: Water Quality B/C</a></h3>
+
+													<ul class="post-buttons">
+																																									<li>
+							<a href="./posting.php?mode=quote&amp;f=297&amp;p=409006" title="Reply with quote" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Quote</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="./viewtopic.php?p=409006#p409006" title="Post">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Post</span>
+					</a>
+								<span class="responsive-hide">by <strong><a href="./memberlist.php?mode=viewprofile&amp;u=59158" class="username">SilverBreeze</a></strong> &raquo; </span>February 9th, 2020, 12:54 pm
+			</p>
+			
+			
+			
+			<div class="content"><blockquote><div><cite><a href="./memberlist.php?mode=viewprofile&amp;u=34397">kate!</a> wrote: <a href="./viewtopic.php?p=408996#p408996" data-post-id="408996" onclick="if(document.getElementById(hash.substr(1)))href=hash">↑</a><div class="responsive-hide">February 9th, 2020, 12:03 pm</div></cite>
+<span class="bbcode-spoiler">
+1. 10%<br>
+2. NO<sub>x</sub> and SO<sub>2</sub> or nitrous oxides and sulfur dioxide<br>
+3. Um I think this means the organism is a hermaphrodite but like.. first they're female and then they turn male?</span><style type="text/css">
+span.bbcode-spoiler {
+	color: #000000;
+	background: #000000;
+	border-radius: 3px;
+	padding: 0 3px;
+	transition: 0.3s;
+}
+span.bbcode-spoiler a {
+	border-bottom: none !important;
+	color: #000000 !important;
+}
+span.bbcode-spoiler a:hover {
+	background-color: transparent !important;
+}
+span.bbcode-spoiler:hover {
+	color: #ffffff;
+}
+span.bbcode-spoiler:hover a {
+	border-bottom: #2e66b6 !important;
+	color: #2e66b6 !important;
+}
+@media print {
+	span.bbcode-spoiler {
+		background-color: #cccccc !important;
+		color: #000000 !important;
+	}
+}
+</style>
+</div></blockquote>
+All correct! Your turn!</div>
+
+			
+			
+									
+						<div id='list_thanks409006'>
+	</div>
+<div id='div_post_reput409006'>
+	</div>
+			<div id="sig409006" class="signature">Troy SciOly 2019 - now<br>
+Suzanne SciOly 2016 - 2019<br>
+Please don’t replay rules next year.<br>
+Events this season: Water Quality, Forensics, Ornithology, (some experience in DP)</div>
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Top">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Top</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+	<hr class="divider" />
+				<div id="p409014" class="post has-profile bg1">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile409014">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=34397" class="avatar"><img class="avatar" src="./download/file.php?avatar=34397_1518328664.jpg" width="75" height="75" alt="User avatar" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=34397" class="username">kate!</a>							</dt>
+
+						<dd class="profile-rank">Member<br /><img src="./images/ranks/stars4.gif" alt="Member" title="Member" /></dd>			
+		<dd class="profile-posts"><strong>Posts:</strong> <a href="./search.php?author_id=34397&amp;sr=posts">442</a></dd>		<dd class="profile-joined"><strong>Joined:</strong> October 11th, 2017, 12:07 pm</dd>		
+		
+											<dd class="profile-custom-field profile-division"><strong>Division:</strong> C</dd>
+												<dd class="profile-custom-field profile-state"><strong>State:</strong> NY</dd>
+												<dd class="profile-custom-field profile-pronouns"><strong>Pronouns:</strong> She/Her/Hers</dd>
+												<dd class="profile-custom-field profile-phpbb_location"><strong>Location:</strong> Ward Melville HS</dd>
+							<dd class="profile-posts" data-user-give-id="34397">
+    <strong>Has thanked:</strong>
+    <a href="/forums/app.php/thankslist/givens/34397/true">13 times</a>
+</dd>
+<dd class="profile-posts" data-user-receive-id="34397">
+    <strong>Been&nbsp;thanked:</strong>
+    <a href="/forums/app.php/thankslist/givens/34397/false">1 time</a>
+</dd>
+
+						
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content409014">
+
+						<h3 ><a href="#p409014">Re: Water Quality B/C</a></h3>
+
+													<ul class="post-buttons">
+																																									<li>
+							<a href="./posting.php?mode=quote&amp;f=297&amp;p=409014" title="Reply with quote" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Quote</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="./viewtopic.php?p=409014#p409014" title="Post">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Post</span>
+					</a>
+								<span class="responsive-hide">by <strong><a href="./memberlist.php?mode=viewprofile&amp;u=34397" class="username">kate!</a></strong> &raquo; </span>February 9th, 2020, 1:44 pm
+			</p>
+			
+			
+			
+			<div class="content">1. What's the difference between potable water treatment and wastewater treatment?<br>
+2. How are fjord estuaries formed?<br>
+3. Which two organisms on the ID list have a parasitic relationship and explain how this relationship works.</div>
+
+			
+			
+									
+						<div id='list_thanks409014'>
+	</div>
+<div id='div_post_reput409014'>
+	</div>
+			<div id="sig409014" class="signature">Two years ago I knew stuff about rocks, minerals, experiments, and ecosystems, yay!<br>
+Last year I knew stuff about amphibians, reptiles, freshwater, and more experiments, yay again!<br>
+Now I know stuff about oceanography, saltwater, birds, and fossils, yay for the third time!</div>
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Top">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Top</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+	<hr class="divider" />
+				<div id="p409243" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile409243">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=45188" class="avatar"><img class="avatar" src="./download/file.php?avatar=45188_1596243462.jpg" width="73" height="75" alt="User avatar" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=45188" class="username">IHateClouds</a>							</dt>
+
+						<dd class="profile-rank">Member<br /><img src="./images/ranks/stars3.gif" alt="Member" title="Member" /></dd>			
+		<dd class="profile-posts"><strong>Posts:</strong> <a href="./search.php?author_id=45188&amp;sr=posts">139</a></dd>		<dd class="profile-joined"><strong>Joined:</strong> February 1st, 2019, 3:58 pm</dd>		
+		
+											<dd class="profile-custom-field profile-division"><strong>Division:</strong> C</dd>
+												<dd class="profile-custom-field profile-state"><strong>State:</strong> PA</dd>
+												<dd class="profile-custom-field profile-pronouns"><strong>Pronouns:</strong> She/Her/Hers</dd>
+												<dd class="profile-custom-field profile-phpbb_location"><strong>Location:</strong> yorknew city :X</dd>
+							<dd class="profile-posts" data-user-give-id="45188">
+    <strong>Has thanked:</strong>
+    <a href="/forums/app.php/thankslist/givens/45188/true">19 times</a>
+</dd>
+<dd class="profile-posts" data-user-receive-id="45188">
+    <strong>Been&nbsp;thanked:</strong>
+    <a href="/forums/app.php/thankslist/givens/45188/false">7 times</a>
+</dd>
+
+						
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content409243">
+
+						<h3 ><a href="#p409243">Re: Water Quality B/C</a></h3>
+
+													<ul class="post-buttons">
+																																									<li>
+							<a href="./posting.php?mode=quote&amp;f=297&amp;p=409243" title="Reply with quote" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Quote</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="./viewtopic.php?p=409243#p409243" title="Post">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Post</span>
+					</a>
+								<span class="responsive-hide">by <strong><a href="./memberlist.php?mode=viewprofile&amp;u=45188" class="username">IHateClouds</a></strong> &raquo; </span>February 10th, 2020, 3:53 pm
+			</p>
+			
+			
+			
+			<div class="content"><blockquote><div><cite><a href="./memberlist.php?mode=viewprofile&amp;u=34397">kate!</a> wrote: <a href="./viewtopic.php?p=409014#p409014" data-post-id="409014" onclick="if(document.getElementById(hash.substr(1)))href=hash">↑</a><div class="responsive-hide">February 9th, 2020, 1:44 pm</div></cite>
+1. What's the difference between potable water treatment and wastewater treatment?<br>
+2. How are fjord estuaries formed?<br>
+3. Which two organisms on the ID list have a parasitic relationship and explain how this relationship works.
+</div></blockquote>
+
+1. <span class="bbcode-spoiler">the main difference is what the water is used for afterwards. in potable water treatment, its meant to be consumed so the water must be a lot cleaner than wastewater treatment in which water normally goes back out to the environment</span><style type="text/css">
+span.bbcode-spoiler {
+	color: #000000;
+	background: #000000;
+	border-radius: 3px;
+	padding: 0 3px;
+	transition: 0.3s;
+}
+span.bbcode-spoiler a {
+	border-bottom: none !important;
+	color: #000000 !important;
+}
+span.bbcode-spoiler a:hover {
+	background-color: transparent !important;
+}
+span.bbcode-spoiler:hover {
+	color: #ffffff;
+}
+span.bbcode-spoiler:hover a {
+	border-bottom: #2e66b6 !important;
+	color: #2e66b6 !important;
+}
+@media print {
+	span.bbcode-spoiler {
+		background-color: #cccccc !important;
+		color: #000000 !important;
+	}
+}
+</style>
+
+<br>
+2. <span class="bbcode-spoiler">by glaciers</span><style type="text/css">
+span.bbcode-spoiler {
+	color: #000000;
+	background: #000000;
+	border-radius: 3px;
+	padding: 0 3px;
+	transition: 0.3s;
+}
+span.bbcode-spoiler a {
+	border-bottom: none !important;
+	color: #000000 !important;
+}
+span.bbcode-spoiler a:hover {
+	background-color: transparent !important;
+}
+span.bbcode-spoiler:hover {
+	color: #ffffff;
+}
+span.bbcode-spoiler:hover a {
+	border-bottom: #2e66b6 !important;
+	color: #2e66b6 !important;
+}
+@media print {
+	span.bbcode-spoiler {
+		background-color: #cccccc !important;
+		color: #000000 !important;
+	}
+}
+</style>
+
+<br>
+3. im not really sure but maybe <span class="bbcode-spoiler">flamingo tongue snails and gorgonia since the snail scrapes polyps off leaving feeding scars on the coral. idk maybe this is more like predation/herbivory but i cant think of any other example of parasitism... </span><style type="text/css">
+span.bbcode-spoiler {
+	color: #000000;
+	background: #000000;
+	border-radius: 3px;
+	padding: 0 3px;
+	transition: 0.3s;
+}
+span.bbcode-spoiler a {
+	border-bottom: none !important;
+	color: #000000 !important;
+}
+span.bbcode-spoiler a:hover {
+	background-color: transparent !important;
+}
+span.bbcode-spoiler:hover {
+	color: #ffffff;
+}
+span.bbcode-spoiler:hover a {
+	border-bottom: #2e66b6 !important;
+	color: #2e66b6 !important;
+}
+@media print {
+	span.bbcode-spoiler {
+		background-color: #cccccc !important;
+		color: #000000 !important;
+	}
+}
+</style></div>
+
+			
+			
+									
+						<div id='list_thanks409243'>
+	</div>
+<div id='div_post_reput409243'>
+	</div>
+			<div id="sig409243" class="signature">We  <img class="smilies" src="./images/smilies/icon_heart.gif" width="17" height="17" alt="&lt;3" title="Heart"> hunterxhunter<br>
+BCSO  <img class="smilies" src="./images/smilies/icon_heart.gif" width="17" height="17" alt="&lt;3" title="Heart">  hunterxhunter<br>
+Everyone  <img class="smilies" src="./images/smilies/icon_heart.gif" width="17" height="17" alt="&lt;3" title="Heart"> hunterxhunter<br>
+<span style="font-size:50%;line-height:116%">this sig was not sponsored by sneepity</span></div>
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Top">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Top</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+	<hr class="divider" />
+				<div id="p409501" class="post has-profile bg1">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile409501">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=34397" class="avatar"><img class="avatar" src="./download/file.php?avatar=34397_1518328664.jpg" width="75" height="75" alt="User avatar" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=34397" class="username">kate!</a>							</dt>
+
+						<dd class="profile-rank">Member<br /><img src="./images/ranks/stars4.gif" alt="Member" title="Member" /></dd>			
+		<dd class="profile-posts"><strong>Posts:</strong> <a href="./search.php?author_id=34397&amp;sr=posts">442</a></dd>		<dd class="profile-joined"><strong>Joined:</strong> October 11th, 2017, 12:07 pm</dd>		
+		
+											<dd class="profile-custom-field profile-division"><strong>Division:</strong> C</dd>
+												<dd class="profile-custom-field profile-state"><strong>State:</strong> NY</dd>
+												<dd class="profile-custom-field profile-pronouns"><strong>Pronouns:</strong> She/Her/Hers</dd>
+												<dd class="profile-custom-field profile-phpbb_location"><strong>Location:</strong> Ward Melville HS</dd>
+							<dd class="profile-posts" data-user-give-id="34397">
+    <strong>Has thanked:</strong>
+    <a href="/forums/app.php/thankslist/givens/34397/true">13 times</a>
+</dd>
+<dd class="profile-posts" data-user-receive-id="34397">
+    <strong>Been&nbsp;thanked:</strong>
+    <a href="/forums/app.php/thankslist/givens/34397/false">1 time</a>
+</dd>
+
+						
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content409501">
+
+						<h3 ><a href="#p409501">Re: Water Quality B/C</a></h3>
+
+													<ul class="post-buttons">
+																																									<li>
+							<a href="./posting.php?mode=quote&amp;f=297&amp;p=409501" title="Reply with quote" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Quote</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="./viewtopic.php?p=409501#p409501" title="Post">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Post</span>
+					</a>
+								<span class="responsive-hide">by <strong><a href="./memberlist.php?mode=viewprofile&amp;u=34397" class="username">kate!</a></strong> &raquo; </span>February 12th, 2020, 6:36 am
+			</p>
+			
+			
+			
+			<div class="content"><blockquote><div><cite><a href="./memberlist.php?mode=viewprofile&amp;u=45188">IHateClouds</a> wrote: <a href="./viewtopic.php?p=409243#p409243" data-post-id="409243" onclick="if(document.getElementById(hash.substr(1)))href=hash">↑</a><div class="responsive-hide">February 10th, 2020, 3:53 pm</div></cite>
+<blockquote><div><cite><a href="./memberlist.php?mode=viewprofile&amp;u=34397">kate!</a> wrote: <a href="./viewtopic.php?p=409014#p409014" data-post-id="409014" onclick="if(document.getElementById(hash.substr(1)))href=hash">↑</a><div class="responsive-hide">February 9th, 2020, 1:44 pm</div></cite>
+1. What's the difference between potable water treatment and wastewater treatment?<br>
+2. How are fjord estuaries formed?<br>
+3. Which two organisms on the ID list have a parasitic relationship and explain how this relationship works.
+</div></blockquote>
+
+1. <span class="bbcode-spoiler">the main difference is what the water is used for afterwards. in potable water treatment, its meant to be consumed so the water must be a lot cleaner than wastewater treatment in which water normally goes back out to the environment</span><style type="text/css">
+span.bbcode-spoiler {
+	color: #000000;
+	background: #000000;
+	border-radius: 3px;
+	padding: 0 3px;
+	transition: 0.3s;
+}
+span.bbcode-spoiler a {
+	border-bottom: none !important;
+	color: #000000 !important;
+}
+span.bbcode-spoiler a:hover {
+	background-color: transparent !important;
+}
+span.bbcode-spoiler:hover {
+	color: #ffffff;
+}
+span.bbcode-spoiler:hover a {
+	border-bottom: #2e66b6 !important;
+	color: #2e66b6 !important;
+}
+@media print {
+	span.bbcode-spoiler {
+		background-color: #cccccc !important;
+		color: #000000 !important;
+	}
+}
+</style>
+
+<br>
+2. <span class="bbcode-spoiler">by glaciers</span><style type="text/css">
+span.bbcode-spoiler {
+	color: #000000;
+	background: #000000;
+	border-radius: 3px;
+	padding: 0 3px;
+	transition: 0.3s;
+}
+span.bbcode-spoiler a {
+	border-bottom: none !important;
+	color: #000000 !important;
+}
+span.bbcode-spoiler a:hover {
+	background-color: transparent !important;
+}
+span.bbcode-spoiler:hover {
+	color: #ffffff;
+}
+span.bbcode-spoiler:hover a {
+	border-bottom: #2e66b6 !important;
+	color: #2e66b6 !important;
+}
+@media print {
+	span.bbcode-spoiler {
+		background-color: #cccccc !important;
+		color: #000000 !important;
+	}
+}
+</style>
+
+<br>
+3. im not really sure but maybe <span class="bbcode-spoiler">flamingo tongue snails and gorgonia since the snail scrapes polyps off leaving feeding scars on the coral. idk maybe this is more like predation/herbivory but i cant think of any other example of parasitism... </span><style type="text/css">
+span.bbcode-spoiler {
+	color: #000000;
+	background: #000000;
+	border-radius: 3px;
+	padding: 0 3px;
+	transition: 0.3s;
+}
+span.bbcode-spoiler a {
+	border-bottom: none !important;
+	color: #000000 !important;
+}
+span.bbcode-spoiler a:hover {
+	background-color: transparent !important;
+}
+span.bbcode-spoiler:hover {
+	color: #ffffff;
+}
+span.bbcode-spoiler:hover a {
+	border-bottom: #2e66b6 !important;
+	color: #2e66b6 !important;
+}
+@media print {
+	span.bbcode-spoiler {
+		background-color: #cccccc !important;
+		color: #000000 !important;
+	}
+}
+</style>
+</div></blockquote>
+All correct, your turn!<br>
+Yeah for the last one it isn't <em class="text-italics">really</em> a parasitic relationship but that was a question on a test I took once (asking what organism flamingo-tongued snails had a parasitic relationship with).</div>
+
+			
+			
+									
+						<div id='list_thanks409501'>
+	</div>
+<div id='div_post_reput409501'>
+	</div>
+			<div id="sig409501" class="signature">Two years ago I knew stuff about rocks, minerals, experiments, and ecosystems, yay!<br>
+Last year I knew stuff about amphibians, reptiles, freshwater, and more experiments, yay again!<br>
+Now I know stuff about oceanography, saltwater, birds, and fossils, yay for the third time!</div>
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Top">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Top</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+	<hr class="divider" />
+	
+
+	<div class="action-bar bar-bottom">
+	
+			<a href="./posting.php?mode=reply&amp;f=297&amp;t=16423" class="button" title="Post a reply">
+							<span>Post Reply</span> <i class="icon fa-reply fa-fw" aria-hidden="true"></i>
+					</a>
+		
+		<div class="dropdown-container dropdown-button-control topic-tools">
+		<span title="Topic tools" class="button button-secondary dropdown-trigger dropdown-select">
+			<i class="icon fa-wrench fa-fw" aria-hidden="true"></i>
+			<span class="caret"><i class="icon fa-sort-down fa-fw" aria-hidden="true"></i></span>
+		</span>
+		<div class="dropdown">
+			<div class="pointer"><div class="pointer-inner"></div></div>
+			<ul class="dropdown-contents">
+																												<li>
+					<a href="./viewtopic.php?f=297&amp;t=16423&amp;start=50&amp;view=print" title="Print view" accesskey="p">
+						<i class="icon fa-print fa-fw" aria-hidden="true"></i><span>Print view</span>
+					</a>
+				</li>
+											</ul>
+		</div>
+	</div>
+
+			<form method="post" action="./viewtopic.php?f=297&amp;t=16423&amp;start=50">
+		<div class="dropdown-container dropdown-container-left dropdown-button-control sort-tools">
+	<span title="Display and sorting options" class="button button-secondary dropdown-trigger dropdown-select">
+		<i class="icon fa-sort-amount-asc fa-fw" aria-hidden="true"></i>
+		<span class="caret"><i class="icon fa-sort-down fa-fw" aria-hidden="true"></i></span>
+	</span>
+	<div class="dropdown hidden">
+		<div class="pointer"><div class="pointer-inner"></div></div>
+		<div class="dropdown-contents">
+			<fieldset class="display-options">
+							<label>Display: <select name="st" id="st"><option value="0" selected="selected">All posts</option><option value="1">1 day</option><option value="7">7 days</option><option value="14">2 weeks</option><option value="30">1 month</option><option value="90">3 months</option><option value="180">6 months</option><option value="365">1 year</option></select></label>
+								<label>Sort by: <select name="sk" id="sk"><option value="a">Author</option><option value="t" selected="selected">Post time</option><option value="s">Subject</option></select></label>
+				<label>Direction: <select name="sd" id="sd"><option value="a" selected="selected">Ascending</option><option value="d">Descending</option></select></label>
+								<hr class="dashed" />
+				<input type="submit" class="button2" name="sort" value="Go" />
+						</fieldset>
+		</div>
+	</div>
+</div>
+		</form>
+	
+	
+	
+			<div class="pagination">
+			79 posts
+							<ul>
+	<li class="dropdown-container dropdown-button-control dropdown-page-jump page-jump">
+		<a class="button button-icon-only dropdown-trigger" href="#" title="Click to jump to page…" role="button"><i class="icon fa-level-down fa-rotate-270" aria-hidden="true"></i><span class="sr-only">Page <strong>6</strong> of <strong>8</strong></span></a>
+		<div class="dropdown">
+			<div class="pointer"><div class="pointer-inner"></div></div>
+			<ul class="dropdown-contents">
+				<li>Jump to page:</li>
+				<li class="page-jump-form">
+					<input type="number" name="page-number" min="1" max="999999" title="Enter the page number you wish to go to" class="inputbox tiny" data-per-page="10" data-base-url=".&#x2F;viewtopic.php&#x3F;f&#x3D;297&amp;amp&#x3B;t&#x3D;16423" data-start-name="start" />
+					<input class="button2" value="Go" type="button" />
+				</li>
+			</ul>
+		</div>
+	</li>
+			<li class="arrow previous"><a class="button button-icon-only" href="./viewtopic.php?f=297&amp;t=16423&amp;start=40" rel="prev" role="button"><i class="icon fa-chevron-left fa-fw" aria-hidden="true"></i><span class="sr-only">Previous</span></a></li>
+				<li><a class="button" href="./viewtopic.php?f=297&amp;t=16423" role="button">1</a></li>
+			<li class="ellipsis" role="separator"><span>…</span></li>
+				<li><a class="button" href="./viewtopic.php?f=297&amp;t=16423&amp;start=30" role="button">4</a></li>
+				<li><a class="button" href="./viewtopic.php?f=297&amp;t=16423&amp;start=40" role="button">5</a></li>
+			<li class="active"><span>6</span></li>
+				<li><a class="button" href="./viewtopic.php?f=297&amp;t=16423&amp;start=60" role="button">7</a></li>
+				<li><a class="button" href="./viewtopic.php?f=297&amp;t=16423&amp;start=70" role="button">8</a></li>
+				<li class="arrow next"><a class="button button-icon-only" href="./viewtopic.php?f=297&amp;t=16423&amp;start=60" rel="next" role="button"><i class="icon fa-chevron-right fa-fw" aria-hidden="true"></i><span class="sr-only">Next</span></a></li>
+	</ul>
+					</div>
+	</div>
+
+
+<div class="action-bar actions-jump">
+		<p class="jumpbox-return">
+		<a href="./viewforum.php?f=297" class="left-box arrow-left" accesskey="r">
+			<i class="icon fa-angle-left fa-fw icon-black" aria-hidden="true"></i><span>Return to “Question Marathons”</span>
+		</a>
+	</p>
+	
+		<div class="jumpbox dropdown-container dropdown-container-right dropdown-up dropdown-left dropdown-button-control" id="jumpbox">
+			<span title="Jump to" class="button button-secondary dropdown-trigger dropdown-select">
+				<span>Jump to</span>
+				<span class="caret"><i class="icon fa-sort-down fa-fw" aria-hidden="true"></i></span>
+			</span>
+		<div class="dropdown">
+			<div class="pointer"><div class="pointer-inner"></div></div>
+			<ul class="dropdown-contents">
+																				<li><a href="./viewforum.php?f=278" class="jumpbox-forum-link"> <span> We Stand With The Black Community</span></a></li>
+																<li><a href="./viewforum.php?f=1" class="jumpbox-cat-link"> <span> Event Forums</span></a></li>
+																<li><a href="./viewforum.php?f=283" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Build Events</span></a></li>
+																<li><a href="./viewforum.php?f=316" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Boomilever B/C</span></a></li>
+																<li><a href="./viewforum.php?f=319" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Detector Building C</span></a></li>
+																<li><a href="./viewforum.php?f=320" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Elastic Launched Glider B</span></a></li>
+																<li><a href="./viewforum.php?f=315" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Gravity Vehicle C</span></a></li>
+																<li><a href="./viewforum.php?f=318" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Mission Possible B</span></a></li>
+																<li><a href="./viewforum.php?f=314" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Mousetrap Vehicle B</span></a></li>
+																<li><a href="./viewforum.php?f=317" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Ping Pong Parachute B/C</span></a></li>
+																<li><a href="./viewforum.php?f=321" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; ​W​r​i​g​h​t​ ​S​t​u​f​f​ ​C​</span></a></li>
+																<li><a href="./viewforum.php?f=284" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Lab Events</span></a></li>
+																<li><a href="./viewforum.php?f=322" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Machines B/C</span></a></li>
+																<li><a href="./viewforum.php?f=323" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Protein Modeling C</span></a></li>
+																<li><a href="./viewforum.php?f=285" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Study Events</span></a></li>
+																<li><a href="./viewforum.php?f=251" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Trial Events</span></a></li>
+																<li><a href="./viewforum.php?f=297" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Question Marathons</span></a></li>
+																<li><a href="./viewforum.php?f=252" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Question Marathons Explained</span></a></li>
+																<li><a href="./viewforum.php?f=6" class="jumpbox-cat-link"> <span> Competition Forums</span></a></li>
+																<li><a href="./viewforum.php?f=334" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; General Competition</span></a></li>
+																<li><a href="./viewforum.php?f=294" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Invitationals</span></a></li>
+																<li><a href="./viewforum.php?f=295" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Regionals &amp; States</span></a></li>
+																<li><a href="./viewforum.php?f=296" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Nationals</span></a></li>
+																<li><a href="./viewforum.php?f=333" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Alumni</span></a></li>
+																<li><a href="./viewforum.php?f=4" class="jumpbox-cat-link"> <span> Off-Topic Forums</span></a></li>
+																<li><a href="./viewforum.php?f=335" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; General Chat</span></a></li>
+																<li><a href="./viewforum.php?f=21" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Posting Games</span></a></li>
+																<li><a href="./viewforum.php?f=344" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Assassinator Games</span></a></li>
+																<li><a href="./viewforum.php?f=22" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; The Polling Place</span></a></li>
+																<li><a href="./viewforum.php?f=7" class="jumpbox-cat-link"> <span> Administrative</span></a></li>
+																<li><a href="./viewforum.php?f=24" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Announcements</span></a></li>
+																<li><a href="./viewforum.php?f=25" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Feedback</span></a></li>
+																<li><a href="./viewforum.php?f=8" class="jumpbox-cat-link"> <span> Team Forums</span></a></li>
+																<li><a href="./viewforum.php?f=28" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; How to get an (invisible) team forum</span></a></li>
+																<li><a href="./viewforum.php?f=54" class="jumpbox-cat-link"> <span> Archives</span></a></li>
+																<li><a href="./viewforum.php?f=70" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Old Board - 2001-2008</span></a></li>
+																<li><a href="./viewforum.php?f=88" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; 2009</span></a></li>
+																<li><a href="./viewforum.php?f=16" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2009 Build Events</span></a></li>
+																<li><a href="./viewforum.php?f=18" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2009 Lab Events</span></a></li>
+																<li><a href="./viewforum.php?f=17" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2009 Study Events</span></a></li>
+																<li><a href="./viewforum.php?f=19" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2009 Invitationals, Regionals, and States</span></a></li>
+																<li><a href="./viewforum.php?f=23" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2009 Nationals</span></a></li>
+																<li><a href="./viewforum.php?f=89" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; 2010</span></a></li>
+																<li><a href="./viewforum.php?f=66" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2010 Build Events</span></a></li>
+																<li><a href="./viewforum.php?f=68" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Wright Stuff B</span></a></li>
+																<li><a href="./viewforum.php?f=69" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Mission Possible C</span></a></li>
+																<li><a href="./viewforum.php?f=65" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2010 Lab Events</span></a></li>
+																<li><a href="./viewforum.php?f=67" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2010 Study Events</span></a></li>
+																<li><a href="./viewforum.php?f=72" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2010 Invitationals, Regionals, and States</span></a></li>
+																<li><a href="./viewforum.php?f=73" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2010 Nationals</span></a></li>
+																<li><a href="./viewforum.php?f=90" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; 2011</span></a></li>
+																<li><a href="./viewforum.php?f=91" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2011 Build Events</span></a></li>
+																<li><a href="./viewforum.php?f=94" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Towers B/C</span></a></li>
+																<li><a href="./viewforum.php?f=95" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Mission Possible C</span></a></li>
+																<li><a href="./viewforum.php?f=96" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Helicopters C</span></a></li>
+																<li><a href="./viewforum.php?f=92" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2011 Lab Events</span></a></li>
+																<li><a href="./viewforum.php?f=93" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2011 Study Events</span></a></li>
+																<li><a href="./viewforum.php?f=99" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2011 Invitationals, Regionals, and States</span></a></li>
+																<li><a href="./viewforum.php?f=100" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2011 Nationals</span></a></li>
+																<li><a href="./viewforum.php?f=118" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; 2012</span></a></li>
+																<li><a href="./viewforum.php?f=119" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2012 Build Events</span></a></li>
+																<li><a href="./viewforum.php?f=124" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Helicopters C</span></a></li>
+																<li><a href="./viewforum.php?f=122" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Mission Possible B</span></a></li>
+																<li><a href="./viewforum.php?f=123" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Towers B/C</span></a></li>
+																<li><a href="./viewforum.php?f=127" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2012 Lab Events</span></a></li>
+																<li><a href="./viewforum.php?f=121" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2012 Study Events</span></a></li>
+																<li><a href="./viewforum.php?f=126" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2012 Nationals</span></a></li>
+																<li><a href="./viewforum.php?f=141" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; 2013</span></a></li>
+																<li><a href="./viewforum.php?f=143" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2013 Build Events</span></a></li>
+																<li><a href="./viewforum.php?f=146" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Helicopters B</span></a></li>
+																<li><a href="./viewforum.php?f=147" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Boomilever B/C</span></a></li>
+																<li><a href="./viewforum.php?f=148" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Mission Possible B</span></a></li>
+																<li><a href="./viewforum.php?f=142" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2013 Lab Events</span></a></li>
+																<li><a href="./viewforum.php?f=144" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2013 Study Events</span></a></li>
+																<li><a href="./viewforum.php?f=149" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2013 Invitationals, Regionals, and States</span></a></li>
+																<li><a href="./viewforum.php?f=150" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2013 Nationals</span></a></li>
+																<li><a href="./viewforum.php?f=151" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2013 News</span></a></li>
+																<li><a href="./viewforum.php?f=165" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; 2014</span></a></li>
+																<li><a href="./viewforum.php?f=168" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2014 Build Events</span></a></li>
+																<li><a href="./viewforum.php?f=166" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2014 Lab Events</span></a></li>
+																<li><a href="./viewforum.php?f=167" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2014 Study Events</span></a></li>
+																<li><a href="./viewforum.php?f=173" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2014 Question Marathons</span></a></li>
+																<li><a href="./viewforum.php?f=170" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2014 Invitationals, Regionals, and States</span></a></li>
+																<li><a href="./viewforum.php?f=171" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2014 Nationals</span></a></li>
+																<li><a href="./viewforum.php?f=172" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2014 News</span></a></li>
+																<li><a href="./viewforum.php?f=185" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; 2015</span></a></li>
+																<li><a href="./viewforum.php?f=188" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2015 Build Events</span></a></li>
+																<li><a href="./viewforum.php?f=189" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Bridge Building B/C</span></a></li>
+																<li><a href="./viewforum.php?f=190" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Mission Possible C</span></a></li>
+																<li><a href="./viewforum.php?f=191" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Wright Stuff C</span></a></li>
+																<li><a href="./viewforum.php?f=186" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2015 Lab Events</span></a></li>
+																<li><a href="./viewforum.php?f=187" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2015 Study Events</span></a></li>
+																<li><a href="./viewforum.php?f=193" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2015 Question Marathons</span></a></li>
+																<li><a href="./viewforum.php?f=195" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2015 Invitationals, Regionals, and States</span></a></li>
+																<li><a href="./viewforum.php?f=200" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2015 Competition Advertising</span></a></li>
+																<li><a href="./viewforum.php?f=196" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2015 Nationals</span></a></li>
+																<li><a href="./viewforum.php?f=194" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2015 News</span></a></li>
+																<li><a href="./viewforum.php?f=213" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; 2016</span></a></li>
+																<li><a href="./viewforum.php?f=206" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2016 Build Events</span></a></li>
+																<li><a href="./viewforum.php?f=221" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Air Trajectory B/C</span></a></li>
+																<li><a href="./viewforum.php?f=209" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Bridge Building B/C</span></a></li>
+																<li><a href="./viewforum.php?f=211" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Elastic Launch Glider B</span></a></li>
+																<li><a href="./viewforum.php?f=222" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Electric Vehicle C</span></a></li>
+																<li><a href="./viewforum.php?f=210" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Mission Possible B</span></a></li>
+																<li><a href="./viewforum.php?f=223" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Robot Arm C</span></a></li>
+																<li><a href="./viewforum.php?f=212" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Wright Stuff C</span></a></li>
+																<li><a href="./viewforum.php?f=207" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2016 Lab Events</span></a></li>
+																<li><a href="./viewforum.php?f=219" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Wind Power B/C</span></a></li>
+																<li><a href="./viewforum.php?f=208" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2016 Study Events</span></a></li>
+																<li><a href="./viewforum.php?f=217" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2016 Question Marathons</span></a></li>
+																<li><a href="./viewforum.php?f=214" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2016 Invitationals, Regionals, and States</span></a></li>
+																<li><a href="./viewforum.php?f=218" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2016 Competition Advertising</span></a></li>
+																<li><a href="./viewforum.php?f=215" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2016 Nationals</span></a></li>
+																<li><a href="./viewforum.php?f=216" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2016 News</span></a></li>
+																<li><a href="./viewforum.php?f=224" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; 2017</span></a></li>
+																<li><a href="./viewforum.php?f=225" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2017 Build Events</span></a></li>
+																<li><a href="./viewforum.php?f=249" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Bottle Rocket B</span></a></li>
+																<li><a href="./viewforum.php?f=242" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Electric Vehicle C</span></a></li>
+																<li><a href="./viewforum.php?f=246" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Helicopters C</span></a></li>
+																<li><a href="./viewforum.php?f=247" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Mission Possible B</span></a></li>
+																<li><a href="./viewforum.php?f=244" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Robot Arm C</span></a></li>
+																<li><a href="./viewforum.php?f=248" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Scrambler B</span></a></li>
+																<li><a href="./viewforum.php?f=243" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Towers B/C</span></a></li>
+																<li><a href="./viewforum.php?f=245" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Wright Stuff B</span></a></li>
+																<li><a href="./viewforum.php?f=260" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Hovercraft B/C</span></a></li>
+																<li><a href="./viewforum.php?f=226" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2017 Lab Events</span></a></li>
+																<li><a href="./viewforum.php?f=227" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2017 Study Events</span></a></li>
+																<li><a href="./viewforum.php?f=228" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2017 Question Marathons</span></a></li>
+																<li><a href="./viewforum.php?f=229" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2017 Invitationals, Regionals, and States</span></a></li>
+																<li><a href="./viewforum.php?f=230" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2017 Competition Advertising</span></a></li>
+																<li><a href="./viewforum.php?f=231" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2017 Nationals</span></a></li>
+																<li><a href="./viewforum.php?f=236" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; 2018</span></a></li>
+																<li><a href="./viewforum.php?f=263" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2018 Build Events</span></a></li>
+																<li><a href="./viewforum.php?f=271" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Battery Buggy B</span></a></li>
+																<li><a href="./viewforum.php?f=272" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Helicopters C</span></a></li>
+																<li><a href="./viewforum.php?f=273" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Mission Possible C</span></a></li>
+																<li><a href="./viewforum.php?f=274" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Mousetrap Vehicle C</span></a></li>
+																<li><a href="./viewforum.php?f=275" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Roller Coaster B</span></a></li>
+																<li><a href="./viewforum.php?f=276" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Towers B/C</span></a></li>
+																<li><a href="./viewforum.php?f=277" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Wright Stuff B</span></a></li>
+																<li><a href="./viewforum.php?f=264" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2018 Lab Events</span></a></li>
+																<li><a href="./viewforum.php?f=265" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2018 Study Events</span></a></li>
+																<li><a href="./viewforum.php?f=266" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2018 Question Marathons</span></a></li>
+																<li><a href="./viewforum.php?f=267" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2018 Invitationals</span></a></li>
+																<li><a href="./viewforum.php?f=268" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2018 Regionals &amp; States</span></a></li>
+																<li><a href="./viewforum.php?f=269" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2018 Nationals</span></a></li>
+																<li><a href="./viewforum.php?f=262" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; 2019</span></a></li>
+																<li><a href="./viewforum.php?f=326" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2019 Build Events</span></a></li>
+																<li><a href="./viewforum.php?f=287" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Battery Buggy B</span></a></li>
+																<li><a href="./viewforum.php?f=290" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Boomilever B/C</span></a></li>
+																<li><a href="./viewforum.php?f=288" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Elastic Launched Gliders B</span></a></li>
+																<li><a href="./viewforum.php?f=291" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Mission Possible C</span></a></li>
+																<li><a href="./viewforum.php?f=292" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Mousetrap Vehicle C</span></a></li>
+																<li><a href="./viewforum.php?f=286" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Roller Coaster B</span></a></li>
+																<li><a href="./viewforum.php?f=299" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Wright Stuff C</span></a></li>
+																<li><a href="./viewforum.php?f=327" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2019 Lab Events</span></a></li>
+																<li><a href="./viewforum.php?f=293" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Thermodynamics B/C</span></a></li>
+																<li><a href="./viewforum.php?f=328" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2019 Study Events</span></a></li>
+																<li><a href="./viewforum.php?f=329" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2019 Question Marathons</span></a></li>
+																<li><a href="./viewforum.php?f=330" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2019 Invitationals</span></a></li>
+																<li><a href="./viewforum.php?f=331" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2019 Regionals &amp; States</span></a></li>
+																<li><a href="./viewforum.php?f=332" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2019 Nationals</span></a></li>
+																<li><a href="./viewforum.php?f=256" class="jumpbox-cat-link"> <span> Miscellaneous</span></a></li>
+																<li><a href="./viewforum.php?f=238" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Template: Visible, Topics Disabled, Replies Enabled, Increment Enabled</span></a></li>
+																<li><a href="./viewforum.php?f=257" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Template: Visible, Topics/Replies Enabled, Increment Enabled, Attachments</span></a></li>
+																<li><a href="./viewforum.php?f=341" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Template: Visible, Topics/Replies Enabled, Increment Disabled</span></a></li>
+																<li><a href="./viewforum.php?f=342" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Template: Visible, Topics Approval, Replies Disabled, Increment Disabled (Polls)</span></a></li>
+																<li><a href="./viewforum.php?f=253" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Template: Visible, Posting Disabled (Locked)</span></a></li>
+											</ul>
+		</div>
+	</div>
+
+	</div>
+
+	<div class="stat-block online-list">
+		<h3><a href="./viewonline.php">Who is online</a></h3>
+		<p>Users browsing this forum: No registered users and 1 guest</p>
+	</div>
+
+			</div>
+
+
+<div id="page-footer" class="page-footer" role="contentinfo">
+	<div class="navbar" role="navigation">
+	<div class="inner">
+
+	<ul id="nav-footer" class="nav-footer linklist" role="menubar">
+		<li class="breadcrumbs">
+							<span class="crumb"><a href="https://scioly.org" data-navbar-reference="home"><i class="icon fa-home fa-fw" aria-hidden="true"></i><span>Scioly.org</span></a></span>									<span class="crumb"><a href="./index.php" data-navbar-reference="index"><span>Forums</span></a></span>					</li>
+		
+				<li class="rightside">All times are <span title="America/Los Angeles">UTC-07:00</span></li>
+							<li class="rightside">
+				<a href="./ucp.php?mode=delete_cookies" data-ajax="true" data-refresh="true" role="menuitem">
+					<i class="icon fa-trash fa-fw" aria-hidden="true"></i><span>Delete cookies</span>
+				</a>
+			</li>
+							<li class="rightside" data-last-responsive="true">
+					<a href="./memberlist.php" title="View complete list of members" role="menuitem">
+						<i class="icon fa-group fa-fw" aria-hidden="true"></i><span>Members</span>
+					</a>
+				</li>
+												<li class="rightside" data-last-responsive="true">
+				<a href="./memberlist.php?mode=team" role="menuitem">
+					<i class="icon fa-shield fa-fw" aria-hidden="true"></i><span>The team</span>
+				</a>
+			</li>
+									<li class="rightside" data-last-responsive="true">
+				<a href="./memberlist.php?mode=contactadmin" role="menuitem">
+					<i class="icon fa-envelope fa-fw" aria-hidden="true"></i><span>Contact us</span>
+				</a>
+			</li>
+			</ul>
+
+	</div>
+</div>
+
+	<div class="copyright">
+				<p class="footer-row">
+			<span class="footer-copyright">Powered by <a href="https://www.phpbb.com/">phpBB</a>&reg; Forum Software &copy; phpBB Limited</span>
+		</p>
+						<p class="footer-row">
+			<a class="footer-link" href="./ucp.php?mode=privacy" title="Privacy" role="menuitem">
+				<span class="footer-link-text">Privacy</span>
+			</a>
+			|
+			<a class="footer-link" href="./ucp.php?mode=terms" title="Terms" role="menuitem">
+				<span class="footer-link-text">Terms</span>
+			</a>
+		</p>
+					</div>
+
+	<div id="darkenwrapper" class="darkenwrapper" data-ajax-error-title="AJAX error" data-ajax-error-text="Something went wrong when processing your request." data-ajax-error-text-abort="User aborted request." data-ajax-error-text-timeout="Your request timed out; please try again." data-ajax-error-text-parsererror="Something went wrong with the request and the server returned an invalid reply.">
+		<div id="darken" class="darken">&nbsp;</div>
+	</div>
+
+	<div id="phpbb_alert" class="phpbb_alert" data-l-err="Error" data-l-timeout-processing-req="Request timed out.">
+		<a href="#" class="alert_close">
+			<i class="icon fa-times-circle fa-fw" aria-hidden="true"></i>
+		</a>
+		<h3 class="alert_title">&nbsp;</h3><p class="alert_text"></p>
+	</div>
+	<div id="phpbb_confirm" class="phpbb_alert">
+		<a href="#" class="alert_close">
+			<i class="icon fa-times-circle fa-fw" aria-hidden="true"></i>
+		</a>
+		<div class="alert_text"></div>
+	</div>
+</div>
+
+</div>
+
+<div>
+	<a id="bottom" class="anchor" accesskey="z"></a>
+	</div>
+
+<script src="./assets/javascript/jquery.min.js?assets_version=50"></script>
+<script src="./assets/javascript/core.js?assets_version=50"></script>
+
+
+
+</div><!-- closing tag for div#wrap -->
+<div class="site-footer">
+	<div class="tiles">
+		<div>
+			<h4>Connect</h4>
+			<p><a href="https://scioly.org/forums/viewforum.php?f=1">Event Forums</a></p>
+			<p><a href="https://scioly.org/forums/viewforum.php?f=6">Competition Forums</a></p>
+			<p><a href="https://scioly.org/chat">Online Chat</a></p>
+			<!-- <p><a href="https://scioly.org/watch">YouTube Channel</a></p> -->
+		</div>
+		<div>
+			<h4>Learn</h4>
+			<p><a href="https://scioly.org/wiki">Wiki</a></p>
+			<p><a href="https://scioly.org/forums/viewforum.php?f=297">Question Marathons</a></p>
+			<p><a href="https://scioly.org/tests">Test Exchange</a></p>
+			<p><a href="https://scioly.org/wiki/index.php/Test_Exchange_Archive">Test Archive</a></p>
+		</div>
+		<div>
+			<h4>Get Involved</h4>
+			<p><a href="https://scioly.org/wiki/index.php/Starting_A_Science_Olympiad_Team">Starting a Team</a></p>
+			<p><a href="https://scioly.org/wiki/index.php/How_to_Write_a_Practice_Test">Test Writing Guide</a></p>
+			<p><a href="https://scioly.org/wiki/index.php/Category:Needs_Work">Wiki: Needs Work</a></p>
+			<p><a href="https://scioly.org/wiki/index.php/Category:Student_Volunteer_Organizations">Volunteering</a></p>
+		</div>
+		<div>
+			<h4>About</h4>
+			<p><a href="https://scioly.org/about">History</a></p>
+			<p><a href="https://scioly.org/rules">Site Rules</a></p>
+			<p><a href="https://scioly.org/rules">Privacy Policy</a></p>
+			<p><a href="https://www.facebook.com/scioly.org">Facebook Page</a></p>
+		</div>
+		<div>
+			<h4>Disclaimer</h4>
+			<p>Scioly.org is a place to ask questions and share ideas. This site is not the place to get event rules, official rules changes, or official clarifications.</p>
+			<p><a href="https://scioly.org/bernard" style="color: transparent;">Click me! Click me!</a></p>
+		</div>
+	</div>
+</div>
+
+
+
+<script src="./styles/scioly/template/forum_fn.js?assets_version=50"></script>
+<script src="./styles/scioly/template/ajax.js?assets_version=50"></script>
+
+
+
+</body>
+</html>

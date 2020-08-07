@@ -1,0 +1,773 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Safety Glasses - Scioly.org</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Safety_Glasses","wgTitle":"Safety Glasses","wgCurRevisionId":93358,"wgRevisionId":93358,"wgArticleId":1314,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["General Competition"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Safety_Glasses","wgRelevantArticleId":1314,"wgRequestId":"9a8b3161f1818f08d885009d","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":[]});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","site":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@1ltrs49",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","jquery.tablesorter","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/wiki/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/wiki/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/wiki/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.8"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/wiki/opensearch_desc.php" title="Scioly.org (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://scioly.org/wiki/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Scioly.org Atom feed" href="/wiki/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/wiki/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Safety_Glasses rootpage-Safety_Glasses skin-vector action-view"><meta property="og:title" content="Science Olympiad Student Center"/>
+<meta property="og:type" content="website"/>
+<meta property="og:url" content="https://scioly.org/"/>
+
+<meta property="og:image" content="http://scioly.org/src/img/logo/logo_square.png"/>
+<meta property="og:image:secure_url" content="https://scioly.org/src/img/logo/logo_square.png"/> 
+<meta property="og:image:type" content="image/png"/> 
+<meta property="og:image:width" content="500"/> 
+<meta property="og:image:height" content="500"/>
+
+<meta property="og:description" content="A resource by and for Science Olympiad students, coaches, and alumni nationwide."/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script type="text/javascript" src="/src/js/jquery.min.js"></script>
+<script type="text/javascript" src="/src/js/main.js"></script>
+
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+<link rel="stylesheet" type="text/css" href="/src/css/main.css">
+
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<link rel="icon" href="/favicon.ico" type="image/x-icon"><div class="site-nav">
+	<a href="/">
+		<img src="/src/img/logo/logo.png">
+	</a>
+	<div class="hamburger" onclick="hamburger(this)">
+		<div>
+			<div></div>
+			<div></div>
+			<div></div>
+		</div>
+	</div>
+	<ul>
+		<li><a href="/forums">Forums</a></li>
+		<li><a href="/wiki">Wiki</a></li>
+		<li><a href="/tests">Test Exchange</a></li>
+		<!-- <li><a href="/gallery">Image Gallery</a></li> -->
+		<!-- <li><a href="/invitational">Invites</a></li> -->
+		<li><a href="/chat">Chat</a></li>
+		<li><a href="/login" class="button">Login</a></li>
+	</ul>
+</div>
+<img class="print-only" src="/src/img/logo/logo_black.png" style="max-width: 150px;"><link rel="stylesheet" type="text/css" href="/src/css/wiki.css">
+<div id="wrap-me-up">
+
+
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Safety Glasses</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Scioly.org</div>				<div id="contentSub"></div>
+								<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p>Science Olympiad has provided definitions of the various kinds of safety glasses that are to be used in events. This policy was recently revised for the 2016 and future seasons, in which eye protection is divided into three categories. This page gives an overview of the current classes of eye protection, as well as pictures. However, be sure to read the <a rel="nofollow" class="external text" href="https://www.soinc.org/eye-protection">official Science Olympiad, Inc. policy page</a> as well.
+</p><p>The <a href="/wiki/index.php/Rules_Manual" title="Rules Manual">rules manuals</a> state the category of eye protection that is acceptable for each event, usually under rule 1, near the top of the rules page for each event.
+</p><p>In order to be approved for use in Science Olympiad, safety spectacles must meet the ANSI standard at the time of their manufacture, bearing the manufacturer's "Z87" or "Z87+" mark. Removable lenses must also bear the "Z87" mark. In general, regular eyeglasses, whether with or without special safety glass, are not approved unless they bear this mark.
+</p><p><br />
+</p><p><i>Please note that the pictures may not necessarily show glasses that are actually ANSI rated.  They were merely chosen for visual similarity to the classes listed at soinc.org.</i>
+</p>
+<div id="toc" class="toc"><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Category_A"><span class="tocnumber">1</span> <span class="toctext">Category A</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Category_B"><span class="tocnumber">2</span> <span class="toctext">Category B</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Category_C"><span class="tocnumber">3</span> <span class="toctext">Category C</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Other_Information"><span class="tocnumber">4</span> <span class="toctext">Other Information</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Events_that_Require_Safety_Glasses"><span class="tocnumber">5</span> <span class="toctext">Events that Require Safety Glasses</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Past_Policy"><span class="tocnumber">6</span> <span class="toctext">Past Policy</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Category_A">Category A</span></h2>
+<table class="wikitable" style="max-width:1250px;">
+
+<tbody><tr>
+<th>Description
+</th>
+<th colspan="3">Images
+</th></tr>
+<tr>
+<td rowspan="2">In order to meet the requirements of Category A eye protection, safety spectacles must provide basic particle protection. Examples include safety glasses, safety spectacles with side shields, and particle protection goggles.
+</td>
+<td><div class="center"><div class="thumb tnone"><div class="thumbinner" style="width:202px;"><a href="/wiki/index.php/File:Protection2.jpg" class="image"><img alt="Protection2.jpg" src="/wiki/images/7/77/Protection2.jpg" width="200" height="200" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/index.php/File:Protection2.jpg" class="internal" title="Enlarge"></a></div></div></div></div></div>
+</td>
+<td><div class="center"><div class="thumb tnone"><div class="thumbinner" style="width:202px;"><a href="/wiki/index.php/File:Sideshield.gif" class="image"><img alt="Sideshield.gif" src="/wiki/images/2/27/Sideshield.gif" width="200" height="133" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/index.php/File:Sideshield.gif" class="internal" title="Enlarge"></a></div></div></div></div></div>
+</td>
+<td><div class="center"><div class="thumb tnone"><div class="thumbinner" style="width:202px;"><a href="/wiki/index.php/File:Directvent.gif" class="image"><img alt="Directvent.gif" src="/wiki/images/9/91/Directvent.gif" width="200" height="106" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/index.php/File:Directvent.gif" class="internal" title="Enlarge"></a></div></div></div></div></div>
+</td></tr>
+<tr>
+<td>Safety glasses which fulfill the criteria of Category A eye protection
+</td>
+<td>Safety glasses with side shields meet requirements of Category A eye protection
+</td>
+<td>An example of particle protection goggles, which meet the specifications of Category A eye protection
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Category_B">Category B</span></h2>
+<table class="wikitable" style="max-width:1250px;">
+
+<tbody><tr>
+<th>Description
+</th>
+<th>Images
+</th></tr>
+<tr>
+<td rowspan="2">In order to fulfill the criteria of Category B eye protection, safety spectacles must provide protection from high inertia particle hazard (often referred to as high impact protection). As such, they must bear the "Z87+" marking. Category B eye protection is also acceptable for events which require category A, since Z87+ is a higher standard of protection than Z87.
+</td>
+<td><div class="center"><div class="thumb tnone"><div class="thumbinner" style="width:202px;"><a href="/wiki/index.php/File:Highimpact.jpeg" class="image"><img alt="Highimpact.jpeg" src="/wiki/images/a/aa/Highimpact.jpeg" width="200" height="200" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/index.php/File:Highimpact.jpeg" class="internal" title="Enlarge"></a></div></div></div></div></div>
+</td></tr>
+<tr>
+<td>An example of goggles which protect from high inertia particle hazard, therefore meeting the requirements of Category B eye protection
+</td></tr>
+</tbody></table>
+<h2><span class="mw-headline" id="Category_C">Category C</span></h2>
+<table class="wikitable" style="max-width:1250px;">
+
+<tbody><tr>
+<th>Description
+</th>
+<th colspan="3">Images
+</th></tr>
+<tr>
+<td rowspan="2">To meet the requirements of Category C eye protection, safety spectacles must provide indirect vent chemical/splash protection. They must seal tightly to the face completely around the eyes. Indirect vents must be constructed in a way so that there is no direct path for foreign matter to enter the eyes. As per the second section of the eye protection policy, Category C goggles must also bear the ANSI Z87 mark.
+<p>The national organization eye protection policy explicitly states that although VisorGogs do not seal completely to the face, they are acceptable as indirect vent chemical/splash protection goggles, and therefore are suitable as Category C eye protection.
+</p>
+</td>
+<td><div class="center"><div class="thumb tnone"><div class="thumbinner" style="width:202px;"><a href="/wiki/index.php/File:Indirectvent.gif" class="image"><img alt="Indirectvent.gif" src="/wiki/images/0/08/Indirectvent.gif" width="200" height="106" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/index.php/File:Indirectvent.gif" class="internal" title="Enlarge"></a></div></div></div></div></div>
+</td>
+<td><div class="center"><div class="thumb tnone"><div class="thumbinner" style="width:202px;"><a href="/wiki/index.php/File:Indirect-vent-goggles.jpg" class="image"><img alt="Indirect-vent-goggles.jpg" src="/wiki/images/6/6c/Indirect-vent-goggles.jpg" width="200" height="129" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/index.php/File:Indirect-vent-goggles.jpg" class="internal" title="Enlarge"></a></div></div></div></div></div>
+</td>
+<td><div class="center"><div class="thumb tnone"><div class="thumbinner" style="width:202px;"><a href="/wiki/index.php/File:Direct-vent-goggles.jpg" class="image"><img alt="Direct-vent-goggles.jpg" src="/wiki/images/3/38/Direct-vent-goggles.jpg" width="200" height="135" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/index.php/File:Direct-vent-goggles.jpg" class="internal" title="Enlarge"></a></div></div></div></div></div>
+</td></tr>
+<tr>
+<td>An example of goggles which provide indirect vent chemical/splash protection, therefore meeting the criteria of Category C eye protection
+</td>
+<td>Note the indirect vents (black knobs), which eliminate any straight line path for liquids to enter the eye
+</td>
+<td>These goggles have direct vents, and therefore <b>DO NOT</b> meet category C eye protection
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Other_Information">Other Information</span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:402px;"><a href="/wiki/index.php/File:Z87mark-3.png" class="image"><img alt="" src="/wiki/images/4/4f/Z87mark-3.png" width="400" height="133" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/index.php/File:Z87mark-3.png" class="internal" title="Enlarge"></a></div>The "Z87" marking can be hard to see, especially on glasses made of clear material</div></div></div>
+<p>The "Z87" mark, which all acceptable eye protection must bear, indicates basic particle protection. This is the distinguishing feature of Category A and a requirement of Category C. A "Z87+" mark indicates impact protection, and is the distinguishing feature of Category B. Goggles that bear the "Z87+" marking and provide indirect vent chemical/splash protection meet the criteria for all three categories. As such, they may be used for any event which requires eye protection.
+</p><p>In most cases, a determination of what constitutes hazardous is left to the individual event supervisor, who is considered to be in the best position to make that determination. However, the eye protection policy explicitly states that water is not considered a hazardous material, and on its own, unpressurized water does not require protective eyewear.
+</p><p>Contestants must not be allowed to participate without the level of protection required by the rules. It is sometimes impossible for event supervisors to know what hazards a team's device may present; therefore, it is incumbent upon teams to bring and wear a higher level of protection than what is specified in the rules when their device warrants it.
+</p>
+<h2><span class="mw-headline" id="Events_that_Require_Safety_Glasses">Events that Require Safety Glasses</span></h2>
+<p><b>2020 Events</b>
+</p><p><b>Category A</b>
+</p>
+<ul><li>Division B:
+<ul><li>None</li></ul></li>
+<li>Division C:
+<ul><li>None</li></ul></li></ul>
+<p><b>Category B</b>
+</p>
+<ul><li>Division B:
+<ul><li><a href="/wiki/index.php/Boomilever" title="Boomilever">Boomilever</a></li>
+<li><a href="/wiki/index.php/Density_Lab" title="Density Lab">Density Lab</a></li>
+<li><a href="/wiki/index.php/Elastic_Launched_Glider" title="Elastic Launched Glider">Elastic Launched Glider</a></li>
+<li><a href="/wiki/index.php/Machines" title="Machines">Machines</a></li>
+<li><a href="/wiki/index.php/Mousetrap_Vehicle" title="Mousetrap Vehicle">Mousetrap Vehicle</a></li>
+<li><a href="/wiki/index.php/Ping_Pong_Parachute" title="Ping Pong Parachute">Ping Pong Parachute</a></li></ul></li>
+<li>Division C:
+<ul><li><a href="/wiki/index.php/Boomilever" title="Boomilever">Boomilever</a></li>
+<li><a href="/wiki/index.php/Machines" title="Machines">Machines</a></li>
+<li><a href="/wiki/index.php/Ping_Pong_Parachute" title="Ping Pong Parachute">Ping Pong Parachute</a></li></ul></li></ul>
+<p><b>Category C</b>
+</p>
+<ul><li>Division B:
+<ul><li><a href="/wiki/index.php/Crime_Busters" title="Crime Busters">Crime Busters</a></li>
+<li><a href="/wiki/index.php/Experimental_Design" title="Experimental Design">Experimental Design</a></li>
+<li><a href="/wiki/index.php/Food_Science" title="Food Science">Food Science</a></li>
+<li><a href="/wiki/index.php/Mission_Possible" title="Mission Possible">Mission Possible</a></li>
+<li><a href="/wiki/index.php/Water_Quality" title="Water Quality">Water Quality</a></li></ul></li>
+<li>Division C:
+<ul><li><a href="/wiki/index.php/Chemistry_Lab" title="Chemistry Lab">Chemistry Lab</a></li>
+<li><a href="/wiki/index.php/Experimental_Design" title="Experimental Design">Experimental Design</a></li>
+<li><a href="/wiki/index.php/Forensics" title="Forensics">Forensics</a></li>
+<li><a href="/wiki/index.php/Water_Quality" title="Water Quality">Water Quality</a></li></ul></li></ul>
+<p><br />
+</p>
+<table>
+
+<tbody><tr>
+<td><div class="toccolours mw-collapsible mw-collapsed" style="width:auto"><b>2019 Events</b>
+<div class="mw-collapsible-content">
+<p><b>Category A</b>
+</p>
+<ul><li>Division B:
+<ul><li>None</li></ul></li>
+<li>Division C:
+<ul><li>None</li></ul></li></ul>
+<p><b>Category B</b>
+</p>
+<ul><li>Division B:
+<ul><li><a href="/wiki/index.php/Boomilever" title="Boomilever">Boomilever</a></li>
+<li><a href="/wiki/index.php/Density_Lab" title="Density Lab">Density Lab</a></li>
+<li><a href="/wiki/index.php/Elastic_Launch_Glider" class="mw-redirect" title="Elastic Launch Glider">Elastic Launch Glider</a></li>
+<li><a href="/wiki/index.php/Roller_Coaster" title="Roller Coaster">Roller Coaster</a></li></ul></li>
+<li>Division C:
+<ul><li><a href="/wiki/index.php/Boomilever" title="Boomilever">Boomilever</a></li>
+<li><a href="/wiki/index.php/Mousetrap_Vehicle" title="Mousetrap Vehicle">Mousetrap Vehicle</a></li></ul></li></ul>
+<p><b>Category C</b>
+</p>
+<ul><li>Division B:
+<ul><li><a href="/wiki/index.php/Crime_Busters" title="Crime Busters">Crime Busters</a></li>
+<li><a href="/wiki/index.php/Experimental_Design" title="Experimental Design">Experimental Design</a></li>
+<li><a href="/wiki/index.php/Potions_and_Poisons" title="Potions and Poisons">Potions and Poisons</a></li>
+<li><a href="/wiki/index.php/Thermodynamics" title="Thermodynamics">Thermodynamics</a></li>
+<li><a href="/wiki/index.php/Water_Quality" title="Water Quality">Water Quality</a></li></ul></li>
+<li>Division C:
+<ul><li><a href="/wiki/index.php/Chemistry_Lab" title="Chemistry Lab">Chemistry Lab</a></li>
+<li><a href="/wiki/index.php/Experimental_Design" title="Experimental Design">Experimental Design</a></li>
+<li><a href="/wiki/index.php/Forensics" title="Forensics">Forensics</a></li>
+<li><a href="/wiki/index.php/Mission_Possible" title="Mission Possible">Mission Possible</a></li>
+<li><a href="/wiki/index.php/Thermodynamics" title="Thermodynamics">Thermodynamics</a></li>
+<li><a href="/wiki/index.php/Water_Quality" title="Water Quality">Water Quality</a></li></ul></li></ul>
+</div></div>
+</td></tr></tbody></table>
+<table>
+
+<tbody><tr>
+<td><div class="toccolours mw-collapsible mw-collapsed" style="width:auto"><b>2018 Events</b>
+<div class="mw-collapsible-content">
+<p><b>Category A</b>
+</p>
+<ul><li>Division B:
+<ul><li>None</li></ul></li>
+<li>Division C:
+<ul><li>None</li></ul></li></ul>
+<p><b>Category B</b>
+</p>
+<ul><li>Division B:
+<ul><li><a href="/wiki/index.php/Hovercraft" title="Hovercraft">Hovercraft</a></li>
+<li><a href="/wiki/index.php/Roller_Coaster" title="Roller Coaster">Roller Coaster</a></li>
+<li><a href="/wiki/index.php/Towers" title="Towers">Towers</a></li></ul></li>
+<li>Division C:
+<ul><li><a href="/wiki/index.php/Hovercraft" title="Hovercraft">Hovercraft</a></li>
+<li><a href="/wiki/index.php/Mousetrap_Vehicle" title="Mousetrap Vehicle">Mousetrap Vehicle</a></li>
+<li><a href="/wiki/index.php/Towers" title="Towers">Towers</a></li></ul></li></ul>
+<p><b>Category C</b>
+</p>
+<ul><li>Division B:
+<ul><li><a href="/wiki/index.php/Crime_Busters" title="Crime Busters">Crime Busters</a></li>
+<li><a href="/wiki/index.php/Experimental_Design" title="Experimental Design">Experimental Design</a></li>
+<li><a href="/wiki/index.php/Microbe_Mission" title="Microbe Mission">Microbe Mission</a></li>
+<li><a href="/wiki/index.php/Potions_and_Poisons" title="Potions and Poisons">Potions and Poisons</a></li>
+<li><a href="/wiki/index.php/Thermodynamics" title="Thermodynamics">Thermodynamics</a></li></ul></li>
+<li>Division C:
+<ul><li><a href="/wiki/index.php/Chemistry_Lab" title="Chemistry Lab">Chemistry Lab</a></li>
+<li><a href="/wiki/index.php/Experimental_Design" title="Experimental Design">Experimental Design</a></li>
+<li><a href="/wiki/index.php/Forensics" title="Forensics">Forensics</a></li>
+<li><a href="/wiki/index.php/Materials_Science" title="Materials Science">Materials Science</a></li>
+<li><a href="/wiki/index.php/Microbe_Mission" title="Microbe Mission">Microbe Mission</a></li>
+<li><a href="/wiki/index.php/Mission_Possible" title="Mission Possible">Mission Possible</a></li>
+<li><a href="/wiki/index.php/Thermodynamics" title="Thermodynamics">Thermodynamics</a></li></ul></li></ul>
+</div></div>
+</td></tr></tbody></table>
+<table>
+
+<tbody><tr>
+<td><div class="toccolours mw-collapsible mw-collapsed" style="width:auto"><b>2017 Events</b>
+<div class="mw-collapsible-content">
+<p><b>Category A</b>
+</p>
+<ul><li>Division B:
+<ul><li>None</li></ul></li>
+<li>Division C:
+<ul><li>None</li></ul></li></ul>
+<p><b>Category B</b>
+</p>
+<ul><li>Division B:
+<ul><li><a href="/wiki/index.php/Bottle_Rocket" title="Bottle Rocket">Bottle Rocket</a></li>
+<li><a href="/wiki/index.php/Hovercraft" title="Hovercraft">Hovercraft</a></li>
+<li><a href="/wiki/index.php/Mission_Possible" title="Mission Possible">Mission Possible</a></li>
+<li><a href="/wiki/index.php/Scrambler" title="Scrambler">Scrambler</a></li>
+<li><a href="/wiki/index.php/Towers" title="Towers">Towers</a></li>
+<li><a href="/wiki/index.php/Wind_Power" title="Wind Power">Wind Power</a></li></ul></li>
+<li>Division C:
+<ul><li><a href="/wiki/index.php/Hovercraft" title="Hovercraft">Hovercraft</a></li>
+<li><a href="/wiki/index.php/Robot_Arm" title="Robot Arm">Robot Arm</a></li>
+<li><a href="/wiki/index.php/Towers" title="Towers">Towers</a></li>
+<li><a href="/wiki/index.php/Wind_Power" title="Wind Power">Wind Power</a></li></ul></li></ul>
+<p><b>Category C</b>
+</p>
+<ul><li>Division B:
+<ul><li><a href="/wiki/index.php/Crime_Busters" title="Crime Busters">Crime Busters</a></li>
+<li><a href="/wiki/index.php/Experimental_Design" title="Experimental Design">Experimental Design</a></li>
+<li><a href="/wiki/index.php/Food_Science" title="Food Science">Food Science</a></li>
+<li><a href="/wiki/index.php/Microbe_Mission" title="Microbe Mission">Microbe Mission</a></li></ul></li>
+<li>Division C:
+<ul><li><a href="/wiki/index.php/Chemistry_Lab" title="Chemistry Lab">Chemistry Lab</a></li>
+<li><a href="/wiki/index.php/Experimental_Design" title="Experimental Design">Experimental Design</a></li>
+<li><a href="/wiki/index.php/Forensics" title="Forensics">Forensics</a></li>
+<li><a href="/wiki/index.php/Materials_Science" title="Materials Science">Materials Science</a></li>
+<li><a href="/wiki/index.php/Microbe_Mission" title="Microbe Mission">Microbe Mission</a></li></ul></li></ul>
+</div></div>
+</td></tr></tbody></table>
+<table>
+
+<tbody><tr>
+<td><div class="toccolours mw-collapsible mw-collapsed" style="width:auto"><b>2016 Events</b>
+<div class="mw-collapsible-content">
+<p><b>Category A</b>
+</p>
+<ul><li>Division B:
+<ul><li>None</li></ul></li>
+<li>Division C:
+<ul><li>None</li></ul></li></ul>
+<p><b>Category B</b>
+</p>
+<ul><li>Division B:
+<ul><li><a href="/wiki/index.php/Air_Trajectory" title="Air Trajectory">Air Trajectory</a></li>
+<li><a href="/wiki/index.php/Bottle_Rocket" title="Bottle Rocket">Bottle Rocket</a></li>
+<li><a href="/wiki/index.php/Bridge_Building" title="Bridge Building">Bridge Building</a></li>
+<li><a href="/wiki/index.php/Elastic_Launched_Glider" title="Elastic Launched Glider">Elastic Launched Glider</a></li>
+<li><a href="/wiki/index.php/Mission_Possible_B" title="Mission Possible B">Mission Possible</a></li>
+<li><a href="/wiki/index.php/Wind_Power" title="Wind Power">Wind Power</a></li></ul></li>
+<li>Division C:
+<ul><li><a href="/wiki/index.php/Air_Trajectory" title="Air Trajectory">Air Trajectory</a></li>
+<li><a href="/wiki/index.php/Bridge_Building" title="Bridge Building">Bridge Building</a></li>
+<li><a href="/wiki/index.php/Robot_Arm" title="Robot Arm">Robot Arm</a></li>
+<li><a href="/wiki/index.php/Wind_Power" title="Wind Power">Wind Power</a></li></ul></li></ul>
+<p><b>Category C</b>
+</p>
+<ul><li>Division B:
+<ul><li><a href="/wiki/index.php/Bio-Process_Lab" title="Bio-Process Lab">Bio-Process Lab</a></li>
+<li><a href="/wiki/index.php/Crime_Busters" title="Crime Busters">Crime Busters</a></li>
+<li><a href="/wiki/index.php/Experimental_Design" title="Experimental Design">Experimental Design</a></li>
+<li><a href="/wiki/index.php/Food_Science" title="Food Science">Food Science</a></li></ul></li>
+<li>Division C:
+<ul><li><a href="/wiki/index.php/Cell_Biology" title="Cell Biology">Cell Biology</a></li>
+<li><a href="/wiki/index.php/Chemistry_Lab" title="Chemistry Lab">Chemistry Lab</a></li>
+<li><a href="/wiki/index.php/Experimental_Design" title="Experimental Design">Experimental Design</a></li>
+<li><a href="/wiki/index.php/Forensics" title="Forensics">Forensics</a></li></ul></li></ul>
+<p><b>By Event</b>
+</p>
+<table class="wikitable sortable" style="text-align:center">
+<caption>Eye Protection Requirements by Event
+</caption>
+<tbody><tr>
+<th>Event (Division)</th>
+<th>Eye Protection Required?</th>
+<th>Category Required
+</th></tr>
+<tr>
+<th>Air Trajectory (B/C)
+</th>
+<td>Yes
+</td>
+<td>B
+</td></tr>
+<tr>
+<th>Anatomy &amp; Physiology (B/C)
+</th>
+<td>No
+</td>
+<td>-
+</td></tr>
+<tr>
+<th>Astronomy (C)
+</th>
+<td>No
+</td>
+<td>-
+</td></tr>
+<tr>
+<th>Bio-Process Lab (B)
+</th>
+<td>Yes
+</td>
+<td>C
+</td></tr>
+<tr>
+<th>Bottle Rocket (B)
+</th>
+<td>Yes
+</td>
+<td>B
+</td></tr>
+<tr>
+<th>Bridge Building (B/C)
+</th>
+<td>Yes
+</td>
+<td>B
+</td></tr>
+<tr>
+<th>Cell Biology (C)
+</th>
+<td>Yes
+</td>
+<td>C
+</td></tr>
+<tr>
+<th>Chemistry Lab (C)
+</th>
+<td>Yes
+</td>
+<td>C
+</td></tr>
+<tr>
+<th>Crave the Wave (B)
+</th>
+<td>No
+</td>
+<td>-
+</td></tr>
+<tr>
+<th>Crime Busters (B)
+</th>
+<td>Yes
+</td>
+<td>C
+</td></tr>
+<tr>
+<th>Disease Detectives (B/C)
+</th>
+<td>No
+</td>
+<td>-
+</td></tr>
+<tr>
+<th>Dynamic Planet (B/C)
+</th>
+<td>No
+</td>
+<td>-
+</td></tr>
+<tr>
+<th>Elastic Launched Glider (B)
+</th>
+<td>Yes
+</td>
+<td>B
+</td></tr>
+<tr>
+<th>Electric Vehicle (C)
+</th>
+<td>No
+</td>
+<td>-
+</td></tr>
+<tr>
+<th>Experimental Design (B/C)
+</th>
+<td>Yes
+</td>
+<td>C
+</td></tr>
+<tr>
+<th>Food Science (B)
+</th>
+<td>Yes
+</td>
+<td>C
+</td></tr>
+<tr>
+<th>Forensics (C)
+</th>
+<td>Yes
+</td>
+<td>C
+</td></tr>
+<tr>
+<th>Fossils (B/C)
+</th>
+<td>No
+</td>
+<td>-
+</td></tr>
+<tr>
+<th>Game On (C)
+</th>
+<td>No
+</td>
+<td>-
+</td></tr>
+<tr>
+<th>Geologic Mapping (C)
+</th>
+<td>No
+</td>
+<td>-
+</td></tr>
+<tr>
+<th>Green Generation (B/C)
+</th>
+<td>No
+</td>
+<td>-
+</td></tr>
+<tr>
+<th>Hydrogeology (C)
+</th>
+<td>No
+</td>
+<td>-
+</td></tr>
+<tr>
+<th>Invasive Species (B/C)
+</th>
+<td>No
+</td>
+<td>-
+</td></tr>
+<tr>
+<th>It's About Time (C)
+</th>
+<td>No
+</td>
+<td>-
+</td></tr>
+<tr>
+<th>Meteorology (B)
+</th>
+<td>No
+</td>
+<td>-
+</td></tr>
+<tr>
+<th>Microbe Mission (B/C)
+</th>
+<td>Yes
+</td>
+<td>-
+</td></tr>
+<tr>
+<th>Mission Possible (B)
+</th>
+<td>Yes
+</td>
+<td>B
+</td></tr>
+<tr>
+<th>Picture This (B)
+</th>
+<td>No
+</td>
+<td>-
+</td></tr>
+<tr>
+<th>Protein Modeling (C)
+</th>
+<td>No
+</td>
+<td>-
+</td></tr>
+<tr>
+<th>Reach for the Stars (B)
+</th>
+<td>No
+</td>
+<td>-
+</td></tr>
+<tr>
+<th>Road Scholar (B)
+</th>
+<td>No
+</td>
+<td>-
+</td></tr>
+<tr>
+<th>Robot Arm (C)
+</th>
+<td>Yes
+</td>
+<td>B
+</td></tr>
+<tr>
+<th>Scrambler (B)
+</th>
+<td>No
+</td>
+<td>-
+</td></tr>
+<tr>
+<th>Wind Power (B/C)
+</th>
+<td>Yes
+</td>
+<td>B
+</td></tr>
+<tr>
+<th>Wright Stuff (C)
+</th>
+<td>No
+</td>
+<td>-
+</td></tr>
+<tr>
+<th>Write It Do It (B/C)
+</th>
+<td>No
+</td>
+<td>-
+</td></tr>
+</tbody></table>
+</div></div>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Past_Policy">Past Policy</span></h2>
+<p>In the past, the eye protection policy used numbered classifications, Type 1 through Type 5. This system was replaced and simplified prior to the 2016 season. In addition, several events that previously required eye protection have had that requirement removed.
+</p>
+<div role="navigation" class="navbox" aria-labelledby="General_Competition_Resources" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/index.php/Template:Competition_Navbox" title="Template:Competition Navbox"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/index.php/Template_talk:Competition_Navbox" title="Template talk:Competition Navbox"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a rel="nofollow" class="external text" href="https://scioly.org/wiki/index.php?title=Template:Competition_Navbox&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="General_Competition_Resources" style="font-size:114%;margin:0 4em">General Competition Resources</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">About Scioly.org</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Forums</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Scioly.org:BBCode" title="Scioly.org:BBCode">BBCode</a></li>
+<li><a href="/wiki/index.php/Scioly.org:Scioly_Summer_Study_Session" title="Scioly.org:Scioly Summer Study Session">Scioly Summer Study Session</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Wiki</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Help:Editing" title="Help:Editing">Help:Editing</a></li>
+<li><a href="/wiki/index.php/How_to_Write_a_Practice_Test" title="How to Write a Practice Test">How to Write a Practice Test</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">General</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Scioly.org:IRC" title="Scioly.org:IRC">IRC</a></li>
+<li><a href="/wiki/index.php/Scioly.org:History" title="Scioly.org:History">History</a></li>
+<li><a href="/wiki/index.php/Scioly.org:FAQ" title="Scioly.org:FAQ">FAQ</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Event Tools</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Binders" title="Binders">Binders</a></li>
+<li><a href="/wiki/index.php/Calculators" title="Calculators">Calculators</a></li>
+<li><a href="/wiki/index.php/Field_Guides" title="Field Guides">Field Guides</a></li>
+<li><a href="/wiki/index.php/Microscope" title="Microscope">Microscope</a></li>
+<li><a href="/wiki/index.php/Note_Sheets" title="Note Sheets">Note Sheets</a></li>
+<li><a class="mw-selflink selflink">Safety Glasses</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Competition Help</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Preparing_for_Competition" title="Preparing for Competition">Preparing for Competition</a></li>
+<li><a href="/wiki/index.php/Rules_Manual" title="Rules Manual">Rules Manual</a></li>
+<li><a href="/wiki/index.php/Scoring" title="Scoring">Scoring</a></li>
+<li><a href="/wiki/index.php/Significant_Figures" title="Significant Figures">Significant Figures</a></li>
+<li><a href="/wiki/index.php/Starting_A_Science_Olympiad_Team" title="Starting A Science Olympiad Team">Starting A Science Olympiad Team</a></li>
+<li><a href="/wiki/index.php/Test_Taking_Skills" title="Test Taking Skills">Test Taking Skills</a></li></ul>
+</div></td></tr></tbody></table></div>
+
+<!-- 
+NewPP limit report
+Cached time: 20200806183226
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.300 seconds
+Real time usage: 0.476 seconds
+Preprocessor visited node count: 141/1000000
+Preprocessor generated node count: 344/1000000
+Post‐expand include size: 12691/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.030/7.000 seconds
+Lua virtual size: 8.73 MB/50 MB
+Lua estimated memory usage: 0 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.15%  125.738      2 Template:Navbox
+100.00%  125.553      1 -total
+ 89.97%  112.959      1 Template:Competition_Navbox
+  2.90%    3.646      4 Template:SpoilerBoxBegin
+  2.39%    2.998      4 Template:SpoilerBoxContent
+  2.36%    2.968      4 Template:SpoilerBoxEnd
+-->
+</div>
+<!-- Saved in parser cache with key wiki-wikiv2_:pcache:idhash:1314-0!canonical and timestamp 20200806183226 and revision id 93358
+ -->
+</div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://scioly.org/wiki/index.php?title=Safety_Glasses&amp;oldid=93358">https://scioly.org/wiki/index.php?title=Safety_Glasses&amp;oldid=93358</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/index.php/Special:Categories" title="Special:Categories">Category</a>: <ul><li><a href="/wiki/index.php/Category:General_Competition" title="Category:General Competition">General Competition</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-login"><a href="//scioly.org/forums/ucp.php?mode=login&amp;redirect=https%3A%2F%2Fscioly.org%2Fwiki%2Findex.php%2FSafety_Glasses" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/index.php/Safety_Glasses" title="View the content page [c]" accesskey="c">Page</a></span></li><li id="ca-talk" class="new"><span><a href="/wiki/index.php?title=Talk:Safety_Glasses&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/index.php/Safety_Glasses">Read</a></span></li><li id="ca-viewsource" class="collapsible"><span><a href="/wiki/index.php?title=Safety_Glasses&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li><li id="ca-history" class="collapsible"><span><a href="/wiki/index.php?title=Safety_Glasses&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/wiki/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Scioly.org" title="Search Scioly.org [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/index.php/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage"><a href="/wiki/index.php/Main_Page" title="Visit the main page [z]" accesskey="z">Main Page</a></li><li id="n-recentchanges"><a href="/wiki/index.php/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/wiki/index.php/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-MediaWiki-Help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">MediaWiki Help</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/index.php/Special:WhatLinksHere/Safety_Glasses" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/index.php/Special:RecentChangesLinked/Safety_Glasses" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/wiki/index.php/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="/wiki/index.php?title=Safety_Glasses&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/wiki/index.php?title=Safety_Glasses&amp;oldid=93358" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/wiki/index.php?title=Safety_Glasses&amp;action=info" title="More information about this page">Page information</a></li>				</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 18 May 2020, at 15:01.</li>
+								<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution</a> unless otherwise noted.</li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="http://creativecommons.org/licenses/by/3.0/"><img src="/wiki/resources/assets/licenses/cc-by.png" alt="Creative Commons Attribution" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<style>.MathJax_Display{display:inline !important;}
+.mathjax-wrapper{font-size:120%;}</style>
+<script type='text/x-mathjax-config'>MathJax.Hub.Config({displayAlign:'left',tex2jax:{displayMath:[['[math]','[/math]']]}})</script>
+<script src='//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.300","walltime":"0.476","ppvisitednodes":{"value":141,"limit":1000000},"ppgeneratednodes":{"value":344,"limit":1000000},"postexpandincludesize":{"value":12691,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.15%  125.738      2 Template:Navbox","100.00%  125.553      1 -total"," 89.97%  112.959      1 Template:Competition_Navbox","  2.90%    3.646      4 Template:SpoilerBoxBegin","  2.39%    2.998      4 Template:SpoilerBoxContent","  2.36%    2.968      4 Template:SpoilerBoxEnd"]},"scribunto":{"limitreport-timeusage":{"value":"0.030","limit":"7.000"},"limitreport-virtmemusage":{"value":9158656,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20200806183226","ttl":86400,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":191});});</script>
+	</body>
+</html>

@@ -1,0 +1,1408 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Missouri - Scioly.org</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Missouri","wgTitle":"Missouri","wgCurRevisionId":105518,"wgRevisionId":105518,"wgArticleId":264,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["State Pages"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Missouri","wgRelevantArticleId":264,"wgRequestId":"d383529c1c00cfdc1407c3a0","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":[]});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","site":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@1ltrs49",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","jquery.tablesorter","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/wiki/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/wiki/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/wiki/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.8"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/wiki/opensearch_desc.php" title="Scioly.org (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://scioly.org/wiki/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Scioly.org Atom feed" href="/wiki/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/wiki/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Missouri rootpage-Missouri skin-vector action-view"><meta property="og:title" content="Science Olympiad Student Center"/>
+<meta property="og:type" content="website"/>
+<meta property="og:url" content="https://scioly.org/"/>
+
+<meta property="og:image" content="http://scioly.org/src/img/logo/logo_square.png"/>
+<meta property="og:image:secure_url" content="https://scioly.org/src/img/logo/logo_square.png"/> 
+<meta property="og:image:type" content="image/png"/> 
+<meta property="og:image:width" content="500"/> 
+<meta property="og:image:height" content="500"/>
+
+<meta property="og:description" content="A resource by and for Science Olympiad students, coaches, and alumni nationwide."/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script type="text/javascript" src="/src/js/jquery.min.js"></script>
+<script type="text/javascript" src="/src/js/main.js"></script>
+
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+<link rel="stylesheet" type="text/css" href="/src/css/main.css">
+
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<link rel="icon" href="/favicon.ico" type="image/x-icon"><div class="site-nav">
+	<a href="/">
+		<img src="/src/img/logo/logo.png">
+	</a>
+	<div class="hamburger" onclick="hamburger(this)">
+		<div>
+			<div></div>
+			<div></div>
+			<div></div>
+		</div>
+	</div>
+	<ul>
+		<li><a href="/forums">Forums</a></li>
+		<li><a href="/wiki">Wiki</a></li>
+		<li><a href="/tests">Test Exchange</a></li>
+		<!-- <li><a href="/gallery">Image Gallery</a></li> -->
+		<!-- <li><a href="/invitational">Invites</a></li> -->
+		<li><a href="/chat">Chat</a></li>
+		<li><a href="/login" class="button">Login</a></li>
+	</ul>
+</div>
+<img class="print-only" src="/src/img/logo/logo_black.png" style="max-width: 150px;"><link rel="stylesheet" type="text/css" href="/src/css/wiki.css">
+<div id="wrap-me-up">
+
+
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Missouri</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Scioly.org</div>				<div id="contentSub"></div>
+								<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p>Missouri is a very competitive state, with numerous competitive teams. It has sent two teams from each division to nationals since 1989, but starting in 2018 it will only send one team from each division due to the addition of other states to Science Olympiad.
+</p>
+<table align="right" class="infobox">
+
+<tbody><tr>
+<th colspan="2" style="font-size: larger; text-align: center;"><b>Missouri</b>
+</th></tr>
+<tr>
+<td colspan="2"><center><a href="/wiki/index.php/File:Missouri.svg" class="image"><img alt="Missouri.svg" src="/wiki/images/thumb/f/f8/Missouri.svg/200px-Missouri.svg.png" width="200" height="183" srcset="/wiki/images/thumb/f/f8/Missouri.svg/300px-Missouri.svg.png 1.5x, /wiki/images/thumb/f/f8/Missouri.svg/400px-Missouri.svg.png 2x" /></a></center>
+</td></tr>
+<tr>
+<td colspan="2" style="margin: 5px; background-color: lavender; text-align: center;"><b>General Information</b>
+</td></tr>
+<tr>
+<td style="width: 100px;"><b>Member of SO since</b>
+</td>
+<td>1987
+</td></tr>
+<tr>
+<td style="width: 100px;"><b>Total teams</b>
+</td>
+<td>207
+</td></tr>
+<tr>
+<td style="width: 100px;"><b><a href="/wiki/index.php/Division_B" title="Division B">Division B</a> Champion</b>
+</td>
+<td><a href="/wiki/index.php/Ladue_Middle_School" title="Ladue Middle School">Ladue Middle School</a>
+</td></tr>
+<tr>
+<td style="width: 100px;"><b><a href="/wiki/index.php/Division_C" title="Division C">Division C</a> Champion</b>
+</td>
+<td><a href="/wiki/index.php/Pembroke_Hill_High_School" title="Pembroke Hill High School">Pembroke Hill High School</a>
+</td></tr>
+<tr>
+<td style="width: 100px;"><b>State Tournament Location</b>
+</td>
+<td>Westminster College, Fulton
+</td></tr>
+<tr>
+<td style="width: 100px;"><b>Date</b>
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="width: 100px;"><b>Website</b>
+</td>
+<td><a rel="nofollow" class="external free" href="https://scilympiad.com/mo">https://scilympiad.com/mo</a>
+</td></tr>
+</tbody></table>
+<p><br />
+</p>
+<div id="toc" class="toc"><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Past_State_Champions"><span class="tocnumber">1.1</span> <span class="toctext">Past State Champions</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Competitions"><span class="tocnumber">2</span> <span class="toctext">Competitions</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Regional_Competitions"><span class="tocnumber">2.1</span> <span class="toctext">Regional Competitions</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#State_Competition"><span class="tocnumber">2.2</span> <span class="toctext">State Competition</span></a>
+<ul>
+<li class="toclevel-3 tocsection-6"><a href="#Results"><span class="tocnumber">2.2.1</span> <span class="toctext">Results</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Teams"><span class="tocnumber">3</span> <span class="toctext">Teams</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#External_Links"><span class="tocnumber">4</span> <span class="toctext">External Links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span></h2>
+<p>Missouri lost its second Nationals bid in 2018 after sending two teams to nationals from both divisions for over three dozen years. Missouri teams tend to fare strongly at the national tournament, often netting top-20 finishes. Additionally, throughout Missouri Science Olympiad's history, the school districts of Ladue (<a href="/wiki/index.php/Ladue_Middle_School" title="Ladue Middle School">Middle School</a> and <a href="/wiki/index.php/Ladue_Horton_Watkins_High_School" title="Ladue Horton Watkins High School">Horton Watkins High School</a>) from the suburb of Ladue near St. Louis city and Pembroke Hill (<a href="/wiki/index.php/Pembroke_Hill_Middle_School" title="Pembroke Hill Middle School">Middle School</a> and <a href="/wiki/index.php/Pembroke_Hill_High_School" title="Pembroke Hill High School">High School</a>) from Midtown Kansas City have dominated the state competition.
+</p>
+<h3><span class="mw-headline" id="Past_State_Champions">Past State Champions</span></h3>
+<p>This is a record of the past state champions and runners up, and their respective places at the national competition.  Scores at the state competition may be shown in parentheses.
+</p>
+<table class="wikitable sortable" style="text-align:center">
+
+<tbody><tr>
+<th rowspan="3"><big>Season</big></th>
+<th colspan="5"><big>Division B</big></th>
+<th colspan="5"><big>Division C</big>
+</th></tr>
+<tr>
+<th colspan="2"><big>Champion</big></th>
+<th colspan="2"><big>Runner-Up</big></th>
+<th><big>Third Place</big></th>
+<th colspan="2"><big>Champion</big></th>
+<th colspan="2"><big>Runner-Up</big></th>
+<th><big>Third Place</big>
+</th></tr>
+<tr>
+<th><big>Team</big></th>
+<th><big>Nats Place</big></th>
+<th><big>Team</big></th>
+<th><big>Nats Place</big></th>
+<th><big>Team</big></th>
+<th><big>Team</big></th>
+<th><big>Nats Place</big></th>
+<th><big>Team</big></th>
+<th><big>Nats Place</big></th>
+<th><big>Team</big>
+</th></tr>
+
+
+
+
+
+<tr>
+<td><b><a href="/wiki/index.php?title=1987_Missouri_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="1987 Missouri State Tournament (page does not exist)">1987</a> </b></td>
+<td>Pembroke Hill Middle School
+</td>
+<td>30th
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=1988_Missouri_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="1988 Missouri State Tournament (page does not exist)">1988</a> </b></td>
+<td>Pembroke Hill Middle School
+</td>
+<td>19th
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>Ladue Horton Watkins High School
+</td>
+<td>41st
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=1989_Missouri_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="1989 Missouri State Tournament (page does not exist)">1989</a> </b></td>
+<td>Plattsburg Junior High School
+</td>
+<td>36th
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>Oak Park High School
+</td>
+<td>7th
+</td>
+<td>Hickman High School
+</td>
+<td>12th
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=1990_Missouri_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="1990 Missouri State Tournament (page does not exist)">1990</a> </b></td>
+<td>Plattsburg Junior High School
+</td>
+<td>9th
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>Ladue Horton Watkins High School
+</td>
+<td>23rd
+</td>
+<td>Pembroke Hill High School
+</td>
+<td>26th
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=1991_Missouri_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="1991 Missouri State Tournament (page does not exist)">1991</a> </b></td>
+<td>Plattsburg Junior High School
+</td>
+<td>10th
+</td>
+<td>Excelsior Springs School
+</td>
+<td>12th
+</td>
+<td>
+</td>
+<td>Pembroke Hill High School
+</td>
+<td>6th
+</td>
+<td>Oak Park High School
+</td>
+<td>14th
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=1992_Missouri_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="1992 Missouri State Tournament (page does not exist)">1992</a> </b></td>
+<td>Plattsburg Junior High School
+</td>
+<td>9th
+</td>
+<td>Excelsior Springs School
+</td>
+<td>16th
+</td>
+<td>
+</td>
+<td>Pembroke Hill High School
+</td>
+<td>11th
+</td>
+<td>Ladue Horton Watkins High School
+</td>
+<td>23rd
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=1993_Missouri_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="1993 Missouri State Tournament (page does not exist)">1993</a> </b></td>
+<td>Ladue Middle School
+</td>
+<td>13th
+</td>
+<td>Plattsburg Junior High School
+</td>
+<td>16th
+</td>
+<td>
+</td>
+<td>Oak Park High School
+</td>
+<td>7th
+</td>
+<td>Pembroke Hill High School
+</td>
+<td>29th
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=1994_Missouri_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="1994 Missouri State Tournament (page does not exist)">1994</a> </b></td>
+<td>Ladue Middle School
+</td>
+<td>15th
+</td>
+<td>New Mark Middle School
+</td>
+<td>27th
+</td>
+<td>
+</td>
+<td>Oak Park High School
+</td>
+<td>21st
+</td>
+<td>Pembroke Hill High School
+</td>
+<td>30th
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=1995_Missouri_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="1995 Missouri State Tournament (page does not exist)">1995</a> </b></td>
+<td>Ladue Middle School
+</td>
+<td>13th
+</td>
+<td>Crestview Middle School
+</td>
+<td>31st
+</td>
+<td>
+</td>
+<td>Pembroke Hill High School
+</td>
+<td>11th
+</td>
+<td>Oak Park High School
+</td>
+<td>18th
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=1996_Missouri_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="1996 Missouri State Tournament (page does not exist)">1996</a> </b></td>
+<td>Ladue Middle School
+</td>
+<td>11th
+</td>
+<td>Plattsburg Junior High School
+</td>
+<td>25th
+</td>
+<td>
+</td>
+<td>Pembroke Hill High School
+</td>
+<td>3rd
+</td>
+<td>Oak Park High School
+</td>
+<td>12th
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=1997_Missouri_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="1997 Missouri State Tournament (page does not exist)">1997</a> </b></td>
+<td>Plattsburg Junior High
+</td>
+<td>30th
+</td>
+<td>New Mark Middle School
+</td>
+<td>34th
+</td>
+<td>
+</td>
+<td>Oak Park High School
+</td>
+<td>8th
+</td>
+<td>Pembroke High School
+</td>
+<td>16th
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=1998_Missouri_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="1998 Missouri State Tournament (page does not exist)">1998</a> </b></td>
+<td>New Mark Middle School
+</td>
+<td>9th
+</td>
+<td>Ladue Middle School
+</td>
+<td>12th
+</td>
+<td>
+</td>
+<td>Pembroke Hill High School
+</td>
+<td>16th
+</td>
+<td>Oak Park High School
+</td>
+<td>20th
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=1999_Missouri_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="1999 Missouri State Tournament (page does not exist)">1999</a> </b></td>
+<td>Plattsburg Junior High
+</td>
+<td>7th
+</td>
+<td>Ladue Middle School
+</td>
+<td>15th
+</td>
+<td>
+</td>
+<td>Oak Park High School
+</td>
+<td>15th
+</td>
+<td>Pembroke Hill High School
+</td>
+<td>16th
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=2000_Missouri_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2000 Missouri State Tournament (page does not exist)">2000</a> </b></td>
+<td>New Mark Middle School
+</td>
+<td>5th
+</td>
+<td>Ladue Middle School
+</td>
+<td>19th
+</td>
+<td>
+</td>
+<td>Oak Park High School
+</td>
+<td>16th
+</td>
+<td>Pembroke Hill High School
+</td>
+<td>18th
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=2001_Missouri_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2001 Missouri State Tournament (page does not exist)">2001</a> </b></td>
+<td>Ladue Middle School
+</td>
+<td>22nd
+</td>
+<td>Plattsburg Junior High
+</td>
+<td>25th
+</td>
+<td>
+</td>
+<td>Oak Park High School
+</td>
+<td>5th
+</td>
+<td>Plattsburg High School
+</td>
+<td>41st
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=2002_Missouri_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2002 Missouri State Tournament (page does not exist)">2002</a> </b></td>
+<td>New Mark Middle School
+</td>
+<td>15th
+</td>
+<td>Ladue Middle School
+</td>
+<td>22nd
+</td>
+<td>
+</td>
+<td>Oak Park High School
+</td>
+<td>11th
+</td>
+<td>Pembroke Hill High School
+</td>
+<td>29th
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=2003_Missouri_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2003 Missouri State Tournament (page does not exist)">2003</a> </b></td>
+<td>Ladue Middle School
+</td>
+<td>19th
+</td>
+<td>Summit Lakes Middle School
+</td>
+<td>32nd
+</td>
+<td>
+</td>
+<td>Pembroke Hill High School
+</td>
+<td>17th
+</td>
+<td>Oak Park High School
+</td>
+<td>15th
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=2004_Missouri_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2004 Missouri State Tournament (page does not exist)">2004</a> </b></td>
+<td>Plattsburg Junior High
+</td>
+<td>23rd
+</td>
+<td>Ladue Middle School
+</td>
+<td>28th
+</td>
+<td>
+</td>
+<td>Oak Park High School
+</td>
+<td>18th
+</td>
+<td>Pembroke Hill High School
+</td>
+<td>25th
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=2005_Missouri_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2005 Missouri State Tournament (page does not exist)">2005</a> </b></td>
+<td>Ladue Middle School
+</td>
+<td>7th
+</td>
+<td>Summit Lakes Middle School
+</td>
+<td>32nd
+</td>
+<td>
+</td>
+<td>Pembroke Hill High School
+</td>
+<td>17th
+</td>
+<td>Oak Park High School
+</td>
+<td>18th
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=2006_Missouri_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2006 Missouri State Tournament (page does not exist)">2006</a> </b></td>
+<td>Ladue Middle School
+</td>
+<td>14th
+</td>
+<td>Pembroke Hill Middle School
+</td>
+<td>15th
+</td>
+<td>
+</td>
+<td>Oak Park High School
+</td>
+<td>26th
+</td>
+<td>Pembroke Hill High School
+</td>
+<td>29th
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=2007_Missouri_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2007 Missouri State Tournament (page does not exist)">2007</a> </b></td>
+<td>Pembroke Hill Middle School
+</td>
+<td>16th
+</td>
+<td>Ladue Middle School
+</td>
+<td>T-17th
+</td>
+<td>
+</td>
+<td>Pembroke Hill High School
+</td>
+<td>24th
+</td>
+<td>Oak Park High School
+</td>
+<td>27th
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=2008_Missouri_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2008 Missouri State Tournament (page does not exist)">2008</a> </b></td>
+<td>Pembroke Hill Middle School
+</td>
+<td>12th
+</td>
+<td>Summit Lakes Middle School
+</td>
+<td>27th
+</td>
+<td>
+</td>
+<td>Ladue Horton Watkins High School
+</td>
+<td>16th
+</td>
+<td>Oak Park High School
+</td>
+<td>24th
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=2009_Missouri_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2009 Missouri State Tournament (page does not exist)">2009</a> </b></td>
+<td>Pembroke Hill Middle School (105)
+</td>
+<td>13th
+</td>
+<td>Ladue Middle School (111)
+</td>
+<td>26th
+</td>
+<td>
+</td>
+<td>Ladue Horton Watkins High School (110)
+</td>
+<td>25th
+</td>
+<td>Pembroke Hill High School (161)
+</td>
+<td>35th
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=2010_Missouri_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2010 Missouri State Tournament (page does not exist)">2010</a> </b></td>
+<td>Ladue Middle School (93)
+</td>
+<td>11th
+</td>
+<td>Pembroke Hill Middle School (132)
+</td>
+<td>22nd
+</td>
+<td>
+</td>
+<td>Ladue Horton Watkins High School (129)
+</td>
+<td>21st
+</td>
+<td>Pembroke Hill High School (130)
+</td>
+<td>27th
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=2011_Missouri_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2011 Missouri State Tournament (page does not exist)">2011</a> </b></td>
+<td>Pembroke Hill Middle School (95)
+</td>
+<td>9th
+</td>
+<td>Ladue Middle School (147)
+</td>
+<td>27th
+</td>
+<td>
+</td>
+<td>Ladue Horton Watkins High School (96)
+</td>
+<td>25th
+</td>
+<td>Pembroke Hill High School (101)
+</td>
+<td>34th
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=2012_Missouri_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2012 Missouri State Tournament (page does not exist)">2012</a> </b></td>
+<td>Ladue Middle School (70)
+</td>
+<td>22nd
+</td>
+<td>Pembroke Hill Middle School (71)
+</td>
+<td>18th
+</td>
+<td>
+</td>
+<td>Pembroke Hill High School (57)
+</td>
+<td>26th
+</td>
+<td>Ladue Horton Watkins High School (90)
+</td>
+<td>19th
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=2013_Missouri_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2013 Missouri State Tournament (page does not exist)">2013</a> </b></td>
+<td>Ladue Middle School  (79)
+</td>
+<td>22nd
+</td>
+<td>Pembroke Hill Middle School  (101)
+</td>
+<td>19th
+</td>
+<td>
+</td>
+<td>Ladue Horton Watkins High School (100)
+</td>
+<td>32nd
+</td>
+<td>Pembroke Hill High School (118)
+</td>
+<td>34th
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=2014_Missouri_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2014 Missouri State Tournament (page does not exist)">2014</a> </b></td>
+<td><a href="/wiki/index.php/Ladue_Middle_School" title="Ladue Middle School">Ladue Middle School </a> (62)
+</td>
+<td>8th
+</td>
+<td><a href="/wiki/index.php/Pembroke_Hill_Middle_School" title="Pembroke Hill Middle School">Pembroke Hill Middle School </a> (66)
+</td>
+<td>13th
+</td>
+<td>
+</td>
+<td><a href="/wiki/index.php/Pembroke_Hill_High_School" title="Pembroke Hill High School">Pembroke Hill High School</a> (132)
+</td>
+<td>28th
+</td>
+<td><a href="/wiki/index.php/Ladue_Horton_Watkins_High_School" title="Ladue Horton Watkins High School">Ladue Horton Watkins High School</a> (142)
+</td>
+<td>39th
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php/2015_Missouri_State_Tournament" title="2015 Missouri State Tournament">2015</a> </b></td>
+<td><a href="/wiki/index.php/Ladue_Middle_School" title="Ladue Middle School">Ladue Middle School </a> (59)
+</td>
+<td>13th
+</td>
+<td><a href="/wiki/index.php/Pembroke_Hill_Middle_School" title="Pembroke Hill Middle School">Pembroke Hill Middle School </a> (67)
+</td>
+<td>15th
+</td>
+<td>
+</td>
+<td><a href="/wiki/index.php/Pembroke_Hill_High_School" title="Pembroke Hill High School">Pembroke Hill High School</a> (87)
+</td>
+<td>33rd
+</td>
+<td><a href="/wiki/index.php/Ladue_Horton_Watkins_High_School" title="Ladue Horton Watkins High School">Ladue Horton Watkins High School</a> (122)
+</td>
+<td>38th
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php/2016_Missouri_State_Tournament" title="2016 Missouri State Tournament">2016</a> </b></td>
+<td><a href="/wiki/index.php/Ladue_Middle_School" title="Ladue Middle School">Ladue Middle School </a> (72)
+</td>
+<td>14th
+</td>
+<td><a href="/wiki/index.php/Pembroke_Hill_Middle_School" title="Pembroke Hill Middle School">Pembroke Hill Middle School </a> (108)
+</td>
+<td>27th
+</td>
+<td>
+</td>
+<td><a href="/wiki/index.php/Ladue_Horton_Watkins_High_School" title="Ladue Horton Watkins High School">Ladue Horton Watkins High School</a> (93)
+</td>
+<td>21st
+</td>
+<td><a href="/wiki/index.php/Pembroke_Hill_High_School" title="Pembroke Hill High School">Pembroke Hill High School</a> (97)
+</td>
+<td>26th
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php/2017_Missouri_State_Tournament" title="2017 Missouri State Tournament">2017</a> </b></td>
+<td><a href="/wiki/index.php/Ladue_Middle_School" title="Ladue Middle School">Ladue Middle School </a> (65)
+</td>
+<td>14th
+</td>
+<td><a href="/wiki/index.php/Wydown_Middle_School" title="Wydown Middle School">Wydown Middle School</a> (103)
+</td>
+<td>33rd
+</td>
+<td>
+</td>
+<td><a href="/wiki/index.php/Ladue_Horton_Watkins_High_School" title="Ladue Horton Watkins High School">Ladue Horton Watkins High School</a> (60)
+</td>
+<td>11th
+</td>
+<td><a href="/wiki/index.php/Pembroke_Hill_High_School" title="Pembroke Hill High School">Pembroke Hill High School</a> (104)
+</td>
+<td>23rd
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php/2018_Missouri_State_Tournament" title="2018 Missouri State Tournament">2018</a> </b></td>
+<td><a href="/wiki/index.php/Pembroke_Hill_Middle_School" title="Pembroke Hill Middle School">Pembroke Hill Middle School</a> (69)
+</td>
+<td>22nd
+</td>
+<td><a href="/wiki/index.php/Ladue_Middle_School" title="Ladue Middle School">Ladue Middle School</a> (70)
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td><a href="/wiki/index.php/Pembroke_Hill_High_School" title="Pembroke Hill High School">Pembroke Hill High School</a> (61)
+</td>
+<td>19th
+</td>
+<td><a href="/wiki/index.php/Ladue_Horton_Watkins_High_School" title="Ladue Horton Watkins High School">Ladue Horton Watkins High School</a> (74)
+</td>
+<td>N/A
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php/2019_Missouri_State_Tournament" title="2019 Missouri State Tournament">2019</a> </b></td>
+<td><a href="/wiki/index.php/Ladue_Middle_School" title="Ladue Middle School">Ladue Middle School</a> (69)
+</td>
+<td>11th
+</td>
+<td><a href="/wiki/index.php/Wydown_Middle_School" title="Wydown Middle School">Wydown Middle School</a> (117)
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td><a href="/wiki/index.php/Pembroke_Hill_High_School" title="Pembroke Hill High School">Pembroke Hill High School</a> (82)
+</td>
+<td>24th
+</td>
+<td><a href="/wiki/index.php/Ladue_Horton_Watkins_High_School" title="Ladue Horton Watkins High School">Ladue Horton Watkins High School</a> (94)
+</td>
+<td>N/A
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=2020_Missouri_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2020 Missouri State Tournament (page does not exist)">2020</a> </b></td>
+<td colspan="10"><i>Cancelled due to the <a href="/wiki/index.php/2019-20_Coronavirus_outbreak" title="2019-20 Coronavirus outbreak">2019-20 Coronavirus outbreak</a></i>
+</td></tr>
+
+
+
+
+
+</tbody></table>
+<dl><dd></dd>
+<dd></dd>
+<dd></dd>
+<dd></dd>
+<dd></dd>
+<dd></dd>
+<dd></dd>
+<dd></dd>
+<dd></dd>
+<dd></dd></dl>
+<p><br />
+</p>
+<h2><span class="mw-headline" id="Competitions">Competitions</span></h2>
+<h3><span class="mw-headline" id="Regional_Competitions"><a href="/wiki/index.php/Regions_of_Missouri" title="Regions of Missouri">Regional Competitions</a></span></h3>
+<dl><dd>Region 1 (<a href="/wiki/index.php/Northwest_Missouri_Regional" title="Northwest Missouri Regional">Northwest Missouri</a>) - February 22nd, 2020 (B) and February 15th, 2020 (C)</dd>
+<dd>Region 2 (<a href="/wiki/index.php/Northeast_Missouri_Regional" title="Northeast Missouri Regional">Northeast Missouri</a>) - February 29th, 2020 (B/C)</dd>
+<dd>Region 3 (<a href="/wiki/index.php/Kansas_City_Area_Regional" title="Kansas City Area Regional">Kansas City Area</a>) - February 8th, 2020 (B/C)</dd>
+<dd>Region 4 (<a href="/wiki/index.php/West_Central_Missouri_Regional" title="West Central Missouri Regional">West Central Missouri</a>) - January 24th, 2020 (B/C)</dd>
+<dd>Region 5 (<a href="/wiki/index.php/Central_Missouri_Regional" title="Central Missouri Regional">Central Missouri</a>) - February 22nd, 2020 (B/C)</dd>
+<dd>Region 6 (<a href="/wiki/index.php/St._Louis_Area_Regional" title="St. Louis Area Regional">St. Louis Area</a>) - March 7th, 2020 (B) and February 22nd, 2020 (C)</dd>
+<dd>Region 7 (<a href="/wiki/index.php/Southwest_Missouri_Regional" title="Southwest Missouri Regional">Southwest Missouri</a>) - February 22nd, 2020 (B/C)</dd>
+<dd>Region 8 (<a href="/wiki/index.php/Southeast_Missouri_Regional" title="Southeast Missouri Regional">Southeast Missouri</a>) - February 8th, 2020 (B/C)</dd></dl>
+<h3><span class="mw-headline" id="State_Competition">State Competition</span></h3>
+<dl><dd>2020 location: Westminster College, Fulton - April 4th, 2020 (<b>Cancelled due to the <a href="/wiki/index.php/2019-20_Coronavirus_outbreak" title="2019-20 Coronavirus outbreak">2019-20 Coronavirus outbreak</a></b>)</dd></dl>
+<h4><span class="mw-headline" id="Results">Results</span></h4>
+<dl><dd>2000 <a href="/wiki/images/0/07/2000_MO_B_Results.png" class="internal" title="2000 MO B Results.png">B</a>/<a href="/wiki/images/3/33/2000_MO_C_Results.png" class="internal" title="2000 MO C Results.png">C</a></dd>
+<dd>2003 (Top 10) <a href="/wiki/images/7/76/2003_MO_B%26C_Results.pdf" class="internal" title="2003 MO B&amp;C Results.pdf">B/C</a></dd>
+<dd>2006 <a href="/wiki/images/3/3f/2006_MO_B%26C_Results.pdf" class="internal" title="2006 MO B&amp;C Results.pdf">B/C</a></dd></dl>
+<p>Available results newer than 2010 can be found at the <a href="/wiki/index.php/State_Tournament_Results" title="State Tournament Results">State Tournament Results</a> page.
+</p>
+<h2><span class="mw-headline" id="Teams">Teams</span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:452px;"><a href="/wiki/index.php/File:Missouri_regions.jpg" class="image"><img alt="" src="/wiki/images/b/b5/Missouri_regions.jpg" width="450" height="390" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/index.php/File:Missouri_regions.jpg" class="internal" title="Enlarge"></a></div>Regions in Missouri (2019)</div></div></div>
+<p><i>The following list is incomplete and may not reflect recent changes. Keep that in mind while using it for reference.</i>
+</p><p><i>Schools in bold have recently qualified for Science Olympiad National Competitions in the past three years.</i>
+</p>
+<table class="wikitable">
+<tbody><tr>
+<th>Region</th>
+<th>Participating Schools: <a href="/wiki/index.php/Division_B" title="Division B">Division B</a></th>
+<th>Participating Schools: <a href="/wiki/index.php/Division_C" title="Division C">Division C</a>
+</th></tr>
+<tr>
+<td>Region 1: Northwest Missouri
+<p>Major cities: St. Joseph
+</p><p>Tournament Sites: 
+</p>
+<dl><dd>Northwest Missouri State University, Maryville (Division B)</dd>
+<dd>North Central Missouri College, Trenton (Division C)</dd></dl>
+</td>
+<td>
+<dl><dd><a href="/wiki/index.php/Chillicothe_Middle_School" title="Chillicothe Middle School">Chillicothe Middle School</a></dd>
+<dd><a href="/wiki/index.php/King_City_Middle_School" class="mw-redirect" title="King City Middle School">King City Middle School</a></dd>
+<dd><a href="/wiki/index.php?title=Pattonsburg_Middle_School&amp;action=edit&amp;redlink=1" class="new" title="Pattonsburg Middle School (page does not exist)">Pattonsburg Middle School</a></dd>
+<dd><a href="/wiki/index.php?title=Robidoux_Middle_School&amp;action=edit&amp;redlink=1" class="new" title="Robidoux Middle School (page does not exist)">Robidoux Middle School</a></dd>
+<dd><a href="/wiki/index.php?title=South_Harrison_Middle_School&amp;action=edit&amp;redlink=1" class="new" title="South Harrison Middle School (page does not exist)">South Harrison Middle School</a></dd>
+<dd><a href="/wiki/index.php/Stanberry_Middle_School" class="mw-redirect" title="Stanberry Middle School">Stanberry Middle School</a></dd></dl>
+</td>
+<td>
+<dl><dd><a href="/wiki/index.php/King_City_High_School" title="King City High School">King City High School</a></dd>
+<dd><a href="/wiki/index.php/Maysville_High_School" title="Maysville High School">Maysville High School</a></dd>
+<dd><a href="/wiki/index.php/Northeast_Nodaway_High_School" title="Northeast Nodaway High School">Northeast Nodaway High School</a></dd>
+<dd><a href="/wiki/index.php?title=Pattonsburg_High_School&amp;action=edit&amp;redlink=1" class="new" title="Pattonsburg High School (page does not exist)">Pattonsburg High School</a></dd>
+<dd><a href="/wiki/index.php/South_Harrison_High_School" title="South Harrison High School">South Harrison High School</a></dd>
+<dd><a href="/wiki/index.php?title=Stanberry_High_School&amp;action=edit&amp;redlink=1" class="new" title="Stanberry High School (page does not exist)">Stanberry High School</a></dd>
+<dd><a href="/wiki/index.php?title=Trenton_High_School&amp;action=edit&amp;redlink=1" class="new" title="Trenton High School (page does not exist)">Trenton High School</a></dd></dl>
+</td></tr>
+<tr>
+<td>Region 2: Northeast Missouri
+<p>Major cities: Hannibal, Kirksville
+</p><p>Tournament Site: 
+</p>
+<dl><dd>Truman State University, Kirksville</dd></dl>
+</td>
+<td>
+<dl><dd><a href="/wiki/index.php?title=Atlanta_Middle_School&amp;action=edit&amp;redlink=1" class="new" title="Atlanta Middle School (page does not exist)">Atlanta Middle School</a></dd>
+<dd><a href="/wiki/index.php/Brookfield_Middle_School" title="Brookfield Middle School">Brookfield Middle School</a></dd>
+<dd><a href="/wiki/index.php?title=Canton_Middle_School_(Missouri)&amp;action=edit&amp;redlink=1" class="new" title="Canton Middle School (Missouri) (page does not exist)">Canton Middle School</a></dd>
+<dd><a href="/wiki/index.php?title=Green_City_Middle_School&amp;action=edit&amp;redlink=1" class="new" title="Green City Middle School (page does not exist)">Green City Middle School</a></dd>
+<dd><a href="/wiki/index.php/Linn_County_Middle_School" class="mw-redirect" title="Linn County Middle School">Linn County Middle School</a></dd>
+<dd><a href="/wiki/index.php?title=Macon_Middle_School&amp;action=edit&amp;redlink=1" class="new" title="Macon Middle School (page does not exist)">Macon Middle School</a></dd>
+<dd><a href="/wiki/index.php?title=Mary_Immaculate_Middle_School&amp;action=edit&amp;redlink=1" class="new" title="Mary Immaculate Middle School (page does not exist)">Mary Immaculate Middle School</a></dd>
+<dd><a href="/wiki/index.php?title=Milan_Middle_School&amp;action=edit&amp;redlink=1" class="new" title="Milan Middle School (page does not exist)">Milan Middle School</a></dd>
+<dd><a href="/wiki/index.php/Moberly_Middle_School" title="Moberly Middle School">Moberly Middle School</a></dd>
+<dd><a href="/wiki/index.php?title=Northwestern_Middle_School_(Missouri)&amp;action=edit&amp;redlink=1" class="new" title="Northwestern Middle School (Missouri) (page does not exist)">Northwestern Middle School</a></dd>
+<dd><a href="/wiki/index.php/Palmyra_Middle_School" title="Palmyra Middle School">Palmyra Middle School</a></dd></dl>
+</td>
+<td>
+<dl><dd><a href="/wiki/index.php?title=Atlanta_High_School&amp;action=edit&amp;redlink=1" class="new" title="Atlanta High School (page does not exist)">Atlanta High School</a></dd>
+<dd><a href="/wiki/index.php?title=Brookfield_High_School&amp;action=edit&amp;redlink=1" class="new" title="Brookfield High School (page does not exist)">Brookfield High School</a></dd>
+<dd><a href="/wiki/index.php?title=Canton_High_School_(Missouri)&amp;action=edit&amp;redlink=1" class="new" title="Canton High School (Missouri) (page does not exist)">Canton High School</a></dd>
+<dd><a href="/wiki/index.php?title=Green_City_High_School&amp;action=edit&amp;redlink=1" class="new" title="Green City High School (page does not exist)">Green City High School</a></dd>
+<dd><a href="/wiki/index.php/Kirksville_High_School" title="Kirksville High School">Kirksville High School</a></dd>
+<dd><a href="/wiki/index.php?title=Linn_County_High_School&amp;action=edit&amp;redlink=1" class="new" title="Linn County High School (page does not exist)">Linn County High School</a></dd>
+<dd><a href="/wiki/index.php/Macon_High_School" title="Macon High School">Macon High School</a></dd>
+<dd><a href="/wiki/index.php/Marceline_High_School" title="Marceline High School">Marceline High School</a></dd>
+<dd><a href="/wiki/index.php?title=Milan_High_School&amp;action=edit&amp;redlink=1" class="new" title="Milan High School (page does not exist)">Milan High School</a></dd>
+<dd><a href="/wiki/index.php?title=Moberly_High_School&amp;action=edit&amp;redlink=1" class="new" title="Moberly High School (page does not exist)">Moberly High School</a></dd>
+<dd><a href="/wiki/index.php?title=Northwestern_High_School_(Missouri)&amp;action=edit&amp;redlink=1" class="new" title="Northwestern High School (Missouri) (page does not exist)">Northwestern High School</a></dd>
+<dd><a href="/wiki/index.php?title=Palmyra_High_School&amp;action=edit&amp;redlink=1" class="new" title="Palmyra High School (page does not exist)">Palmyra High School</a></dd>
+<dd><a href="/wiki/index.php?title=Putnam_County_High_School&amp;action=edit&amp;redlink=1" class="new" title="Putnam County High School (page does not exist)">Putnam County High School</a></dd>
+<dd><a href="/wiki/index.php?title=Salisbury_High_School&amp;action=edit&amp;redlink=1" class="new" title="Salisbury High School (page does not exist)">Salisbury High School</a></dd></dl>
+</td></tr>
+<tr>
+<td>Region 3: Kansas City Metropolitan Area
+<p>Tournament Site:
+</p>
+<dl><dd>William Jewell College, Liberty</dd></dl>
+</td>
+<td>
+<dl><dd><a href="/wiki/index.php?title=Barry_Middle_School&amp;action=edit&amp;redlink=1" class="new" title="Barry Middle School (page does not exist)">Barry Middle School</a></dd>
+<dd><a href="/wiki/index.php?title=Excelsior_Springs_Middle_School&amp;action=edit&amp;redlink=1" class="new" title="Excelsior Springs Middle School (page does not exist)">Excelsior Springs Middle School</a></dd>
+<dd><a href="/wiki/index.php?title=Frontier_School_of_Innovation&amp;action=edit&amp;redlink=1" class="new" title="Frontier School of Innovation (page does not exist)">Frontier School of Innovation</a></dd>
+<dd><a href="/wiki/index.php/Kearney_Middle_School" title="Kearney Middle School">Kearney Middle School</a></dd>
+<dd><a href="/wiki/index.php?title=Lathrop_Middle_School&amp;action=edit&amp;redlink=1" class="new" title="Lathrop Middle School (page does not exist)">Lathrop Middle School</a></dd>
+<dd><a href="/wiki/index.php?title=Northland_Christian_Middle_School&amp;action=edit&amp;redlink=1" class="new" title="Northland Christian Middle School (page does not exist)">Northland Christian Middle School</a></dd>
+<dd><a href="/wiki/index.php?title=Notre_Dame_de_Sion_School&amp;action=edit&amp;redlink=1" class="new" title="Notre Dame de Sion School (page does not exist)">Notre Dame de Sion School</a></dd>
+<dd><a href="/wiki/index.php/Oak_Grove_Middle_School_(Missouri)" title="Oak Grove Middle School (Missouri)">Oak Grove Middle School</a></dd>
+<dd><b><a href="/wiki/index.php/Pembroke_Hill_Middle_School" title="Pembroke Hill Middle School">Pembroke Hill Middle School</a></b></dd>
+<dd><a href="/wiki/index.php?title=Platte_City_Middle_School&amp;action=edit&amp;redlink=1" class="new" title="Platte City Middle School (page does not exist)">Platte City Middle School</a></dd>
+<dd><a href="/wiki/index.php/Plattsburg_Middle_School" title="Plattsburg Middle School">Plattsburg Middle School</a></dd>
+<dd><a href="/wiki/index.php?title=Richmond_Middle_School&amp;action=edit&amp;redlink=1" class="new" title="Richmond Middle School (page does not exist)">Richmond Middle School</a></dd>
+<dd><a href="/wiki/index.php/St._Paul%27s_Middle_School" class="mw-redirect" title="St. Paul&#39;s Middle School">St. Paul's Middle School</a></dd>
+<dd><a href="/wiki/index.php?title=University_Academy&amp;action=edit&amp;redlink=1" class="new" title="University Academy (page does not exist)">University Academy</a></dd></dl>
+</td>
+<td>
+<dl><dd><a href="/wiki/index.php?title=Excelsior_Springs_High_School&amp;action=edit&amp;redlink=1" class="new" title="Excelsior Springs High School (page does not exist)">Excelsior Springs High School</a></dd>
+<dd><a href="/wiki/index.php?title=Lathrop_High_School&amp;action=edit&amp;redlink=1" class="new" title="Lathrop High School (page does not exist)">Lathrop High School</a></dd>
+<dd><a href="/wiki/index.php?title=Kearney_High_School&amp;action=edit&amp;redlink=1" class="new" title="Kearney High School (page does not exist)">Kearney High School</a></dd>
+<dd><a href="/wiki/index.php/North_Kansas_City_High_School" title="North Kansas City High School">North Kansas City High School</a></dd>
+<dd><a href="/wiki/index.php?title=Northland_Christian_High_School&amp;action=edit&amp;redlink=1" class="new" title="Northland Christian High School (page does not exist)">Northland Christian High School</a></dd>
+<dd><a href="/wiki/index.php/Oak_Grove_High_School" title="Oak Grove High School">Oak Grove High School</a></dd>
+<dd><a href="/wiki/index.php/Oak_Park_High_School" title="Oak Park High School">Oak Park High School</a></dd>
+<dd><a href="/wiki/index.php?title=Park_Hill_South_High_School&amp;action=edit&amp;redlink=1" class="new" title="Park Hill South High School (page does not exist)">Park Hill South High School</a></dd>
+<dd><a href="/wiki/index.php/Platte_County_High_School" title="Platte County High School">Platte County High School</a></dd>
+<dd><b><a href="/wiki/index.php/Pembroke_Hill_High_School" title="Pembroke Hill High School">Pembroke Hill High School</a></b></dd>
+<dd><a href="/wiki/index.php/Plattsburg_High_School" title="Plattsburg High School">Plattsburg High School</a></dd>
+<dd><a href="/wiki/index.php/Staley_High_School" title="Staley High School">Staley High School</a></dd></dl>
+</td></tr>
+<tr>
+<td>Region 4 (Western Central Missouri)
+<p>Major cities: Sedalia, Warrensburg
+</p><p>Tournament Site:
+</p>
+<dl><dd>University of Central Missouri, Warrensburg</dd></dl>
+</td>
+<td>
+<dl><dd><a href="/wiki/index.php/Carrollton_Middle_School" title="Carrollton Middle School">Carrollton Middle School</a></dd>
+<dd><a href="/wiki/index.php/Cass_County_Homeschoolers" title="Cass County Homeschoolers">Cass County Homeschoolers</a></dd>
+<dd><a href="/wiki/index.php?title=Clark_Middle_School_(Missouri)&amp;action=edit&amp;redlink=1" class="new" title="Clark Middle School (Missouri) (page does not exist)">Clark Middle School</a></dd>
+<dd><a href="/wiki/index.php?title=Clinton_Middle_School_(Missouri)&amp;action=edit&amp;redlink=1" class="new" title="Clinton Middle School (Missouri) (page does not exist)">Clinton Middle School</a></dd>
+<dd><a href="/wiki/index.php?title=Concordia_Middle_School&amp;action=edit&amp;redlink=1" class="new" title="Concordia Middle School (page does not exist)">Concordia Middle School</a></dd>
+<dd><a href="/wiki/index.php?title=Hale_Middle_School&amp;action=edit&amp;redlink=1" class="new" title="Hale Middle School (page does not exist)">Hale Middle School</a></dd>
+<dd><a href="/wiki/index.php/Harrisonville_Middle_School" title="Harrisonville Middle School">Harrisonville Middle School</a></dd>
+<dd><a href="/wiki/index.php?title=Holden_Middle_School&amp;action=edit&amp;redlink=1" class="new" title="Holden Middle School (page does not exist)">Holden Middle School</a></dd>
+<dd><a href="/wiki/index.php/Hume_Middle_School" class="mw-redirect" title="Hume Middle School">Hume Middle School</a></dd>
+<dd><a href="/wiki/index.php/Lafayette_County_Middle_School" title="Lafayette County Middle School">Lafayette County Middle School</a></dd>
+<dd><a href="/wiki/index.php?title=Laura_Speed_Elliott_Middle_School&amp;action=edit&amp;redlink=1" class="new" title="Laura Speed Elliott Middle School (page does not exist)">Laura Speed Elliott Middle School</a></dd>
+<dd><a href="/wiki/index.php?title=Malta_Bend_Middle_School&amp;action=edit&amp;redlink=1" class="new" title="Malta Bend Middle School (page does not exist)">Malta Bend Middle School</a></dd>
+<dd><a href="/wiki/index.php?title=Rich_Hill_Junior_High_School&amp;action=edit&amp;redlink=1" class="new" title="Rich Hill Junior High School (page does not exist)">Rich Hill Junior High School</a></dd>
+<dd><a href="/wiki/index.php/Warrensburg_Middle_School" title="Warrensburg Middle School">Warrensburg Middle School</a></dd></dl>
+</td>
+<td>
+<dl><dd><a href="/wiki/index.php/Cass_County_Homeschoolers" title="Cass County Homeschoolers">Cass County Homeschoolers</a></dd>
+<dd><a href="/wiki/index.php?title=Cole_Camp_High_School&amp;action=edit&amp;redlink=1" class="new" title="Cole Camp High School (page does not exist)">Cole Camp High School</a></dd>
+<dd><a href="/wiki/index.php?title=Concordia_High_School&amp;action=edit&amp;redlink=1" class="new" title="Concordia High School (page does not exist)">Concordia High School</a></dd>
+<dd><a href="/wiki/index.php?title=Fayette_High_School&amp;action=edit&amp;redlink=1" class="new" title="Fayette High School (page does not exist)">Fayette High School</a></dd>
+<dd><a href="/wiki/index.php/Hale_High_School" title="Hale High School">Hale High School</a></dd>
+<dd><a href="/wiki/index.php?title=Holden_High_School&amp;action=edit&amp;redlink=1" class="new" title="Holden High School (page does not exist)">Holden High School</a></dd>
+<dd><a href="/wiki/index.php/Hume_High_School" title="Hume High School">Hume High School</a></dd>
+<dd><a href="/wiki/index.php?title=Knob_Noster_High_School&amp;action=edit&amp;redlink=1" class="new" title="Knob Noster High School (page does not exist)">Knob Noster High School</a></dd>
+<dd><a href="/wiki/index.php/Lafayette_County_High_School" title="Lafayette County High School">Lafayette County High School</a></dd>
+<dd><a href="/wiki/index.php?title=Malta_Bend_High_School&amp;action=edit&amp;redlink=1" class="new" title="Malta Bend High School (page does not exist)">Malta Bend High School</a></dd>
+<dd><a href="/wiki/index.php?title=Norborne_High_School&amp;action=edit&amp;redlink=1" class="new" title="Norborne High School (page does not exist)">Norborne High School</a></dd>
+<dd><a href="/wiki/index.php?title=Rich_Hill_High_School&amp;action=edit&amp;redlink=1" class="new" title="Rich Hill High School (page does not exist)">Rich Hill High School</a></dd>
+<dd><a href="/wiki/index.php/Warrensburg_High_School" title="Warrensburg High School">Warrensburg High School</a></dd></dl>
+</td></tr>
+<tr>
+<td>Region 5: Central Missouri
+<p>Major cities: Columbia, Jefferson City, Rolla
+</p><p>Tournament Site:
+</p>
+<dl><dd>Missouri University of Science and Technology, Rolla</dd></dl>
+</td>
+<td>
+<dl><dd><a href="/wiki/index.php/Columbia_Independent_Middle_School" class="mw-redirect" title="Columbia Independent Middle School">Columbia Independent Middle School</a></dd>
+<dd><a href="/wiki/index.php?title=Cuba_Middle_School&amp;action=edit&amp;redlink=1" class="new" title="Cuba Middle School (page does not exist)">Cuba Middle School</a></dd>
+<dd><a href="/wiki/index.php/Gentry_Middle_School" title="Gentry Middle School">Gentry Middle School</a></dd>
+<dd><a href="/wiki/index.php/Jefferson_Middle_School_(Missouri)" title="Jefferson Middle School (Missouri)">Jefferson Middle School</a></dd>
+<dd><a href="/wiki/index.php?title=Owensville_Middle_School&amp;action=edit&amp;redlink=1" class="new" title="Owensville Middle School (page does not exist)">Owensville Middle School</a></dd>
+<dd><a href="/wiki/index.php?title=Rolla_Middle_School&amp;action=edit&amp;redlink=1" class="new" title="Rolla Middle School (page does not exist)">Rolla Middle School</a></dd>
+<dd><a href="/wiki/index.php/Smithton_Middle_School" title="Smithton Middle School">Smithton Middle School</a></dd>
+<dd><a href="/wiki/index.php?title=St._Patrick_Middle_School_(Missouri)&amp;action=edit&amp;redlink=1" class="new" title="St. Patrick Middle School (Missouri) (page does not exist)">St. Patrick Middle School</a></dd>
+<dd><a href="/wiki/index.php/Steelville_Middle_School" title="Steelville Middle School">Steelville Middle School</a></dd>
+<dd><a href="/wiki/index.php/Union_Middle_School" title="Union Middle School">Union Middle School</a></dd>
+<dd><a href="/wiki/index.php?title=Waynesville_Middle_School&amp;action=edit&amp;redlink=1" class="new" title="Waynesville Middle School (page does not exist)">Waynesville Middle School</a></dd>
+<dd><a href="/wiki/index.php/West_Middle_School_(Missouri)" title="West Middle School (Missouri)">West Middle School</a></dd></dl>
+</td>
+<td>
+<dl><dd><a href="/wiki/index.php?title=Battle_High_School&amp;action=edit&amp;redlink=1" class="new" title="Battle High School (page does not exist)">Battle High School</a></dd>
+<dd><a href="/wiki/index.php/Columbia_Independent_High_School" class="mw-redirect" title="Columbia Independent High School">Columbia Independent High School</a></dd>
+<dd><a href="/wiki/index.php/Cuba_High_School" title="Cuba High School">Cuba High School</a></dd>
+<dd><a href="/wiki/index.php/Hickman_High_School" title="Hickman High School">Hickman High School</a></dd>
+<dd><a href="/wiki/index.php/Rock_Bridge_High_School" title="Rock Bridge High School">Rock Bridge High School</a></dd>
+<dd><a href="/wiki/index.php/Rolla_High_School" title="Rolla High School">Rolla High School</a></dd>
+<dd><a href="/wiki/index.php?title=Steelville_High_School&amp;action=edit&amp;redlink=1" class="new" title="Steelville High School (page does not exist)">Steelville High School</a></dd>
+<dd><a href="/wiki/index.php?title=Union_High_School_(Missouri)&amp;action=edit&amp;redlink=1" class="new" title="Union High School (Missouri) (page does not exist)">Union High School</a></dd>
+<dd><a href="/wiki/index.php?title=Waynesville_High_School&amp;action=edit&amp;redlink=1" class="new" title="Waynesville High School (page does not exist)">Waynesville High School</a></dd></dl>
+</td></tr>
+<tr>
+<td>Region 6: St. Louis Metropolitan Area
+<p>Tournament Sites:
+</p>
+<dl><dd>Ladue Middle School, St. Louis (Division B)</dd>
+<dd>Lindenwood University, St. Charles (Division C)</dd></dl>
+</td>
+<td>
+<dl><dd><b><a href="/wiki/index.php/Ladue_Middle_School" title="Ladue Middle School">Ladue Middle School</a></b></dd>
+<dd><a href="/wiki/index.php?title=McKinley_Classical_Leadership_Academy&amp;action=edit&amp;redlink=1" class="new" title="McKinley Classical Leadership Academy (page does not exist)">McKinley Classical Leadership Academy</a></dd>
+<dd><a href="/wiki/index.php?title=Parkway_Central_Middle_School&amp;action=edit&amp;redlink=1" class="new" title="Parkway Central Middle School (page does not exist)">Parkway Central Middle School</a></dd>
+<dd><a href="/wiki/index.php/Parkway_Northeast_Middle_School" title="Parkway Northeast Middle School">Parkway Northeast Middle School</a></dd>
+<dd><a href="/wiki/index.php?title=Parkway_West_Middle_School&amp;action=edit&amp;redlink=1" class="new" title="Parkway West Middle School (page does not exist)">Parkway West Middle School</a></dd>
+<dd><a href="/wiki/index.php/Sperreng_Middle_School" title="Sperreng Middle School">Sperreng Middle School</a></dd>
+<dd><b><a href="/wiki/index.php/Wydown_Middle_School" title="Wydown Middle School">Wydown Middle School</a></b></dd></dl>
+</td>
+<td>
+<dl><dd><a href="/wiki/index.php/Clayton_High_School" title="Clayton High School">Clayton High School</a></dd>
+<dd><a href="/wiki/index.php?title=Duchesne_High_School&amp;action=edit&amp;redlink=1" class="new" title="Duchesne High School (page does not exist)">Duchesne High School</a></dd>
+<dd><a href="/wiki/index.php/John_Burroughs_High_School" class="mw-redirect" title="John Burroughs High School">John Burroughs High School</a></dd>
+<dd><b><a href="/wiki/index.php/Ladue_Horton_Watkins_High_School" title="Ladue Horton Watkins High School">Ladue Horton Watkins High School</a></b></dd>
+<dd><a href="/wiki/index.php/Lindbergh_High_School" title="Lindbergh High School">Lindbergh High School</a></dd>
+<dd><a href="/wiki/index.php?title=Marquette_High_School&amp;action=edit&amp;redlink=1" class="new" title="Marquette High School (page does not exist)">Marquette High School</a></dd>
+<dd><a href="/wiki/index.php?title=McKinley_Classical_Leadership_Academy&amp;action=edit&amp;redlink=1" class="new" title="McKinley Classical Leadership Academy (page does not exist)">McKinley Classical Leadership Academy</a></dd>
+<dd><a href="/wiki/index.php?title=Mary_Institute_and_Country_Day_School&amp;action=edit&amp;redlink=1" class="new" title="Mary Institute and Country Day School (page does not exist)">Mary Institute and Country Day School</a></dd>
+<dd><a href="/wiki/index.php?title=Villa_Duchesne_High_School&amp;action=edit&amp;redlink=1" class="new" title="Villa Duchesne High School (page does not exist)">Villa Duchesne High School</a></dd></dl>
+</td></tr>
+<tr>
+<td>Region 7: Southwest Missouri
+<p>Major cities: Joplin, Springfield, Branson
+</p><p>Tournament Site:
+</p>
+<dl><dd>Missouri State University, Springfield</dd></dl>
+</td>
+<td>
+<dl><dd><a href="/wiki/index.php/Carver_Middle_School" title="Carver Middle School">Carver Middle School</a></dd>
+<dd><a href="/wiki/index.php/Central_Middle_School_(Missouri)" title="Central Middle School (Missouri)">Central Middle School</a></dd>
+<dd><a href="/wiki/index.php/Cherokee_Middle_School" title="Cherokee Middle School">Cherokee Middle School</a></dd>
+<dd><a href="/wiki/index.php/Fordland_Middle_School" title="Fordland Middle School">Fordland Middle School</a></dd>
+<dd><a href="/wiki/index.php/Greenwood_Lab_Middle_School" title="Greenwood Lab Middle School">Greenwood Lab Middle School</a></dd>
+<dd><a href="/wiki/index.php/Hickory_Hills_Middle_School" title="Hickory Hills Middle School">Hickory Hills Middle School</a></dd>
+<dd><a href="/wiki/index.php/Immaculate_Conception_Middle_School" title="Immaculate Conception Middle School">Immaculate Conception Middle School</a></dd>
+<dd><a href="/wiki/index.php/Jarrett_Middle_School" title="Jarrett Middle School">Jarrett Middle School</a></dd>
+<dd><a href="/wiki/index.php/Mountain_Grove_Middle_School" title="Mountain Grove Middle School">Mountain Grove Middle School</a></dd>
+<dd><a href="/wiki/index.php/Ozark_Middle_School" title="Ozark Middle School">Ozark Middle School</a></dd>
+<dd><a href="/wiki/index.php/Pershing_Middle_School" title="Pershing Middle School">Pershing Middle School</a></dd>
+<dd><a href="/wiki/index.php/Pipkin_Middle_School" title="Pipkin Middle School">Pipkin Middle School</a></dd>
+<dd><a href="/wiki/index.php/St._Agnes_Middle_School" title="St. Agnes Middle School">St. Agnes Middle School</a></dd>
+<dd><a href="/wiki/index.php/St._Elizabeth_Ann_Seton_School" title="St. Elizabeth Ann Seton School">St. Elizabeth Ann Seton School</a></dd>
+<dd><a href="/wiki/index.php/Taneyville_Middle_School" title="Taneyville Middle School">Taneyville Middle School</a></dd></dl>
+</td>
+<td>
+<dl><dd><a href="/wiki/index.php/Carthage_High_School" title="Carthage High School">Carthage High School</a></dd>
+<dd><a href="/wiki/index.php/Central_High_School_(Missouri)" class="mw-redirect" title="Central High School (Missouri)">Central High School</a></dd>
+<dd><a href="/wiki/index.php/Glendale_High_School" title="Glendale High School">Glendale High School</a></dd>
+<dd><a href="/wiki/index.php/Greenwood_Lab_High_School" title="Greenwood Lab High School">Greenwood Lab High School</a></dd>
+<dd><a href="/wiki/index.php/Joplin_High_School" title="Joplin High School">Joplin High School</a></dd>
+<dd><a href="/wiki/index.php/Kickapoo_High_School" title="Kickapoo High School">Kickapoo High School</a></dd>
+<dd><a href="/wiki/index.php/Monett_High_School" title="Monett High School">Monett High School</a></dd>
+<dd><a href="/wiki/index.php/Ozark_High_School" title="Ozark High School">Ozark High School</a></dd>
+<dd><a href="/wiki/index.php/Parkview_High_School_(Missouri)" title="Parkview High School (Missouri)">Parkview High School</a></dd>
+<dd><a href="/wiki/index.php/Springfield_Catholic_High_School" title="Springfield Catholic High School">Springfield Catholic High School</a></dd>
+<dd><a href="/wiki/index.php/Webb_City_High_School" title="Webb City High School">Webb City High School</a></dd>
+<dd><a href="/wiki/index.php/Lutie_High_School" title="Lutie High School">Lutie High School</a></dd></dl>
+</td></tr>
+<tr>
+<td>Region 8: Southeast Missouri
+<p>Major cities: Sikeston, Cape Girardeau, Poplar Bluff
+</p><p>Tournament Site:
+</p>
+<dl><dd>Southeast Missouri State University, Cape Girardeau</dd></dl>
+</td>
+<td>
+<dl><dd><a href="/wiki/index.php/East_Prairie_Junior_High_School" title="East Prairie Junior High School">East Prairie Junior High School</a></dd>
+<dd><a href="/wiki/index.php/Sikeston_Junior_High_School" title="Sikeston Junior High School">Sikeston Junior High School</a></dd></dl>
+</td>
+<td>
+<dl><dd><a href="/wiki/index.php/East_Prairie_High_School" title="East Prairie High School">East Prairie High School</a></dd>
+<dd><a href="/wiki/index.php?title=Fredericktown_High_School&amp;action=edit&amp;redlink=1" class="new" title="Fredericktown High School (page does not exist)">Fredericktown High School</a></dd>
+<dd><a href="/wiki/index.php/New_Madrid_High_School" class="mw-redirect" title="New Madrid High School">New Madrid High School</a></dd>
+<dd><a href="/wiki/index.php?title=Scott_City_High_School&amp;action=edit&amp;redlink=1" class="new" title="Scott City High School (page does not exist)">Scott City High School</a></dd>
+<dd><a href="/wiki/index.php?title=Sikeston_High_School&amp;action=edit&amp;redlink=1" class="new" title="Sikeston High School (page does not exist)">Sikeston High School</a></dd></dl>
+</td></tr>
+</tbody></table>
+<h2><span class="mw-headline" id="External_Links">External Links</span></h2>
+<div role="navigation" class="navbox" aria-labelledby="Tournaments_of_Missouri" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="3"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/index.php/Template:Tournaments_of_Missouri" title="Template:Tournaments of Missouri"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/index.php?title=Template_talk:Tournaments_of_Missouri&amp;action=edit&amp;redlink=1" class="new" title="Template talk:Tournaments of Missouri (page does not exist)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a rel="nofollow" class="external text" href="http://198.211.96.235/wiki/index.php?title=Template:Tournaments_of_Missouri&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Tournaments_of_Missouri" style="font-size:114%;margin:0 4em">Tournaments of <a class="mw-selflink selflink">Missouri</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Invitationals</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Current</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Division B</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Smithton_Invitational" title="Smithton Invitational">Smithton Invitational</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Division C</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Northland_Invitational" title="Northland Invitational">Northland Invitational</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Both Divisions</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Pembroke_Hill_Invitational" title="Pembroke Hill Invitational">Pembroke Hill Invitational</a></li>
+<li><a href="/wiki/index.php/Warrensburg_Invitational" title="Warrensburg Invitational">Warrensburg Invitational</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Defunct</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Division B</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Husker_Invitational" title="Husker Invitational">Husker Invitational</a></li>
+<li><a href="/wiki/index.php/Kearney_Invitational" title="Kearney Invitational">Kearney Invitational</a></li>
+<li><a href="/wiki/index.php/West_Invitational" title="West Invitational">West Middle School Invitational</a></li>
+<li><a href="/wiki/index.php/Wydown_Invitational" title="Wydown Invitational">Wydown Invitational</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Division C</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Excelsior_Springs_Invitational" title="Excelsior Springs Invitational">Excelsior Springs Invitational</a></li>
+<li><a href="/wiki/index.php/Missouri_Valley_Invitational" title="Missouri Valley Invitational">Missouri Valley Invitational</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td><td class="navbox-image" rowspan="4" style="width:1px;padding:0px 0px 0px 2px"><div><a href="/wiki/index.php/Missouri" title="Missouri"><img alt="FlagOfMissouri.png" src="/wiki/images/c/c1/FlagOfMissouri.png" width="150" height="88" /></a></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/index.php/Regions_of_Missouri" title="Regions of Missouri">Regionals</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Current</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Northwest_Missouri_Regional" title="Northwest Missouri Regional">Northwest</a></li>
+<li><a href="/wiki/index.php/Northeast_Missouri_Regional" title="Northeast Missouri Regional">Northeast</a></li>
+<li><a href="/wiki/index.php/Kansas_City_Area_Regional" title="Kansas City Area Regional">Kansas City Area</a></li>
+<li><a href="/wiki/index.php/West_Central_Missouri_Regional" title="West Central Missouri Regional">West Central</a></li>
+<li><a href="/wiki/index.php/Central_Missouri_Regional" title="Central Missouri Regional">Central</a></li>
+<li><a href="/wiki/index.php/St._Louis_Area_Regional" title="St. Louis Area Regional">St. Louis Area</a></li>
+<li><a href="/wiki/index.php/Southwest_Missouri_Regional" title="Southwest Missouri Regional">Southwest</a></li>
+<li><a href="/wiki/index.php/Southeast_Missouri_Regional" title="Southeast Missouri Regional">Southeast</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Defunct</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/South_Central_Missouri_Regional" title="South Central Missouri Regional">South Central</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">States</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/2015_Missouri_State_Tournament" title="2015 Missouri State Tournament">2015</a></li>
+<li><a href="/wiki/index.php/2016_Missouri_State_Tournament" title="2016 Missouri State Tournament">2016</a></li>
+<li><a href="/wiki/index.php/2017_Missouri_State_Tournament" title="2017 Missouri State Tournament">2017</a></li>
+<li><a href="/wiki/index.php/2018_Missouri_State_Tournament" title="2018 Missouri State Tournament">2018</a></li>
+<li><a href="/wiki/index.php/2019_Missouri_State_Tournament" title="2019 Missouri State Tournament">2019</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Nationals</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Penn_Valley_Community_College_1991" title="Penn Valley Community College 1991">Penn Valley Community College 1991</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="3"><div>State Website: <a rel="nofollow" class="external free" href="https://scilympiad.com/mo">https://scilympiad.com/mo</a></div></td></tr></tbody></table></div>
+
+<!-- 
+NewPP limit report
+Cached time: 20200806200239
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.740 seconds
+Real time usage: 0.952 seconds
+Preprocessor visited node count: 2610/1000000
+Preprocessor generated node count: 10250/1000000
+Post‐expand include size: 59223/2097152 bytes
+Template argument size: 13903/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.060/7.000 seconds
+Lua virtual size: 8.99 MB/50 MB
+Lua estimated memory usage: 0 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  431.689      1 -total
+ 78.22%  337.677      5 Template:Navbox
+ 56.39%  243.436      1 Template:Tournaments_of_Missouri
+ 41.65%  179.790      1 Template:State_tournament_results_box
+ 23.50%  101.442     34 Template:Strb_row
+  1.72%    7.413      1 Template:SOInfoBox
+-->
+</div>
+<!-- Saved in parser cache with key wiki-wikiv2_:pcache:idhash:264-0!canonical and timestamp 20200806200238 and revision id 105518
+ -->
+</div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://scioly.org/wiki/index.php?title=Missouri&amp;oldid=105518">https://scioly.org/wiki/index.php?title=Missouri&amp;oldid=105518</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/index.php/Special:Categories" title="Special:Categories">Category</a>: <ul><li><a href="/wiki/index.php/Category:State_Pages" title="Category:State Pages">State Pages</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-login"><a href="//scioly.org/forums/ucp.php?mode=login&amp;redirect=https%3A%2F%2Fscioly.org%2Fwiki%2Findex.php%2FMissouri" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/index.php/Missouri" title="View the content page [c]" accesskey="c">Page</a></span></li><li id="ca-talk" class="new"><span><a href="/wiki/index.php?title=Talk:Missouri&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/index.php/Missouri">Read</a></span></li><li id="ca-viewsource" class="collapsible"><span><a href="/wiki/index.php?title=Missouri&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li><li id="ca-history" class="collapsible"><span><a href="/wiki/index.php?title=Missouri&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/wiki/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Scioly.org" title="Search Scioly.org [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/index.php/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage"><a href="/wiki/index.php/Main_Page" title="Visit the main page [z]" accesskey="z">Main Page</a></li><li id="n-recentchanges"><a href="/wiki/index.php/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/wiki/index.php/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-MediaWiki-Help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">MediaWiki Help</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/index.php/Special:WhatLinksHere/Missouri" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/index.php/Special:RecentChangesLinked/Missouri" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/wiki/index.php/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="/wiki/index.php?title=Missouri&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/wiki/index.php?title=Missouri&amp;oldid=105518" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/wiki/index.php?title=Missouri&amp;action=info" title="More information about this page">Page information</a></li>				</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 30 July 2020, at 20:52.</li>
+								<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution</a> unless otherwise noted.</li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="http://creativecommons.org/licenses/by/3.0/"><img src="/wiki/resources/assets/licenses/cc-by.png" alt="Creative Commons Attribution" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<style>.MathJax_Display{display:inline !important;}
+.mathjax-wrapper{font-size:120%;}</style>
+<script type='text/x-mathjax-config'>MathJax.Hub.Config({displayAlign:'left',tex2jax:{displayMath:[['[math]','[/math]']]}})</script>
+<script src='//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.740","walltime":"0.952","ppvisitednodes":{"value":2610,"limit":1000000},"ppgeneratednodes":{"value":10250,"limit":1000000},"postexpandincludesize":{"value":59223,"limit":2097152},"templateargumentsize":{"value":13903,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%  431.689      1 -total"," 78.22%  337.677      5 Template:Navbox"," 56.39%  243.436      1 Template:Tournaments_of_Missouri"," 41.65%  179.790      1 Template:State_tournament_results_box"," 23.50%  101.442     34 Template:Strb_row","  1.72%    7.413      1 Template:SOInfoBox"]},"scribunto":{"limitreport-timeusage":{"value":"0.060","limit":"7.000"},"limitreport-virtmemusage":{"value":9424896,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20200806200239","ttl":86400,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":136});});</script>
+	</body>
+</html>

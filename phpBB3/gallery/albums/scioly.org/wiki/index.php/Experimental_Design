@@ -1,0 +1,1261 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Experimental Design - Scioly.org</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Experimental_Design","wgTitle":"Experimental Design","wgCurRevisionId":106476,"wgRevisionId":106476,"wgArticleId":28,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Inquiry and Nature of Science Events","Event Pages","Lab Event Pages"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Experimental_Design","wgRelevantArticleId":28,"wgRequestId":"c5d5c2f1f0930400a28089e5","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":[]});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","site":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@1ltrs49",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/wiki/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/wiki/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/wiki/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.8"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/wiki/opensearch_desc.php" title="Scioly.org (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://scioly.org/wiki/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Scioly.org Atom feed" href="/wiki/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/wiki/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Experimental_Design rootpage-Experimental_Design skin-vector action-view"><meta property="og:title" content="Science Olympiad Student Center"/>
+<meta property="og:type" content="website"/>
+<meta property="og:url" content="https://scioly.org/"/>
+
+<meta property="og:image" content="http://scioly.org/src/img/logo/logo_square.png"/>
+<meta property="og:image:secure_url" content="https://scioly.org/src/img/logo/logo_square.png"/> 
+<meta property="og:image:type" content="image/png"/> 
+<meta property="og:image:width" content="500"/> 
+<meta property="og:image:height" content="500"/>
+
+<meta property="og:description" content="A resource by and for Science Olympiad students, coaches, and alumni nationwide."/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script type="text/javascript" src="/src/js/jquery.min.js"></script>
+<script type="text/javascript" src="/src/js/main.js"></script>
+
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+<link rel="stylesheet" type="text/css" href="/src/css/main.css">
+
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<link rel="icon" href="/favicon.ico" type="image/x-icon"><div class="site-nav">
+	<a href="/">
+		<img src="/src/img/logo/logo.png">
+	</a>
+	<div class="hamburger" onclick="hamburger(this)">
+		<div>
+			<div></div>
+			<div></div>
+			<div></div>
+		</div>
+	</div>
+	<ul>
+		<li><a href="/forums">Forums</a></li>
+		<li><a href="/wiki">Wiki</a></li>
+		<li><a href="/tests">Test Exchange</a></li>
+		<!-- <li><a href="/gallery">Image Gallery</a></li> -->
+		<!-- <li><a href="/invitational">Invites</a></li> -->
+		<li><a href="/chat">Chat</a></li>
+		<li><a href="/login" class="button">Login</a></li>
+	</ul>
+</div>
+<img class="print-only" src="/src/img/logo/logo_black.png" style="max-width: 150px;"><link rel="stylesheet" type="text/css" href="/src/css/wiki.css">
+<div id="wrap-me-up">
+
+
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Experimental Design</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Scioly.org</div>				<div id="contentSub"></div>
+								<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table align="right" class="infobox">
+
+<tbody><tr>
+<th colspan="2" style="font-size: larger; text-align: center;"><b>Experimental Design</b>
+</th></tr>
+<tr>
+<td colspan="2"><center><i>This event is an event held in the current season.</i></center>
+</td></tr>
+<tr>
+<td colspan="2"><hr />
+</td></tr>
+<tr>
+<td><b>Type</b>
+</td>
+<td>Inquiry
+</td></tr>
+<tr>
+<td><b>Category</b>
+</td>
+<td>Lab
+</td></tr>
+<tr>
+<td colspan="2" class="infobox-header"><b>Event Information</b>
+</td></tr>
+
+
+
+
+
+
+
+<tr>
+<td><b>Latest Appearance</b>
+</td>
+<td>2020
+</td></tr>
+<tr>
+<td colspan="2" class="infobox-header"><b>Forum Threads</b>
+</td></tr>
+
+<tr>
+<td colspan="2" style="padding: 0;">
+<table class="infobox-events-link-table">
+
+<tbody><tr>
+<td><a rel="nofollow" class="external text" href="https://scioly.org/forums/viewtopic.php?f=284&amp;t=15383">2020</a>
+</td>
+<td><a rel="nofollow" class="external text" href="https://scioly.org/forums/viewtopic.php?f=284&amp;t=12235">2019</a>
+</td>
+<td><a rel="nofollow" class="external text" href="https://scioly.org/forums/viewtopic.php?f=264&amp;t=10863">2018</a>
+</td>
+<td><a rel="nofollow" class="external text" href="http://scioly.org/phpBB3/viewtopic.php?f=226&amp;t=9278">2017</a>
+</td>
+<td><a rel="nofollow" class="external text" href="http://scioly.org/phpBB3/viewtopic.php?f=207&amp;t=7693">2016</a>
+</td></tr>
+</tbody></table>
+</td></tr>
+<tr>
+<td colspan="2" style="padding: 0;">
+<table class="infobox-events-link-table">
+
+<tbody><tr>
+<td><a rel="nofollow" class="external text" href="http://scioly.org/phpBB3/viewtopic.php?f=186&amp;t=5918">2015</a>
+</td>
+<td><a rel="nofollow" class="external text" href="http://www.scioly.org/phpBB3/viewtopic.php?f=166&amp;t=4948">2014</a>
+</td>
+<td><a rel="nofollow" class="external text" href="http://www.scioly.org/phpBB3/viewtopic.php?f=142&amp;t=3705">2013</a>
+</td>
+<td><a rel="nofollow" class="external text" href="http://www.scioly.org/phpBB3/viewtopic.php?f=127&amp;t=2952">2012</a>
+</td>
+<td><a rel="nofollow" class="external text" href="http://scioly.org/phpBB3/viewtopic.php?f=92&amp;t=2219">2011</a>
+</td></tr>
+</tbody></table>
+</td></tr>
+<tr>
+<td colspan="2" style="padding: 0;">
+<table class="infobox-events-link-table">
+
+<tbody><tr>
+<td><a rel="nofollow" class="external text" href="http://www.scioly.org/phpBB3/viewtopic.php?f=65&amp;t=1285">2010</a>
+</td>
+<td><a rel="nofollow" class="external text" href="http://scioly.org/phpBB3/viewtopic.php?f=18&amp;t=143">2009</a>
+</td>
+<td><span> </span>
+</td>
+<td><span> </span>
+</td>
+<td><span> </span>
+</td></tr>
+</tbody></table>
+</td></tr>
+<tr>
+<td colspan="2" class="infobox-header"><b>Forum Question Threads</b>
+</td></tr>
+
+<tr>
+<td colspan="2" style="padding: 0;">
+<table class="infobox-events-link-table">
+
+<tbody><tr>
+<td><a rel="nofollow" class="external text" href="https://scioly.org/forums/viewtopic.php?f=297&amp;t=15665">2020</a>
+</td>
+<td><a rel="nofollow" class="external text" href="https://scioly.org/forums/viewtopic.php?f=297&amp;t=12403">2019</a>
+</td>
+<td><span> </span>
+</td>
+<td><span> </span>
+</td>
+<td><span> </span>
+</td></tr>
+</tbody></table>
+</td></tr>
+
+
+
+
+<tr>
+<td colspan="2" class="infobox-header"><b>Official Resources</b>
+</td></tr>
+<tr>
+<td><b>Division B Website</b>
+</td>
+<td><a rel="nofollow" class="external text" href="https://www.soinc.org/experimental-design-b">soinc.org</a>
+</td></tr>
+<tr>
+<td><b>Division C Website</b>
+</td>
+<td><a rel="nofollow" class="external text" href="https://www.soinc.org/experimental-design-c">soinc.org</a>
+</td></tr>
+<tr>
+<td colspan="2" class="infobox-header"><b>Division B Results</b>
+</td></tr>
+<tr>
+<td colspan="2" style="padding: 0;">
+<table class="infobox-scoreboard" style="margin: 0; padding: 0; width:100%;">
+
+
+<tbody><tr style="background-color: gold;">
+<td style="width: 10%; text-align: center;"><b>1st</b>
+</td>
+<td style="width: 90%; padding-left: 5px;"><b>Solon Middle School</b>
+</td></tr>
+<tr style="background-color: silver;">
+<td style="width: 10%; text-align: center;">2nd
+</td>
+<td style="width: 90%; padding-left: 5px;">Kennedy Middle School
+</td></tr>
+<tr style="background-color: #d1965c;">
+<td style="width: 10%; text-align: center;">3rd
+</td>
+<td style="width: 90%; padding-left: 5px;">Beckendorff Junior High School
+</td></tr>
+</tbody></table>
+</td></tr>
+<tr>
+<td colspan="2" class="infobox-header"><b>Division C Results</b>
+</td></tr>
+<tr>
+<td colspan="2" style="padding: 0;">
+<table class="infobox-scoreboard" style="margin: 0; padding: 0; width:100%;">
+
+
+<tbody><tr style="background-color: gold;">
+<td style="width: 10%; text-align: center;"><b>1st</b>
+</td>
+<td style="width: 90%; padding-left: 5px;"><b>Carmel High School</b>
+</td></tr>
+<tr style="background-color: silver;">
+<td style="width: 10%; text-align: center;">2nd
+</td>
+<td style="width: 90%; padding-left: 5px;">Brookwood High School
+</td></tr>
+<tr style="background-color: #d1965c;">
+<td style="width: 10%; text-align: center;">3rd
+</td>
+<td style="width: 90%; padding-left: 5px;">Troy High School
+</td></tr>
+</tbody></table>
+</td></tr>
+</tbody></table>
+<p><b>Experimental Design</b> is a <a href="/wiki/index.php/Division_B" title="Division B">Division B</a> and <a href="/wiki/index.php/Division_C" title="Division C">Division C</a> event, held every year since 1995. In this event, competitors will design, execute, and write a description of an experiment based on the topic and materials provided. 
+</p>
+<div id="toc" class="toc"><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#The_Lab_Write-up"><span class="tocnumber">1</span> <span class="toctext">The Lab Write-up</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Statement_of_Problem"><span class="tocnumber">1.1</span> <span class="toctext">Statement of Problem</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Hypothesis"><span class="tocnumber">1.2</span> <span class="toctext">Hypothesis</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Variables"><span class="tocnumber">1.3</span> <span class="toctext">Variables</span></a>
+<ul>
+<li class="toclevel-3 tocsection-5"><a href="#Independent_Variable_.28IV.29"><span class="tocnumber">1.3.1</span> <span class="toctext">Independent Variable (IV)</span></a></li>
+<li class="toclevel-3 tocsection-6"><a href="#Dependent_Variable_.28DV.29"><span class="tocnumber">1.3.2</span> <span class="toctext">Dependent Variable (DV)</span></a></li>
+<li class="toclevel-3 tocsection-7"><a href="#Controlled_Variables_.28CV.29_and_Constants"><span class="tocnumber">1.3.3</span> <span class="toctext">Controlled Variables (CV) and Constants</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-8"><a href="#Standard_of_Comparison_or_.22Control.22"><span class="tocnumber">1.4</span> <span class="toctext">Standard of Comparison or "Control"</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Materials"><span class="tocnumber">1.5</span> <span class="toctext">Materials</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Procedure"><span class="tocnumber">1.6</span> <span class="toctext">Procedure</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Qualitative_Observations"><span class="tocnumber">1.7</span> <span class="toctext">Qualitative Observations</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Quantitative_Data"><span class="tocnumber">1.8</span> <span class="toctext">Quantitative Data</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Halfway_Point"><span class="tocnumber">1.9</span> <span class="toctext">Halfway Point</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Graph"><span class="tocnumber">1.10</span> <span class="toctext">Graph</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Statistics"><span class="tocnumber">1.11</span> <span class="toctext">Statistics</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#Analysis"><span class="tocnumber">1.12</span> <span class="toctext">Analysis</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#Possible_Sources_of_Experimental_Error"><span class="tocnumber">1.13</span> <span class="toctext">Possible Sources of Experimental Error</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#Conclusion"><span class="tocnumber">1.14</span> <span class="toctext">Conclusion</span></a></li>
+<li class="toclevel-2 tocsection-19"><a href="#Applications_and_Recommendations_for_Further_Experimentation"><span class="tocnumber">1.15</span> <span class="toctext">Applications and Recommendations for Further Experimentation</span></a></li>
+<li class="toclevel-2 tocsection-20"><a href="#Abstract"><span class="tocnumber">1.16</span> <span class="toctext">Abstract</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-21"><a href="#The_Full_Write-up"><span class="tocnumber">2</span> <span class="toctext">The Full Write-up</span></a></li>
+<li class="toclevel-1 tocsection-22"><a href="#Common_Strategies"><span class="tocnumber">3</span> <span class="toctext">Common Strategies</span></a>
+<ul>
+<li class="toclevel-2 tocsection-23"><a href="#Possible_Division_of_Responsibility"><span class="tocnumber">3.1</span> <span class="toctext">Possible Division of Responsibility</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-24"><a href="#General_Tips"><span class="tocnumber">4</span> <span class="toctext">General Tips</span></a></li>
+<li class="toclevel-1 tocsection-25"><a href="#Links"><span class="tocnumber">5</span> <span class="toctext">Links</span></a></li>
+<li class="toclevel-1 tocsection-26"><a href="#See_Also"><span class="tocnumber">6</span> <span class="toctext">See Also</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="The_Lab_Write-up">The Lab Write-up</span></h2>
+<h3><span class="mw-headline" id="Statement_of_Problem">Statement of Problem</span></h3>
+<p>The <b>statement of problem</b> is a question posed that will be explored in an experiment. One of the formats that can be used for almost any experiment is "How does (Independent Variable) affect (Dependent Variable)?"
+</p>
+<pre> Ex. How does the height a ball is dropped from (1, 2, 3 meters) affect its rebound height (cm)?
+</pre>
+<p><b>Tips:</b> The statement of problem should not be a simple yes or no question. The keywords are "how" and "why".
+</p><p>This section was removed from competition for the 2019 season, but was added back for the 2020 season.
+</p>
+<h3><span class="mw-headline" id="Hypothesis">Hypothesis</span></h3>
+<p>The most common way a <b>hypothesis</b> is used in scientific research is as a tentative, testable, and falsifiable statement that explains some observed phenomenon in nature. This kind of statement is more specifically called an explanatory hypothesis. However, a hypothesis can also be a statement that describes an observed pattern in nature. In this case, the statement is called a generalizing hypothesis. The hypothesis statement is followed by a specific, measurable prediction that can can be made if the hypothesis is valid. Thus in science, the hypothesis is thought of as an explanation or generalization on trial.
+</p><p>A <b>prediction</b> in science is a prophecy, a specific and measurable event that is likely to happen in the future as the result of an experiment if the hypothesis is valid.
+</p><p><i>Teaching the Hypothesis Incorrectly</i>
+Many teachers and even many textbooks teach the hypothesis in a way that makes it no different from a prediction. They teach students to write “<i>If – then</i>” statements for their hypotheses. This approach results in the incorrect form: <i>If I do X, then Y will happen</i>. There is no hypothesis here. This is simply a method (<i>if I do X</i>) followed by a prediction (<i>then Y will happen</i>). Some teachers and textbooks add “…<i>because</i>…” at the end of the “<i>If…, then…</i>” statement. The because statement is often close to the hypothesis that is being tested, but it still does not carefully delineate the hypothesis from the prediction. Indeed, even professional scientists can make mistakes.
+</p><p>The "because" part of the hypothesis is often referred to as <b>the Rationale.</b>
+</p><p>In short, to receive full points for this section, the hypothesis should be written like this:  If I change _____(the IV), then the DV will _____(what changes and in which direction) because ________(the rationale).
+</p>
+<pre> Ex. If I drop a ball from different heights (1, 2, 3 meters), then the rebound heights (in centimeters) for the higher drop heights will be greater than the lower drop heights because of Isaac Newton's 3rd law (For every action, there is an equal and opposite reaction).  This law applies to this experiment because when the drop height is greater, there is more force in the action of the ball falling to the floor, and thus the rebound height (the equal and opposite reaction) will be greater.
+</pre>
+<p><b>Tips:</b> Make sure you have all of the parts of this section complete and explained thoroughly.  Sometimes, a rationale may sound complete in a competitor's head, but in reality, it is not fully explained on paper, and the competitor would lose points on the basis of silly mistakes. Additionally, avoid using words such as "I," "Me," and "My," (this applies to the entire write-up); try to keep it as objective as possible.
+</p>
+<h3><span class="mw-headline" id="Variables">Variables</span></h3>
+<p>There are three different kinds of variables to be defined in the lab write-up: the independent variable, the dependent variable, and controlled variables. (Constants were added to the Controlled Variables section for the 2020 season).
+</p><p><b>Tips:</b> Make sure to operationally define (units) all of your variables.  Also make them clear and concise to make sure you get all of the points in a point-heavy part like this.
+</p>
+<h4><span id="Independent_Variable_(IV)"></span><span class="mw-headline" id="Independent_Variable_.28IV.29">Independent Variable (IV)</span></h4>
+<p>The independent variable is the variable that is changed to examine its effect on the dependent variable. There should only be one IV, which should be listed <b>with units</b>. The IV must be operationally defined (in terms of the experiment) and empirically defined (in general for future variations of the experiment). Additionally, a minimum of three different levels of the independent variable must be listed excluding the control level.
+</p>
+<pre> Ex. the drop height (1, 2, 3 meters)
+</pre>
+<h4><span id="Dependent_Variable_(DV)"></span><span class="mw-headline" id="Dependent_Variable_.28DV.29">Dependent Variable (DV)</span></h4>
+<p>The dependent variable is what is affected by the independent variable. There should only be one IV, which should be listed <b>with units</b>. The dependent variable must be operationally and empirically defined. Do not include levels of the DV as that is what will be determined through the experiment. 
+</p>
+<pre> Ex. rebound height (in centimeters)
+</pre>
+<h4><span id="Controlled_Variables_(CV)_and_Constants"></span><span class="mw-headline" id="Controlled_Variables_.28CV.29_and_Constants">Controlled Variables (CV) and Constants</span></h4>
+<p>Controlled variables are factors which could affect the dependent variable but are kept constant throughout the experiment. Multiple controlled variables should be listed, but only three need to be listed to receive full credit for this section. (This requirement was later changed to two CVs for the 2020 season).
+</p>
+<pre> Ex. size of ball, material of ball, shape of ball, material of dropping surface, method of releasing ball (dropping, throwing, etc.)
+</pre>
+<p><br />
+Constants, unlike controlled variables, cannot be changed by the person or group conducting the experiment; CVs can be changed, but are kept the same for the duration of the experiment. For example, if a plant's exposure to sunlight is kept the same for the duration of the experiment, that would be a controlled variable. However, the speed of the sunlight cannot be controlled, and is therefore a constant.
+</p>
+<h3><span id="Standard_of_Comparison_or_&quot;Control&quot;"></span><span class="mw-headline" id="Standard_of_Comparison_or_.22Control.22">Standard of Comparison or "Control"</span></h3>
+<p>The standard of comparison (SOC) is the "normal trial", or the one that hasn't been changed at all (there is only one). It serves as a neutral comparison for the other trials. A rationale for the SOC should be included.
+</p>
+<pre> Ex. The SOC for this experiment would be the 1 meter IV level.  This SOC was chosen because it is the level closest to zero.  Since the hypothesis predicted an increase in rebound heights with increasing drop heights, this IV level would either support or refute the hypothesis and would be useful for analyzing the experiment afterwards.
+</pre>
+<p><b>Tips:</b> Changing the IV to zero or using the highest or lowest possible numeric value of the IV make good SOC's
+</p>
+<h3><span class="mw-headline" id="Materials">Materials</span></h3>
+<p>The materials list is what it sounds like. It's a list of the materials used in the experiment. All materials used in the experiment should be listed (provided materials that are not used should not be included). The materials list should be as specific as possible; the quantity of the materials to be used, as well as brand names should be listed. A person should be able to look at the list and gather the exact materials used in the original experiment (including the exact quantities).  The material of the independent variable should be listed once with the levels after it in parenthesis. 
+</p><p>Some competitions want measuring devices to be listed, while others may take off points for it. The event supervisor should distinguish what they want.
+</p>
+<pre> Ex. 3 Penn racquetballs, 3 meter sticks 
+</pre>
+<p><b>Tips:</b> Make sure all materials are listed.  Sometimes accidents happen and competitors lose points on what may be the simplest section ever.  If time is leftover after finishing an experiment, all competitors should check that all materials are listed.
+</p><p>NEW FOR 2019: You must not use any materials beyond those which are given in the prompt.  You will lose points for this by the new rubric. (Excluding allowed materials that you bring, such as calculators and rulers.)
+</p>
+<h3><span class="mw-headline" id="Procedure">Procedure</span></h3>
+<p>The procedure is a list of the steps in the experiment and includes <i>labeled</i> diagrams (at least three) of how the experiment was performed. By the 2020 rubric, points will be deducted if multiple diagrams are not provided. The procedure is included in write-ups so that other scientists reproducing the experiment know exactly how it was done the first time. The steps should be listed clearly as well as very specifically, and include three trials for each level of the IV. 
+</p>
+<pre> Ex. 1. Gather all necessary materials for experiment.                                                                                                 
+     2. Drop one ball at a height of 1 meter with the lowest point of the ball above 1 meter.
+     3. Record the initial rebound height and any observations.
+     4. Repeat steps 2-3 twice more.
+     5. Drop the second ball at a height of 2 meters with the lowest point of the ball above 2 meters.
+     6. Record the initial rebound height and any new observations.
+     7. Repeat steps 5-6 twice more.
+     8. Drop the last ball at a height of 3 meters with the lowest point above 3 meters.               
+     9. Record the initial rebound height and any new observations.                            
+    10. Clean up your work space.                                                                               
+     <a href="/wiki/index.php/File:ExpdProcedure.PNG" class="image"><img alt="ExpdProcedure.PNG" src="/wiki/images/1/14/ExpdProcedure.PNG" width="366" height="390" /></a>                                           
+</pre>
+<p><b>Tips:</b> Steps such as, "Repeat steps X to Y", can be used to save time.  The first step should be to gather all the materials for the experiment.  Also, the very last step of the procedure should be "Clean up your workspace."  Also, remember to clearly explain things so that anyone could read and replicate the experiment.  Sometimes this is hard, like if the objective to explain how to fold a paper airplane, but still, this is an important section that is worth many points and is a possible tiebreaker section.
+</p>
+<h3><span class="mw-headline" id="Qualitative_Observations">Qualitative Observations</span></h3>
+<p>There are three types of observations that must be made to receive full credit: observations about the procedure, results, and anything not related to the DV. (The "unrelated to DV requirement was removed for the 2020 rubric.) Additionally, observations must be made over the course of the experiment about the three.
+</p><p>Typically, observations about the procedure are about noticing flaws in the experiment that went unnoticed before it was performed. These can include flaws in measurement technique, flaws in building/maintaining an experimental unit, and flaws in performing the actual experiment. Observations about the procedure carry over to experimental errors and practical applications, so be sure that you thoroughly explain what went wrong. 
+</p>
+<pre> Ex. About the Procedure:  Every time a competitor was preparing to drop a ball, his/her hands wobbled the slightest bit, maybe influencing the DV the slightest bit.  Also, competitors noticed that it was hard to measure exactly where the ball rebounded to, especially in the 3 meter trials (lots of force =&gt; harder to see) since the ball was constantly in motion.  About the results:  During the experiment, when competitors measured the rebound height, they often had to estimate because it was sometimes hard to tell the exact height of the rebound.  Also, the results showed that on average, the ball rebounded to about 5/8 of its original drop height.  Other:  When the ball rebounded after the initial rebound, the ball's path of bouncing wasn't exactly vertical, making the retrieving of the ball harder to do.  Also, when each of the balls hit the floor at different heights, they made different sounds.  The 3 meter ball was louder that the 2 and 1 meter balls.
+</pre>
+<p><b>Tips:</b> DO NOT confuse these with errors.  It is easy to combine qualitative observations and errors, and that will take points off of the experiment.
+</p>
+<h3><span class="mw-headline" id="Quantitative_Data">Quantitative Data</span></h3>
+<p>One way to organize the data is to make two tables. For the first, make a table of four rows and four columns. The first column should consist of, from top to bottom, a blank box, IV 1, IV 2, and IV 3. The second column should be labeled "Trial 1", and following boxes filled accordingly to the data. The next two columns follow the same layout as the Trial 1 box, but with Trials 2 and 3. Title the graph as seen fit for the data. Next to that table, draw a one column, four row condensed table (to the right). Name it "Average" (or AVG for short), and average the data for each IV. Put arrows from the second row of the first table to the second row of the condensed table, and so forth. Give a sample calculation for the average ((Trial 1+Trial 2+Trial 3)/3), located below the table or on one of the arrows. Remember to title both of your tables.
+</p><p>Also be sure use significant figures if you are in C Division, (for Data, Graphs, and Statistics) and be sure to keep them consistent and logical. You do not want to have a number down to three decimals when your ruler can only accurately measure to one decimal. See <a href="/wiki/index.php/Significant_Figures" title="Significant Figures">Significant Figures</a> for additional info about significant figures.
+</p>
+<table class="wikitable" style="width:100%;">
+
+<tbody><tr>
+<td>
+<table>
+
+<tbody><tr>
+<td><b>Ex.</b>
+</td>
+<td>
+<table class="wikitable">
+<caption>DV - Rebound Height
+</caption>
+<tbody><tr>
+<th>
+</th>
+<th>Trial 1
+</th>
+<th>Trial 2
+</th>
+<th>Trial 3
+</th></tr>
+<tr>
+<td>1 m
+</td>
+<td>78 cm
+</td>
+<td>96 cm
+</td>
+<td>69 cm
+</td></tr>
+<tr>
+<td>2 m
+</td>
+<td>160 cm
+</td>
+<td>171 cm
+</td>
+<td>162 cm
+</td></tr>
+<tr>
+<td>3 m
+</td>
+<td>220 cm
+</td>
+<td>227 cm
+</td>
+<td>220 cm
+</td></tr>
+</tbody></table>
+</td>
+<td style="width:25px;">
+</td>
+<td>
+<table class="wikitable">
+<caption>DV - Rebound Height
+</caption>
+<tbody><tr>
+<th>
+</th>
+<th>Avg.
+</th></tr>
+<tr>
+<td>1 m
+</td>
+<td>81 cm
+</td></tr>
+<tr>
+<td>2 m
+</td>
+<td>163.3 cm
+</td></tr>
+<tr>
+<td>3 m
+</td>
+<td>222.3 cm
+</td></tr>
+</tbody></table>
+</td>
+<td style="width:25px;&quot;">
+</td>
+<td>
+<table>
+
+<tbody><tr>
+<td><b>Formula:</b>
+</td>
+<td>[math]\textrm{Average} = \frac{x_1+x_2+...+x_k}{k}[/math]
+</td></tr>
+<tr>
+<td><b>Sample:</b>
+</td>
+<td>[math]\textrm{Avg. value} = \frac{78+96+69}{3} = \frac{243}{3} = 81[/math]
+</td></tr>
+</tbody></table>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<p><b>Tips:</b> Make sure the example calculation(s) and a condensed table are included.  Those are worth many points and will not take much time.  Also label your table properly.
+</p><p><br />
+NEW FOR 2019: You must report the most relevant data from your experiment.
+</p>
+<h3><span class="mw-headline" id="Halfway_Point">Halfway Point</span></h3>
+<p>By the new rules, you may only work on the sections up through this point for the first 20 minutes of competition.  After 20 minutes, the second half of the papers will be passed out.
+</p><p>This is to make people have more complete experiments.  Use every nanosecond of the first 20 minutes to experiment.
+</p>
+<h3><span class="mw-headline" id="Graph">Graph</span></h3>
+<p>A standard bar, line, or scatter-plot graph works almost universally at any competition level. Even so, always be sure to use the correct type for your data. Also, if your data starts off at a non-zero amount, you can draw a zigzag atop of the 0 mark to skip to your data. 
+</p>
+<pre> Ex. <a href="/wiki/index.php/File:ExpdGraph.PNG" class="image"><img alt="ExpdGraph.PNG" src="/wiki/images/9/93/ExpdGraph.PNG" width="621" height="552" /></a>
+</pre>
+<p><b>Tips:</b> Label your axis (x+y), title the graph, use the DV as the y value and IV as the x value, title the individual axis, connect the data points or draw a line of best fit, only include the averages of the data for each IV.  Also, sometimes, if data is severely skewed so that most of the data has high values, then you can use a "skew" marking, or a zigzag through the axis that you are skewing.
+</p>
+<h3><span class="mw-headline" id="Statistics">Statistics</span></h3>
+<p>Take the common statistics - mean, mode, range, median. Also include any other relevant statistics and show work. The best idea is to put all statistics in a neat table. NEW FOR 2019: Statistics should be "age appropriate" by the new rubric. Example calculations must be included. This includes significant figures for Division C.
+</p><p>Your table of data should be neat- a ruler helps a lot. Be sure to keep writing your units. 
+</p><p>Once your common statistics are done, make sure to do some more. Standard deviation is a very good statistic to include. The equation for calculating standard deviation is: [math]\sigma = \sqrt{avg((value - mean)^{2})}[/math]. For a better visual equation and an explanation of what standard deviation is (which you will need to know to explain the statistic), see <a href="http://en.wikipedia.org/wiki/Standard_Deviation" class="extiw" title="wikipedia:Standard Deviation">Standard Deviation</a>. Actually doing trials is necessary, as a standard deviation of a sample size of 1 is clearly stupid. A key point that is easy to miss is the deviation has to be squared. If you don't, your result will always be 0, and though this may look pretty, it should be obvious that your data does not have a standard deviation of 0. 
+</p><p>As of 2015, both Division B and Division C will be expected to do more with the data, whereas before only C Division needed to. One essential aspect of the graph will be to create a regression, or line of best fit. Since both divisions are now permitted to bring any type of calculator, this would be a good time to invest in a nice TI-84 or similar graphing calculator because linear, logarithmic, and many other types of regression can be calculated with them. To calculate a linear regression on a TI calculator, start by putting your data in a list. Press STAT and go to the EDIT menu. Press 1 to edit your list. Then, exit and press STAT again. Go to the CALC menu to select the type of regression most suited for your data (which in most cases will be LinReg). Place the list containing your X values in Xlist, and repeat for Y values in Ylist. Scroll down and press Calculate, which will then give you the constants for your regression. Draw in the line on your graph and label it.
+</p><p>If you cannot get a graphing calculator, the best fit line of dubious accuracy is made by drawing a straight line with a ruler that you think seems to go as close to all the points on the graph. Once you do, find the y-intercept, and calculate the slope. Make sure to consider which outliers are significant, and which are experimental errors. If you make these kinds of judgment calls, make sure to point it out and explain it in the Analysis section.
+</p><p>Also, make sure you always have the same units through-out the experiment, if you are using milliseconds in the data table continue using milliseconds for everything else, DO NOT change to seconds or any other units. <a href="/wiki/index.php/Division_C" title="Division C">Division C</a> competitors should remember to use significant figures in their statistics.
+</p>
+<table class="wikitable" style="width:100%;">
+
+<tbody><tr>
+<td>
+<table>
+<tbody><tr>
+<td><b>Ex.</b>
+</td>
+<td>
+<table class="wikitable">
+<caption>DV - Rebound Height
+</caption>
+<tbody><tr>
+<th>
+</th>
+<th>1 m
+</th>
+<th>2 m
+</th>
+<th>3 m
+</th></tr>
+<tr>
+<td>Mean
+</td>
+<td>81 cm
+</td>
+<td>163.3 cm
+</td>
+<td>222.3 cm
+</td></tr>
+<tr>
+<td>Median
+</td>
+<td>78 cm
+</td>
+<td>162 cm
+</td>
+<td>220 cm
+</td></tr>
+<tr>
+<td>Mode
+</td>
+<td>N/A
+</td>
+<td>N/A
+</td>
+<td>220 cm
+</td></tr>
+<tr>
+<td>Range
+</td>
+<td>27 cm
+</td>
+<td>11 cm
+</td>
+<td>7 cm
+</td></tr>
+<tr>
+<td>Outlier
+</td>
+<td>96 cm
+</td>
+<td>N/A
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td>Std. Deviation
+</td>
+<td>10 cm
+</td>
+<td>4.1 cm
+</td>
+<td>3.1 cm
+</td></tr>
+<tr>
+<td>Etc.
+</td>
+<td>...
+</td>
+<td>...
+</td>
+<td>...
+</td></tr>
+</tbody></table>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<p><b>Tips:</b> Graph your data. Make the graph neat, legible. Use a legend if need be. Label the axes (with units) and make a title for the graph (including units here as well is a good idea)
+</p><p>NEW FOR 2019: Calculations are graded for accuracy.
+</p>
+<h3><span class="mw-headline" id="Analysis">Analysis</span></h3>
+<p>This section should be one extended paragraph which at least touches on all data points and expands on outliers. Look at the data and draw some reasonable conclusions about the experiment. There should be trends; point them out and explain them. Discuss your statistics and again, explain them. Guesses are okay, even if they're wrong; they show your thought process. If you have any outliers or random "bad" data points, don't ignore them - again, write about them. Was there anything you did wrong that time, or was it just a fluke? Conclude by stating if the IV is directly, inversely, or not clearly proportional to the DV.  
+</p><p>This section is the time for you to shine!  Show the event supervisors that you are worthy of that gold medal and elaborate on your data, describing every last atom, and getting full points.  
+</p>
+<pre> Ex: For our first IV level (1 meter), our rebound heights were 78 cm, 96 cm (outlier), and 69 cm, averaging 81 cm.  For our second IV level (2 meters), our rebound heights were 160 cm, 171 cm, and 162 cm, averaging around 163.3 cm.  for our last IV level (3 meters), our rebound heights were 220 cm (mode), 227 cm, and 220 cm (mode), averaging around 222.3 cm.                                                                
+                                                                                                                                            
+     Overall, it seems that this brand of racquetball (Penn) has about a 3:4 ratio of rebound height to drop height on a linoleum floor.   This trend is clearly shown in the graph with a positive slope of about 3/4.  Since a linoleum floor is mostly hard, the floor does not absorb much energy and sends the ball back with most of its energy, relating to sir Isaac Newton's 3rd Law of motion: for every action, there is an equal and opposite reaction.  One might think that if Newton's third law was true, then the ball would rebound to the original drop height, but that is not the case.  Many forces make the "equal and opposite reaction," such as gravity, friction/air resistance, and the floor, and in this case the equal and opposite reactions will most often send the ball to about 3/4 of its drop height.                                                                                                                            
+                                                                                                                                           
+     In the 1st IV level, there was an outlier. In the 2nd trial, the rebound height was 96 cm, which was significantly higher than average.  Most likely, the height fluctuated a bit and caused the rebound height to be higher, which affected the average, which would've been 73.5, just under what the trend suggested.  Otherwise, this IV level would be just what was expected.                              
+                                                                                                                                         
+     In the 2nd IV level, our results were all higher than what the trend showed (the trend being 3/4 of the drop height, in this case 150 cm).  This may have been due to the fact that most people are shorter than 2 meters, and have a hard time measuring the exact rebound height.  Although, even with the increased rebound heights, these results were still expected.                                   
+                                                                                                                                         
+     In the last IV level, there was a mode of 220 cm.  Probability-wise, the chance of this is very rare, due to the high drop height and high rebound height, but the dropper was able to get a brief approximation of what the rebound height was.  It looked like the first and third trials both had a rebound height of 220 cm, so they were approximated.  This IV level, with an average of about 223.3, fit the trend perfectly, only being about 1.7 cm under the 3:4 mark of 3 meters, 225 cm, and was just what was expected.                
+                                                                                                                                         
+     To sum everything up, there was a trend of the ratio of rebound height to drop height being about 3:4, and all three IV levels fit it perfectly. Overall, the IV was directly proportional to the DV.
+</pre>
+<p><b>Tips:</b> Make sure you explain everything very clearly.  This is a point-heavy portion that depends on clarity.  Also, explain everything.  Everything in an experiment could be relevant to the Analysis, so include everything.
+</p><p>NEW FOR 2019: Interpretations are scored on accuracy as well as completeness.
+</p>
+<h3><span class="mw-headline" id="Possible_Sources_of_Experimental_Error">Possible Sources of Experimental Error</span></h3>
+<p>Look for all the things wrong with your experimental setup. How might they have caused inaccuracies in your data? This is extremely useful, because it can redeem mistakes made earlier in the event by showing that you are aware of them. Sometimes points can even be regained. Try to stay away from, but still use, <i>human errors</i> (what humans cause) and try to focus on <i>experimental sources of errors</i> like you can say things that have to do with temperature. The container of your object may have insulated it. Say any possible thing that could change the outcome of the experiment. Then, explain how the errors are believed to affect the data: increase from normal, decrease from normal, or either. It's also a good idea to identify some of the errors to demonstrate your awareness of the errors that come up.
+</p><p>Also, this section can be written before any data is actually collected, and just added to if there are glaring errors in data collection that you didn't predict. If you're not sure how the experiment is going to turn out, this is a good thing to write first, though any errors that are included in your qualitative observations should be commented on.
+</p>
+<pre> Ex. This experiment had a few errors in it.  First of all, one human error was that the rebound height wasn't measured so that it was spot-on; it was guesstimated. Since the balls were moving at high velocities, often through the speed, we couldn't make out the exact heights of the rebound.  This is an experimental error because there wasn't an easy way to measure due to the lack of electronics to perfectly measure the height.  This sometimes increased, sometimes decreased the rebound heights, usually averaging out in the average but making the standard deviation higher.                                                
+                                                                                                                                      
+     Another human error was that the experimenter who dropped the ball often had shaky arms, so sometimes, the speed of the ball would increase and sometimes the drop height would fluctuate.  This is a human error, as the dropper made the mistake of not dropping the ball at the same velocity and height.  This would mainly increase the rebound height because the dropper's hand was usually higher than usual, but would also decrease it rarely, if the dropper's hand was lower than normal.
+</pre>
+<p><b>Tips:</b> Don't confuse errors with qualitative data. It is an easy way to make your total score of your experiment decrease.  Also, even though only one error is required, more than one should be included if possible.
+</p>
+<h3><span class="mw-headline" id="Conclusion">Conclusion</span></h3>
+<p><i>DO NOT</i> ever say that your hypothesis was right or wrong, only if it was SUPPORTED by the data or not. After one experiment, a hypothesis can either be supported or not supported by the data. Restate your hypothesis minus the explanation before concluding in either way. Then, explain why you came to that conclusion with your data as support. Never extrapolate anything; stick to what you observed even if you think the results were wrong. You may attempt to explain why your data varied from your hypothesis using proper scientific terminology that was not considered while writing your hypothesis, but the vast majority of the explanation should be data-based.
+</p>
+<pre> Ex. If a ball is dropped from different heights, then the ball dropped at the greatest height will have a greater rebound height.  The data supported this hypothesis, with 1 meter drop heights averaging 81 cm, 2 meters averaging about 163 cm, and 3 meters averaging about 222 cm.  Also, the graph showed a positive trend that had greater rebound heights when the drop height was greater.  From these clear reasons, the hypothesis was accepted.
+</pre>
+<p><b>Tips:</b> Make sure to include viable reasons.  The reasons are an important part of this section. Also, make sure all statements are true and supported by the data.
+</p>
+<h3><span class="mw-headline" id="Applications_and_Recommendations_for_Further_Experimentation">Applications and Recommendations for Further Experimentation</span></h3>
+<p>When writing this section, consider variations of your experiment that would produce more accurate results. There should be three variations listed: one to improve a certain aspect of your experiment, one to approach the hypothesis in a different way, and one for a future experiment related to the DV. Finally, consider a practical application for the experiment. This section can also be written without any knowledge of how the experiment will turn out, and so it can also be written before data has been collected.
+</p>
+<pre> Ex. For further experimentation, a few things can be done to this experiment.  First of all, since the measuring of the rebound height is hard to do, providing a way to measure more accurately should be provided.  This would make the results more accurate and the data more reliable.  To change the IV of this experiment, maybe instead of changing drop heights, the size of the ball could be the IV.  This would provide a different experiment than this one and would probably be more useful in the real world.  To change the DV, instead of measuring the rebound height, the measured thing could be how many times the ball bounces.  This would provide an interesting trend and could apply to many things, such as sports.                                                                                                                      
+                                                                                                                                            
+     This experiment could be useful in the outside world in a few ways.  First of all, it could be applied to basketball dribbling in the sport of basketball.  If a ball is dribbled high, then it will bounce high and therefore be harder to control.  If a ball is dribbled low, then it will rebound low, and it will be hard to move.  This could be used to teach aspiring basketball players to dribble well.  Also in the sport of basketball, this experiment could be useful in another way.  The term "rebound" is a basketball term referring to the distance a basketball travels after it has hit the backboard of a basketball hoop and missed the hoop.  When a ball is hit hard against the backboard, more force is being applied, so more force is in the reaction, propelling the ball greater distances.  For example, if a basketball player knows s/he cannot make a shot, s/he can calculate what the perfect amount of force is to rebound off of the backboard and to another teammate's control.  Finally, this experiment could be used in the tennis industry.  Many tennis players have had balls fly over the court when hit with too much force to the ground.  All tennis players know to not hit too hard or too soft, a principle demonstrated in this experiment.
+</pre>
+<p><b>Tips:</b> Make sure to include applications and recommendations that are actually useful.  Points may be deducted if you say something irrelevant.
+</p><p><br />
+</p>
+<h3><span class="mw-headline" id="Abstract">Abstract</span></h3>
+<p>The Abstract is a new section for Division C, added for the 2020 Season. One of the most important things to remember about this section is to make it very brief. It explains the purpose of the experiment, addresses the Statement of Problem and Hypothesis, and summarizes the process and findings. Even though it is essentially a summary of the entire experiment, try to keep it no longer than a paragraph (or 2, if you need it), as points will be deducted for very long Abstracts. This is not a class essay - do not feel like you need to "write more."
+</p>
+<h2><span class="mw-headline" id="The_Full_Write-up">The Full Write-up</span></h2>
+<table>
+
+<tbody><tr>
+<td><div class="toccolours mw-collapsible mw-collapsed" style="width:auto">Statement of Problem
+<div class="mw-collapsible-content">
+<pre> How does the height a ball is dropped from (1, 2, 3 meters) affect its rebound height (cm)?
+</pre>
+</div></div>
+</td></tr></tbody></table>
+<table>
+
+<tbody><tr>
+<td><div class="toccolours mw-collapsible mw-collapsed" style="width:auto">Hypothesis
+<div class="mw-collapsible-content">
+<pre> If I drop a ball from different heights (1, 2, 3 meters), then the rebound heights (in centimeters) for the higher drop heights will be greater than the lower drop heights because of Isaac Newton's 3rd law (For every action, there is an equal and opposite reaction).  This law applies to this experiment because when the drop height is greater, there is more force in the action of the ball falling to the floor, and thus the rebound height (the equal and opposite reaction) will be greater.
+</pre>
+</div></div>
+</td></tr></tbody></table>
+<table>
+
+<tbody><tr>
+<td><div class="toccolours mw-collapsible mw-collapsed" style="width:auto">Variables
+<div class="mw-collapsible-content">
+<p><b>Independent Variable</b>
+</p>
+<pre> the drop height (1, 2, 3 meters)
+</pre>
+<p><b>Dependent Variable</b>
+</p>
+<pre> rebound height (in centimeters)
+</pre>
+<p><b>Controlled Variables</b>
+</p>
+<pre> size of ball, material of ball, shape of ball, material of dropping surface, method of releasing ball (dropping, throwing, etc.)
+</pre>
+</div></div>
+</td></tr></tbody></table>
+<table>
+
+<tbody><tr>
+<td><div class="toccolours mw-collapsible mw-collapsed" style="width:auto">Standard of Comparison
+<div class="mw-collapsible-content">
+<pre> The SOC for this experiment would be the 1 meter IV level.  This SOC was chosen because it is the level closest to zero.  Since the hypothesis predicted an increase in rebound heights with increasing drop heights, this IV level would either support or refute the hypothesis and would be useful for analyzing the experiment afterwards.
+</pre>
+</div></div>
+</td></tr></tbody></table>
+<table>
+
+<tbody><tr>
+<td><div class="toccolours mw-collapsible mw-collapsed" style="width:auto">Materials
+<div class="mw-collapsible-content">
+<pre> 3 Penn racquetballs, 3 meter sticks 
+</pre>
+</div></div>
+</td></tr></tbody></table>
+<table>
+
+<tbody><tr>
+<td><div class="toccolours mw-collapsible mw-collapsed" style="width:auto">Procedure
+<div class="mw-collapsible-content">
+<pre> 1. Gather all necessary materials for experiment.                                                                                                 
+ 2. Drop one ball at a height of 1 meter with the lowest point of the ball above 1 meter.
+ 3. Record the initial rebound height and any observations.
+ 4. Repeat steps 2-3 twice more.
+ 5. Drop the second ball at a height of 2 meters with the lowest point of the ball above 2 meters.
+ 6. Record the initial rebound height and any new observations.
+ 7. Repeat steps 5-6 twice more.
+ 8. Drop the last ball at a height of 3 meters with the lowest point above 3 meters.               
+ 9. Record the initial rebound height and any new observations.                            
+ 10. Clean up your work space.                                                                                  
+ <a href="/wiki/index.php/File:ExpdProcedure.PNG" class="image"><img alt="ExpdProcedure.PNG" src="/wiki/images/1/14/ExpdProcedure.PNG" width="366" height="390" /></a>
+</pre>
+<p><br />
+</p>
+</div></div>
+</td></tr></tbody></table>
+<table>
+
+<tbody><tr>
+<td><div class="toccolours mw-collapsible mw-collapsed" style="width:auto">Qualitative Observations
+<div class="mw-collapsible-content">
+<pre> About the Procedure:  Every time a competitor was preparing to drop a ball, his/her hands wobbled the slightest bit, maybe influencing the DV the slightest bit.  Also, competitors noticed that it was hard to measure exactly where the ball rebounded to, especially in the 3 meter trials (lots of force =&gt; harder to see) since the ball was constantly in motion.  About the results:  During the experiment, when competitors measured the rebound height, they often had to estimate because it was sometimes hard to tell the exact height of the rebound.  Also, the results showed that on average, the ball rebounded to about 5/8 of its original drop height.  Other:  When the ball rebounded after the initial rebound, the ball's path of bouncing wasn't exactly vertical, making the retrieving of the ball harder to do.  Also, when each of the balls hit the floor at different heights, they made different sounds.  The 3 meter ball was louder that the 2 and 1 meter balls.
+</pre>
+</div></div>
+</td></tr></tbody></table>
+<table>
+
+<tbody><tr>
+<td><div class="toccolours mw-collapsible mw-collapsed" style="width:auto">Quantitative Data
+<div class="mw-collapsible-content">
+<table class="wikitable" style="width:100%;">
+
+<tbody><tr>
+<td>
+<table>
+
+<tbody><tr>
+<td><b>IV Level (Drop Height)</b>
+</td>
+<td>
+<table class="wikitable">
+<caption>DV - Rebound Height
+</caption>
+<tbody><tr>
+<th>
+</th>
+<th>Trial 1
+</th>
+<th>Trial 2
+</th>
+<th>Trial 3
+</th></tr>
+<tr>
+<td>1 m
+</td>
+<td>78 cm
+</td>
+<td>96 cm
+</td>
+<td>69 cm
+</td></tr>
+<tr>
+<td>2 m
+</td>
+<td>160 cm
+</td>
+<td>171 cm
+</td>
+<td>162 cm
+</td></tr>
+<tr>
+<td>3 m
+</td>
+<td>220 cm
+</td>
+<td>227 cm
+</td>
+<td>220 cm
+</td></tr>
+</tbody></table>
+</td>
+<td style="width:25px;">
+</td>
+<td>
+<table class="wikitable">
+<caption>DV - Rebound Height
+</caption>
+<tbody><tr>
+<th>
+</th>
+<th>Avg.
+</th></tr>
+<tr>
+<td>1 m
+</td>
+<td>81 cm
+</td></tr>
+<tr>
+<td>2 m
+</td>
+<td>163.3 cm
+</td></tr>
+<tr>
+<td>3 m
+</td>
+<td>222.3 cm
+</td></tr>
+</tbody></table>
+</td>
+<td style="width:25px;&quot;">
+</td>
+<td>
+<table>
+
+<tbody><tr>
+<td><b>Formula:</b>
+</td>
+<td>[math]\textrm{Average} = \frac{x_1+x_2+...+x_k}{k}[/math]
+</td></tr>
+<tr>
+<td><b>Sample:</b>
+</td>
+<td>[math]\textrm{Avg. value} = \frac{78+96+69}{3} = \frac{243}{3} = 81[/math]
+</td></tr>
+</tbody></table>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+</div></div>
+</td></tr></tbody></table>
+<table>
+
+<tbody><tr>
+<td><div class="toccolours mw-collapsible mw-collapsed" style="width:auto">Graph
+<div class="mw-collapsible-content">
+<p><a href="/wiki/index.php/File:ExpdGraph.PNG" class="image"><img alt="ExpdGraph.PNG" src="/wiki/images/9/93/ExpdGraph.PNG" width="621" height="552" /></a>
+</p>
+</div></div>
+</td></tr></tbody></table>
+<table>
+
+<tbody><tr>
+<td><div class="toccolours mw-collapsible mw-collapsed" style="width:auto">Statistics
+<div class="mw-collapsible-content">
+<table class="wikitable" style="width:100%;">
+
+<tbody><tr>
+<td>
+<table>
+<tbody><tr>
+<td><b>Statistic</b>
+</td>
+<td>
+<table class="wikitable">
+<caption>DV - Rebound Height
+</caption>
+<tbody><tr>
+<th>
+</th>
+<th>1 m
+</th>
+<th>2 m
+</th>
+<th>3 m
+</th></tr>
+<tr>
+<td>Mean
+</td>
+<td>81 cm
+</td>
+<td>163.3 cm
+</td>
+<td>222.3 cm
+</td></tr>
+<tr>
+<td>Median
+</td>
+<td>78 cm
+</td>
+<td>162 cm
+</td>
+<td>220 cm
+</td></tr>
+<tr>
+<td>Mode
+</td>
+<td>N/A
+</td>
+<td>N/A
+</td>
+<td>220 cm
+</td></tr>
+<tr>
+<td>Range
+</td>
+<td>27 cm
+</td>
+<td>11 cm
+</td>
+<td>7 cm
+</td></tr>
+<tr>
+<td>Outlier
+</td>
+<td>96 cm
+</td>
+<td>N/A
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td>Std. Deviation
+</td>
+<td>10 cm
+</td>
+<td>4.1 cm
+</td>
+<td>3.1 cm
+</td></tr>
+</tbody></table>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+</div></div>
+</td></tr></tbody></table>
+<table>
+
+<tbody><tr>
+<td><div class="toccolours mw-collapsible mw-collapsed" style="width:auto">Analysis
+<div class="mw-collapsible-content">
+<pre> For our first IV level (1 meter), our rebound heights were 78 cm, 96 cm (outlier), and 69 cm, averaging 81 cm.  For our second IV level (2 meters), our rebound heights were 160 cm, 171 cm, and 162 cm, averaging around 163.3 cm.  for our last IV level (3 meters), our rebound heights were 220 cm (mode), 227 cm, and 220 cm (mode), averaging around 222.3 cm.                                                                
+                                                                                                                                            
+     Overall, it seems that this brand of racquetball (Penn) has about a 3:4 ratio of rebound height to drop height on a linoleum floor.   This trend is clearly shown in the graph with a positive slope of about 3/4.  Since a linoleum floor is mostly hard, the floor does not absorb much energy and sends the ball back with most of its energy, relating to sir Isaac Newton's 3rd Law of motion: for every action, there is an equal and opposite reaction.  One might think that if Newton's third law was true, then the ball would rebound to the original drop height, but that is not the case.  Many forces make the "equal and opposite reaction," such as gravity, friction/air resistance, and the floor, and in this case the equal and opposite reactions will most often send the ball to about 3/4 of its drop height.                                                                                                                            
+                                                                                                                                           
+     In the 1st IV level, there was an outlier. In the 2nd trial, the rebound height was 96 cm, which was significantly higher than average.  Most likely, the height fluctuated a bit and caused the rebound height to be higher, which affected the average, which would've been 73.5, just under what the trend suggested.  Otherwise, this IV level would be just what was expected.                              
+                                                                                                                                         
+     In the 2nd IV level, our results were all higher than what the trend showed (the trend being 3/4 of the drop height, in this case 150 cm).  This may have been due to the fact that most people are shorter than 2 meters, and have a hard time measuring the exact rebound height.  Although, even with the increased rebound heights, these results were still expected.                                   
+                                                                                                                                         
+     In the last IV level, there was a mode of 220 cm.  Probability-wise, the chance of this is very rare, due to the high drop height and high rebound height, but the dropper was able to get a brief approximation of what the rebound height was.  It looked like the first and third trials both had a rebound height of 220 cm, so they were approximated.  This IV level, with an average of about 223.3, fit the trend perfectly, only being about 1.7 cm under the 3:4 mark of 3 meters, 225 cm, and was just what was expected.                
+                                                                                                                                         
+     To sum everything up, there was a trend of the ratio of rebound height to drop height being about 3:4, and all three IV levels fit it perfectly. Overall, the IV was directly proportional to the DV.
+</pre>
+</div></div>
+</td></tr></tbody></table>
+<table>
+
+<tbody><tr>
+<td><div class="toccolours mw-collapsible mw-collapsed" style="width:auto">Possible Sources of Experimental Error
+<div class="mw-collapsible-content">
+<pre> This experiment had a few errors in it.  First of all, one human error was that the rebound height wasn't measured so that it was spot-on; it was guesstimated. Since the balls were moving at high velocities, often through the speed, we couldn't make out the exact heights of the rebound.  This is an experimental error because there wasn't an easy way to measure due to the lack of electronics to perfectly measure the height.  This sometimes increased, sometimes decreased the rebound heights, usually averaging out in the average but making the standard deviation higher.                                                
+                                                                                                                                     
+    Another human error was that the experimenter who dropped the ball often had shaky arms, so sometimes, the speed of the ball would increase and sometimes the drop height would fluctuate.  This is a human error, as the dropper made the mistake of not dropping the ball at the same velocity and height.  This would mainly increase the rebound height because the dropper's hand was usually higher than usual, but would also decrease it rarely, if the dropper's hand was lower than normal.
+</pre>
+</div></div>
+</td></tr></tbody></table>
+<table>
+
+<tbody><tr>
+<td><div class="toccolours mw-collapsible mw-collapsed" style="width:auto">Conclusion
+<div class="mw-collapsible-content">
+<pre> If a ball is dropped from different heights, then the ball dropped at the greatest height will have a greater rebound height.  The data supported this hypothesis, with 1 meter drop heights averaging 81 cm, 2 meters averaging about 163 cm, and 3 meters averaging about 222 cm.  Also, the graph showed a positive trend that had greater rebound heights when the drop height was greater.  From these clear reasons, the hypothesis was accepted.
+</pre>
+</div></div>
+</td></tr></tbody></table>
+<table>
+
+<tbody><tr>
+<td><div class="toccolours mw-collapsible mw-collapsed" style="width:auto">Applications and Recommendations for Further Experimentation
+<div class="mw-collapsible-content">
+<pre> For further experimentation, a few things can be done to this experiment.  First of all, since the measuring of the rebound height is hard to do, providing a way to measure more accurately should be provided.  This would make the results more accurate and the data more reliable.  To change the IV of this experiment, maybe instead of changing drop heights, the size of the ball could be the IV.  This would provide a different experiment than this one and would probably be more useful in the real world.  To change the DV, instead of measuring the rebound height, the measured thing could be how many times the ball bounces.  This would provide an interesting trend and could apply to many things, such as sports.                                                                                                                      
+                                                                                                                                            
+     This experiment could be useful in the outside world in a few ways.  First of all, it could be applied to basketball dribbling in the sport of basketball.  If a ball is dribbled high, then it will bounce high and therefore be harder to control.  If a ball is dribbled low, then it will rebound low, and it will be hard to move.  This could be used to teach aspiring basketball players to dribble well.  Also in the sport of basketball, this experiment could be useful in another way.  The term "rebound" is a basketball term referring to the distance a basketball travels after it has hit the backboard of a basketball hoop and missed the hoop.  When a ball is hit hard against the backboard, more force is being applied, so more force is in the reaction, propelling the ball greater distances.  For example, if a basketball player knows s/he cannot make a shot, s/he can calculate what the perfect amount of force is to rebound off of the backboard and to another teammate's control.  Finally, this experiment could be used in the tennis industry.  Many tennis players have had balls fly over the court when hit with too much force to the ground.  All tennis players know to not hit too hard or too soft, a principle demonstrated in this experiment.
+</pre>
+<p><br />
+</p>
+</div></div>
+</td></tr></tbody></table>
+<table>
+
+<tbody><tr>
+<td><div class="toccolours mw-collapsible mw-collapsed" style="width:auto">Abstract
+<div class="mw-collapsible-content">
+<p>No data (yet)
+</p>
+</div></div>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Common_Strategies">Common Strategies</span></h2>
+<p>Knowing the scoring rubric is the key to success in Experimental Design. The <a rel="nofollow" class="external text" href="https://www.soinc.org/sites/default/files/uploaded_files/ExDesChecklist17Final.pdf">rubric</a> is a set of guidelines used for scoring experiments. When experimenters are aware of what is expected in each section, it becomes much easier to work efficiently.
+</p><p>At the start of the event, start by brainstorming possible experiments. Expect to get a handful of seemingly random items to test with, along with the possibility of a topic or prompt to design the experiment around. If each team member is familiar with general scientific concepts, designing an experiment should not be too difficult. Focus on execution and write-up, not on preparation. Spend no more than 5 minutes on this.
+</p><p>Keep your experiment simple. Too many variables can mean a lot of writing. Consider an example experience from one regional tournament. 3 balls (different colors), 2 rubber bands, a foot of masking tape, a metric stick, and a mini catapult were given. Naturally, one would want to experiment with the fanciest item given (catapult, in this case), but there would be so many variables to consider. Instead, performing a dropping experiment on how a rubber band affects the time it takes for a ball to drop. This is much simpler and, in this scenario, an idea that definitely paid off. Teams that used the catapult had balls flying everywhere throughout the event, and team members had to run around searching for them; wasting time. On the other hand, teams that utilized the other equipment achieved third out of thirty teams. Moral of the story is, ignore the urge to fiddle around with the complex stuff. Keep it simple- experiments will be simpler to write and test, saving time. 
+</p><p>However, be sure to have enough trials. Having 3-5 trials for each variable ensures that data is sound and statistics have merit. This way if there is a possibility of strange data (one test being too high/low/fast/slow) there is the "experimental errors" section to comment on that. Only having 1-3 trials means there may not be enough data to show that a data point is strange, because there are not enough points to compare it to.
+</p><p>Know who is doing each section before the competition. All 3 people don't need to be doing the lab; only 1 or 2 people should be experimenting. Don't spend the whole time doing the lab either, 15-20 minutes should be plenty to get a significant amount of data for an experiment. There are many ways to divvy up the work on this event. Find something that works, each group is different.
+</p><p>If the experiment goes horribly wrong and all the data is skewed, focus on the report as much as possible. Make sure to explain why the experiment was bad and where it went wrong. This is where "Possible Experimental Errors" really counts-- be sure to write and explain every error which caused the experiment to go wrong. Having a bad experiment but a very good report   can, in some cases, cancel out the fact that the experiment didn't work. 
+</p><p>Just like any other event, practice! Have a fellow teammate or coach gather materials and come up with a possible topic. Spend 50 minutes and come up with, test, and write up a lab report. Have the coach/teammate then grade the lab based on the rubric. This gives great insight into time usage and where improvements need to be made.
+</p>
+<h3><span class="mw-headline" id="Possible_Division_of_Responsibility">Possible Division of Responsibility</span></h3>
+<p>Writer (52 points)
+Manages Papers, A, B, C, D, E, M, Assists Others
+</p><p>Data Collector (36 points)
+Runs Experiment, G, H, I, J, Manages Timing and Calculator
+</p><p>Analyzer (22 points)
+Runs Experiment, F, K, L, Manages Materials and Cleanup
+</p>
+<h2><span class="mw-headline" id="General_Tips">General Tips</span></h2>
+<ul><li>Keep the experiment reasonable. There's a limited amount of time, so keep the scope small enough for a 50 minute event.</li>
+<li>Come prepared, equipped with several different writing utensils, a ruler, a stopwatch and any type of calculator as long as it cannot access the Internet and does not have a camera.</li>
+<li>Study the rubric: just to be safe, always look over the rubric before the competition. It may be very useful for designing the experiment.</li>
+<li>Write neatly. If the judges can't read the experiment, they are not going to accept it. There will not be enough time for one person to write up everything perfectly, so writing neatly is crucial.</li>
+<li>Think outside of the box - don't do exactly what every other team is inclined to do. Build a unique and intelligent experiment, which will set you apart from other teams and offer a better chance at medaling.</li>
+<li>Be efficient: sometimes speed is extremely important due to the limited time of the event.</li>
+<li>Be precise, specially when labeling the list of materials. Nothing is "too specific" for this event!</li>
+<li>Keep it simple, stupid (KISS). Although not literally, never design an experiment that is too complicated, given the tight time limit.</li></ul>
+<h2><span class="mw-headline" id="Links">Links</span></h2>
+<dl><dd><a rel="nofollow" class="external text" href="https://soinc.org">Science Olympiad</a> Experimental Design page for Division  <a rel="nofollow" class="external text" href="http://soinc.org/exper_design_b">B</a>/<a rel="nofollow" class="external text" href="http://soinc.org/exper_design_c">C</a></dd>
+<dd><a rel="nofollow" class="external text" href="https://www.soinc.org/sites/default/files/uploaded_files/Experimental_Design_Checklist_Updated2019.pdf">The rubric for Experimental Design</a> The rubric rarely varies from year to year but has changed for the 2019 season.</dd>
+<dd>Sample Experiments
+<dl><dd><a rel="nofollow" class="external text" href="http://www.tufts.edu/as/wright_center/products/sci_olympiad/exp_design_c_div.pdf">Sample Experiment from Minnesota Div. C (Note: PDF)</a></dd>
+<dd><a rel="nofollow" class="external text" href="http://www.tufts.edu/as/wright_center/products/sci_olympiad/exp_desigh_b_div.pdf">Sample Experiment from Minnesota Div. B (Note: PDF)</a></dd>
+<dd><a href="/wiki/index.php/Test_Exchange#Experimental_Design" class="mw-redirect" title="Test Exchange">Test Exchange</a></dd></dl></dd></dl>
+<h2><span class="mw-headline" id="See_Also">See Also</span></h2>
+<dl><dd><a href="/wiki/index.php/Experimental_Design/Practice" title="Experimental Design/Practice">Experimental Design/Practice</a></dd></dl>
+<div role="navigation" class="navbox" aria-labelledby="Inquiry_and_Nature_of_Science_Events" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/index.php/Template:Inquiry_Event" title="Template:Inquiry Event"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/index.php?title=Template_talk:Inquiry_Event&amp;action=edit&amp;redlink=1" class="new" title="Template talk:Inquiry Event (page does not exist)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a rel="nofollow" class="external text" href="https://scioly.org/wiki/index.php?title=Template:Inquiry_Event&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Inquiry_and_Nature_of_Science_Events" style="font-size:114%;margin:0 4em">Inquiry and Nature of Science Events</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">National Events</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Awesome_Aquifers" title="Awesome Aquifers">Awesome Aquifers</a></li>
+<li><a href="/wiki/index.php/Bottle_Rocket" title="Bottle Rocket">Bottle Rocket</a></li>
+<li><a href="/wiki/index.php/Bungee_Drop" title="Bungee Drop">Bungee Drop</a></li>
+<li><a href="/wiki/index.php/Codebusters" title="Codebusters">Codebusters</a></li>
+<li><a href="/wiki/index.php/Compute_This" title="Compute This">Compute This</a></li>
+<li><a class="mw-selflink selflink">Experimental Design</a></li>
+<li><a href="/wiki/index.php/Fast_Facts" title="Fast Facts">Fast Facts</a></li>
+<li><a href="/wiki/index.php/Fermi_Questions" title="Fermi Questions">Fermi Questions</a></li>
+<li><a href="/wiki/index.php/Game_On" title="Game On">Game On</a></li>
+<li><a href="/wiki/index.php/Hydrogeology" title="Hydrogeology">Hydrogeology</a></li>
+<li><a href="/wiki/index.php/Metric_Mastery" title="Metric Mastery">Metric Mastery</a></li>
+<li><a href="/wiki/index.php/Mystery_Architecture" title="Mystery Architecture">Mystery Architecture</a></li>
+<li><a href="/wiki/index.php/Naked_Egg_Drop" title="Naked Egg Drop">Naked Egg Drop</a></li>
+<li><a href="/wiki/index.php/Pentathlon" title="Pentathlon">Pentathlon</a></li>
+<li><a href="/wiki/index.php/Picture_This" title="Picture This">Picture This</a></li>
+<li><a href="/wiki/index.php/Ping_Pong_Parachute" title="Ping Pong Parachute">Ping Pong Parachute</a></li>
+<li><a href="/wiki/index.php/Rotor_Egg_Drop" title="Rotor Egg Drop">Rotor Egg Drop</a></li>
+<li><a href="/wiki/index.php/Science_Word" title="Science Word">Science Word</a></li>
+<li><a href="/wiki/index.php/Sumo_Bots" title="Sumo Bots">Sumo Bots</a></li>
+<li><a href="/wiki/index.php/Technical_Problem_Solving" title="Technical Problem Solving">Technical Problem Solving</a></li>
+<li><a href="/wiki/index.php/Write_It_Do_It" title="Write It Do It">Write It Do It</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Trial Events</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Geocaching" title="Geocaching">Geocaching</a></li>
+<li><a href="/wiki/index.php/Model_This" title="Model This">Model This</a></li>
+<li><a href="/wiki/index.php/Science_Bowl" title="Science Bowl">Science Bowl</a></li>
+<li><a href="/wiki/index.php/Science_Quiz_Bowl" title="Science Quiz Bowl">Science Quiz Bowl</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Event Resources</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Experimental_Design/Practice" title="Experimental Design/Practice">Experimental Design Practice</a></li>
+<li><a href="/wiki/index.php/Game_On/Scratch_Blocks" title="Game On/Scratch Blocks">Scratch Blocks</a></li>
+<li><a href="/wiki/index.php/Picture_This_Words" title="Picture This Words">Picture This Words</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="2020.2F2021_Events" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/index.php/Template:2021Events" title="Template:2021Events"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/index.php?title=Template_talk:2021Events&amp;action=edit&amp;redlink=1" class="new" title="Template talk:2021Events (page does not exist)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a rel="nofollow" class="external text" href="https://scioly.org/wiki/index.php?title=Template:2021Events&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="2020.2F2021_Events" style="font-size:114%;margin:0 4em">2020/2021 Events</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Division B Events</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Anatomy_and_Physiology" title="Anatomy and Physiology">Anatomy and Physiology</a></li>
+<li><a href="/wiki/index.php/Boomilever" title="Boomilever">Boomilever</a></li>
+<li><a href="/wiki/index.php/Circuit_Lab" title="Circuit Lab">Circuit Lab</a></li>
+<li><a href="/wiki/index.php/Crime_Busters" title="Crime Busters">Crime Busters</a></li>
+<li><a href="/wiki/index.php/Density_Lab" title="Density Lab">Density Lab</a></li>
+<li><a href="/wiki/index.php/Disease_Detectives" title="Disease Detectives">Disease Detectives</a></li>
+<li><a href="/wiki/index.php/Dynamic_Planet_Topics" title="Dynamic Planet Topics">Dynamic Planet</a></li>
+<li><a href="/wiki/index.php/Elastic_Launched_Glider" title="Elastic Launched Glider">Elastic Launched Glider</a></li>
+<li><a class="mw-selflink selflink">Experimental Design</a></li>
+<li><a href="/wiki/index.php/Food_Science" title="Food Science">Food Science</a></li>
+<li><a href="/wiki/index.php/Fossils" title="Fossils">Fossils</a></li>
+<li><a href="/wiki/index.php/Game_On" title="Game On">Game On</a></li>
+<li><a href="/wiki/index.php/Heredity" title="Heredity">Heredity</a></li>
+<li><a href="/wiki/index.php/Machines" title="Machines">Machines</a></li>
+<li><a href="/wiki/index.php/Meteorology" title="Meteorology">Meteorology</a></li>
+<li><a href="/wiki/index.php/Mission_Possible" title="Mission Possible">Mission Possible</a></li>
+<li><a href="/wiki/index.php/Mousetrap_Vehicle" title="Mousetrap Vehicle">Mousetrap Vehicle</a></li>
+<li><a href="/wiki/index.php/Ornithology" title="Ornithology">Ornithology</a></li>
+<li><a href="/wiki/index.php/Ping_Pong_Parachute" title="Ping Pong Parachute">Ping Pong Parachute</a></li>
+<li><a href="/wiki/index.php/Reach_for_the_Stars" title="Reach for the Stars">Reach for the Stars</a></li>
+<li><a href="/wiki/index.php/Road_Scholar" title="Road Scholar">Road Scholar</a></li>
+<li><a href="/wiki/index.php/Water_Quality" title="Water Quality">Water Quality</a></li>
+<li><a href="/wiki/index.php/Write_It_Do_It" title="Write It Do It">Write It Do It</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Division C Events</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Anatomy_and_Physiology" title="Anatomy and Physiology">Anatomy and Physiology</a></li>
+<li><a href="/wiki/index.php/Astronomy" title="Astronomy">Astronomy</a></li>
+<li><a href="/wiki/index.php/Boomilever" title="Boomilever">Boomilever</a></li>
+<li><a href="/wiki/index.php/Chemistry_Lab" title="Chemistry Lab">Chemistry Lab</a></li>
+<li><a href="/wiki/index.php/Circuit_Lab" title="Circuit Lab">Circuit Lab</a></li>
+<li><a href="/wiki/index.php/Codebusters" title="Codebusters">Codebusters</a></li>
+<li><a href="/wiki/index.php/Designer_Genes" title="Designer Genes">Designer Genes</a></li>
+<li><a href="/wiki/index.php/Detector_Building" title="Detector Building">Detector Building</a></li>
+<li><a href="/wiki/index.php/Disease_Detectives" title="Disease Detectives">Disease Detectives</a></li>
+<li><a href="/wiki/index.php/Dynamic_Planet_Topics" title="Dynamic Planet Topics">Dynamic Planet</a></li>
+<li><a class="mw-selflink selflink">Experimental Design</a></li>
+<li><a href="/wiki/index.php/Forensics" title="Forensics">Forensics</a></li>
+<li><a href="/wiki/index.php/Fossils" title="Fossils">Fossils</a></li>
+<li><a href="/wiki/index.php/GeoLogic_Mapping" title="GeoLogic Mapping">GeoLogic Mapping</a></li>
+<li><a href="/wiki/index.php/Gravity_Vehicle" title="Gravity Vehicle">Gravity Vehicle</a></li>
+<li><a href="/wiki/index.php/Machines" title="Machines">Machines</a></li>
+<li><a href="/wiki/index.php/Ornithology" title="Ornithology">Ornithology</a></li>
+<li><a href="/wiki/index.php/Ping_Pong_Parachute" title="Ping Pong Parachute">Ping Pong Parachute</a></li>
+<li><a href="/wiki/index.php/Protein_Modeling" title="Protein Modeling">Protein Modeling</a></li>
+<li><a href="/wiki/index.php/Sounds_of_Music" title="Sounds of Music">Sounds of Music</a></li>
+<li><a href="/wiki/index.php/Water_Quality" title="Water Quality">Water Quality</a></li>
+<li><a href="/wiki/index.php/Wright_Stuff" title="Wright Stuff">Wright Stuff</a></li>
+<li><a href="/wiki/index.php/Write_It_Do_It" title="Write It Do It">Write It Do It</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Division B National Trials 2020</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Aerial_Scramble" title="Aerial Scramble">Aerial Scramble</a></li>
+<li><a href="/wiki/index.php/Amazing_Mechatronics" title="Amazing Mechatronics">Amazing Mechatronics</a></li>
+<li><a href="/wiki/index.php/Codebusters" title="Codebusters">Codebusters</a></li>
+<li><a href="/wiki/index.php/Storm_the_Castle" title="Storm the Castle">Storm the Castle</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Division C National Trials 2020</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Aerial_Scramble" title="Aerial Scramble">Aerial Scramble</a></li>
+<li><a href="/wiki/index.php/Amazing_Mechatronics" title="Amazing Mechatronics">Amazing Mechatronics</a></li>
+<li><a href="/wiki/index.php/Environmental_Chemistry" title="Environmental Chemistry">Environmental Chemistry</a></li>
+<li><a href="/wiki/index.php/Trajectory" title="Trajectory">Trajectory</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Division B National Trials 2021</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Aerial_Scramble" title="Aerial Scramble">Aerial Scramble</a></li>
+<li><a href="/wiki/index.php/Awesome_Aquifers" title="Awesome Aquifers">Awesome Aquifers</a></li>
+<li><a href="/wiki/index.php/Botany" title="Botany">Botany</a></li>
+<li><a href="/wiki/index.php/Codebusters" title="Codebusters">Codebusters</a></li>
+<li><a href="/wiki/index.php/Electric_Wright_Stuff" title="Electric Wright Stuff">Electric Wright Stuff</a></li>
+<li><a href="/wiki/index.php/Home_Horticulture" title="Home Horticulture">Home Horticulture</a></li>
+<li><a href="/wiki/index.php/Solar_Power" title="Solar Power">Solar Power</a></li>
+<li><a href="/wiki/index.php/Storm_the_Castle" title="Storm the Castle">Storm the Castle</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Division C National Trials 2021</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Aerial_Scramble" title="Aerial Scramble">Aerial Scramble</a></li>
+<li><a href="/wiki/index.php/Botany" title="Botany">Botany</a></li>
+<li><a href="/wiki/index.php/Electric_Wright_Stuff" title="Electric Wright Stuff">Electric Wright Stuff</a></li>
+<li><a href="/wiki/index.php/Environmental_Chemistry" title="Environmental Chemistry">Environmental Chemistry</a></li>
+<li><a href="/wiki/index.php/Home_Horticulture" title="Home Horticulture">Home Horticulture</a></li>
+<li><a href="/wiki/index.php/Robot_Tour" title="Robot Tour">Robot Tour</a></li>
+<li><a href="/wiki/index.php/Solar_Power" title="Solar Power">Solar Power</a></li>
+<li><a href="/wiki/index.php/Trajectory" title="Trajectory">Trajectory</a></li>
+<li><a href="/wiki/index.php/WiFi_Lab" title="WiFi Lab">WiFi Lab</a></li></ul>
+</div></td></tr></tbody></table></div>
+
+<!-- 
+NewPP limit report
+Cached time: 20200806193145
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.460 seconds
+Real time usage: 0.605 seconds
+Preprocessor visited node count: 844/1000000
+Preprocessor generated node count: 5270/1000000
+Post‐expand include size: 30067/2097152 bytes
+Template argument size: 5138/2097152 bytes
+Highest expansion depth: 10/40
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.040/7.000 seconds
+Lua virtual size: 8.62 MB/50 MB
+Lua estimated memory usage: 0 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  251.189      1 -total
+ 59.14%  148.553      2 Template:Navbox
+ 44.42%  111.569      1 Template:Inquiry_Event
+ 22.55%   56.639      1 Template:EventLinksBox
+ 19.42%   48.786      1 Template:2021Events
+  1.85%    4.648     15 Template:SpoilerBoxBegin
+  1.69%    4.245     15 Template:SpoilerBoxContent
+  1.59%    3.991     15 Template:SpoilerBoxEnd
+-->
+</div>
+<!-- Saved in parser cache with key wiki-wikiv2_:pcache:idhash:28-0!canonical and timestamp 20200806193144 and revision id 106476
+ -->
+</div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://scioly.org/wiki/index.php?title=Experimental_Design&amp;oldid=106476">https://scioly.org/wiki/index.php?title=Experimental_Design&amp;oldid=106476</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/index.php/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/index.php/Category:Inquiry_and_Nature_of_Science_Events" title="Category:Inquiry and Nature of Science Events">Inquiry and Nature of Science Events</a></li><li><a href="/wiki/index.php/Category:Event_Pages" title="Category:Event Pages">Event Pages</a></li><li><a href="/wiki/index.php/Category:Lab_Event_Pages" title="Category:Lab Event Pages">Lab Event Pages</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-login"><a href="//scioly.org/forums/ucp.php?mode=login&amp;redirect=https%3A%2F%2Fscioly.org%2Fwiki%2Findex.php%2FExperimental_Design" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/index.php/Experimental_Design" title="View the content page [c]" accesskey="c">Page</a></span></li><li id="ca-talk"><span><a href="/wiki/index.php/Talk:Experimental_Design" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discussion</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/index.php/Experimental_Design">Read</a></span></li><li id="ca-viewsource" class="collapsible"><span><a href="/wiki/index.php?title=Experimental_Design&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li><li id="ca-history" class="collapsible"><span><a href="/wiki/index.php?title=Experimental_Design&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/wiki/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Scioly.org" title="Search Scioly.org [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/index.php/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage"><a href="/wiki/index.php/Main_Page" title="Visit the main page [z]" accesskey="z">Main Page</a></li><li id="n-recentchanges"><a href="/wiki/index.php/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/wiki/index.php/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-MediaWiki-Help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">MediaWiki Help</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/index.php/Special:WhatLinksHere/Experimental_Design" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/index.php/Special:RecentChangesLinked/Experimental_Design" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/wiki/index.php/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="/wiki/index.php?title=Experimental_Design&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/wiki/index.php?title=Experimental_Design&amp;oldid=106476" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/wiki/index.php?title=Experimental_Design&amp;action=info" title="More information about this page">Page information</a></li>				</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 6 August 2020, at 06:19.</li>
+								<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution</a> unless otherwise noted.</li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="http://creativecommons.org/licenses/by/3.0/"><img src="/wiki/resources/assets/licenses/cc-by.png" alt="Creative Commons Attribution" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<style>.MathJax_Display{display:inline !important;}
+.mathjax-wrapper{font-size:120%;}</style>
+<script type='text/x-mathjax-config'>MathJax.Hub.Config({displayAlign:'left',tex2jax:{displayMath:[['[math]','[/math]']]}})</script>
+<script src='//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.460","walltime":"0.605","ppvisitednodes":{"value":844,"limit":1000000},"ppgeneratednodes":{"value":5270,"limit":1000000},"postexpandincludesize":{"value":30067,"limit":2097152},"templateargumentsize":{"value":5138,"limit":2097152},"expansiondepth":{"value":10,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%  251.189      1 -total"," 59.14%  148.553      2 Template:Navbox"," 44.42%  111.569      1 Template:Inquiry_Event"," 22.55%   56.639      1 Template:EventLinksBox"," 19.42%   48.786      1 Template:2021Events","  1.85%    4.648     15 Template:SpoilerBoxBegin","  1.69%    4.245     15 Template:SpoilerBoxContent","  1.59%    3.991     15 Template:SpoilerBoxEnd"]},"scribunto":{"limitreport-timeusage":{"value":"0.040","limit":"7.000"},"limitreport-virtmemusage":{"value":9035776,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20200806193145","ttl":86400,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":135});});</script>
+	</body>
+</html>

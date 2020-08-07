@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+	<link rel="self" type="application/atom+xml" href="https://scioly.org/forums/app.php/feed/forum/24" />
+
+	<title>Scioly.org</title>
+	<subtitle>Science Olympiad Student Center</subtitle>
+	<link href="https://scioly.org/forums/index.php" />
+	<updated>2020-07-27T18:51:53-07:00</updated>
+
+	<author><name><![CDATA[Scioly.org]]></name></author>
+	<id>https://scioly.org/forums/app.php/feed/forum/24</id>
+
+		<entry>
+		<author><name><![CDATA[sciolyperson1]]></name></author>
+		<updated>2020-07-27T18:51:53-07:00 </updated>
+
+		<published>2020-07-27T18:45:04-07:00</published>
+		<id>https://scioly.org/forums/viewtopic.php?t=18130&amp;p=423962#p423962</id>
+		<link href="https://scioly.org/forums/viewtopic.php?t=18130&amp;p=423962#p423962"/>
+		<title type="html"><![CDATA[Announcements • Re: Codebusters Event This Weekend!]]></title>
+
+					<category term="Announcements" scheme="https://scioly.org/forums/viewforum.php?f=24" label="Announcements"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewtopic.php?t=18130&amp;p=423962#p423962"><![CDATA[
+Thanks to everyone who participated! We had 35 participants from 19 different states compete in the scrimmage.<br><br>The test, key, and solutions can be found here: <a href="https://drive.google.com/drive/folders/11-CMxKKWiSjrZjiAIYmBnCo7-cXcti5O?usp=sharing" class="postlink">https://drive.google.com/drive/folders/ ... sp=sharing</a> (Note that Question #10 was changed midway through the test, but the errors and quote itself were kept very similar).<br><br>Grading was challenging - some people incorrectly input their results ("from from" instead of "come from" in the timed question, for example). In these sorts of scenarios, I counted the answer that was shown in the pictures taken only if you had clear work shown. All results were manually graded (and not with google sheet regex formulas). <br><br><strong class="text-strong">Results:</strong><br><em class="text-italics">(Place: Name)</em><br>1st: Umaroth<br>2nd: A. Cai<br>3rd: will0416<br>4th: Klebb<br>5th: S. Shah<br>6th: legitimately<br>7th: name<br>8th: oliva.m19<br>9th: dragonfruit35<br>10th: D. Wang<br>11th: R. Chang<br>12th: C. Zhu<br><br>Since Umaroth helped set up this event, he will not be taking his prize. The prize will go to <strong class="text-strong">A. Cai</strong> instead. The prize is a Science Olympiad water bottle + 2 Codebusters stickers. The stickers were generously provided by astropanda2004's Redbubble shop. Congratulations to both Umaroth and A. Cai!<br><br>All people who filled out the feedback form were also entered into a prize pool - the winner of the random drawing is <strong class="text-strong">Aimer</strong>. The prize is one Science Olympiad water bottle + a Codebuster sticker. Bernard will reach out with prizes shortly. <br><br>Full results, along with a histogram, can be found here: <a href="https://drive.google.com/drive/folders/11-CMxKKWiSjrZjiAIYmBnCo7-cXcti5O?usp=sharing" class="postlink">https://drive.google.com/drive/folders/ ... sp=sharing</a><br><br>This event couldn't be possible without the help of <strong class="text-strong">bernard, builderguy135, name, and Umaroth</strong>. Thank you!<br><br>Keep a lookout for next month's Codebusters Online Mock!<p>Statistics: Posted by <a href="https://scioly.org/forums/memberlist.php?mode=viewprofile&amp;u=37001">sciolyperson1</a> — July 27th, 2020, 6:45 pm</p><hr />
+]]></content>
+	</entry>
+		<entry>
+		<author><name><![CDATA[sciolyperson1]]></name></author>
+		<updated>2020-07-26T22:59:09-07:00 </updated>
+
+		<published>2020-07-26T21:18:16-07:00</published>
+		<id>https://scioly.org/forums/viewtopic.php?t=18130&amp;p=423917#p423917</id>
+		<link href="https://scioly.org/forums/viewtopic.php?t=18130&amp;p=423917#p423917"/>
+		<title type="html"><![CDATA[Announcements • Re: Codebusters Event This Weekend!]]></title>
+
+					<category term="Announcements" scheme="https://scioly.org/forums/viewforum.php?f=24" label="Announcements"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewtopic.php?t=18130&amp;p=423917#p423917"><![CDATA[
+Thank you to all who participated! Results, as well as test/keys, will be released shortly.<p>Statistics: Posted by <a href="https://scioly.org/forums/memberlist.php?mode=viewprofile&amp;u=37001">sciolyperson1</a> — July 26th, 2020, 9:18 pm</p><hr />
+]]></content>
+	</entry>
+		<entry>
+		<author><name><![CDATA[sciolyperson1]]></name></author>
+		<updated>2020-07-26T14:43:09-07:00</updated>
+
+		<published>2020-07-26T14:43:09-07:00</published>
+		<id>https://scioly.org/forums/viewtopic.php?t=18130&amp;p=423895#p423895</id>
+		<link href="https://scioly.org/forums/viewtopic.php?t=18130&amp;p=423895#p423895"/>
+		<title type="html"><![CDATA[Announcements • Re: Codebusters Event This Weekend!]]></title>
+
+					<category term="Announcements" scheme="https://scioly.org/forums/viewforum.php?f=24" label="Announcements"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewtopic.php?t=18130&amp;p=423895#p423895"><![CDATA[
+Due to some technical issues with our script, an automatically sent email containing the test and submission form were sent to those who already took the test previously. We apologize for the unnecessary email sent to some of these competitors.<p>Statistics: Posted by <a href="https://scioly.org/forums/memberlist.php?mode=viewprofile&amp;u=37001">sciolyperson1</a> — July 26th, 2020, 2:43 pm</p><hr />
+]]></content>
+	</entry>
+		<entry>
+		<author><name><![CDATA[sciolyperson1]]></name></author>
+		<updated>2020-07-25T09:03:04-07:00</updated>
+
+		<published>2020-07-25T09:03:04-07:00</published>
+		<id>https://scioly.org/forums/viewtopic.php?t=18130&amp;p=423835#p423835</id>
+		<link href="https://scioly.org/forums/viewtopic.php?t=18130&amp;p=423835#p423835"/>
+		<title type="html"><![CDATA[Announcements • Re: Codebusters Event This Weekend!]]></title>
+
+					<category term="Announcements" scheme="https://scioly.org/forums/viewforum.php?f=24" label="Announcements"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewtopic.php?t=18130&amp;p=423835#p423835"><![CDATA[
+The competition has started! Good luck to anyone participating!<p>Statistics: Posted by <a href="https://scioly.org/forums/memberlist.php?mode=viewprofile&amp;u=37001">sciolyperson1</a> — July 25th, 2020, 9:03 am</p><hr />
+]]></content>
+	</entry>
+		<entry>
+		<author><name><![CDATA[sciolyperson1]]></name></author>
+		<updated>2020-07-23T18:37:47-07:00</updated>
+
+		<published>2020-07-23T18:37:47-07:00</published>
+		<id>https://scioly.org/forums/viewtopic.php?t=18130&amp;p=423766#p423766</id>
+		<link href="https://scioly.org/forums/viewtopic.php?t=18130&amp;p=423766#p423766"/>
+		<title type="html"><![CDATA[Announcements • Re: Codebusters Event This Weekend!]]></title>
+
+					<category term="Announcements" scheme="https://scioly.org/forums/viewforum.php?f=24" label="Announcements"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewtopic.php?t=18130&amp;p=423766#p423766"><![CDATA[
+Since it was asked, the test will use <strong class="text-strong">state/national</strong> level rules.<p>Statistics: Posted by <a href="https://scioly.org/forums/memberlist.php?mode=viewprofile&amp;u=37001">sciolyperson1</a> — July 23rd, 2020, 6:37 pm</p><hr />
+]]></content>
+	</entry>
+		<entry>
+		<author><name><![CDATA[bernard]]></name></author>
+		<updated>2020-07-25T14:39:48-07:00 </updated>
+
+		<published>2020-07-23T11:40:36-07:00</published>
+		<id>https://scioly.org/forums/viewtopic.php?t=18130&amp;p=423757#p423757</id>
+		<link href="https://scioly.org/forums/viewtopic.php?t=18130&amp;p=423757#p423757"/>
+		<title type="html"><![CDATA[Announcements • Codebusters Event This Weekend!]]></title>
+
+					<category term="Announcements" scheme="https://scioly.org/forums/viewforum.php?f=24" label="Announcements"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewtopic.php?t=18130&amp;p=423757#p423757"><![CDATA[
+This weekend, Scioly.org is hosting a <strong class="text-strong">Codebusters solo practice test</strong> for those who want to practice Codebusters over the summer! (And there may be prizes!) <img class="smilies" src="https://scioly.org/forums/images/smilies/icon_cool.gif" width="17" height="17" alt="8-)" title="Cool"><br><br>This event will run from <strong class="text-strong">Saturday 12 PM (noon) ET / 9 AM PT to Monday 12 AM (midnight) ET / Sunday 9 PM PT</strong>.<br><br>To start, fill out the form here: <a href="https://forms.gle/aBHoEXrmEqCzyCND8" class="postlink">https://forms.gle/aBHoEXrmEqCzyCND8</a>. Afterwards, you will be provided a link to the test and a separate form for submitting your answers. You will have a total of <strong class="text-strong">1 hour</strong> to finish the test and fill out your answers; time starts when you submit the first form. (Remember to allot time for entering your answers into the form.)<br><br>Again, this is a <em class="text-italics">solo</em> Codebusters test. Use of external tools is disallowed. Show work, and in the answer submission form, you will be able to upload files as proof of work. For answers, spaces do not matter. <br><br>We did say there may be prizes, so try your best! Good luck, have fun! <img class="smilies" src="https://scioly.org/forums/images/smilies/icon_e_geek.gif" width="17" height="17" alt=":geek:" title="Geek"><br><br><em class="text-italics">If you have any questions about this event, message <a href="https://scioly.org/forums/ucp.php?i=pm&amp;mode=compose&amp;u=22093" class="postlink">bernard</a> on the Forums. If you have any questions about the test and forms, message <a href="https://scioly.org/forums/ucp.php?i=pm&amp;mode=compose&amp;u=37001" class="postlink">sciolyperson1</a>.</em><p>Statistics: Posted by <a href="https://scioly.org/forums/memberlist.php?mode=viewprofile&amp;u=22093">bernard</a> — July 23rd, 2020, 11:40 am</p><hr />
+]]></content>
+	</entry>
+		<entry>
+		<author><name><![CDATA[gz839918]]></name></author>
+		<updated>2020-06-19T16:05:09-07:00</updated>
+
+		<published>2020-06-19T16:05:09-07:00</published>
+		<id>https://scioly.org/forums/viewtopic.php?t=17992&amp;p=422284#p422284</id>
+		<link href="https://scioly.org/forums/viewtopic.php?t=17992&amp;p=422284#p422284"/>
+		<title type="html"><![CDATA[Announcements • We stand with the black community]]></title>
+
+					<category term="Announcements" scheme="https://scioly.org/forums/viewforum.php?f=24" label="Announcements"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewtopic.php?t=17992&amp;p=422284#p422284"><![CDATA[
+If you’ve been paying attention to the news, you’re probably wondering what Scioly.org has anything to do with this. The truth is closer than we may think.<br><br>Racism remains very much alive today. Policies that once discriminated against “African Americans” have been scribbled out, and replaced with policies targeting “criminals,” “the needy,” “uneducated Americans,” or “high-risk individuals.” Racism lives inside systems: within laws, businesses, and schools, it tears at the heart of black communities, <em class="text-italics">even in the absence of racist people</em>. Often, this racism hides beneath the surface, but recent events show that the monster is very real.<br><br>In light of the tragedies of George Floyd, Breonna Taylor, Ahmaud Arbery, Mike Ramos, and countless others, Scioly.org stands in solidarity with the black community. We support their movements to peacefully grieve and protest violence, oppression, racism, and police brutality. We recognize our responsibility to speak against discrimination and condemn all forms of racism, including the racism living within systems themselves.<br><br>We’ll be honest though: we realize science struggles with diversity and inclusion. America’s segregated school system lets the best schools serve a select suburban elite, while other more diverse schools go chronically underfunded—a system where the privilege of experiencing science and Science Olympiad belongs to only a few. Science Olympiad is near and dear to the hearts of oh-so many of us, but sadly, the truth remains that black students face formidable challenges to entering science.<br><br>That’s where you come in. Yes, <strong class="text-strong">you</strong> can help! Being anti-racist needs commitment: it’s not about whose Instagram has the darkest black square, nor is it about who has the most black friends. We pledge to actively uphold a lifelong commitment to learning, unlearning, empathizing, and advocating on behalf of the black community. We will read books, watch films, and teach ourselves about racism. <a href="http://bit.ly/ANTIRACISMRESOURCES" class="postlink">Here are some anti-racism resources we suggest</a>. We’ve also started a thread where you can <a href="https://scioly.org/forums/viewtopic.php?f=335&amp;t=17990" class="postlink">discuss these topics</a> in more detail.<br><br>After all, that’s why we do science. Science is about progress—and about people.<p>Statistics: Posted by <a href="https://scioly.org/forums/memberlist.php?mode=viewprofile&amp;u=47584">gz839918</a> — June 19th, 2020, 4:05 pm</p><hr />
+]]></content>
+	</entry>
+		<entry>
+		<author><name><![CDATA[pikachu4919]]></name></author>
+		<updated>2020-05-28T17:15:20-07:00</updated>
+
+		<published>2020-05-28T17:15:20-07:00</published>
+		<id>https://scioly.org/forums/viewtopic.php?t=17825&amp;p=421082#p421082</id>
+		<link href="https://scioly.org/forums/viewtopic.php?t=17825&amp;p=421082#p421082"/>
+		<title type="html"><![CDATA[Announcements • Re: A celebration for the end of AP/IB exams!]]></title>
+
+					<category term="Announcements" scheme="https://scioly.org/forums/viewforum.php?f=24" label="Announcements"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewtopic.php?t=17825&amp;p=421082#p421082"><![CDATA[
+Hi everyone!<br><br>This is just a reminder that this special Party Games Night event will be tomorrow! Games will start at 9 P.M. EST/6 P.M. PST, feel free to drop by at any time, just get on IRC to join in the fun! Hope to see you guys there!<p>Statistics: Posted by <a href="https://scioly.org/forums/memberlist.php?mode=viewprofile&amp;u=18648">pikachu4919</a> — May 28th, 2020, 5:15 pm</p><hr />
+]]></content>
+	</entry>
+		<entry>
+		<author><name><![CDATA[bernard]]></name></author>
+		<updated>2020-05-19T13:05:33-07:00</updated>
+
+		<published>2020-05-19T13:05:33-07:00</published>
+		<id>https://scioly.org/forums/viewtopic.php?t=17852&amp;p=420558#p420558</id>
+		<link href="https://scioly.org/forums/viewtopic.php?t=17852&amp;p=420558#p420558"/>
+		<title type="html"><![CDATA[Announcements • Dr. Gerard J. Putz Memorial Scholarship]]></title>
+
+					<category term="Announcements" scheme="https://scioly.org/forums/viewforum.php?f=24" label="Announcements"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewtopic.php?t=17852&amp;p=420558#p420558"><![CDATA[
+We'd like to remind our Scioly.org community about the national Science Olympiad organization's memorial scholarship honoring Science Olympiad's late co-founder, Dr. Gerard J. Putz.<br><blockquote class="uncited"><div>The application is open to to Class of 2020 graduating high school seniors who participated on a registered Division C Science Olympiad team during the 2019-2020 season. The application is available until <strong class="text-strong">11:59pm CST on June 1, 2020</strong>, and winners will be announced August 3, 2020. <strong class="text-strong">Five $10,000 college scholarships</strong> will be awarded to deserving seniors who have demonstrated academic excellence and community service.</div></blockquote>Please visit <strong class="text-strong"><a href="https://www.soinc.org/scholarships" class="postlink">soinc.org/scholarships</a></strong> for the full description and the short three-question application.<br><br><span style="font-size:85%;line-height:116%"><em class="text-italics">The Dr. Gerard J. Putz Memorial Scholarship is organized by Science Olympiad Inc., made possible by generous contributions to a Memorial Scholarship Fund. Scioly.org is not affiliated with this event. Please see the link above for the full description and eligibility.</em></span><p>Statistics: Posted by <a href="https://scioly.org/forums/memberlist.php?mode=viewprofile&amp;u=22093">bernard</a> — May 19th, 2020, 1:05 pm</p><hr />
+]]></content>
+	</entry>
+		<entry>
+		<author><name><![CDATA[pikachu4919]]></name></author>
+		<updated>2020-05-13T00:13:25-07:00</updated>
+
+		<published>2020-05-13T00:13:25-07:00</published>
+		<id>https://scioly.org/forums/viewtopic.php?t=17825&amp;p=420158#p420158</id>
+		<link href="https://scioly.org/forums/viewtopic.php?t=17825&amp;p=420158#p420158"/>
+		<title type="html"><![CDATA[Announcements • A celebration for the end of AP/IB exams!]]></title>
+
+					<category term="Announcements" scheme="https://scioly.org/forums/viewforum.php?f=24" label="Announcements"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewtopic.php?t=17825&amp;p=420158#p420158"><![CDATA[
+Hi everyone!<br><br>Hope you all are doing well in this crazy pandemic - especially on AP/IB exams! Those of us who have already graduated from high school can't even imagine what doing those at this time would be like, so hats off to all of you in your endeavors and how you all are just killin' it! <br><br>We, the staff, would love to celebrate your achievements with a game night over Zoom after all exams have been completed! There will definitely be Jackbox Games (spanning all six party packs) and skribbl.io, but we will definitely be open to many other forms of online party games as well! Anyone is invited!<br><br><strong class="text-strong">Party Date and Time: May 29th, 2020, starting at 9 p.m. EST (6 p.m. PST)</strong> and there will be no definitive end time - everyone who attends is free to play games for as long as they want!<br><br><strong class="text-strong">Where:</strong> Use the chat function in the navigation bar above to join the Scioly.org IRC channel around the specified time, and the link to the Zoom call will be posted there at that time (You will not need an account to get into IRC! The only account you may need is one for Zoom, if you don't have one already <img class="smilies" src="https://scioly.org/forums/images/smilies/icon_razz.gif" width="17" height="17" alt=":P" title="Razz">).<br><br>We understand that most of these games have player limits, but we plan to make sure everyone can rotate in and out regularly as players or as audience members and ensure maximum audience participation!<br><br>We hope to see you in a few weeks to destress after an exhausting end to this school year, and best of luck to everyone in what they have left to do! You guys got this!<br><br>Sincerely,<br>The Scioly.org Staff<p>Statistics: Posted by <a href="https://scioly.org/forums/memberlist.php?mode=viewprofile&amp;u=18648">pikachu4919</a> — May 13th, 2020, 12:13 am</p><hr />
+]]></content>
+	</entry>
+	</feed>

@@ -1,0 +1,771 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Help:Editing - Scioly.org</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"Help","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":12,"wgPageName":"Help:Editing","wgTitle":"Editing","wgCurRevisionId":93620,"wgRevisionId":93620,"wgArticleId":40,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Help Pages"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Help:Editing","wgRelevantArticleId":40,"wgRequestId":"06e274ea1b7da80d02de6a7f","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":[]});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","site":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@1ltrs49",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","jquery.tablesorter","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/wiki/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/wiki/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/wiki/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.8"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/wiki/opensearch_desc.php" title="Scioly.org (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://scioly.org/wiki/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Scioly.org Atom feed" href="/wiki/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/wiki/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-12 ns-subject page-Help_Editing rootpage-Help_Editing skin-vector action-view"><meta property="og:title" content="Science Olympiad Student Center"/>
+<meta property="og:type" content="website"/>
+<meta property="og:url" content="https://scioly.org/"/>
+
+<meta property="og:image" content="http://scioly.org/src/img/logo/logo_square.png"/>
+<meta property="og:image:secure_url" content="https://scioly.org/src/img/logo/logo_square.png"/> 
+<meta property="og:image:type" content="image/png"/> 
+<meta property="og:image:width" content="500"/> 
+<meta property="og:image:height" content="500"/>
+
+<meta property="og:description" content="A resource by and for Science Olympiad students, coaches, and alumni nationwide."/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script type="text/javascript" src="/src/js/jquery.min.js"></script>
+<script type="text/javascript" src="/src/js/main.js"></script>
+
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+<link rel="stylesheet" type="text/css" href="/src/css/main.css">
+
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<link rel="icon" href="/favicon.ico" type="image/x-icon"><div class="site-nav">
+	<a href="/">
+		<img src="/src/img/logo/logo.png">
+	</a>
+	<div class="hamburger" onclick="hamburger(this)">
+		<div>
+			<div></div>
+			<div></div>
+			<div></div>
+		</div>
+	</div>
+	<ul>
+		<li><a href="/forums">Forums</a></li>
+		<li><a href="/wiki">Wiki</a></li>
+		<li><a href="/tests">Test Exchange</a></li>
+		<!-- <li><a href="/gallery">Image Gallery</a></li> -->
+		<!-- <li><a href="/invitational">Invites</a></li> -->
+		<li><a href="/chat">Chat</a></li>
+		<li><a href="/login" class="button">Login</a></li>
+	</ul>
+</div>
+<img class="print-only" src="/src/img/logo/logo_black.png" style="max-width: 150px;"><link rel="stylesheet" type="text/css" href="/src/css/wiki.css">
+<div id="wrap-me-up">
+
+
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Help:Editing</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Scioly.org</div>				<div id="contentSub"></div>
+								<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p>The Science Olympiad forum has a Wiki to provide a resource for events, user pages, and more. This page is meant to provide a basic guide for using MediaWiki and Wiki Markup.
+</p>
+<div id="toc" class="toc"><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#BBCode_and_Wikitext"><span class="tocnumber">1</span> <span class="toctext">BBCode and Wikitext</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#BBCode"><span class="tocnumber">1.1</span> <span class="toctext">BBCode</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Wikitext"><span class="tocnumber">1.2</span> <span class="toctext">Wikitext</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Wiki_Markup"><span class="tocnumber">1.3</span> <span class="toctext">Wiki Markup</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Editing_a_Page_Using_Wiki_Markup"><span class="tocnumber">2</span> <span class="toctext">Editing a Page Using Wiki Markup</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Wiki_Markup_-_Basics"><span class="tocnumber">2.1</span> <span class="toctext">Wiki Markup - Basics</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Lists"><span class="tocnumber">2.2</span> <span class="toctext">Lists</span></a>
+<ul>
+<li class="toclevel-3 tocsection-8"><a href="#Unordered_Lists"><span class="tocnumber">2.2.1</span> <span class="toctext">Unordered Lists</span></a></li>
+<li class="toclevel-3 tocsection-9"><a href="#Ordered_Lists"><span class="tocnumber">2.2.2</span> <span class="toctext">Ordered Lists</span></a></li>
+<li class="toclevel-3 tocsection-10"><a href="#Indented_Lists"><span class="tocnumber">2.2.3</span> <span class="toctext">Indented Lists</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-11"><a href="#Tables"><span class="tocnumber">2.3</span> <span class="toctext">Tables</span></a>
+<ul>
+<li class="toclevel-3 tocsection-12"><a href="#Basic_Table"><span class="tocnumber">2.3.1</span> <span class="toctext">Basic Table</span></a></li>
+<li class="toclevel-3 tocsection-13"><a href="#Skinned_Table"><span class="tocnumber">2.3.2</span> <span class="toctext">Skinned Table</span></a></li>
+<li class="toclevel-3 tocsection-14"><a href="#Text_Alignment_in_Tables"><span class="tocnumber">2.3.3</span> <span class="toctext">Text Alignment in Tables</span></a></li>
+<li class="toclevel-3 tocsection-15"><a href="#Sorted_Table"><span class="tocnumber">2.3.4</span> <span class="toctext">Sorted Table</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-16"><a href="#Text_Color.2FHighlighting"><span class="tocnumber">2.4</span> <span class="toctext">Text Color/Highlighting</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#Images"><span class="tocnumber">2.5</span> <span class="toctext">Images</span></a>
+<ul>
+<li class="toclevel-3 tocsection-18"><a href="#Image_Thumbnails"><span class="tocnumber">2.5.1</span> <span class="toctext">Image Thumbnails</span></a></li>
+<li class="toclevel-3 tocsection-19"><a href="#Image_Size"><span class="tocnumber">2.5.2</span> <span class="toctext">Image Size</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-20"><a href="#Headings"><span class="tocnumber">2.6</span> <span class="toctext">Headings</span></a></li>
+<li class="toclevel-2 tocsection-21"><a href="#Redirects"><span class="tocnumber">2.7</span> <span class="toctext">Redirects</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-22"><a href="#Math"><span class="tocnumber">3</span> <span class="toctext">Math</span></a></li>
+<li class="toclevel-1 tocsection-23"><a href="#General_Wiki_Standards"><span class="tocnumber">4</span> <span class="toctext">General Wiki Standards</span></a>
+<ul>
+<li class="toclevel-2 tocsection-24"><a href="#All_Pages"><span class="tocnumber">4.1</span> <span class="toctext">All Pages</span></a></li>
+<li class="toclevel-2 tocsection-25"><a href="#Event_and_Informational_Pages"><span class="tocnumber">4.2</span> <span class="toctext">Event and Informational Pages</span></a></li>
+<li class="toclevel-2 tocsection-26"><a href="#Team_Pages"><span class="tocnumber">4.3</span> <span class="toctext">Team Pages</span></a></li>
+<li class="toclevel-2 tocsection-27"><a href="#Tournament_Pages"><span class="tocnumber">4.4</span> <span class="toctext">Tournament Pages</span></a></li>
+<li class="toclevel-2 tocsection-28"><a href="#Talk_Pages"><span class="tocnumber">4.5</span> <span class="toctext">Talk Pages</span></a></li>
+<li class="toclevel-2 tocsection-29"><a href="#User_Pages"><span class="tocnumber">4.6</span> <span class="toctext">User Pages</span></a></li>
+<li class="toclevel-2 tocsection-30"><a href="#Templates"><span class="tocnumber">4.7</span> <span class="toctext">Templates</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-31"><a href="#See_Also"><span class="tocnumber">5</span> <span class="toctext">See Also</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="BBCode_and_Wikitext">BBCode and Wikitext</span></h2>
+<p>BBCode, Wikitext, and Wiki Markup are closely related. The tags used are similar, so an understanding of the first may lend itself to easier learning of the latter two. (See <a href="/wiki/index.php/Scioly.org:BBCode" title="Scioly.org:BBCode">Scioly.org:BBCode</a>)
+</p>
+<h3><span class="mw-headline" id="BBCode">BBCode</span></h3>
+<dl><dd><i>Main Article: <a href="/wiki/index.php/Scioly.org:BBCode" title="Scioly.org:BBCode">Scioly.org:BBCode</a></i></dd></dl>
+<p>BBCode is the abbreviated form of <i>bulletin board code,</i> used to format posts on <a rel="nofollow" class="external text" href="http://www.scioly.org">forums</a>.
+</p>
+<h3><span class="mw-headline" id="Wikitext">Wikitext</span></h3>
+<p>Wikitext is a language that is used to create pages on wiki websites, including this Wiki. It is almost the same as HTML (hypertext markup language). In fact, one of its main goals is to be converted into HTML so that non-Wiki websites can copy and paste the text.
+</p>
+<h3><span class="mw-headline" id="Wiki_Markup">Wiki Markup</span></h3>
+<p>Wiki markup is the syntax used to format a page. Several versions of syntax are used on the wiki because there is no standardized syntax used on Wikis. Pages may contain multiple different syntaxes that serve different or even the same function.
+</p>
+<h2><span class="mw-headline" id="Editing_a_Page_Using_Wiki_Markup">Editing a Page Using Wiki Markup</span></h2>
+<p>WM and BBCode use a similar format when editing. They both use tags, but in some cases, the "tags" in Wikitext won’t appear as brackets ([example]) but as a series of apostrophes to change the text. Additionally, while BBCode usually uses one pair of brackets as tags, special Wiki Markup tags (such as image tags) use two pairs ([[example]]).
+</p><p>The next section provides a list of common codes that can be used on any page of Scioly’s Wiki.
+</p>
+<h3><span class="mw-headline" id="Wiki_Markup_-_Basics">Wiki Markup - Basics</span></h3>
+<table class="wikitable">
+<tbody><tr>
+<th></th>
+<th>Code</th>
+<th>Example of the Code</th>
+<th>Result
+</th></tr>
+<tr>
+<td>Italics</td>
+<td><code>''Example''</code></td>
+<td><code>''WIDI''</code></td>
+<td><i>WIDI</i>
+</td></tr>
+<tr>
+<td>Bold</td>
+<td><code>'''Example'''</code></td>
+<td><code>'''MagLev'''</code></td>
+<td><b>MagLev</b>
+</td></tr>
+<tr>
+<td>Link to another page on the Wiki (internal link)</td>
+<td><code> [[PageName]] </code></td>
+<td><code> [[Astronomy]] </code></td>
+<td><a href="/wiki/index.php/Astronomy" title="Astronomy">Astronomy</a>
+</td></tr>
+<tr>
+<td>Internal Link with Description</td>
+<td><code> [[PageName | Description]] </code></td>
+<td><code> [[BBCode | A helpful guide]] </code></td>
+<td><a href="/wiki/index.php/BBCode" class="mw-redirect" title="BBCode"> A helpful guide</a>
+</td></tr>
+<tr>
+<td>Link to a page outside of the Wiki (external link)</td>
+<td><code> [PageAddress] </code></td>
+<td><code> [http://www.soinc.org] </code></td>
+<td><a rel="nofollow" class="external autonumber" href="http://www.soinc.org">[1]</a>
+</td></tr>
+<tr>
+<td>External Link with Description</td>
+<td><code> [PageAddress Description] </code></td>
+<td><code> [http://www.soinc.org Science Olympiad] </code></td>
+<td><a rel="nofollow" class="external text" href="http://www.soinc.org">Science Olympiad</a>
+</td></tr>
+<tr>
+<td>Inserting an Image on the Wiki</td>
+<td><code>[[File:filename.extension]]</code></td>
+<td><code> [[File:sciolylogo.png]] </code></td>
+<td><a href="/wiki/index.php/File:Sciolylogo.png" class="image"><img alt="Sciolylogo.png" src="/wiki/images/5/5e/Sciolylogo.png" width="200" height="77" /></a>
+</td></tr>
+<tr>
+<td>Adding citations (don’t plagiarize!)</td>
+<td><code>References: &lt;references/&gt;</code></td>
+<td><code>References: &lt;http://www.scioly.org/phpBB3/index.php/&gt;</code></td>
+<td>References: <a rel="nofollow" class="external free" href="http://www.scioly.org/phpBB3/index.php">http://www.scioly.org/phpBB3/index.php</a>
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Lists">Lists</span></h3>
+<h4><span class="mw-headline" id="Unordered_Lists">Unordered Lists</span></h4>
+<p>Unordered lists are bulleted.
+</p><p><b>Code:</b>
+</p>
+<pre>*List Entry1
+*List Entry2
+**List Entry2a</pre>
+<p><b>Result:</b>
+</p>
+<ul><li>List Entry1</li>
+<li>List Entry2
+<ul><li>List Entry2a</li></ul></li></ul>
+<p><br />
+</p>
+<h4><span class="mw-headline" id="Ordered_Lists">Ordered Lists</span></h4>
+<p>Ordered lists are numbered.
+</p><p><b>Code:</b>
+</p>
+<pre>#List Entry1
+#List Entry2
+##List Entry2a</pre>
+<p><b>Result:</b>
+</p>
+<ol><li>List Entry1</li>
+<li>List Entry2
+<ol><li>List Entry2a</li></ol></li></ol>
+<p><br />
+</p>
+<h4><span class="mw-headline" id="Indented_Lists">Indented Lists</span></h4>
+<p>Indented lists are simply indented.
+</p><p><b>Code:</b>
+</p>
+<pre>:List Entry1
+:List Entry2
+::List Entry2a</pre>
+<p><b>Result:</b>
+</p>
+<dl><dd>List Entry1</dd>
+<dd>List Entry2
+<dl><dd>List Entry2a</dd></dl></dd></dl>
+<p><br />
+</p>
+<h3><span class="mw-headline" id="Tables">Tables</span></h3>
+<h4><span class="mw-headline" id="Basic_Table">Basic Table</span></h4>
+<p><b>Code:</b>
+</p>
+<pre>{|
+|+Example Table
+!Heading 1
+!Heading 2
+!Heading 3
+|-
+!Row Heading 1
+|Row Entry 1
+|Row Entry 2
+|-
+!Row Heading 2
+|Row Entry 3
+|Row Entry 4
+|-
+!Row Heading 3
+|Row Entry 5
+|Row Entry 6
+|-
+|}
+</pre>
+<p><b>Result:</b>
+</p>
+<table>
+<caption>Example Table
+</caption>
+<tbody><tr>
+<th>Heading 1
+</th>
+<th>Heading 2
+</th>
+<th>Heading 3
+</th></tr>
+<tr>
+<th>Row Heading 1
+</th>
+<td>Row Entry 1
+</td>
+<td>Row Entry 2
+</td></tr>
+<tr>
+<th>Row Heading 2
+</th>
+<td>Row Entry 3
+</td>
+<td>Row Entry 4
+</td></tr>
+<tr>
+<th>Row Heading 3
+</th>
+<td>Row Entry 5
+</td>
+<td>Row Entry 6
+</td></tr>
+</tbody></table>
+<p><br />
+</p>
+<h4><span class="mw-headline" id="Skinned_Table">Skinned Table</span></h4>
+<p>Use <code>class="wikitable"</code> to make your tables look nice.
+</p><p><b>Code:</b>
+</p>
+<pre>{|<b style="color:red">class="wikitable"</b>
+|+Example Table
+!Heading 1
+!Heading 2
+!Heading 3
+|-
+!Row Heading 1
+|Row Entry 1
+|Row Entry 2
+|-
+!Row Heading 2
+|Row Entry 3
+|Row Entry 4
+|-
+!Row Heading 3
+|Row Entry 5
+|Row Entry 6
+|-
+|}
+</pre>
+<p><b>Result:</b>
+</p>
+<table class="wikitable">
+<caption>Example Table
+</caption>
+<tbody><tr>
+<th>Heading 1
+</th>
+<th>Heading 2
+</th>
+<th>Heading 3
+</th></tr>
+<tr>
+<th>Row Heading 1
+</th>
+<td>Row Entry 1
+</td>
+<td>Row Entry 2
+</td></tr>
+<tr>
+<th>Row Heading 2
+</th>
+<td>Row Entry 3
+</td>
+<td>Row Entry 4
+</td></tr>
+<tr>
+<th>Row Heading 3
+</th>
+<td>Row Entry 5
+</td>
+<td>Row Entry 6
+</td></tr>
+</tbody></table>
+<p><br />
+</p>
+<h4><span class="mw-headline" id="Text_Alignment_in_Tables">Text Alignment in Tables</span></h4>
+<p>Use <code>style="text-align:_____"</code> to set the alignment of text in a table.  Allowed parameters include <i>left</i>, <i>center</i>, and <i>right</i>.
+</p><p><b>Code:</b>
+</p>
+<pre>{|class="wikitable" <b style="color:red">style="text-align:left"</b>
+! Lorem ipsum dolor sit amet, consectetur adipisicing elit
+|-
+| Row 1 Content
+|}
+</pre>
+<p><b>Result:</b>
+</p>
+<table class="wikitable" style="text-align:left">
+<tbody><tr>
+<th>Lorem ipsum dolor sit amet, consectetur adipisicing elit
+</th></tr>
+<tr>
+<td>Row 1 Content
+</td></tr></tbody></table>
+<p><b>Code:</b>
+</p>
+<pre>{|class="wikitable" <b style="color:red">style="text-align:right"</b>
+! Lorem ipsum dolor sit amet, consectetur adipisicing elit
+|-
+| Row 1 Content
+|}
+</pre>
+<p><b>Result:</b>
+</p>
+<table class="wikitable" style="text-align:right">
+<tbody><tr>
+<th>Lorem ipsum dolor sit amet, consectetur adipisicing elit
+</th></tr>
+<tr>
+<td>Row 1 Content
+</td></tr></tbody></table>
+<p><br />
+</p>
+<h4><span class="mw-headline" id="Sorted_Table">Sorted Table</span></h4>
+<p>Use <code>class="sortable"</code> to make your tables sortable on each column. You will need to use both <code>wikitable</code> and <code>sortable</code> together, as shown below.
+</p><p><b>Code:</b>
+</p>
+<pre>{|<b style="color:red">class="wikitable sortable"</b> style="text-align:center"
+|+2008 Science Olympiad National Tournament
+!Overall Rank!!School Name!!2008 States!!Nationals WS
+|-
+|1||Troy High School||18 Apr 2008||30
+|-
+|2||Centerville High School||18 Apr 2008||26
+|-
+|3||Grand Haven High School||26 Apr 2008||7
+|-
+|4||Fayetteville-Manlius High School||15 Mar 2008||2
+|-
+|5||Mentor High School||18 Apr 2008||20
+|-
+|}
+</pre>
+<p><b>Result:</b>
+</p>
+<table class="wikitable sortable" style="text-align:center">
+<caption>2008 Science Olympiad National Tournament
+</caption>
+<tbody><tr>
+<th>Overall Rank</th>
+<th>School Name</th>
+<th>2008 States</th>
+<th>Nationals WS
+</th></tr>
+<tr>
+<td>1</td>
+<td>Troy High School</td>
+<td>18 Apr 2008</td>
+<td>30
+</td></tr>
+<tr>
+<td>2</td>
+<td>Centerville High School</td>
+<td>18 Apr 2008</td>
+<td>26
+</td></tr>
+<tr>
+<td>3</td>
+<td>Grand Haven High School</td>
+<td>26 Apr 2008</td>
+<td>7
+</td></tr>
+<tr>
+<td>4</td>
+<td>Fayetteville-Manlius High School</td>
+<td>15 Mar 2008</td>
+<td>2
+</td></tr>
+<tr>
+<td>5</td>
+<td>Mentor High School</td>
+<td>18 Apr 2008</td>
+<td>20
+</td></tr>
+</tbody></table>
+<p>Clicking on the buttons next to each column heading sorts the items in the table accordingly.
+</p>
+<h3><span id="Text_Color/Highlighting"></span><span class="mw-headline" id="Text_Color.2FHighlighting">Text Color/Highlighting</span></h3>
+<p>You can change the color of the text from the default black color.
+</p><p><b>Code: </b>
+</p>
+<pre>&lt;b style="color:red"&gt;red text&lt;/b&gt;
+&lt;b style="color:orange"&gt;orange text&lt;/b&gt;
+&lt;b style="color:yellow"&gt; yellow text&lt;/b&gt;
+&lt;b style="color:green"&gt;green text&lt;/b&gt;
+&lt;b style="color:blue"&gt; blue text&lt;/b&gt;
+&lt;b style="color:violet"&gt; violet text&lt;/b&gt;
+&lt;b style="color:purple"&gt; purple text&lt;/b&gt;
+&lt;b style="color:pink"&gt; pink text&lt;/b&gt;
+&lt;b style="color:brown"&gt; brown text&lt;/b&gt;
+&lt;b style="color:gray"&gt; gray text&lt;/b&gt;
+</pre>
+<p><b>Result: </b><br />
+<b style="color:red">red text</b><br />
+<b style="color:orange">orange text</b><br />
+<b style="color:yellow"> yellow text</b><br />
+<b style="color:green"> green text</b><br />
+<b style="color:blue"> blue text</b><br />
+<b style="color:violet">violet text</b><br />
+<b style="color:purple"> purple text</b><br />
+<b style="color:pink"> pink text</b><br />
+<b style="color:brown"> brown text</b><br />
+<b style="color:gray"> gray text</b>
+</p><p>Colored text is used sparingly on Wiki pages to maintain formality.
+</p>
+<h3><span class="mw-headline" id="Images">Images</span></h3>
+<p>Here is the most basic method of adding images:
+</p>
+<ol><li>If the image does not already exist on the wiki, you will need to save it to your computer before uploading it to the wiki.</li>
+<li>Determine the location of the image you wish to upload and the Wiki page you wish to upload it to.</li>
+<li>On the Wiki page, place the following where you want the image:</li></ol>
+<pre>[[File:filename.extension]]</pre><p><br />
+</p><p><b>Example:</b>
+</p>
+<pre>[[File:Flowers.jpg]]</pre><p><br />
+</p><p>The name and filetype can be changed based on your preferences, but it must be designated as a File by the "File:" prefix.
+</p>
+<ol><li>Once you have added the link, save your edit to the page. <i>Note: the image has not been uploaded yet, so it will appear as a redlink after saving the edit.</i></li>
+<li>Return to the broken filename on the edited page and click on the image file. The red text is indicative of no uploaded images or changes to that page.</li>
+<li>Click on the "Upload" button and add a description if you wish.</li>
+<li>Hit "Submit" and your image should now appear on the page!</li></ol>
+<p>Alternatively:
+</p>
+<ol><li><a href="/wiki/index.php/Special:Upload" title="Special:Upload">Upload</a> an image to the wiki from your computer.</li>
+<li>Choose a destination filename and upload.</li>
+<li>Use step #3 from above to add it to the appropriate page.</li></ol>
+<p><br />
+</p>
+<h4><span class="mw-headline" id="Image_Thumbnails">Image Thumbnails</span></h4>
+<p>An image may be thumbnailed in order to limit its size on the page.
+</p><p>An image may also be aligned horizontally with the keywords <i>left</i>, <i>center</i>, and <i>right</i>.  If no alignment is specified, it is automatically left-aligned.
+</p><p><b>Code:</b>
+</p>
+<pre> [[Image:sciolylogo.png|thumb|center|SciOly.org Logo]] </pre>
+<p><b>Result</b> 
+</p>
+<div class="center"><div class="thumb tnone"><div class="thumbinner" style="width:302px;"><a href="/wiki/index.php/File:Sciolylogo.png" class="image"><img alt="" src="/wiki/images/5/5e/Sciolylogo.png" width="300" height="116" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/index.php/File:Sciolylogo.png" class="internal" title="Enlarge"></a></div>SciOly.org Logo</div></div></div></div>
+<p><br />
+</p>
+<h4><span class="mw-headline" id="Image_Size">Image Size</span></h4>
+<p>An image or thumbnail may be resized to fit a page better.
+</p><p><b>Code:</b>
+</p>
+<pre> [[Image:sciolylogo.png|thumb|300px|center|SciOly.org Logo]] </pre>
+<p><b>Result</b> 
+</p>
+<div class="center"><div class="thumb tnone"><div class="thumbinner" style="width:302px;"><a href="/wiki/index.php/File:Sciolylogo.png" class="image"><img alt="" src="/wiki/images/5/5e/Sciolylogo.png" width="300" height="116" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/index.php/File:Sciolylogo.png" class="internal" title="Enlarge"></a></div>SciOly.org Logo</div></div></div></div>
+<p><br />
+</p>
+<h3><span class="mw-headline" id="Headings">Headings</span></h3>
+<p><i><b>NOTE:</b> The first heading type is used in the titles of pages and using it for other subheadings is discouraged.</i>
+</p><p><b>Code:</b>
+</p>
+<pre>=Heading=</pre>
+<p><b>Result:</b>
+</p><p><a href="/wiki/index.php/File:Heading.PNG" class="image"><img alt="Heading.PNG" src="/wiki/images/4/42/Heading.PNG" width="764" height="49" /></a>
+</p><p><b>Code:</b>
+</p>
+<pre>==Heading1==</pre>
+<p><b>Result:</b>
+</p><p><a href="/wiki/index.php/File:Heading1.PNG" class="image"><img alt="Heading1.PNG" src="/wiki/images/1/14/Heading1.PNG" width="765" height="37" /></a>
+</p><p><b>Code:</b>
+</p>
+<pre>===Subheading===</pre>
+<p><b>Result:</b>
+</p><p><a href="/wiki/index.php/File:Subheading.PNG" class="image"><img alt="Subheading.PNG" src="/wiki/images/1/15/Subheading.PNG" width="192" height="38" /></a>
+</p><p><b>Code:</b>
+</p>
+<pre>====Subsubheading====</pre>
+<p><b>Result:</b>
+</p><p><a href="/wiki/index.php/File:Subsubheading.PNG" class="image"><img alt="Subsubheading.PNG" src="/wiki/images/a/a6/Subsubheading.PNG" width="199" height="46" /></a>
+<br />
+</p>
+<h3><span class="mw-headline" id="Redirects">Redirects</span></h3>
+<p>Redirects are used to redirect users to existing wiki pages from commonly used names.
+For example, the page <a href="/wiki/index.php/Cow_A_Bungee" class="mw-redirect" title="Cow A Bungee">Cow A Bungee</a> redirects to <a href="/wiki/index.php/Bungee_Drop" title="Bungee Drop">Bungee Drop</a>. To remove a redirect from a page, follow a link to the page you wish to edit, add &amp;redirect=no to the end of the URL, and edit out the redirect.
+</p><p><b>Code:</b>
+</p>
+<pre> #REDIRECT [[PageRedirectedTo]] </pre>
+<h2><span class="mw-headline" id="Math">Math</span></h2>
+<p>When math is used on the Wiki, encase it in:
+</p>
+<pre>[math]...[/math] </pre>
+<p>This converts the encased text into LaTeX, a mathematical typesetting system that creates very pretty equations. Here are some basic commands:
+</p>
+<pre>\frac{x}{y}=z</pre>
+<p>creates [math]\frac{x}{y}=z[/math]. See how much prettier that is compared to x/y=z! Other useful commands are:
+</p>
+<pre>\alpha\beta\gamma\delta\epsilon = \sqrt{5}\times 5^{3} \cdot 4^{4^{4}}\neq 1+2+3+\cdots+n</pre>
+<p>giving: [math]\alpha\beta\gamma\delta\epsilon = \sqrt{5}\times 5^{3} \cdot 4^{4^{4}}\neq 1+2+3+\cdots+n[/math]. However, having this looks quite ugly because it's within the line with other text. To center align an equation, use:
+</p>
+<pre>&lt;div align="center"&gt; [math]...[/math]&lt;/div&gt;</pre>
+<p>With the equation we just had, it turns it into:
+</p>
+<div align="center">[math]\alpha\beta\gamma\delta\epsilon = \sqrt{5}\times 5^{3} \cdot 4^{4^{4}}\neq 1+2+3+\cdots+n[/math] </div>
+<h2><span class="mw-headline" id="General_Wiki_Standards">General Wiki Standards</span></h2>
+<p>When editing the Science Olympiad Student Center Wiki, there are certain standards pages should meet in order to maintain the quality of the resource. These guidelines are provided below for various types of pages.
+</p>
+<h3><span class="mw-headline" id="All_Pages">All Pages</span></h3>
+<ul><li>No abusive or offensive language.</li>
+<li>No vandalism.</li>
+<li>No personal identification information of minors.</li>
+<li>No advertising.</li>
+<li>No edit warring; if a dispute occurs, please discuss on the talk page before continuing.</li></ul>
+<h3><span class="mw-headline" id="Event_and_Informational_Pages">Event and Informational Pages</span></h3>
+<ul><li>Avoid excessive use of first- and second-person language.</li>
+<li>No removal of significant chunks of information (unless justified through consultation with moderators).</li>
+<li>Do not copy material directly from outside sources.</li>
+<li>Language should be appropriate for an academic resource; try to avoid grammar/spelling errors and excessive colloquial or casual language.</li>
+<li>If including external links, a description of the page being linked to should be included in the link.</li>
+<li>Event pages should cover at least the requirements listed in the rules. If a significant portion of the event is not covered, the event should be tagged as Incomplete until this information is added.</li></ul>
+<h3><span class="mw-headline" id="Team_Pages">Team Pages</span></h3>
+<ul><li>If a chronological table is not using a custom style, the "wikitable sortable" style should be used.</li>
+<li>While team pages do not need to remain objective about the team itself, it must remain objective about other teams.</li>
+<li>Coaches and alumni (over the age of 18) may be listed by name, preferably with consent from the parties. Names of current competitors are generally prohibited.</li></ul>
+<h3><span class="mw-headline" id="Tournament_Pages">Tournament Pages</span></h3>
+<ul><li>Chronological tables should be listed in order with the most recent occurrence at the bottom of the table.</li>
+<li>Chronological tables should use the "wikitable sortable" style.</li>
+<li>Invitational tournament pages, where possible, should avoid a promotional tone.</li></ul>
+<h3><span class="mw-headline" id="Talk_Pages">Talk Pages</span></h3>
+<ul><li>Comments should be signed before submitting changes by typing "~~~~" after the comment.</li></ul>
+<h3><span class="mw-headline" id="User_Pages">User Pages</span></h3>
+<ul><li>User pages are generally free to edit by the user, as long as it does not break any of the rules that apply to all pages.</li>
+<li>Do not edit the content of another user's page unless given permission by the user (or if it is to remove information that violates global wiki rules).</li></ul>
+<h3><span class="mw-headline" id="Templates">Templates</span></h3>
+<ul><li>Generally, avoid editing or adding templates directly unless given permission by a moderator; you may experiment with templates in the <a href="/wiki/index.php/Sandbox" class="mw-redirect" title="Sandbox">Sandbox</a> or create your own Sandbox (e.g. <a href="/wiki/index.php/User:EastStroudsburg13/Sandbox" title="User:EastStroudsburg13/Sandbox">User:EastStroudsburg13/Sandbox</a>).</li></ul>
+<h2><span class="mw-headline" id="See_Also">See Also</span></h2>
+<p><a rel="nofollow" class="external text" href="http://en.wikipedia.org/wiki/Wikipedia:How_to_edit_a_page">How To Edit A Page</a><br />
+<a rel="nofollow" class="external text" href="http://en.wikipedia.org/wiki/Wikipedia:Cheatsheet">Cheatsheet (a more complete listing)</a><br />
+<a rel="nofollow" class="external text" href="http://en.wikipedia.org/wiki/Help:Displaying_a_formula">Displaying Formulas</a><br />
+<a href="/wiki/index.php/User:John_Richardsim/Editing_Guide" title="User:John Richardsim/Editing Guide">User:John Richardsim/Editing Guide</a>
+</p>
+<div role="navigation" class="navbox" aria-labelledby="General_Competition_Resources" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/index.php/Template:Competition_Navbox" title="Template:Competition Navbox"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/index.php/Template_talk:Competition_Navbox" title="Template talk:Competition Navbox"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a rel="nofollow" class="external text" href="https://scioly.org/wiki/index.php?title=Template:Competition_Navbox&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="General_Competition_Resources" style="font-size:114%;margin:0 4em">General Competition Resources</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">About Scioly.org</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Forums</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Scioly.org:BBCode" title="Scioly.org:BBCode">BBCode</a></li>
+<li><a href="/wiki/index.php/Scioly.org:Scioly_Summer_Study_Session" title="Scioly.org:Scioly Summer Study Session">Scioly Summer Study Session</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Wiki</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-selflink selflink">Help:Editing</a></li>
+<li><a href="/wiki/index.php/How_to_Write_a_Practice_Test" title="How to Write a Practice Test">How to Write a Practice Test</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">General</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Scioly.org:IRC" title="Scioly.org:IRC">IRC</a></li>
+<li><a href="/wiki/index.php/Scioly.org:History" title="Scioly.org:History">History</a></li>
+<li><a href="/wiki/index.php/Scioly.org:FAQ" title="Scioly.org:FAQ">FAQ</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Event Tools</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Binders" title="Binders">Binders</a></li>
+<li><a href="/wiki/index.php/Calculators" title="Calculators">Calculators</a></li>
+<li><a href="/wiki/index.php/Field_Guides" title="Field Guides">Field Guides</a></li>
+<li><a href="/wiki/index.php/Microscope" title="Microscope">Microscope</a></li>
+<li><a href="/wiki/index.php/Note_Sheets" title="Note Sheets">Note Sheets</a></li>
+<li><a href="/wiki/index.php/Safety_Glasses" title="Safety Glasses">Safety Glasses</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Competition Help</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Preparing_for_Competition" title="Preparing for Competition">Preparing for Competition</a></li>
+<li><a href="/wiki/index.php/Rules_Manual" title="Rules Manual">Rules Manual</a></li>
+<li><a href="/wiki/index.php/Scoring" title="Scoring">Scoring</a></li>
+<li><a href="/wiki/index.php/Significant_Figures" title="Significant Figures">Significant Figures</a></li>
+<li><a href="/wiki/index.php/Starting_A_Science_Olympiad_Team" title="Starting A Science Olympiad Team">Starting A Science Olympiad Team</a></li>
+<li><a href="/wiki/index.php/Test_Taking_Skills" title="Test Taking Skills">Test Taking Skills</a></li></ul>
+</div></td></tr></tbody></table></div>
+
+<!-- 
+NewPP limit report
+Cached time: 20200806174713
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.352 seconds
+Real time usage: 0.598 seconds
+Preprocessor visited node count: 931/1000000
+Preprocessor generated node count: 1954/1000000
+Post‐expand include size: 12163/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 2205/5000000 bytes
+Lua time usage: 0.050/7.000 seconds
+Lua virtual size: 8.73 MB/50 MB
+Lua estimated memory usage: 0 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+113.55%  329.694      2 Template:Navbox
+100.00%  290.361      1 Template:Competition_Navbox
+100.00%  290.361      1 -total
+-->
+</div>
+<!-- Saved in parser cache with key wiki-wikiv2_:pcache:idhash:40-0!canonical and timestamp 20200806174712 and revision id 93620
+ -->
+</div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://scioly.org/wiki/index.php?title=Help:Editing&amp;oldid=93620">https://scioly.org/wiki/index.php?title=Help:Editing&amp;oldid=93620</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/index.php/Special:Categories" title="Special:Categories">Category</a>: <ul><li><a href="/wiki/index.php/Category:Help_Pages" title="Category:Help Pages">Help Pages</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-login"><a href="//scioly.org/forums/ucp.php?mode=login&amp;redirect=https%3A%2F%2Fscioly.org%2Fwiki%2Findex.php%2FHelp%3AEditing" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-help" class="selected"><span><a href="/wiki/index.php/Help:Editing" title="View the help page [c]" accesskey="c">Help page</a></span></li><li id="ca-talk" class="new"><span><a href="/wiki/index.php?title=Help_talk:Editing&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/index.php/Help:Editing">Read</a></span></li><li id="ca-viewsource" class="collapsible"><span><a href="/wiki/index.php?title=Help:Editing&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li><li id="ca-history" class="collapsible"><span><a href="/wiki/index.php?title=Help:Editing&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/wiki/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Scioly.org" title="Search Scioly.org [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/index.php/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage"><a href="/wiki/index.php/Main_Page" title="Visit the main page [z]" accesskey="z">Main Page</a></li><li id="n-recentchanges"><a href="/wiki/index.php/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/wiki/index.php/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-MediaWiki-Help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">MediaWiki Help</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/index.php/Special:WhatLinksHere/Help:Editing" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/index.php/Special:RecentChangesLinked/Help:Editing" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/wiki/index.php/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="/wiki/index.php?title=Help:Editing&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/wiki/index.php?title=Help:Editing&amp;oldid=93620" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/wiki/index.php?title=Help:Editing&amp;action=info" title="More information about this page">Page information</a></li>				</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 19 May 2020, at 03:04.</li>
+								<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution</a> unless otherwise noted.</li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="http://creativecommons.org/licenses/by/3.0/"><img src="/wiki/resources/assets/licenses/cc-by.png" alt="Creative Commons Attribution" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<style>.MathJax_Display{display:inline !important;}
+.mathjax-wrapper{font-size:120%;}</style>
+<script type='text/x-mathjax-config'>MathJax.Hub.Config({displayAlign:'left',tex2jax:{displayMath:[['[math]','[/math]']]}})</script>
+<script src='//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.352","walltime":"0.598","ppvisitednodes":{"value":931,"limit":1000000},"ppgeneratednodes":{"value":1954,"limit":1000000},"postexpandincludesize":{"value":12163,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":2205,"limit":5000000},"timingprofile":["113.55%  329.694      2 Template:Navbox","100.00%  290.361      1 Template:Competition_Navbox","100.00%  290.361      1 -total"]},"scribunto":{"limitreport-timeusage":{"value":"0.050","limit":"7.000"},"limitreport-virtmemusage":{"value":9158656,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20200806174713","ttl":86400,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":157});});</script>
+	</body>
+</html>

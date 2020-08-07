@@ -1,0 +1,995 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Heredity - Scioly.org</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Heredity","wgTitle":"Heredity","wgCurRevisionId":101872,"wgRevisionId":101872,"wgArticleId":147,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Life and Social Science Events","Event Pages","Study Event Pages"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Heredity","wgRelevantArticleId":147,"wgRequestId":"e072d5750e27b141ee2f9779","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":[]});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","site":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@1ltrs49",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/wiki/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/wiki/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/wiki/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.8"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/wiki/opensearch_desc.php" title="Scioly.org (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://scioly.org/wiki/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Scioly.org Atom feed" href="/wiki/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/wiki/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Heredity rootpage-Heredity skin-vector action-view"><meta property="og:title" content="Science Olympiad Student Center"/>
+<meta property="og:type" content="website"/>
+<meta property="og:url" content="https://scioly.org/"/>
+
+<meta property="og:image" content="http://scioly.org/src/img/logo/logo_square.png"/>
+<meta property="og:image:secure_url" content="https://scioly.org/src/img/logo/logo_square.png"/> 
+<meta property="og:image:type" content="image/png"/> 
+<meta property="og:image:width" content="500"/> 
+<meta property="og:image:height" content="500"/>
+
+<meta property="og:description" content="A resource by and for Science Olympiad students, coaches, and alumni nationwide."/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script type="text/javascript" src="/src/js/jquery.min.js"></script>
+<script type="text/javascript" src="/src/js/main.js"></script>
+
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+<link rel="stylesheet" type="text/css" href="/src/css/main.css">
+
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<link rel="icon" href="/favicon.ico" type="image/x-icon"><div class="site-nav">
+	<a href="/">
+		<img src="/src/img/logo/logo.png">
+	</a>
+	<div class="hamburger" onclick="hamburger(this)">
+		<div>
+			<div></div>
+			<div></div>
+			<div></div>
+		</div>
+	</div>
+	<ul>
+		<li><a href="/forums">Forums</a></li>
+		<li><a href="/wiki">Wiki</a></li>
+		<li><a href="/tests">Test Exchange</a></li>
+		<!-- <li><a href="/gallery">Image Gallery</a></li> -->
+		<!-- <li><a href="/invitational">Invites</a></li> -->
+		<li><a href="/chat">Chat</a></li>
+		<li><a href="/login" class="button">Login</a></li>
+	</ul>
+</div>
+<img class="print-only" src="/src/img/logo/logo_black.png" style="max-width: 150px;"><link rel="stylesheet" type="text/css" href="/src/css/wiki.css">
+<div id="wrap-me-up">
+
+
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Heredity</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Scioly.org</div>				<div id="contentSub"></div>
+								<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table align="right" class="infobox">
+
+<tbody><tr>
+<th colspan="2" style="font-size: larger; text-align: center;"><b>Heredity</b>
+</th></tr>
+<tr>
+<td colspan="2"><center><i>This event is an event held in the current season.</i></center>
+</td></tr>
+<tr>
+<td colspan="2"><hr />
+</td></tr>
+<tr>
+<td><b>Type</b>
+</td>
+<td>Life Science
+</td></tr>
+<tr>
+<td><b>Category</b>
+</td>
+<td>Study
+</td></tr>
+<tr>
+<td colspan="2" class="infobox-header"><b>Event Information</b>
+</td></tr>
+
+
+
+
+
+
+
+<tr>
+<td><b>Latest Appearance</b>
+</td>
+<td>2020
+</td></tr>
+<tr>
+<td colspan="2" class="infobox-header"><b>Forum Threads</b>
+</td></tr>
+
+<tr>
+<td colspan="2" style="padding: 0;">
+<table class="infobox-events-link-table">
+
+<tbody><tr>
+<td><a rel="nofollow" class="external text" href="https://scioly.org/forums/viewtopic.php?f=285&amp;t=15387">2020</a>
+</td>
+<td><a rel="nofollow" class="external text" href="https://scioly.org/forums/viewtopic.php?f=285&amp;t=12277">2019</a>
+</td>
+<td><span> </span>
+</td>
+<td><span> </span>
+</td>
+<td><span> </span>
+</td></tr>
+</tbody></table>
+</td></tr>
+<tr>
+<td colspan="2" style="padding: 0;">
+<table class="infobox-events-link-table">
+
+<tbody><tr>
+<td><span> </span>
+</td>
+<td><a rel="nofollow" class="external text" href="http://www.scioly.org/phpBB3/viewtopic.php?f=167&amp;t=4967">2014</a>
+</td>
+<td><a rel="nofollow" class="external text" href="http://www.scioly.org/phpBB3/viewtopic.php?f=144&amp;t=3703">2013</a>
+</td>
+<td><span> </span>
+</td>
+<td><span> </span>
+</td></tr>
+</tbody></table>
+</td></tr>
+
+<tr>
+<td colspan="2" class="infobox-header"><b>Forum Question Threads</b>
+</td></tr>
+
+<tr>
+<td colspan="2" style="padding: 0;">
+<table class="infobox-events-link-table">
+
+<tbody><tr>
+<td><a rel="nofollow" class="external text" href="https://scioly.org/forums/viewtopic.php?f=297&amp;t=15735">2020</a>
+</td>
+<td><a rel="nofollow" class="external text" href="https://scioly.org/forums/viewtopic.php?f=297&amp;t=12397">2019</a>
+</td>
+<td><span> </span>
+</td>
+<td><span> </span>
+</td>
+<td><span> </span>
+</td></tr>
+</tbody></table>
+</td></tr>
+<tr>
+<td colspan="2" style="padding: 0;">
+<table class="infobox-events-link-table">
+
+<tbody><tr>
+<td><span> </span>
+</td>
+<td><a rel="nofollow" class="external text" href="http://www.scioly.org/phpBB3/viewtopic.php?f=173&amp;t=5024">2014</a>
+</td>
+<td><span> </span>
+</td>
+<td><span> </span>
+</td>
+<td><span> </span>
+</td></tr>
+</tbody></table>
+</td></tr>
+
+<tr>
+<td colspan="2" class="infobox-header"><b>Official Resources</b>
+</td></tr>
+<tr>
+<td><b>Website</b>
+</td>
+<td><a rel="nofollow" class="external text" href="https://www.soinc.org/heredity-b">soinc.org</a>
+</td></tr>
+
+
+
+<tr>
+<td colspan="2" class="infobox-header"><b>Division B Results</b>
+</td></tr>
+<tr>
+<td colspan="2" style="padding: 0;">
+<table class="infobox-scoreboard" style="margin: 0; padding: 0; width:100%;">
+
+
+<tbody><tr style="background-color: gold;">
+<td style="width: 10%; text-align: center;"><b>1st</b>
+</td>
+<td style="width: 90%; padding-left: 5px;"><b>Paul J. Gelinas Junior High School</b>
+</td></tr>
+<tr style="background-color: silver;">
+<td style="width: 10%; text-align: center;">2nd
+</td>
+<td style="width: 90%; padding-left: 5px;">Longfellow Middle School
+</td></tr>
+<tr style="background-color: #d1965c;">
+<td style="width: 10%; text-align: center;">3rd
+</td>
+<td style="width: 90%; padding-left: 5px;">Evergreen Middle School
+</td></tr>
+</tbody></table>
+</td></tr>
+
+</tbody></table>
+<p><a class="mw-selflink selflink">Heredity</a> is a <a href="/wiki/index.php/Division_B" title="Division B">Division B</a> event that rotated in for the <a href="/wiki/index.php/2019" title="2019">2019</a>, <a href="/wiki/index.php/2020" title="2020">2020</a> and <a href="/wiki/index.php/2021" title="2021">2021</a> seasons. It was previously an event for the <a href="/wiki/index.php/2013" title="2013">2013</a> and <a href="/wiki/index.php/2014" title="2014">2014</a> seasons. The event covers topics relating to genetics, molecular biology, and hereditary inheritance.
+</p><p>The related <a href="/wiki/index.php/Division_C" title="Division C">Division C</a> event <a href="/wiki/index.php/Designer_Genes" title="Designer Genes">Designer Genes</a> also includes all of the material covered under Heredity.
+</p>
+<div id="toc" class="toc"><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Inheritance"><span class="tocnumber">1</span> <span class="toctext">Inheritance</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Single-Factor_.28Monohybrid.29_Crosses"><span class="tocnumber">1.1</span> <span class="toctext">Single-Factor (Monohybrid) Crosses</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Two-Factor_.28Dihybrid.29_Crosses"><span class="tocnumber">1.2</span> <span class="toctext">Two-Factor (Dihybrid) Crosses</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Higher-level_crosses"><span class="tocnumber">1.3</span> <span class="toctext">Higher-level crosses</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Special_Forms_of_Inheritance"><span class="tocnumber">1.4</span> <span class="toctext">Special Forms of Inheritance</span></a>
+<ul>
+<li class="toclevel-3 tocsection-6"><a href="#Incomplete_dominance_and_Codominance"><span class="tocnumber">1.4.1</span> <span class="toctext">Incomplete dominance and Codominance</span></a></li>
+<li class="toclevel-3 tocsection-7"><a href="#Sex-linked_traits"><span class="tocnumber">1.4.2</span> <span class="toctext">Sex-linked traits</span></a></li>
+<li class="toclevel-3 tocsection-8"><a href="#Multiple_genes"><span class="tocnumber">1.4.3</span> <span class="toctext">Multiple genes</span></a></li>
+<li class="toclevel-3 tocsection-9"><a href="#Multiple_alleles"><span class="tocnumber">1.4.4</span> <span class="toctext">Multiple alleles</span></a></li>
+<li class="toclevel-3 tocsection-10"><a href="#Lethal_alleles"><span class="tocnumber">1.4.5</span> <span class="toctext">Lethal alleles</span></a></li>
+<li class="toclevel-3 tocsection-11"><a href="#Epistasis"><span class="tocnumber">1.4.6</span> <span class="toctext">Epistasis</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-12"><a href="#Pedigrees"><span class="tocnumber">1.5</span> <span class="toctext">Pedigrees</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="#DNA"><span class="tocnumber">2</span> <span class="toctext">DNA</span></a>
+<ul>
+<li class="toclevel-2 tocsection-14"><a href="#Base_Pairing"><span class="tocnumber">2.1</span> <span class="toctext">Base Pairing</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#DNA_Replication"><span class="tocnumber">2.2</span> <span class="toctext">DNA Replication</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-16"><a href="#RNA"><span class="tocnumber">3</span> <span class="toctext">RNA</span></a>
+<ul>
+<li class="toclevel-2 tocsection-17"><a href="#Types"><span class="tocnumber">3.1</span> <span class="toctext">Types</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#Transcription_.28DNA_to_mRNA.29"><span class="tocnumber">3.2</span> <span class="toctext">Transcription (DNA to mRNA)</span></a>
+<ul>
+<li class="toclevel-3 tocsection-19"><a href="#Initiation"><span class="tocnumber">3.2.1</span> <span class="toctext">Initiation</span></a></li>
+<li class="toclevel-3 tocsection-20"><a href="#Elongation"><span class="tocnumber">3.2.2</span> <span class="toctext">Elongation</span></a></li>
+<li class="toclevel-3 tocsection-21"><a href="#Termination"><span class="tocnumber">3.2.3</span> <span class="toctext">Termination</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-22"><a href="#Pre-mRNA_Processing_.28Post-Transcriptional_Processing.29"><span class="tocnumber">3.3</span> <span class="toctext">Pre-mRNA Processing (Post-Transcriptional Processing)</span></a></li>
+<li class="toclevel-2 tocsection-23"><a href="#Translation_.28mRNA_to_Protein.29"><span class="tocnumber">3.4</span> <span class="toctext">Translation (mRNA to Protein)</span></a>
+<ul>
+<li class="toclevel-3 tocsection-24"><a href="#Initiation_2"><span class="tocnumber">3.4.1</span> <span class="toctext">Initiation</span></a></li>
+<li class="toclevel-3 tocsection-25"><a href="#Elongation_2"><span class="tocnumber">3.4.2</span> <span class="toctext">Elongation</span></a></li>
+<li class="toclevel-3 tocsection-26"><a href="#Termination_2"><span class="tocnumber">3.4.3</span> <span class="toctext">Termination</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-27"><a href="#Interpreting_Genetic_Code"><span class="tocnumber">3.5</span> <span class="toctext">Interpreting Genetic Code</span></a>
+<ul>
+<li class="toclevel-3 tocsection-28"><a href="#List_of_Amino_Acids"><span class="tocnumber">3.5.1</span> <span class="toctext">List of Amino Acids</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-29"><a href="#Mitosis_.26_Cell_Cycle"><span class="tocnumber">4</span> <span class="toctext">Mitosis &amp; Cell Cycle</span></a>
+<ul>
+<li class="toclevel-2 tocsection-30"><a href="#Interphase"><span class="tocnumber">4.1</span> <span class="toctext">Interphase</span></a></li>
+<li class="toclevel-2 tocsection-31"><a href="#Prophase"><span class="tocnumber">4.2</span> <span class="toctext">Prophase</span></a></li>
+<li class="toclevel-2 tocsection-32"><a href="#Metaphase"><span class="tocnumber">4.3</span> <span class="toctext">Metaphase</span></a></li>
+<li class="toclevel-2 tocsection-33"><a href="#Anaphase"><span class="tocnumber">4.4</span> <span class="toctext">Anaphase</span></a></li>
+<li class="toclevel-2 tocsection-34"><a href="#Telophase"><span class="tocnumber">4.5</span> <span class="toctext">Telophase</span></a></li>
+<li class="toclevel-2 tocsection-35"><a href="#Cytokinesis"><span class="tocnumber">4.6</span> <span class="toctext">Cytokinesis</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-36"><a href="#Meiosis"><span class="tocnumber">5</span> <span class="toctext">Meiosis</span></a>
+<ul>
+<li class="toclevel-2 tocsection-37"><a href="#Meiosis_I"><span class="tocnumber">5.1</span> <span class="toctext">Meiosis I</span></a></li>
+<li class="toclevel-2 tocsection-38"><a href="#Meiosis_II"><span class="tocnumber">5.2</span> <span class="toctext">Meiosis II</span></a></li>
+<li class="toclevel-2 tocsection-39"><a href="#Post-Meiosis"><span class="tocnumber">5.3</span> <span class="toctext">Post-Meiosis</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-40"><a href="#Genetic_Disorders"><span class="tocnumber">6</span> <span class="toctext">Genetic Disorders</span></a>
+<ul>
+<li class="toclevel-2 tocsection-41"><a href="#Polysomy_and_Monosomy"><span class="tocnumber">6.1</span> <span class="toctext">Polysomy and Monosomy</span></a></li>
+<li class="toclevel-2 tocsection-42"><a href="#Addition.2C_Deletion.2C_Translocation"><span class="tocnumber">6.2</span> <span class="toctext">Addition, Deletion, Translocation</span></a></li>
+<li class="toclevel-2 tocsection-43"><a href="#Karyotypes"><span class="tocnumber">6.3</span> <span class="toctext">Karyotypes</span></a>
+<ul>
+<li class="toclevel-3 tocsection-44"><a href="#Sex_determination"><span class="tocnumber">6.3.1</span> <span class="toctext">Sex determination</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-45"><a href="#Common_Genetic_Disorders"><span class="tocnumber">6.4</span> <span class="toctext">Common Genetic Disorders</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-46"><a href="#Resources"><span class="tocnumber">7</span> <span class="toctext">Resources</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Inheritance">Inheritance</span></h2>
+<h3><span id="Single-Factor_(Monohybrid)_Crosses"></span><span class="mw-headline" id="Single-Factor_.28Monohybrid.29_Crosses">Single-Factor (Monohybrid) Crosses</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:656px;"><a href="/wiki/index.php/File:Punnett.jpg" class="image"><img alt="" src="/wiki/images/c/ca/Punnett.jpg" width="654" height="257" class="thumbimage" /></a>  <div class="thumbcaption">Two Punnett squares depicting the most common monohybrid crosses.</div></div></div>
+<p>The images to the right are examples of Punnett squares, named after the geneticist Reginald C. Punnett. Punnett squares show the cross between alleles and the genotype of the resulting offspring. Since both of the Punnet squares in the diagram only cross one trait (one pair of alleles), it is called a monohybrid or single-factor cross. Likewise, when two traits (two pairs of alleles) are crossed, it is called a dihybrid or two-factor cross. Dihybrid crosses are described in the next section of this page.
+</p><p>The Punnett square at left shows a cross between two heterozygous plants (that is, they each have one dominant allele and one recessive allele). The Punnett square at right shows a cross between a homozygous tall plant and a homozygous short plant (homozygous means that both alleles are the same). The letters inside the boxes represent the genotype of each offspring, with each individual letter representing a single allele. Note that the choice of letters is arbitrary and dictated mostly by convention - for simple dominant/recessive genes, the first letter of the dominant trait name is most common, as uppercase for the dominant trait and lowercase for the recessive trait. For example, in the first square, the genotypes of the offspring will be TT, Tt, and tt (2 of the 4 offspring will have the same genotype-<i>Tt</i>).
+</p><p>It is helpful to memorize the genotypic and phenotypic ratios of a heterozygous monohybrid cross. If two heterozygotes are crossed (like the left Punnett Square in the image to the right) then the genotypic ratio will always be:
+</p>
+<dl><dd><b>1 homozygous dominant&#160;: 2 heterozygous&#160;: 1 homozygous recessive</b></dd></dl>
+<p>and the phenotypic ratio will be:
+</p>
+<dl><dd><b>3 dominant&#160;: 1 recessive</b></dd></dl>
+<p>Note that genotypic and phenotypic ratios are often written without the particular allelic combinations or traits - for example, the above two ratios will most often be written as 1:2:1 and 3:1 respectively.
+</p><p>Memorizing other simple crosses (such as a single-factor <i>homozygous dominant x homozygous recessive</i> cross) is useful and saves time on tests. Here are some simple monohybrid crosses with their respective genotypic and phenotypic ratios.
+</p>
+<table class="wikitable">
+<caption>Common monohybrid crosses (for simple dominant/recessive genes)
+</caption>
+<tbody><tr>
+<th>Cross
+</th>
+<th>Geontypic ratio
+</th>
+<th>Phenotypic ratio
+</th></tr>
+<tr>
+<td><b>Aa x Aa</b> (Heterozygous x Heterozygous)
+</td>
+<td>1 AA&#160;: 2 Aa&#160;: 1 aa
+</td>
+<td>3 dominant&#160;: 1 recessive
+</td></tr>
+<tr>
+<td><b>AA x aa</b> (Homozygous dominant x Homozygous recessive)
+</td>
+<td>0 AA&#160;: 4 Aa&#160;: 0 aa
+</td>
+<td>4 dominant&#160;: 0 recessive
+</td></tr>
+<tr>
+<td><b>AA x Aa</b> (Homozygous dominant x Heterozygous)
+</td>
+<td>2 AA&#160;: 2 Aa&#160;: 0 aa
+</td>
+<td>4 dominant&#160;: 0 recessive
+</td></tr>
+<tr>
+<td><b>Aa x aa</b> (Heterozygous x homozygous recessive)
+</td>
+<td>0 AA&#160;: 2 Aa&#160;: 2 aa
+</td>
+<td>2 dominant&#160;: 2 recessive
+</td></tr>
+</tbody></table>
+<p>The two remaining types of crosses, AA x AA and aa x aa, are not shown because the ratios are trivial - since only one allele is present between both parents, all offspring will be homozygous for that allele and display the associated trait.
+</p><p>Note that a genotype refers to a combination of alleles, while a phenotype refers to a trait displayed by an organism. Likewise, the genotypic ratio is a ratio of the various possible genotypes in a cross, while the phenotypic ratio is a ratio of the various possible phenotypes in a cross. These terms are important and often confused - pay attention to the exact terms being used on tests so that your answers match what is being asked for by the questions.
+</p>
+<h3><span id="Two-Factor_(Dihybrid)_Crosses"></span><span class="mw-headline" id="Two-Factor_.28Dihybrid.29_Crosses">Two-Factor (Dihybrid) Crosses</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:387px;"><a href="/wiki/index.php/File:2xNEW.jpg" class="image"><img alt="" src="/wiki/images/7/7c/2xNEW.jpg" width="385" height="480" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/index.php/File:2xNEW.jpg" class="internal" title="Enlarge"></a></div>A dihybrid cross between two parents that are heterozygous for both traits shown.</div></div></div>
+<p>Two-factor (dihybrid) crosses are similar to single-factor crosses, but involve two traits as opposed to one single trait. An example of this revolving around peas is pictured to the right. Both organisms are heterozygous for the two traits being crossed, meaning that their genotypes are RrYy. In this example, the "R" allele represents the shape of the seed and the "Y" allele represents the color. It is important to note the genotypic and phenotypic ratios for a heterozygous dihybrid cross. Regardless of the alleles, if two dihybrid heterozygotes are crossed, then the resulting phenotypic ratio will be:
+</p>
+<dl><dd><b>9 D/D: 3 D/R: 3 R/D: 1 R/R (D = Dominant trait, R = Recessive trait)</b></dd></dl>
+<p>and the genotypic ratio will be:
+</p>
+<dl><dd><b>1 D/D: 2 D/H: 1 D/R: 4 H/H: 4 H/D: 1 R/D: 2 R/H: 1 R/R (D = Homozygous dominant, R = Homozygous recessive, H = Heterozygous)</b></dd></dl>
+<p>So, the phenotypic ratio for the pictured dihybrid cross is:
+</p>
+<dl><dd><b>9 round/yellow:3 round/green: 3 wrinkled/yellow: 1 wrinkled/green</b></dd></dl>
+<p>Note that a dihybrid cross can be broken down into two overlaid monohybrid crosses. Each group of four squares in the image (top left, bottom left, top right, and bottom right) represent one of the possible results of a monohybrid cross Rr x Rr. Each of the squares within those four groups represents the possible results of a monohybrid cross Yy x Yy - this can occur once for each possible result of the Rr x Rr cross.
+</p><p>As with monohybrid crosses, dihybrid crosses can involve parents with various combinations of genotypes. While it may not be practical to memorize all of the different types of dihybrid crosses, it is useful to have them on a <a href="/wiki/index.php/Notes" class="mw-redirect" title="Notes">notesheet</a> for reference, since they frequently come up on tests.
+</p>
+<div class="thumb tleft"><div class="thumbinner" style="width:302px;"><a href="/wiki/index.php/File:2x.jpg" class="image"><img alt="" src="/wiki/images/f/f0/2x.jpg" width="300" height="202" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/index.php/File:2x.jpg" class="internal" title="Enlarge"></a></div>A simplified dihybrid cross.</div></div></div>
+<p><br clear="both" />
+</p>
+<h3><span class="mw-headline" id="Higher-level_crosses">Higher-level crosses</span></h3>
+<div class="thumb tleft"><div class="thumbinner" style="width:302px;"><a href="/wiki/index.php/File:Trihybrid.jpg" class="image"><img alt="" src="/wiki/images/c/cb/Trihybrid.jpg" width="300" height="141" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/index.php/File:Trihybrid.jpg" class="internal" title="Enlarge"></a></div>A trihybrid cross between parents that are heterozygous for all three traits (genotype AaBbCc). The different colors each represent a single phenotype.</div></div></div>
+<p>Crosses and Punnett squares may be used with any number of genes. As of the 2019 <a href="/wiki/index.php/Rules" class="mw-redirect" title="Rules">rules</a>, trihybrid crosses are a Nationals-only topic, rarely seen on tests, and higher crosses are not allowed on tests. Like single- and double-factor crosses, three-factor (trihybrid) crosses show three different traits that are crossed. The image at right shows a trihybrid cross between two parents that are heterozygous for all three traits (that is, a genotype of AaBbCc). Trihybrid crosses are rarely seen on tests, so don't spend too much time practicing them until the later stages of competition.
+<br clear="both" /> 
+</p>
+<h3><span class="mw-headline" id="Special_Forms_of_Inheritance">Special Forms of Inheritance</span></h3>
+<p>Strict dominant/recessive genes are useful for illustrating the basic concepts of Mendelian inheritance but are relatively rare in real life. Various other forms of allele interactions are also part of this event.
+</p>
+<h4><span class="mw-headline" id="Incomplete_dominance_and_Codominance">Incomplete dominance and Codominance</span></h4>
+<p>In some cases neither of the two alleles establishes dominance, and the heterozygous phenotype is different from either of the homozygous phenotypes. This can result in either incomplete dominance or codominance, depending on the specifics of the phenotypic expression.
+</p>
+<div class="thumb tleft"><div class="thumbinner" style="width:152px;"><a href="/wiki/index.php/File:IncDom.png" class="image"><img alt="" src="/wiki/images/6/68/IncDom.png" width="150" height="185" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/index.php/File:IncDom.png" class="internal" title="Enlarge"></a></div>Incomplete dominance in the F1 generation. Note the use of "I" with superscript letters as allele symbols.</div></div></div>
+<p>In incomplete dominance, the heterozygous phenotype is an intermediate variety between the two homozygous phenotypes. For example, 4 o'clock flowers have a homozygous red phenotype and a homozygous white phenotype, while the heterozygous condition displays a pink color (see the image at left). Often, incomplete dominance is shown in the allele symbols with an "I" and the first letter of the particular phenotype in superscript.
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:202px;"><a href="/wiki/index.php/File:Codominance.png" class="image"><img alt="" src="/wiki/images/6/6b/Codominance.png" width="200" height="177" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/index.php/File:Codominance.png" class="internal" title="Enlarge"></a></div>Codominance in the F1 generation. Note the use of capital letters as allele symbols.</div></div></div>
+<p>Codominance is very similar to incomplete dominance, but the specifics of the phenotypic interaction are different. In codominance, the heterozygous phenotype displays both homozygous phenotypes in some way. For example, roan cows express both the red and white alleles in patches (see the image at right). Another example of a gene that includes codominance is ABO blood type, described in a later section.
+</p><p>Note that the convention of capital letters vs. "I" and superscript for codominance vs. incomplete dominance is loose - the use of a particular convention doesn't necessarily help distinguish the two on tests.<br clear="both" />
+</p>
+<h4><span class="mw-headline" id="Sex-linked_traits">Sex-linked traits</span></h4>
+<p>Sex-linked traits are features that are associated with the genes on the sex chromosomes. Most sex-linked genes, such as the recessive alleles for red-green color blindness and hemophilia, are carried on the X chromosome; however, there are a few Y-linked genes (e.g. some forms of baldness). 
+</p>
+<div class="thumb tleft"><div class="thumbinner" style="width:202px;"><a href="/wiki/index.php/File:X-linked-punnett.png" class="image"><img alt="" src="/wiki/images/6/6a/X-linked-punnett.png" width="200" height="232" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/index.php/File:X-linked-punnett.png" class="internal" title="Enlarge"></a></div>A Punnett square showing a cross between a male with hemophilia and a female carrier.</div></div></div>
+<p>The most notable feature of X-linked recessive traits is the fact that they tend to occur more often in males since only a single X chromosome with the allele is needed for the trait to be displayed (as males have one X and one Y chromosome). In contrast, females must have the allele on both X chromosomes to display the trait. The Punnett square at left is an example of hemophilia, a common example of an X-linked recessive trait. X-linked traits may be dominant as well, though that is much less common. It is also worth noting that due to X chromosome inactivation in females, the dominant/recessive model is not as accurate for X-linked traits.
+</p><p>Y-linked traits are less common than X-linked traits due to the smaller size of the Y chromosome. They also follow a much simpler inheritance pattern since they can only pass through the male line. If a father has the trait, all of his sons will also have the trait, and vice-versa (since they can only receive the one affected Y chromosome).<br clear="all" />
+</p>
+<h4><span class="mw-headline" id="Multiple_genes">Multiple genes</span></h4>
+<p>Most phenotypic features are controlled by more than one set of non-allelic genes acting on them, such as height, skin color, intelligence, and hair and eye color. Usually this type of problem is seen as a typical two or three, etc factor cross with the more dominants, the more expression of the trait in question. 
+</p>
+<h4><span class="mw-headline" id="Multiple_alleles">Multiple alleles</span></h4>
+<p>There may be more than the usual two alleles for any given gene. A particular individual may have two of those alleles in some combination. Especially, this appears in fur or pelt conditions of domestic animals. The types of interactions between these alleles may vary - for example, the most common example (the ABO blood type system) includes 3 alleles - the I<sup>A</sup> and <sup>B</sup> alleles, which are codominant with each other (despite the frequent use of "I" and superscript, this is <i>not</i> an example of incomplete dominance), and the i allele (representing blood type O) which is recessive to I<sup>A</sup> and I<sup>B</sup>.
+</p>
+<h4><span class="mw-headline" id="Lethal_alleles">Lethal alleles</span></h4>
+<p>While lethal alleles do not affect the way you set up your Punnett square, they can appear to alter Mendelian ratios. A lethal genotype is one that causes death before the individual can reproduce and pass their genes on to the next generation. As such, they remove an expected progeny class after a specific cross. For example, in Mexican hairless dogs, the genotype hh means that the dog is hairy, Hh means that the dog is hairless, but HH means that they die as embryos - thus the term "lethal".
+</p>
+<h4><span class="mw-headline" id="Epistasis">Epistasis</span></h4>
+<p>Epistasis is where one set of genes stops or inhibits the action of other genes. The most common example of epistasis is albinism. Consider a simple dominant/recessive gene for eye coloration, where B = brown and b = blue (simplified for illustrative purposes). Say there is another simple dominant/recessive gene where P = normal pigmentation and p = not pigmented (i.e. albino). If the albinism gene is homozygous dominant or heterozygous in an individual they will have normal pigmentation and their eye color will be according to their eye color genotype. If, however, they are homozygous recessive for albinism they will have reddish eyes (which is the typical phenotype for albino eyes), regardless of whether their eye color genotype is BB, Bb, or bb - the epistatic albinism gene overrides the eye color gene. Epistasis genes do not necessarily have to be recessive - for example, some flowers have epistatic genes where the dominant allele suppresses the production of certain pigments.
+</p>
+<h3><span class="mw-headline" id="Pedigrees">Pedigrees</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/wiki/index.php/File:Pedigree-example.png" class="image"><img alt="" src="/wiki/images/f/f0/Pedigree-example.png" width="300" height="184" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/index.php/File:Pedigree-example.png" class="internal" title="Enlarge"></a></div>A pedigree chart showing the expression of a trait through three generations of a family.</div></div></div>
+<p>A pedigree is a graphical depiction of the inheritance pattern of a single trait through a family tree. The image at right shows an example of a pedigree, with some common symbols in the key. The conventions of squares for males and circles for females, as well as that of shading to show individuals with the trait in question, are among the few that are common to all pedigrees - there is a lot of variation. For example, some pedigrees indicate carriers of a trait with partially shaded squares/circles, while others do not.
+</p><p>Often, questions involving pedigrees may ask competitors to determine the genotypes of several individuals or identify the inheritance pattern of the trait in question. For example, consider the pedigree at right. Based on the fact that neither individual in the first generation has the trait but some of their direct offspring do, we know that carriers are not marked in this pedigree (and we also know that the trait cannot be dominant). The fact that all six affected individuals are male strongly implies that the trait is sex-linked. Y-linkage can be ruled out because some affected sons have unaffected fathers, and vice-versa. Therefore, the most likely inheritance pattern for this trait is X-linked recessive. Note that we have not ruled out an autosomal recessive inheritance pattern since there is not enough information in this pedigree to do so.
+</p>
+<h2><span class="mw-headline" id="DNA">DNA</span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:202px;"><a href="/wiki/index.php/File:Nucleotide.png" class="image"><img alt="" src="/wiki/images/9/91/Nucleotide.png" width="200" height="218" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/index.php/File:Nucleotide.png" class="internal" title="Enlarge"></a></div>A diagram of a nucleotide, showing the various parts.</div></div></div>
+<p>DNA is made up of three components: a <b>phosphate group</b>, a deoxyribose <b>sugar</b>, and heterocyclic (the ring contains both nitrogen and carbon atoms) ring(s) for the <b>nitrogenous base</b>. Purines have two such rings; pyrimidines, one. The bases found in DNA are adenine and guanine (<b>purines</b>), and thymine and cytosine (<b>pyrimidines</b>), and are usually referenced by their first letter A, T, C, or G, especially when writing sequences. Mnemonics for remembering purines vs. pyrimidines are "CUT pie" and "Pure As Gold;" C, U (uracil in RNA), and T are pyrimidines, while A, G are purines; purine is the shorter word and has more rings.
+</p><p>Note that nucleotides and nucleosides are different. <b>Nucleosides</b> consist of just the deoxyribose sugar and the base (heterocyclic rings). <b>Nucleotides</b> are nucleosides with phosphate groups; as such, sometimes nucleotides are referred to as nucleoside phosphates, with a prefix on phosphates describing the number of phosphate groups attached (e.g. triphosphate if there are three).
+</p><p>The carbons on the sugar are number with primes (e.g. 3', read as "three prime"). The phosphate group is attached to the 5' carbon, and the nitrogenous base is attached to the 1' carbon. The sugar and phosphate groups form the backbone or the sides of the double helix "ladder" and the nitrogenous bases stick out from the chain like "rungs" of the ladder.
+</p><p>Watson, Crick, and Maurice Wilkins are often credited with finding the structure of DNA. Rosalind Franklin, however, was the first to use X-ray diffraction to see the DNA helix. Watson and Crick used her work to discover the helical structure in 1953. See <i>The Double Helix</i> by James D. Watson for more information.
+</p>
+<div class="thumb tleft"><div class="thumbinner" style="width:202px;"><a href="/wiki/index.php/File:DNA-bases.png" class="image"><img alt="" src="/wiki/images/7/77/DNA-bases.png" width="200" height="150" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/index.php/File:DNA-bases.png" class="internal" title="Enlarge"></a></div>The four bases found in DNA, as well as uracil, which is found in RNA. Notice the double rings of purines vs. the single rings of pyrimidines.</div></div></div>
+<p>DNA is stored in the nucleus of a cell in a form known as <b>chromatin</b>. This chromatin consists of loose DNA, proteins called histones, and RNA. Chromatin has a variety of functions including:
+</p>
+<ul><li>Packaging loose DNA into a more dense shape</li>
+<li>Reinforcing DNA so mitosis can occur</li>
+<li>Preventing DNA damage that could result in mutation or cell death</li>
+<li>Controlling gene expression and replication</li></ul>
+<p>There are two varieties of chromatin known as euchromatin and heterochromatin. <b>Euchromatin</b> is the most actively transcribed form of DNA, and 92% of the human genome is euchromatic. <b>Heterochromatin</b> is more tightly packed, and typically is responsible for structural functions such as the centromeres and telomeres on a chromosome. 
+</p><p>Chromatin condenses into chromosomes at the beginning of mitosis. During mitosis, the chromosome has a copy of itself attached to it at the centromere known as a chromatid. This copy was created during DNA replication. These chromatids are later separated and becomes their own individual chromosomes. During mitosis all chromatids are sister chromatids, meaning that they are identical. Non-sister chromatids appear in meiosis when a paternal and maternal chromosome are paired together.
+</p>
+<h3><span class="mw-headline" id="Base_Pairing">Base Pairing</span></h3>
+<p>Adenine only hydrogen bonds with thymine and guanine bonds only with cytosine. This is called base pairing. According to <b>Chargaff's rule</b>, an organism should have equal percentages of adenine and thymine and cytosine and guanine. One way to remember which base pairs with which is to remember the "curvy" letters go together. If Chargaff's rules do not hold, the organism's DNA may be single-stranded rather than double-stranded.
+</p><p>In RNA, uracil replaces thymine and thus, uracil bonds with adenine. DNA bases are Adenine-Thymine, Cytosine-Guanine. RNA bases are Adenine-Uracil, Cytosine-Guanine. Any other base pairing combinations are considered errors.
+</p>
+<h3><span class="mw-headline" id="DNA_Replication">DNA Replication</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/wiki/index.php/File:DNA-replication.png" class="image"><img alt="" src="/wiki/images/4/48/DNA-replication.png" width="300" height="187" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/index.php/File:DNA-replication.png" class="internal" title="Enlarge"></a></div>A diagram of DNA replication</div></div></div>
+<p>When a cell divides, it makes a duplicate of its DNA in the S-phase of the cell cycle so the daughter cells will have a complete set of chromosomes (see below, <a href="/wiki/index.php/Heredity#Mitosis" title="Heredity">Mitosis</a>). This process is DNA replication, also called DNA <b>synthesis</b>.
+</p><p>First, <b>helicase</b> separates the strands by breaking the hydrogen bonds between nitrogenous bases while <b>topisomerase</b> relieves supercoiling in the DNA caused by helicase. This area of separation is called a <b>replication fork</b>. <b>Single-stranded DNA-binding protein</b> keeps the separated DNA strands from rejoining (re-annealing).
+</p><p>Before DNA polymerase can enter the replication fork to make copies of the DNA strands, <b>primase</b> must put down an RNA "primer" that forms hydrogen bonds with existing DNA bases; this is the starting point for DNA polymerase. The next step is <b>elongation</b> by <b>DNA polymerase</b>, which creates some difficulties because of how enzymes "read." DNA polymerases can only copy from 5' to 3' which works for one strand, called the <b>leading strand</b>. However, the complementary DNA strand is 3' to 5'; this strand is called the <b>lagging strand</b>. While DNA polymerases can copy the leading strand in one piece without a problem, it can only replicate the lagging strand in spurts by replicating small sections in the 5' to 3' direction. The replicated portions of the lagging strand done in spurts are called <b>Okazaki fragments</b>. Each Okazaki fragment requires a new primer before DNA polymerase can copy that fragment. (In eukaryotic replication, only the DNA polymerases involved in elongation have <b>proofreading</b> capability. Therefore, primers are a possible site for errors which are more frequent along the lagging strand.)
+</p><p>Once elongation is complete, an <b>exonuclease</b> (an enzyme that cleaves nitrogenous bonds) replaces the RNA primers with DNA bases. Finally, <b>ligase</b> connects the backbones of adjacent sections by catalyzing the formation of phosphodiester bonds between the 3' hydroxyl group and the 5' phosphate. This connects backbones of replicated sections with each other and the rest of the DNA strand.
+</p><p>Prokaryotes, which have circular genomes, usually only have one active origin of replication. This means replication starts at one point along the loop, continues around the entire loop (in opposite directions on complementary strands) until the entire genome is copied. Eukaryotes can have multiple origins of replication. This means multiple sets of enzymes replicating DNA can simultaneously copy different sections of DNA. Ligase connects these many sections that are replicated, forming one continuous genome.
+</p><p>DNA replication is considered <b>semi-conservative</b>. This means that after copying a strand of double-stranded DNA, each copy will have one strand from the original parent strand. This contrasts with conservative replication where one strand would be entirely original and a second would be entirely new.
+</p>
+<h2><span class="mw-headline" id="RNA">RNA</span></h2>
+<p>RNA (ribonucleic acid) is usually a single-stranded nucleotide chain, not a double helix like DNA. While it does not share the same structure as DNA, it has many similar properties. RNA consists of a <b>ribose</b> sugar and hydroxyl group (on the 2' carbon of ribose), as opposed to deoxyribose (which only has hydrogen on the 2' carbon). RNA also consists of adenine, guanine and cytosine, but thymine is replaced with <b>uracil</b>.
+</p>
+<h3><span class="mw-headline" id="Types">Types</span></h3>
+<p>There are three major types of RNA. While there are many other minor types, these three are heavily involved in translation.
+</p>
+<ul><li>Messenger RNA (mRNA): Encodes the sequence of amino acids that becomes a protein.</li>
+<li>Transfer RNA (tRNA): Transports amino acids to ribosomes during translation. It contains about 80 RNA nucleotides, with an amino acid attached to the 3' end and an a complimentary anticodon attached to the 5' end.</li>
+<li>Ribosomal RNA (rRNA): Along with ribosomal proteins, rRNA makes up the ribosome which is molecular machine the that translates mRNA into proteins.</li></ul>
+<p>Some of the other classifications of RNA are useful to recognize and are listed below.
+</p>
+<ul><li>Non-coding RNAs (ncRNA): This refers to any RNAs that do not result in a protein product. This includes tRNA and rRNA mentioned above.</li>
+<li>microRNA (miRNA): Short sections of RNA that can anneal to matching complementary strands of RNA, silencing expression by preventing their translation.</li>
+<li>Small nuclear RNA (snRNA): snRNA is involved in splicing of pre-mRNA. Splicing only occurs in eukaryotes, and produces different transcripts by removing introns.</li>
+<li>Pre-messenger RNA (pre-mRNA): This refers to newly transcribed RNA that has not be processed by post-transcriptional processing.</li>
+<li>Heterogenous nuclear RNA (hnRNA): RNAs located in the nucleus, which includes pre-mRNA.</li></ul>
+<h3><span id="Transcription_(DNA_to_mRNA)"></span><span class="mw-headline" id="Transcription_.28DNA_to_mRNA.29">Transcription (DNA to mRNA)</span></h3>
+<p><b>Transcription</b> is the process of transcribing DNA into pre-mRNA so that it can be later translated into proteins. This is the first major step of gene expression and occurs within the nucleus in eukaryotes. Transcription produces a complementary sequence to the DNA; A pairs with T in DNA, U pairs with A, G pairs with C and C pairs with G. For example:
+</p>
+<pre>DNA:  3' GCACGTGTAGCATAGTACTAG 5'
+mRNA: 5' CGUGCACAUCGUAUCAUGAUC 3'
+</pre>
+<p>Transcription occurs in the nucleus during the G0 phase (non-dividing) as well as the G1 and G2 phases of the cell cycle. In eukaryotes, it occurs in three distinct stages: initiation, elongation, and termination.
+</p>
+<h4><span class="mw-headline" id="Initiation">Initiation</span></h4>
+<ol><li>Activator proteins bind to distal control elements that are located before the DNA sequence known as a <b>promoter</b>. Promoters are located near but before the start sites of genes, and allow various proteins and enzymes (such as RNA polymerase II) to form an initiation complex via binding that begins transcription. Note that promoters are part of initiation and their specific sequences are not transcribed.</li>
+<li>Proteins called <b>transcription factors</b> bind to a specific DNA sequence known as a promoter. At this point in the process, the DNA is still double stranded. RNA polymerase binds to the promoter region shortly after the transcription factors.</li>
+<li>RNA polymerase unwinds approximately 14 base pairs to form an <b>"open complex"</b> that becomes the <b>transcription bubble</b>. As the RNA polymerase begins creating RNA, the produced RNA enters the RNA exit channel and leaves behind the initial transcription factors.</li></ol>
+<h4><span class="mw-headline" id="Elongation">Elongation</span></h4>
+<ol><li>RNA polymerase begins unwinding the double helix and exposes 10-20 nucleotides at at time for transcription. <b>RNA polymerase</b> builds the new RNA using free-floating RNA nucleotides in the nucleoplasm.</li>
+<li>RNA polymerase travels from the 3' → 5' direction on the template strand of DNA, producing a mRNA strand in the 5' → 3' direction. This process produces an RNA copy of the 5' → 3' DNA strand (e.g. if the DNA strand being transcribed is 3'-ATCG-5', the RNA product will be 5'-UAGC-3', which matches the DNA sequence's complementary strand, 5'-TAGC-3' but with U instead of T.)</li>
+<li>RNA transcription occurs very quickly, and can involve multiple RNA polymerases simultaneously working on a single gene. The typical rate of elongation is 10-100 nucleotides/sec.</li>
+<li>Elongation also involves a proofreading mechanism that can replace incorrect nucleotides. Transcription pauses, allowing RNA editing factors to bind to the new strand of mRNA and edit base order.</li></ol>
+<h4><span class="mw-headline" id="Termination">Termination</span></h4>
+<ol><li>The RNA codes for the <b>polyadenylation sequence</b> (AAUAAA), and the proteins associated with the RNA polymerase stop moving.</li>
+<li>RNA polymerase continues moving, adding hundreds of adenine nucleotides to the end of the mRNA strand. Spare RNA created like this may be used by enzymes.</li>
+<li>A termination factor releases the newly created mRNA, called pre-mRNA, which after post-transcriptional processing leaves the nucleus and travels to the ribosome where it is translated into a protein.</li></ol>
+<h3><span id="Pre-mRNA_Processing_(Post-Transcriptional_Processing)"></span><span class="mw-headline" id="Pre-mRNA_Processing_.28Post-Transcriptional_Processing.29">Pre-mRNA Processing (Post-Transcriptional Processing)</span></h3>
+<p>Pre-mRNA processing is a process that only occurs in eukaryotes. When mRNA is first transcribed, it is known as a pre-mRNA. This processing turns it into a full-fledged mRNA, allowing it to be translated into proteins. First, a <b>5' cap</b> is added to the beginning, 5' end, of the pre-mRNA, and a 3' poly-A tail is added to the end. The 5' cap is a modified guanine molecule, 7-methylguanylate, that protects the 5' end of the transcript from degradation by ribonucleases (RNases). The 5' cap also allows the ribosome to attach to the mRNA in the first step of translation. The <b>3' poly-A tail</b> is made of 100-200 adenine (A) bases, stabilizing the mRNA. The poly-A tail is gradually degraded by RNases, so the length of the sequence helps delay degradation from reaching the protein-coding sequence of the RNA. The addition of the cap is simply known as mRNA <b>capping</b>, while the addition of the tail is known as <b>polyadenylation</b>.
+</p><p>In splicing, snRNP (small nuclear ribonucleoproteins) and snRNA (small nuclear RNAs) remove sections of the transcript called as <b>introns</b>, leaving behind the remaining sections, <b>exons</b>. This post-translational processing step allows for one pre-mRNA to code for many different protein produces by merely varying which introns are removed. For more information on splicing, see <a href="/wiki/index.php/Designer_Genes#Alternative_splicing" title="Designer Genes">Designer Genes#Alternative splicing</a>.
+</p>
+<h3><span id="Translation_(mRNA_to_Protein)"></span><span class="mw-headline" id="Translation_.28mRNA_to_Protein.29">Translation (mRNA to Protein)</span></h3>
+<p><b>Translation</b> is the process of translating the mRNA created during transcription into a protein. These proteins are responsible for different genetic traits such as hair/eye color, blood type, or hereditary conditions such as color blindness. These proteins may also have important cellular functions, such as DNA replication.
+</p><p>Translation takes place in the cytosol on <b>ribosomes</b>, enzymes with three chambers and two subunits that consists of rRNA and other proteins. Ribosomes are often referred to by their small subunit and large subunit. The <b>small subunit</b> initially binds to the mRNA, while the <b>large subunit</b> contains the chambers responsible for protein synthesis. The three chambers are the <b>A site</b> (aminoacyl-tRNA binding site), the <b>P site </b>(peptidyl-tRNA binding site) and the <b>E site</b> (exit site). Like transcription, translation occurs in three steps: initiation, elongation, and termination. An mRNA transcript is translated into a protein by reading three mRNA bases at a time; these three-letter "words" are called <b>codons</b> and correspond to a complementary <b>anticodon</b>.
+</p>
+<h4><span class="mw-headline" id="Initiation_2">Initiation</span></h4>
+<ol><li>The small subunit attaches to the mRNA and locates the <b>start codon</b>, AUG. The charged methionine tRNA binds to the start codon.</li>
+<li>The large subunit arrives and and attaches to the small subunit, completing the translation initiation complex.</li></ol>
+<h4><span class="mw-headline" id="Elongation_2">Elongation</span></h4>
+<ol><li>Amino acids are brought to the ribosome by charged <b>aminoacyl-tRNA</b> molecules and are added to the polypeptide chain one by one.</li>
+<li>As the charged tRNA molecules enter the complex through the A site, they move to the P site to the E site.
+<ul><li>The anticodon on a tRNA molecule binds to the mRNA codon at the A site.</li>
+<li>At the P site, an rRNA molecule in the large subunit catalyzes the formation of a peptide bond between the amino acid on the tRNA and the polypeptide chain.</li>
+<li>The tRNA exits the ribosomal complex through the E site. The tRNA, having lost its amino acid to the growing polypeptide, is now considered uncharged.</li></ul></li></ol>
+<h4><span class="mw-headline" id="Termination_2">Termination</span></h4>
+<ol><li>The <b>stop codon</b> (UAA, UAG, or UGA) on the mRNA reaches the A site.</li>
+<li>Release factors bind to the stop codon at the A site.</li>
+<li>A water molecule is added to the end of the polypeptide instead of an amino acid, and hydrolysis releases the chain so it can be later folded into its final structure.</li></ol>
+<p>In eukaryotes, protein folding occurs in the rough endoplasmic reticulum (rough ER) and can be facilitated by chaperone proteins that help proteins fold correctly. In prokaryotes, which lack compartmentalized organelles, transcription and translation can occur simultaneously, meaning a protein can be made while the mRNA that codes it is still being made!
+</p>
+<h3><span class="mw-headline" id="Interpreting_Genetic_Code">Interpreting Genetic Code</span></h3>
+<p>In translation, each of the three-letter codons corresponds with a complementary anticodon on a particular tRNA; different tRNA molecules are attached to different <b>amino acids</b> (the building blocks of proteins), meaning that each codon corresponds with one amino acid. Since there are only four different RNA nucleotides (A, U, C, and G), there are 64 possible three-letter codons. However, there are only 20 standard amino acids. This means that multiple codons can code for the same amino acid; this redundancy is called <b>degeneracy</b>. Usually, but not always, codons that code for the same amino acid have the same first two letters with a differing third letter; this property where a different third letter allows coding for the same amino acid is called <b>wobble</b>.
+</p><p>A sequence or chain of amino acids is called a <b>polypeptide</b>. Polypeptides are translated from the <b>N-terminus</b> to the <b>C-terminus</b>; the N-terminus has an amino group, and the C-terminus has a carboxylate group. A <b>protein</b> can consist of a single polypeptide or multiple polypeptides. Proteins are responsible for most biological functions in the body such as DNA replication, transcription, transporting molecules, and regulation of gene expression. Proteins are very complex macromolecules and have four different levels of structure. The amino acid sequence created in translation is known as the <b>primary structure</b>. The other levels of structure involve interactions between these amino acids or between entire polypeptides.
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:380px;"><a href="/wiki/index.php/File:AminoWheel.jpg" class="image"><img alt="" src="/wiki/images/9/9d/AminoWheel.jpg" width="378" height="378" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/index.php/File:AminoWheel.jpg" class="internal" title="Enlarge"></a></div>A codon chart in the form of a circle, which allows for matching a particular nucleotide sequence to an amino acid, or vice-versa.</div></div></div>
+<p>It is possible to interpret a DNA sequence into an amino acid sequence by using a chart like the one shown to the right. First, find the RNA nucleotides that would pair with the DNA nucleotides. This is the transcription step.
+</p>
+<pre>DNA: 3' TAC AGG TAG CTA GTT ATT 5'
+RNA: 5' AUG UCC AUC GAU CAA UAA 3'
+</pre>
+<p>Then, convert each three-letter codon to amino acids, following the sequence of nucleotides on the chart from the inside out. For example, the RNA sequence AUG corresponding to methionine (Met) starts translation, so methionine is found at the beginning of every newly-translated protein. (Although this does not mean that every protein begins with methionine; in many cases, the protein is processed after translation and the methionine may be removed. Methionine also isn't restricted to only being a start codon; it can also be elsewhere in the protein.)
+</p><p>In the center of the circle, start with the A quadrant, then follow the U quadrant and then the G quadrant. Note that the stop codon does not code for an amino acid.
+</p>
+<pre>RNA:         5' AUG        UCC    AUC        GAU           CAA       UAA   3'
+Amino Acids: N- Methionine Serine Isoleucine Aspartic Acid Glutamine Stop -C
+</pre>
+<p>While remembering the codon to amino acid conversions is not necessary, it may be helpful to remember the start and stop codons. The start codon is AUG; stop codons are UAA, UAG, and UGA. A mnemonic for remembering the stop codons is "U Are Amazing, U Are Genius, U Got A's."
+</p><p>The 20 amino acids also can be referred to by their full names, but are more commonly referred to by their <b>three-letter or single-letter abbreviations</b>, which are listed in the table below. The example peptide above could be called Met-Ser-Ile-Asp-Glu or MSIDE. Peptide sequences are always written from N- to C-terminus.
+</p>
+<h4><span class="mw-headline" id="List_of_Amino_Acids">List of Amino Acids</span></h4>
+<table class="wikitable" style="text-align: center; font-size: 100%; border: 1px solid #888;">
+
+<tbody><tr>
+<th>Name</th>
+<th>Abbreviation</th>
+<th>One Letter Code
+</th></tr>
+<tr>
+<td>Alanine
+</td>
+<td>Ala
+</td>
+<td>A
+</td></tr>
+<tr>
+<td>Arginine
+</td>
+<td>Arg
+</td>
+<td>R
+</td></tr>
+<tr>
+<td>Asparagine
+</td>
+<td>Asn
+</td>
+<td>N
+</td></tr>
+<tr>
+<td>Aspartic Acid/Aspartate
+</td>
+<td>Asp
+</td>
+<td>D
+</td></tr>
+<tr>
+<td>Cysteine
+</td>
+<td>Cys
+</td>
+<td>C
+</td></tr>
+<tr>
+<td>Glutamine
+</td>
+<td>Gln
+</td>
+<td>Q
+</td></tr>
+<tr>
+<td>Glutamic Acid/Glutamate
+</td>
+<td>Glu
+</td>
+<td>E
+</td></tr>
+<tr>
+<td>Glycine
+</td>
+<td>Gly
+</td>
+<td>G
+</td></tr>
+<tr>
+<td>Histidine
+</td>
+<td>His
+</td>
+<td>H
+</td></tr>
+<tr>
+<td>Isoleucine
+</td>
+<td>Ile
+</td>
+<td>I
+</td></tr>
+<tr>
+<td>Leucine
+</td>
+<td>Leu
+</td>
+<td>L
+</td></tr>
+<tr>
+<td>Lysine
+</td>
+<td>Lys
+</td>
+<td>K
+</td></tr>
+<tr>
+<td>Methionine (Start)
+</td>
+<td>Met
+</td>
+<td>M
+</td></tr>
+<tr>
+<td>Phenylalanine
+</td>
+<td>Phe
+</td>
+<td>F
+</td></tr>
+<tr>
+<td>Proline
+</td>
+<td>Pro
+</td>
+<td>P
+</td></tr>
+<tr>
+<td>Serine
+</td>
+<td>Ser
+</td>
+<td>S
+</td></tr>
+<tr>
+<td>Threonine
+</td>
+<td>Thr
+</td>
+<td>T
+</td></tr>
+<tr>
+<td>Tryptophan
+</td>
+<td>Trp
+</td>
+<td>W
+</td></tr>
+<tr>
+<td>Tyrosine
+</td>
+<td>Tyr
+</td>
+<td>Y
+</td></tr>
+<tr>
+<td>Valine
+</td>
+<td>Val
+</td>
+<td>V
+</td></tr></tbody></table>
+<h2><span id="Mitosis_&amp;_Cell_Cycle"></span><span class="mw-headline" id="Mitosis_.26_Cell_Cycle">Mitosis &amp; Cell Cycle</span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/wiki/index.php/File:Cell-cycle.png" class="image"><img alt="" src="/wiki/images/8/8a/Cell-cycle.png" width="300" height="252" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/index.php/File:Cell-cycle.png" class="internal" title="Enlarge"></a></div>A diagram of the cell cycle.</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:402px;"><a href="/wiki/index.php/File:Mitosis-diagram.png" class="image"><img alt="" src="/wiki/images/d/db/Mitosis-diagram.png" width="400" height="295" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/index.php/File:Mitosis-diagram.png" class="internal" title="Enlarge"></a></div>A diagram showing the steps involved in mitosis.</div></div></div>
+<p>The body grows by cell division, and mitosis is the process of cell division in somatic cells (that is, all cells other than the germ cells which produce eggs and sperm). In mitosis, a single diploid (two copies of each chromosome, one from each parent) cell divides to produce two diploid cells (the daughter cells). It is a part of the cell cycle, which describes the general life cycle of a cell.
+</p><p>Specifically, <b>mitosis</b> refers to the separation of replicated DNA chromosomes (and as a result the creation of two nuclei), while <b>cytokinesis</b> is the actual division of the cell into two distinct cells with each their own membrane. Mitosis can be divided into four phases: <b>prophase</b>, <b>metaphase</b>, <b>anaphase</b>, and <b>telophase</b>. Before mitosis is a step called <b>interphase</b>.
+</p>
+<h3><span class="mw-headline" id="Interphase">Interphase</span></h3>
+<p>Interphase is the part of the cell cycle that does not constitute mitosis; it is the phase in between two cell divisions, when the cell is growing. Most cells spend about 90% of their time in interphase. It consists of three separate stages:
+</p>
+<ul><li><b>G1 phase</b> (Gap 1) - This is the primary growth phase of a cell, and typically the longest phase. The cell grows and absorbs nutrients during this time. During this phase, organelles such as mitochondria and chloroplasts (for plant cells) are duplicated.</li>
+<li><b>S phase</b> (Synthesis) - Since the daughter cells must each have a full set of chromosomes (i.e. diploid), the DNA in the parent cell must replicate, which it does during this relatively short phase.</li>
+<li><b>G2 phase</b> (Gap 2) - A second, typically shorter gap phase in which the cell grows and prepares for mitosis.</li></ul>
+<p>Two critical checkpoints occur around these phases: the <b>G1 checkpoint</b> after the G1 phase, and the <b>G2 checkpoint</b> at the end of the G2 phase. The G1 checkpoint checks for existing DNA damage and proper nutrients for growth. The G2 checkpoint checks for proper DNA replication from the S phase and if necessary makes repairs. A cell that passes both checkpoints may proceed from interphase to mitosis. These checkpoints are important for ensuring proper division of cells, and malfunctioning checkpoints can allow unregulated cell division that can proceed to cancer.
+</p>
+<h3><span class="mw-headline" id="Prophase">Prophase</span></h3>
+<p>The first step of mitosis is prophase. Prophase can be divided into two separate part: early prophase, and late prophase (<b>prometaphase</b>). Some argue that prometaphase is its own distinct step, while others consider both to be part of prophase. 
+</p><p>At the beginning of early prophase, <b>chromatin condenses</b> to form chromosomes which protects the DNA; (a condensed chromosome is more likely to be transferred in one pieces without breaking apart). The <b>mitotic spindle</b> (also called the spindle apparatus) also begin to form; this is a skeleton consisting of strong <b>microtubules</b> (proteins) which organize chromosomes and move them during mitosis. The mitotic spindle originates from the centrioles in centrosomes of the cell. The <b>nuclear envelope</b> breaks down and the <b>nucleolus</b> (within the nucleus) disappears, which is a sign that the cell is undergoing mitosis.
+</p><p>In prometaphase, the mitotic spindle begin to organize the chromosomes by moving them. The chromosomes have finished condensing and are very compact. The microtubules of the spindle apparatus bind to the chromosomes at the <b>kinetochore</b>, which is a patch of protein found on the <b>centromere</b> of each sister chromatid. The centromere is the section of DNA where the sister chromatids (each copy of a chromosome) are the most tightly attached. Not all microtubules bind to chromosomes, and some just help stabilize the spindle.
+</p>
+<h3><span class="mw-headline" id="Metaphase">Metaphase</span></h3>
+<p>In metaphase, all of the chromosomes have been arranged by the spindle apparatus, and they are lined up at the middle of the cell along an invisible plane called the <b>metaphase plate</b>. The two kinetochores on each chromosome are attached to microtubules originating from opposite ends of the cell. Before anaphase, the cell ensures that every chromosome is properly aligned and attached to the microtubules. This is called the <b>spindle checkpoint</b>, and it ensures that sister chromatids split properly during anaphase. If something is wrong, the cell pauses its division until the problem is fixed.
+</p>
+<h3><span class="mw-headline" id="Anaphase">Anaphase</span></h3>
+<p>During anaphase, the sister chromatids are separated and pulled towards opposite ends (poles) of the cell. The proteins holding them together are broken down, and each is now its own chromosome. Microtubules that aren't attached to chromosomes push apart, elongating the cell and separating the poles. All of these processes are carried out by motor proteins.
+</p><p>Improper separation of sister chromatids or <b>nondisjunction</b> may occur at this step, causing a single cell to receive both chromatids.
+</p>
+<h3><span class="mw-headline" id="Telophase">Telophase</span></h3>
+<p>Once the cell reaches telophase, it is nearly finished dividing. The <b>mitotic spindle</b> is broken back down, and two new <b>nuclear envelopes</b> begin to form, one for each set of chromosomes. The <b>nucleoli</b> reappear in each cell, and the chromosomes begin to <b>decondense</b> into chromatin. Telophase is essentially the reverse of prophase.
+</p>
+<h3><span class="mw-headline" id="Cytokinesis">Cytokinesis</span></h3>
+<p>Cytokinesis overlaps with the final stages of mitosis, and can begin in either anaphase or telophase. It is different in animal and plant cells, since animal cells do not have a cell wall. In animal cells, the cell is drawn shut across a <b>cleavage furrow</b> by microfilaments and the two cells split. In plant cells, a cell plate forms down the middle and divides the two daughter cells with a new wall.
+</p>
+<h2><span class="mw-headline" id="Meiosis">Meiosis</span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:802px;"><a href="/wiki/index.php/File:Meiosis-diagram.png" class="image"><img alt="Meiosis-diagram.png" src="/wiki/images/a/ae/Meiosis-diagram.png" width="800" height="212" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/index.php/File:Meiosis-diagram.png" class="internal" title="Enlarge"></a></div></div></div></div>
+<p>Meiosis is the process of cell division that is unique to germ cells. It produces haploid eggs and sperm from diploid progenitors. It occurs in two stages, Meiosis I and Meiosis II, each of which goes through the four main stages of mitosis, although in a different way that allows for genetically variable daughter cells.
+</p>
+<h3><span class="mw-headline" id="Meiosis_I">Meiosis I</span></h3>
+<p>During prophase I, the chromosomes condense as the nuclear envelope breaks down. By this point all of the cell's genetic material has replicated, so each chromosome is an X-shape consisting of two identical chromatids. Also during this phase, homologous pairs of chromosomes line up and undergo crossing over - homologous sections of the chromosomes swap. This process increases the genetic diversity of the haploid cells that are produced at the end of meiosis. As with mitosis, the centrosomes and spindle fiber structures form during prophase I.
+</p><p>Unlike mitosis, where the chromatids are separated, in meiosis I each chromosome is separated from its homologous chromosome. In metaphase I each chromosome will "join" with its homologous chromosome (forming a tetrad) and align across the centerline of the cell. Each chromosome is separated from its homologue during anaphase I, and during telophase I and cytokinesis the cell divides completely, forming two diploid daughter cells with differing DNA.
+</p><p>Some cells go into a rest stage, sometimes known as interphase II, after meiosis I is complete. Often, the nuclear envelope reforms and chromosomes uncondense prior to meiosis II.
+</p>
+<h3><span class="mw-headline" id="Meiosis_II">Meiosis II</span></h3>
+<p>Meiosis II is more similar to mitosis, except that the parent cells are diploid instead of tetraploidal (which is how the mitosis parent is after replication during interphase). Each cell divides the same way as in mitosis, with the chromosomes splitting at their centromeres. Note that because crossing over during prophase I occurs independently on each chromatid, the four daughter cells produced as a result of meiosis II are typically all genetically different.
+</p>
+<h3><span class="mw-headline" id="Post-Meiosis">Post-Meiosis</span></h3>
+<p>In spermatogenesis, typically all of the daughter cells can become viable sperm. In contrast, during oogenesis only one of the four daughter cells will become a viable egg cell. The egg cell will receive most of the cytoplasm and organelles, while the remaining three daughter cells become shrunken polar bodies. Most of the organelles brought by the sperm cell are destroyed after fertilization. Incidentally, this is what allows matrilineal heredity to be traced via mitochondrial DNA.
+</p>
+<h2><span class="mw-headline" id="Genetic_Disorders">Genetic Disorders</span></h2>
+<p>Genetic disorders are inherited medical conditions caused by abnormalities in the DNA. There are a variety of types of genetic disorders, and some are rarer than others. They are typically caused by mutations in specific genes, deletion of genes, or a person having an additional chromosome. While these genes can be known as disease-causing genes, the abnormality of a gene is the cause of the disorder.
+</p><p>One of the most common genetic disorders is known as trisomy 21, or Down Syndrome. An individual with this disorder has a third copy of chromosome 21. Cystic fibrosis is also a genetic disorder, caused by mutation in a protein known as CFTR. Even color blindness is a genetic disorder, caused by a mutation on the X chromosome.
+</p>
+<h3><span class="mw-headline" id="Polysomy_and_Monosomy">Polysomy and Monosomy</span></h3>
+<p>Polysomy is when an individual having more than two copies of a particular chromosome. Most often this is a trisomy, such as trisomy 21 (Down Syndrome) - affected individuals have three copies of chromosome 21. Monosomy is when an individual has one copy of a chromosome rather than the normal two copies. The only known monosomy in which individuals survive to birth is Turner's Syndrome, a monosomy of the sex chromosomes in which affected individuals are females that have a single X chromosome.
+</p>
+<h3><span id="Addition,_Deletion,_Translocation"></span><span class="mw-headline" id="Addition.2C_Deletion.2C_Translocation">Addition, Deletion, Translocation</span></h3>
+<div class="floatright"><a href="/wiki/index.php/File:Translocation-4-20.png" class="image"><img alt="Translocation-4-20.png" src="/wiki/images/c/cb/Translocation-4-20.png" width="300" height="233" /></a></div>
+<p>Addition, deletion and translocation are all different forms of mutations. Addition (also known as insertion or an insertion mutation) is the addition of nucleotides into a DNA sequence. Additions can range in size from one base pair to entire sections of chromosomes being added in the wrong place. Deletion is a similar concept, but with the removal of nucleotides. In deletion, a part of a chromosome or DNA sequence is lost during replication. Any number of nucleotides can be deleted, though small deletions are typically less dangerous. Large deletions can be fatal, and some can result in various genetic disorders such as Williams syndrome. 
+</p><p>Translocation is when the parts of a chromosome are rearranged, occasionally resulting in a genetic disorder. Translocation can be balanced or unbalanced, with unbalanced translocation resulting in missing or extra genes. There are multiple forms of translocation, but the most common is reciprocal translocation. This occurs when two parts of two chromosomes swap places, resulting in genes changing locations and occasionally gene fusion. Balanced translocation occurring during meiosis typically doesn't result in any visible symptoms, though in about 6% of cases it can result in autism or congenital abnormalities. However, translocation occurring in somatic cells during mitosis can result in various forms of cancer. Translocation can also result in infertility, or in specific cases a form of Down syndrome.
+</p>
+<h3><span class="mw-headline" id="Karyotypes">Karyotypes</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/wiki/index.php/File:Karyotpye.jpg" class="image"><img alt="" src="/wiki/images/0/0b/Karyotpye.jpg" width="300" height="269" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/index.php/File:Karyotpye.jpg" class="internal" title="Enlarge"></a></div>Karyotype of a male with no chromosomal polysomy or monosomy.</div></div></div>
+<p>A karyotype is a chart that shows each chromosome. Each karyotype displays 23 pairs of chromosomes, including the X/Y chromosomes. Every pair is assigned a number (except for the sex chromosomes; they are always referred to as the X and Y chromosomes). Some genetic disorders can be detected by analyzing the number of chromosomes and/or the sex chromosomes. The gender of the individual can also be deduced from looking at the sex chromosomes. If there is an X and a Y, the individual is a male. A female has two X chromosomes and no Y chromosome.
+</p><p>A karyotype is created by stopping cells in cell division and staining the chromosomes, then observing them under a light microscope.
+</p><p>Karyotypes can be used to diagnose genetic diseases - most often polysomy or monosomy, but also some types of deletion and addition in certain chromosomes. For example, a karyotype can reveal a third chromosome 21, resulting in Down syndrome. It can also reveal Turner syndrome (45, X), a disorder that results in females with one X chromosome, and Klinefelter's syndrome (47, XXY), in which a man has two X chromosomes and one Y chromosome.
+</p>
+<h4><span class="mw-headline" id="Sex_determination">Sex determination</span></h4>
+<p>In humans, the male and female share 22 of the 23 pairs of chromosomes in each body cell. The 23rd pair is known as the sex chromosomes because it determines the sex of the individual. In the male, the sex chromosome consists of an X and a Y chromosome(XY) while the pair in females consists of two X chromosomes(XX). The male is the one who determines the sex of the child and the female gives an X to all eggs while the male randomly produces about 50% X sperm and 50% Y sperm.
+</p><p>In rare cases, through nondisjunction, a person will have three sex chromosomes. If they have three X (XXX) chromosomes, they are female. If they have even one Y chromosome (XXY), they are male. Although they will show more feminine qualities, any person who has a Y chromosome is considered a male. Other types of sex chromosome polysomy, as well as one monosomy (X), have been known to occur, though more rarely.
+</p>
+<h3><span class="mw-headline" id="Common_Genetic_Disorders">Common Genetic Disorders</span></h3>
+<p>Several genetic disorders appear frequently on tests as examples. While this event typically does not deal with the specifics of each disorder, it may be useful to know the inheritance patterns of some common disorders:
+</p>
+<ul><li><b>Cystic Fibrosis</b> - Autosomal recessive</li>
+<li><b>Down Syndrome</b> - Trisomy of chromosome 21</li>
+<li><b>Hemophilia</b> - Sex-linked (X-chromosome) recessive</li>
+<li><b>Polydactyly</b> - Autosomal dominant</li>
+<li><b>Red-green color blindness</b> - Sex-linked (X chromosome) recessive</li>
+<li><b>Sickle-cell anemia</b> - Autosomal recessive</li></ul>
+<h2><span class="mw-headline" id="Resources">Resources</span></h2>
+<dl><dd><a href="/wiki/images/7/7c/Punnett_Square_Worksheet.pdf" class="internal" title="Punnett Square Worksheet.pdf">A basic Punnett square worksheet</a></dd>
+<dd><a rel="nofollow" class="external text" href="https://www.ndsu.edu/pubweb/~mcclean/plsc431/mendel/mendel1.htm">Mendel's law of segregation</a></dd>
+<dd><a rel="nofollow" class="external text" href="https://www.ndsu.edu/pubweb/~mcclean/plsc431/mendel/mendel3.htm">Mendel's law of independent assortment</a></dd>
+<dd><a rel="nofollow" class="external text" href="http://www.biology.arizona.edu/mendelian_genetics/problem_sets/monohybrid_cross/monohybrid_cross.html">Monohybrid cross tutorial and practice problems</a></dd>
+<dd><a rel="nofollow" class="external text" href="https://www.ndsu.edu/pubweb/~mcclean/plsc431/mendel/mendel9.htm">Pedigree analysis</a></dd></dl>
+<div role="navigation" class="navbox" aria-labelledby="Life.2C_Personal_and_Social_Science_Events" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/index.php/Template:Life_Science_Event" title="Template:Life Science Event"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/index.php?title=Template_talk:Life_Science_Event&amp;action=edit&amp;redlink=1" class="new" title="Template talk:Life Science Event (page does not exist)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a rel="nofollow" class="external text" href="https://scioly.org/wiki/index.php?title=Template:Life_Science_Event&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Life.2C_Personal_and_Social_Science_Events" style="font-size:114%;margin:0 4em">Life, Personal and Social Science Events</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">National Events</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Anatomy_and_Physiology" title="Anatomy and Physiology">Anatomy and Physiology</a></li>
+<li><a href="/wiki/index.php/Bio-Process_Lab" title="Bio-Process Lab">Bio-Process Lab</a></li>
+<li><a href="/wiki/index.php/Cell_Biology" title="Cell Biology">Cell Biology</a></li>
+<li><a href="/wiki/index.php/Designer_Genes" title="Designer Genes">Designer Genes</a></li>
+<li><a href="/wiki/index.php/Disease_Detectives" title="Disease Detectives">Disease Detectives</a></li>
+<li><a href="/wiki/index.php/Ecology" title="Ecology">Ecology</a></li>
+<li><a href="/wiki/index.php/Entomology" title="Entomology">Entomology</a></li>
+<li><a href="/wiki/index.php/Forestry" title="Forestry">Forestry</a></li>
+<li><a href="/wiki/index.php/Green_Generation" title="Green Generation">Green Generation</a></li>
+<li><a class="mw-selflink selflink">Heredity</a></li>
+<li><a href="/wiki/index.php/Herpetology" title="Herpetology">Herpetology</a></li>
+<li><a href="/wiki/index.php/Invasive_Species" title="Invasive Species">Invasive Species</a></li>
+<li><a href="/wiki/index.php/Microbe_Mission" title="Microbe Mission">Microbe Mission</a></li>
+<li><a href="/wiki/index.php/Ornithology" title="Ornithology">Ornithology</a></li>
+<li><a href="/wiki/index.php/Water_Quality" title="Water Quality">Water Quality</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Trial Events</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Botany" title="Botany">Botany</a></li>
+<li><a href="/wiki/index.php/Endangered,_Extinct,_and_Exotic_Animals" title="Endangered, Extinct, and Exotic Animals">Endangered, Extinct, and Exotic Animals</a></li>
+<li><a href="/wiki/index.php/Home_Horticulture" title="Home Horticulture">Home Horticulture</a></li>
+<li><a href="/wiki/index.php/Parasitology" title="Parasitology">Parasitology</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="2020.2F2021_Events" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/index.php/Template:2021Events" title="Template:2021Events"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/index.php?title=Template_talk:2021Events&amp;action=edit&amp;redlink=1" class="new" title="Template talk:2021Events (page does not exist)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a rel="nofollow" class="external text" href="https://scioly.org/wiki/index.php?title=Template:2021Events&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="2020.2F2021_Events" style="font-size:114%;margin:0 4em">2020/2021 Events</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Division B Events</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Anatomy_and_Physiology" title="Anatomy and Physiology">Anatomy and Physiology</a></li>
+<li><a href="/wiki/index.php/Boomilever" title="Boomilever">Boomilever</a></li>
+<li><a href="/wiki/index.php/Circuit_Lab" title="Circuit Lab">Circuit Lab</a></li>
+<li><a href="/wiki/index.php/Crime_Busters" title="Crime Busters">Crime Busters</a></li>
+<li><a href="/wiki/index.php/Density_Lab" title="Density Lab">Density Lab</a></li>
+<li><a href="/wiki/index.php/Disease_Detectives" title="Disease Detectives">Disease Detectives</a></li>
+<li><a href="/wiki/index.php/Dynamic_Planet_Topics" title="Dynamic Planet Topics">Dynamic Planet</a></li>
+<li><a href="/wiki/index.php/Elastic_Launched_Glider" title="Elastic Launched Glider">Elastic Launched Glider</a></li>
+<li><a href="/wiki/index.php/Experimental_Design" title="Experimental Design">Experimental Design</a></li>
+<li><a href="/wiki/index.php/Food_Science" title="Food Science">Food Science</a></li>
+<li><a href="/wiki/index.php/Fossils" title="Fossils">Fossils</a></li>
+<li><a href="/wiki/index.php/Game_On" title="Game On">Game On</a></li>
+<li><a class="mw-selflink selflink">Heredity</a></li>
+<li><a href="/wiki/index.php/Machines" title="Machines">Machines</a></li>
+<li><a href="/wiki/index.php/Meteorology" title="Meteorology">Meteorology</a></li>
+<li><a href="/wiki/index.php/Mission_Possible" title="Mission Possible">Mission Possible</a></li>
+<li><a href="/wiki/index.php/Mousetrap_Vehicle" title="Mousetrap Vehicle">Mousetrap Vehicle</a></li>
+<li><a href="/wiki/index.php/Ornithology" title="Ornithology">Ornithology</a></li>
+<li><a href="/wiki/index.php/Ping_Pong_Parachute" title="Ping Pong Parachute">Ping Pong Parachute</a></li>
+<li><a href="/wiki/index.php/Reach_for_the_Stars" title="Reach for the Stars">Reach for the Stars</a></li>
+<li><a href="/wiki/index.php/Road_Scholar" title="Road Scholar">Road Scholar</a></li>
+<li><a href="/wiki/index.php/Water_Quality" title="Water Quality">Water Quality</a></li>
+<li><a href="/wiki/index.php/Write_It_Do_It" title="Write It Do It">Write It Do It</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Division C Events</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Anatomy_and_Physiology" title="Anatomy and Physiology">Anatomy and Physiology</a></li>
+<li><a href="/wiki/index.php/Astronomy" title="Astronomy">Astronomy</a></li>
+<li><a href="/wiki/index.php/Boomilever" title="Boomilever">Boomilever</a></li>
+<li><a href="/wiki/index.php/Chemistry_Lab" title="Chemistry Lab">Chemistry Lab</a></li>
+<li><a href="/wiki/index.php/Circuit_Lab" title="Circuit Lab">Circuit Lab</a></li>
+<li><a href="/wiki/index.php/Codebusters" title="Codebusters">Codebusters</a></li>
+<li><a href="/wiki/index.php/Designer_Genes" title="Designer Genes">Designer Genes</a></li>
+<li><a href="/wiki/index.php/Detector_Building" title="Detector Building">Detector Building</a></li>
+<li><a href="/wiki/index.php/Disease_Detectives" title="Disease Detectives">Disease Detectives</a></li>
+<li><a href="/wiki/index.php/Dynamic_Planet_Topics" title="Dynamic Planet Topics">Dynamic Planet</a></li>
+<li><a href="/wiki/index.php/Experimental_Design" title="Experimental Design">Experimental Design</a></li>
+<li><a href="/wiki/index.php/Forensics" title="Forensics">Forensics</a></li>
+<li><a href="/wiki/index.php/Fossils" title="Fossils">Fossils</a></li>
+<li><a href="/wiki/index.php/GeoLogic_Mapping" title="GeoLogic Mapping">GeoLogic Mapping</a></li>
+<li><a href="/wiki/index.php/Gravity_Vehicle" title="Gravity Vehicle">Gravity Vehicle</a></li>
+<li><a href="/wiki/index.php/Machines" title="Machines">Machines</a></li>
+<li><a href="/wiki/index.php/Ornithology" title="Ornithology">Ornithology</a></li>
+<li><a href="/wiki/index.php/Ping_Pong_Parachute" title="Ping Pong Parachute">Ping Pong Parachute</a></li>
+<li><a href="/wiki/index.php/Protein_Modeling" title="Protein Modeling">Protein Modeling</a></li>
+<li><a href="/wiki/index.php/Sounds_of_Music" title="Sounds of Music">Sounds of Music</a></li>
+<li><a href="/wiki/index.php/Water_Quality" title="Water Quality">Water Quality</a></li>
+<li><a href="/wiki/index.php/Wright_Stuff" title="Wright Stuff">Wright Stuff</a></li>
+<li><a href="/wiki/index.php/Write_It_Do_It" title="Write It Do It">Write It Do It</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Division B National Trials 2020</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Aerial_Scramble" title="Aerial Scramble">Aerial Scramble</a></li>
+<li><a href="/wiki/index.php/Amazing_Mechatronics" title="Amazing Mechatronics">Amazing Mechatronics</a></li>
+<li><a href="/wiki/index.php/Codebusters" title="Codebusters">Codebusters</a></li>
+<li><a href="/wiki/index.php/Storm_the_Castle" title="Storm the Castle">Storm the Castle</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Division C National Trials 2020</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Aerial_Scramble" title="Aerial Scramble">Aerial Scramble</a></li>
+<li><a href="/wiki/index.php/Amazing_Mechatronics" title="Amazing Mechatronics">Amazing Mechatronics</a></li>
+<li><a href="/wiki/index.php/Environmental_Chemistry" title="Environmental Chemistry">Environmental Chemistry</a></li>
+<li><a href="/wiki/index.php/Trajectory" title="Trajectory">Trajectory</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Division B National Trials 2021</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Aerial_Scramble" title="Aerial Scramble">Aerial Scramble</a></li>
+<li><a href="/wiki/index.php/Awesome_Aquifers" title="Awesome Aquifers">Awesome Aquifers</a></li>
+<li><a href="/wiki/index.php/Botany" title="Botany">Botany</a></li>
+<li><a href="/wiki/index.php/Codebusters" title="Codebusters">Codebusters</a></li>
+<li><a href="/wiki/index.php/Electric_Wright_Stuff" title="Electric Wright Stuff">Electric Wright Stuff</a></li>
+<li><a href="/wiki/index.php/Home_Horticulture" title="Home Horticulture">Home Horticulture</a></li>
+<li><a href="/wiki/index.php/Solar_Power" title="Solar Power">Solar Power</a></li>
+<li><a href="/wiki/index.php/Storm_the_Castle" title="Storm the Castle">Storm the Castle</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Division C National Trials 2021</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Aerial_Scramble" title="Aerial Scramble">Aerial Scramble</a></li>
+<li><a href="/wiki/index.php/Botany" title="Botany">Botany</a></li>
+<li><a href="/wiki/index.php/Electric_Wright_Stuff" title="Electric Wright Stuff">Electric Wright Stuff</a></li>
+<li><a href="/wiki/index.php/Environmental_Chemistry" title="Environmental Chemistry">Environmental Chemistry</a></li>
+<li><a href="/wiki/index.php/Home_Horticulture" title="Home Horticulture">Home Horticulture</a></li>
+<li><a href="/wiki/index.php/Robot_Tour" title="Robot Tour">Robot Tour</a></li>
+<li><a href="/wiki/index.php/Solar_Power" title="Solar Power">Solar Power</a></li>
+<li><a href="/wiki/index.php/Trajectory" title="Trajectory">Trajectory</a></li>
+<li><a href="/wiki/index.php/WiFi_Lab" title="WiFi Lab">WiFi Lab</a></li></ul>
+</div></td></tr></tbody></table></div>
+
+<!-- 
+NewPP limit report
+Cached time: 20200806173112
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.504 seconds
+Real time usage: 0.637 seconds
+Preprocessor visited node count: 710/1000000
+Preprocessor generated node count: 4877/1000000
+Post‐expand include size: 24393/2097152 bytes
+Template argument size: 2393/2097152 bytes
+Highest expansion depth: 10/40
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.030/7.000 seconds
+Lua virtual size: 8.62 MB/50 MB
+Lua estimated memory usage: 0 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  164.354      1 -total
+ 56.73%   93.231      2 Template:Navbox
+ 46.77%   76.870      1 Template:Life_Science_Event
+ 32.71%   53.761      1 Template:EventLinksBox
+ 16.60%   27.285      1 Template:2021Events
+  2.02%    3.324      3 Template:Clear
+-->
+</div>
+<!-- Saved in parser cache with key wiki-wikiv2_:pcache:idhash:147-0!canonical and timestamp 20200806173111 and revision id 101872
+ -->
+</div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://scioly.org/wiki/index.php?title=Heredity&amp;oldid=101872">https://scioly.org/wiki/index.php?title=Heredity&amp;oldid=101872</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/index.php/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/index.php/Category:Life_and_Social_Science_Events" title="Category:Life and Social Science Events">Life and Social Science Events</a></li><li><a href="/wiki/index.php/Category:Event_Pages" title="Category:Event Pages">Event Pages</a></li><li><a href="/wiki/index.php/Category:Study_Event_Pages" title="Category:Study Event Pages">Study Event Pages</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-login"><a href="//scioly.org/forums/ucp.php?mode=login&amp;redirect=https%3A%2F%2Fscioly.org%2Fwiki%2Findex.php%2FHeredity" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/index.php/Heredity" title="View the content page [c]" accesskey="c">Page</a></span></li><li id="ca-talk"><span><a href="/wiki/index.php/Talk:Heredity" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discussion</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/index.php/Heredity">Read</a></span></li><li id="ca-viewsource" class="collapsible"><span><a href="/wiki/index.php?title=Heredity&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li><li id="ca-history" class="collapsible"><span><a href="/wiki/index.php?title=Heredity&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/wiki/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Scioly.org" title="Search Scioly.org [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/index.php/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage"><a href="/wiki/index.php/Main_Page" title="Visit the main page [z]" accesskey="z">Main Page</a></li><li id="n-recentchanges"><a href="/wiki/index.php/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/wiki/index.php/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-MediaWiki-Help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">MediaWiki Help</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/index.php/Special:WhatLinksHere/Heredity" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/index.php/Special:RecentChangesLinked/Heredity" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/wiki/index.php/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="/wiki/index.php?title=Heredity&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/wiki/index.php?title=Heredity&amp;oldid=101872" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/wiki/index.php?title=Heredity&amp;action=info" title="More information about this page">Page information</a></li>				</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 29 June 2020, at 23:05.</li>
+								<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution</a> unless otherwise noted.</li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="http://creativecommons.org/licenses/by/3.0/"><img src="/wiki/resources/assets/licenses/cc-by.png" alt="Creative Commons Attribution" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<style>.MathJax_Display{display:inline !important;}
+.mathjax-wrapper{font-size:120%;}</style>
+<script type='text/x-mathjax-config'>MathJax.Hub.Config({displayAlign:'left',tex2jax:{displayMath:[['[math]','[/math]']]}})</script>
+<script src='//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.504","walltime":"0.637","ppvisitednodes":{"value":710,"limit":1000000},"ppgeneratednodes":{"value":4877,"limit":1000000},"postexpandincludesize":{"value":24393,"limit":2097152},"templateargumentsize":{"value":2393,"limit":2097152},"expansiondepth":{"value":10,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%  164.354      1 -total"," 56.73%   93.231      2 Template:Navbox"," 46.77%   76.870      1 Template:Life_Science_Event"," 32.71%   53.761      1 Template:EventLinksBox"," 16.60%   27.285      1 Template:2021Events","  2.02%    3.324      3 Template:Clear"]},"scribunto":{"limitreport-timeusage":{"value":"0.030","limit":"7.000"},"limitreport-virtmemusage":{"value":9035776,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20200806173112","ttl":86400,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":149});});</script>
+	</body>
+</html>

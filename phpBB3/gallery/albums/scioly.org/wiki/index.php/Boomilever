@@ -1,0 +1,724 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Boomilever - Scioly.org</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Boomilever","wgTitle":"Boomilever","wgCurRevisionId":106440,"wgRevisionId":106440,"wgArticleId":83,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Technology and Engineering Events","Event Pages","Building Event Pages"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Boomilever","wgRelevantArticleId":83,"wgRequestId":"bd67f1b2e13eb23afff7dacb","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":[]});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","site":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@1ltrs49",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/wiki/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/wiki/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/wiki/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.8"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/wiki/opensearch_desc.php" title="Scioly.org (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://scioly.org/wiki/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Scioly.org Atom feed" href="/wiki/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/wiki/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Boomilever rootpage-Boomilever skin-vector action-view"><meta property="og:title" content="Science Olympiad Student Center"/>
+<meta property="og:type" content="website"/>
+<meta property="og:url" content="https://scioly.org/"/>
+
+<meta property="og:image" content="http://scioly.org/src/img/logo/logo_square.png"/>
+<meta property="og:image:secure_url" content="https://scioly.org/src/img/logo/logo_square.png"/> 
+<meta property="og:image:type" content="image/png"/> 
+<meta property="og:image:width" content="500"/> 
+<meta property="og:image:height" content="500"/>
+
+<meta property="og:description" content="A resource by and for Science Olympiad students, coaches, and alumni nationwide."/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script type="text/javascript" src="/src/js/jquery.min.js"></script>
+<script type="text/javascript" src="/src/js/main.js"></script>
+
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+<link rel="stylesheet" type="text/css" href="/src/css/main.css">
+
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<link rel="icon" href="/favicon.ico" type="image/x-icon"><div class="site-nav">
+	<a href="/">
+		<img src="/src/img/logo/logo.png">
+	</a>
+	<div class="hamburger" onclick="hamburger(this)">
+		<div>
+			<div></div>
+			<div></div>
+			<div></div>
+		</div>
+	</div>
+	<ul>
+		<li><a href="/forums">Forums</a></li>
+		<li><a href="/wiki">Wiki</a></li>
+		<li><a href="/tests">Test Exchange</a></li>
+		<!-- <li><a href="/gallery">Image Gallery</a></li> -->
+		<!-- <li><a href="/invitational">Invites</a></li> -->
+		<li><a href="/chat">Chat</a></li>
+		<li><a href="/login" class="button">Login</a></li>
+	</ul>
+</div>
+<img class="print-only" src="/src/img/logo/logo_black.png" style="max-width: 150px;"><link rel="stylesheet" type="text/css" href="/src/css/wiki.css">
+<div id="wrap-me-up">
+
+
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Boomilever</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Scioly.org</div>				<div id="contentSub"></div>
+								<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table align="right" class="infobox">
+
+<tbody><tr>
+<th colspan="2" style="font-size: larger; text-align: center;"><b>Boomilever</b>
+</th></tr>
+<tr>
+<td colspan="2"><center><i>This event is an event held in the current season.</i></center>
+</td></tr>
+<tr>
+<td colspan="2"><hr />
+</td></tr>
+<tr>
+<td><b>Type</b>
+</td>
+<td>Engineering
+</td></tr>
+<tr>
+<td><b>Category</b>
+</td>
+<td>Build
+</td></tr>
+<tr>
+<td colspan="2" class="infobox-header"><b>Event Information</b>
+</td></tr>
+
+
+
+
+
+
+
+<tr>
+<td><b>Latest Appearance</b>
+</td>
+<td>2020
+</td></tr>
+<tr>
+<td colspan="2" class="infobox-header"><b>Forum Threads</b>
+</td></tr>
+
+<tr>
+<td colspan="2" style="padding: 0;">
+<table class="infobox-events-link-table">
+
+<tbody><tr>
+<td><a rel="nofollow" class="external text" href="https://scioly.org/forums/viewforum.php?f=316">2020</a>
+</td>
+<td><a rel="nofollow" class="external text" href="https://scioly.org/forums/viewforum.php?f=290">2019</a>
+</td>
+<td><span> </span>
+</td>
+<td><span> </span>
+</td>
+<td><span> </span>
+</td></tr>
+</tbody></table>
+</td></tr>
+<tr>
+<td colspan="2" style="padding: 0;">
+<table class="infobox-events-link-table">
+
+<tbody><tr>
+<td><span> </span>
+</td>
+<td><a rel="nofollow" class="external text" href="http://www.scioly.org/phpBB3/viewtopic.php?f=168&amp;t=4978">2014</a>
+</td>
+<td><a rel="nofollow" class="external text" href="http://www.scioly.org/phpBB3/viewforum.php?f=147">2013</a>
+</td>
+<td><span> </span>
+</td>
+<td><span> </span>
+</td></tr>
+</tbody></table>
+</td></tr>
+
+
+
+
+
+
+
+
+<tr>
+<td colspan="2" class="infobox-header"><b>Official Resources</b>
+</td></tr>
+<tr>
+<td><b>Division B Website</b>
+</td>
+<td><a rel="nofollow" class="external text" href="https://www.soinc.org/boomilever-b">soinc.org</a>
+</td></tr>
+<tr>
+<td><b>Division C Website</b>
+</td>
+<td><a rel="nofollow" class="external text" href="https://www.soinc.org/boomilever-c">soinc.org</a>
+</td></tr>
+<tr>
+<td colspan="2" class="infobox-header"><b>Division B Results</b>
+</td></tr>
+<tr>
+<td colspan="2" style="padding: 0;">
+<table class="infobox-scoreboard" style="margin: 0; padding: 0; width:100%;">
+
+
+<tbody><tr style="background-color: gold;">
+<td style="width: 10%; text-align: center;"><b>1st</b>
+</td>
+<td style="width: 90%; padding-left: 5px;"><b>Daniel Wright Junior High School</b>
+</td></tr>
+<tr style="background-color: silver;">
+<td style="width: 10%; text-align: center;">2nd
+</td>
+<td style="width: 90%; padding-left: 5px;">Bedford Middle School
+</td></tr>
+<tr style="background-color: #d1965c;">
+<td style="width: 10%; text-align: center;">3rd
+</td>
+<td style="width: 90%; padding-left: 5px;">Harlan Rowe Middle School
+</td></tr>
+</tbody></table>
+</td></tr>
+<tr>
+<td colspan="2" class="infobox-header"><b>Division C Results</b>
+</td></tr>
+<tr>
+<td colspan="2" style="padding: 0;">
+<table class="infobox-scoreboard" style="margin: 0; padding: 0; width:100%;">
+
+
+<tbody><tr style="background-color: gold;">
+<td style="width: 10%; text-align: center;"><b>1st</b>
+</td>
+<td style="width: 90%; padding-left: 5px;"><b>Adlai E. Stevenson High School</b>
+</td></tr>
+<tr style="background-color: silver;">
+<td style="width: 10%; text-align: center;">2nd
+</td>
+<td style="width: 90%; padding-left: 5px;">New Trier High School
+</td></tr>
+<tr style="background-color: #d1965c;">
+<td style="width: 10%; text-align: center;">3rd
+</td>
+<td style="width: 90%; padding-left: 5px;">Pioneer High School
+</td></tr>
+</tbody></table>
+</td></tr>
+</tbody></table>
+<p><a class="mw-selflink selflink">Boomilever</a> is a structural building event which returned for the <a href="/wiki/index.php/2019" title="2019">2019</a> and <a href="/wiki/index.php/2020" title="2020">2020</a> seasons. In this event, competitors design and build a boomilever prior to the competition, with the intention of supporting the most load with a small weight (i.e. maximize efficiency). Other events in the structural building rotation include <a href="/wiki/index.php/Towers" title="Towers">Towers</a> and <a href="/wiki/index.php/Bridge_Building" title="Bridge Building">Bridge Building</a>/<a href="/wiki/index.php/Elevated_Bridge" title="Elevated Bridge">Elevated Bridge</a>.
+</p>
+<div id="toc" class="toc"><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Construction_Parameters"><span class="tocnumber">1</span> <span class="toctext">Construction Parameters</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#2020_parameters"><span class="tocnumber">2</span> <span class="toctext">2020 parameters</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Terms"><span class="tocnumber">3</span> <span class="toctext">Terms</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Scoring"><span class="tocnumber">4</span> <span class="toctext">Scoring</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Basic_Design"><span class="tocnumber">5</span> <span class="toctext">Basic Design</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Height"><span class="tocnumber">5.1</span> <span class="toctext">Height</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Base"><span class="tocnumber">5.2</span> <span class="toctext">Base</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Lateral_Bracing"><span class="tocnumber">5.3</span> <span class="toctext">Lateral Bracing</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Designs"><span class="tocnumber">6</span> <span class="toctext">Designs</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#Normal_Boomilever"><span class="tocnumber">6.1</span> <span class="toctext">Normal Boomilever</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Tower_Chimney"><span class="tocnumber">6.2</span> <span class="toctext">Tower Chimney</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Box_Beam_Design"><span class="tocnumber">6.3</span> <span class="toctext">Box Beam Design</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Compression_Tube"><span class="tocnumber">6.4</span> <span class="toctext">Compression Tube</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-14"><a href="#Materials"><span class="tocnumber">7</span> <span class="toctext">Materials</span></a>
+<ul>
+<li class="toclevel-2 tocsection-15"><a href="#Glue"><span class="tocnumber">7.1</span> <span class="toctext">Glue</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#Wood"><span class="tocnumber">7.2</span> <span class="toctext">Wood</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-17"><a href="#Building_a_Boomilever"><span class="tocnumber">8</span> <span class="toctext">Building a Boomilever</span></a>
+<ul>
+<li class="toclevel-2 tocsection-18"><a href="#Step_One"><span class="tocnumber">8.1</span> <span class="toctext">Step One</span></a></li>
+<li class="toclevel-2 tocsection-19"><a href="#Step_Two"><span class="tocnumber">8.2</span> <span class="toctext">Step Two</span></a></li>
+<li class="toclevel-2 tocsection-20"><a href="#Step_Three"><span class="tocnumber">8.3</span> <span class="toctext">Step Three</span></a></li>
+<li class="toclevel-2 tocsection-21"><a href="#Useful_Tips_and_Techniques"><span class="tocnumber">8.4</span> <span class="toctext">Useful Tips and Techniques</span></a>
+<ul>
+<li class="toclevel-3 tocsection-22"><a href="#Cutting_Wood"><span class="tocnumber">8.4.1</span> <span class="toctext">Cutting Wood</span></a></li>
+<li class="toclevel-3 tocsection-23"><a href="#Gluing"><span class="tocnumber">8.4.2</span> <span class="toctext">Gluing</span></a></li>
+<li class="toclevel-3 tocsection-24"><a href="#Dehydrating"><span class="tocnumber">8.4.3</span> <span class="toctext">Dehydrating</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-25"><a href="#Testing"><span class="tocnumber">9</span> <span class="toctext">Testing</span></a>
+<ul>
+<li class="toclevel-2 tocsection-26"><a href="#Testing_at_Competition"><span class="tocnumber">9.1</span> <span class="toctext">Testing at Competition</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-27"><a href="#Scoring_2"><span class="tocnumber">10</span> <span class="toctext">Scoring</span></a></li>
+<li class="toclevel-1 tocsection-28"><a href="#Useful_Links"><span class="tocnumber">11</span> <span class="toctext">Useful Links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Construction_Parameters">Construction Parameters</span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:402px;"><a href="/wiki/index.php/File:Boomilever-example-oldbase.jpg" class="image"><img alt="" src="/wiki/images/7/78/Boomilever-example-oldbase.jpg" width="400" height="300" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/index.php/File:Boomilever-example-oldbase.jpg" class="internal" title="Enlarge"></a></div>A typical boomilever. This image is from before the 2014 season - note that the upper point of attachment is bolted on, rather than hooked onto a J-bolt as in the 2014 rules.</div></div></div>
+<p>The construction parameters vary from year to year, but typically include a specific method of attachment to the wall, a maximum height as measured from the attachment point and other points of contact on the wall, a second maximum height between the attachment point and the position of the loading block, and a range of horizontal distance for the position of the loading block relative to the wall.
+</p>
+<h2><span class="mw-headline" id="2020_parameters"><a href="/wiki/index.php/2020" title="2020">2020</a> parameters</span></h2>
+<ul><li>Constructed only of wood and bonded by glue</li>
+<li>No limits in the cross-sections of wood pieces used</li>
+<li>Attachment to testing wall at a mounting J-hook.</li>
+<li>Distance of center of loading block from wall: 40-45 cm</li>
+<li>Maximum vertical distance between lowest point of contact and points of contact on the wall: 20 cm (Div. B) or 15 cm (Div. C)</li>
+<li>Minimum horizontal distance between centerline of wall and points of contact on wall: 4 cm to either side</li></ul>
+<p>Additional Rules:
+</p>
+<ul><li>Loading block is a 5.0 cm x 5.0 cm square x 2.0 high with a hole in the center for a 1/4" eye bolt with wing nut, from which a hook and the plastic bucket will be suspended.</li>
+<li>Scoring: Load Scored (g) / Mass of Boom (g)
+<ul><li>Load scored ranges from the mass of the loading assembly (without sand) to 15,000 grams.</li></ul></li>
+<li>Tiebreak: Estimated Load Scored closest to the actual Load Scored without exceeding it.</li>
+<li>Tiebreak 2: Lowest mass of boom.</li></ul>
+<p>The authoritative source for the construction parameters is the official <a href="/wiki/index.php/Rules_manual" class="mw-redirect" title="Rules manual">rules manual</a>.
+</p><p><br />
+</p>
+<table>
+
+<tbody><tr>
+<td><div class="toccolours mw-collapsible mw-collapsed" style="width:auto"><b><a href="/wiki/index.php/2019" title="2019">2019</a> parameters</b>
+<div class="mw-collapsible-content">
+<ul><li>Constructed only of wood and bonded by glue</li>
+<li>No limits in the cross-sections of wood pieces used</li>
+<li>Attachment to testing wall at a mounting J-hook.</li>
+<li>Distance of center of loading block from wall: 40-45 cm</li>
+<li>Maximum vertical distance between lowest point of contact and points of contact on the wall: 20 cm (Div. B) or 15 cm (Div. C)</li></ul>
+<p>Additional Rules:
+</p>
+<ul><li>Loading block is a 5.0 cm x 5.0 cm square x 2.0 high with a hole in the center for a 1/4" eye bolt with wing nut, from which a hook and the plastic bucket will be suspended.</li>
+<li>Scoring: Load Scored (g) / Mass of Boom (g)
+<ul><li>Load scored ranges from the mass of the loading assembly (without sand) to 15,000 grams.</li></ul></li>
+<li>Tiebreak: Estimated Load Scored closest to the actual Load Scored without exceeding it.</li>
+<li>Tiebreak 2: Lowest mass of boom.</li></ul>
+<p>The authoritative source for the construction parameters is the official <a href="/wiki/index.php/Rules_manual" class="mw-redirect" title="Rules manual">rules manual</a>.
+</p>
+</div></div>
+</td></tr></tbody></table>
+<table>
+
+<tbody><tr>
+<td><div class="toccolours mw-collapsible mw-collapsed" style="width:auto"><b><a href="/wiki/index.php/2014" title="2014">2014</a> parameters</b>
+<div class="mw-collapsible-content">
+<ul><li>Constructed only of wood and bonded by glue</li>
+<li>No limits in the cross-sections of wood pieces used</li>
+<li>Attachment to testing wall by attachment base and 3 bolts (Div. B) or 1 bolt (Div. C)</li>
+<li>Distance between left and right bolts: 20 cm</li>
+<li>Distance of center of loading block from wall: 45-50 cm</li>
+<li>Maximum vertical distance between mounting holes and loading block: 25 cm</li>
+<li>Maximum vertical distance between attachment base and points of contact on the wall: 20 cm (Div. B) or 15 cm (Div. C)</li></ul>
+<p>Additional Rules:
+</p>
+<ul><li>Loading block is a 5.0 cm x 5.0 cm square x 2.0 high with a hole in the center for a 1/4" eye bolt with wing nut, from which a hook and the plastic bucket will be suspended.</li>
+<li>Three (Div. B) or one (Div. C) 1/4 in x 4 in J-bolts with hex and wing nuts will be provided for attachment of the device to the testing wall (<a rel="nofollow" class="external text" href="http://www.soinc.org/sites/default/files/uploaded_files/JBoltSpecifications2014.pdf">further specification of J-bolt</a> and <a rel="nofollow" class="external text" href="http://www.soinc.org/sites/default/files/uploaded_files/JBoltInstallation.pdf">installation of J-bolt to testing wall</a>).</li></ul>
+<p>The rules change year to year, so this article will change.
+</p>
+</div></div>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Terms">Terms</span></h2>
+<dl><dd><b>Boomilever:</b> A cantilevered wood structure. More simply, a wood structure that is attached to a wall from a single point or area that holds weight.</dd></dl>
+<p>A Boomilever is made up of two different main pieces: compression and tension. Think of a boomilever as a baby changing station or as a bed that can be folded against the wall: it has a "bed", along with two chains on the foot and head of the bed that connect to the wall to prevent the bed from breaking off. The chains are being pulled on by the weight of the bed, which causes tension, while the bed itself is being "pushed" into the wall, which causes th compression.
+</p>
+<div class="thumb tleft"><div class="thumbinner" style="width:226px;"><a href="/wiki/index.php/File:Tension.gif" class="image"><img alt="" src="/wiki/images/8/89/Tension.gif" width="224" height="122" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/index.php/File:Tension.gif" class="internal" title="Enlarge"></a></div>Tension Boomilever</div></div></div>
+<div class="thumb tleft"><div class="thumbinner" style="width:220px;"><a href="/wiki/index.php/File:Compression.gif" class="image"><img alt="" src="/wiki/images/a/aa/Compression.gif" width="218" height="112" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/index.php/File:Compression.gif" class="internal" title="Enlarge"></a></div>Compression Boomilever</div></div></div>
+<p><br />
+</p>
+<dl><dd><b>Compression:</b> The part of the boomilever that is being pushed into the wall. If the boomilever is a tension boomilever, then the compression member is at the lower part of the boom. The compression is subject to <b>buckling</b>.</dd></dl>
+<dl><dd><b>Buckling:</b> Buckling is a reaction of an excess amount of force on a member of compression. After a certain amount of load is passed, the member can no longer hold the weight, and it collapses on itself, which usually causes the entire structure to fail.</dd></dl>
+<dl><dd><b>Bracing/ X Bracing/ Compression Bracing:</b>  X bracing is used to connect the (usually) two compression members together so they don't <b>buckle</b>. They are usually connected like X's, diagonal sticks zigzagging, or some other format that uses triangular shapes.</dd></dl>
+<dl><dd><b>Tension:</b> The part of the boomilever in which the forces are pulling, i.e. chains connecting the bed to the wall. The tension members are one or more simple wood cords running from the '<b>base</b> to the '<b>distal end</b>.</dd></dl>
+<dl><dd><b>Base:</b> The part of the boomilever that connects to the wall at the top.This will look in previous pictures like a block of wood with a hole drilled through it. Reflecting 2014 rule changes, it may look different as the bolt that runs through the hole is gone, and is now replaced by a hook that hooks around the base. Now the base is just a prong to run between both tension members. It is simply there to have something for the hook to hold on to. The base should be the strongest and most reinforced part of the boom.</dd></dl>
+<dl><dd><b>Distal End:</b> As the name suggests, the distal end is the part of the boom at the tip, or the nose of the boom, most distant from the wall. The most stress is here, so this must also be very very strong. This is the place where the weight of the bucket is attached by the <b>loading block</b>.</dd></dl>
+<dl><dd><b>Loading Block:</b> The 5 x 5 cm block of wood with a hook running through it that hooks the bucket. This is the block that you will put on top of the distal end where the bucket that you fill the sand will be.</dd></dl>
+<dl><dd><b>Clearance Depth Line</b>: The line that shows how tall the boom is allowed to be. It is 15 cm down, starting from where the hook is mounted, for Division C, and 20 cm down for Division B. If the boom is any lower than this, it will be tiered down.</dd></dl>
+<h2><span class="mw-headline" id="Scoring">Scoring</span></h2>
+<p>Objective: To build a boomilever with the greatest efficiency. Efficiency is calculated as (Mass held) divided by (Mass of boom). 
+</p><p>Boomilevers are broken down into 4 tiers as follows: 
+</p>
+<ol><li>Boomilevers that meet all construction parameters with no competition violations.</li>
+<li>Boomilevers with 1 or more competition violations.</li>
+<li>Boomilevers with construction violations; may also have competition violations.</li>
+<li>Boomilevers that cannot be loaded for any reason.</li></ol>
+<p>Boomilevers in the first three tiers will be ranked by their efficiency score (Load Supported (grams) / Mass of Boomilever (grams)); those in the last tier will receive participation points only. Ties will be broken by (in this order) 1. greatest clearance from contact depth line and 2. lowest boomilever mass.
+</p>
+<h2><span class="mw-headline" id="Basic_Design">Basic Design</span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:215px;"><a href="/wiki/index.php/File:Warrenboom.gif" class="image"><img alt="" src="/wiki/images/d/d6/Warrenboom.gif" width="213" height="99" class="thumbimage" /></a>  <div class="thumbcaption">A basic tension boomilever</div></div></div>
+<p>There are two basic types of boomilevers. First is the tension boomilever, where the tension chord is longer than the compression chord. The other is the compression boomilever, where the compression chord is longer than the tension chord.
+</p><p>It is generally accepted that the tension boomilever is inherently better than the compression. This is because the strength of wood in compression decreases per length unit the longer the piece of wood is. However, wood holds the same strength in tension no matter the length of the piece. In the compression boomilever, the compression chord is longer than in the tension boomilever.
+</p><p>This image shows some of the basic parts of a tension boomilever.
+</p>
+<div class="thumb tleft"><div class="thumbinner" style="width:502px;"><a href="/wiki/index.php/File:Tensionboomedited.jpg" class="image"><img alt="" src="/wiki/images/8/8c/Tensionboomedited.jpg" width="500" height="333" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/index.php/File:Tensionboomedited.jpg" class="internal" title="Enlarge"></a></div>Parts of a tension boomilever:<br />&#8226; A - attachment base<br />&#8226; B - tension chords<br />&#8226; C - distal end<br />&#8226; D - compression chords.</div></div></div> 
+<p><br clear="both" />
+</p>
+<h3><span class="mw-headline" id="Height">Height</span></h3>
+<p>The taller a boomilever is, the less stress is put on the tension and compression members. Even an extra centimeter of height is good enough to lighten stress put on the tension members by kilograms, and same with compression. The best practice would have to be to use ALL height allowed for division (B= 20 cm, C = 15). Though this is adding a negligible amount of length to tension members, it is tiny compared to amount of stress it is decreasing, which allows you to use much smaller wood sizes. The most common and probably best practice in most cases would be to use two 3/32 BASS sticks.
+</p>
+<h3><span class="mw-headline" id="Base">Base</span></h3>
+<p>Previous boomilever seasons required the attachment base to be a solid block connecting the tension members and reinforcing them, with one to three holes drilled to allow a single long 1/4" bolt with a 3/4" washer threaded through it and attached to the testing wall.
+</p><p>Now, instead of threading a straight bolt through a solid base, a stationary J-Hook is attached to the wall, and the boomilever must be HOOKED on. This completely changes base design, compared to previous years. The bolt CANNOT be removed, unlike before, when the straight bolt was opened, pushed through the boomilever base, then bolted back onto the Testing Wall.
+</p><p>Do not overbuild your base. Most boomilever bases are overbuilt. If you are worried about stability, you can look at the bridges of the past couple years. Most were no wider than 5cm and had no problem with stability.
+</p><p>A nice attachment base snugly accommodates your tension sticks and the J-hook. Making your own laminated balsa sheets work well in this. Use three 1/16 inch sheets and cross grain them, or even use like five 1/32 inch sheets. A nice glue for attaching the tension sticks to the attachment base is the preeminent Gorilla Glue manufactured in the great country of Denmark. Don't forget to wet the wood so the glue expands nicely.
+</p>
+<h3><span class="mw-headline" id="Lateral_Bracing">Lateral Bracing</span></h3>
+<p>Don't let the term turn you off. Lateral bracing is simply a horizontal truss connecting the compression chords of your boomilever. Like any normal truss, there are various designs you can use. And the goal is the same for lateral bracing as is a normal truss, to keep the compression chords from bending and twisting.
+</p><p>You generally do not need a lateral truss connecting the tension chords of your boomilever. The tension chords do not bend, and only twist under very extreme force. If anything, you can use a couple perpendicular pieces to connect them.
+</p>
+<h2><span class="mw-headline" id="Designs">Designs</span></h2>
+<p>There are three or arguably four different basic boomilever designs.
+</p>
+<h3><span class="mw-headline" id="Normal_Boomilever">Normal Boomilever</span></h3>
+<p>This is a no-frills, easy boomilever. That does not mean that it is bad in any way, and is considered by most to be the best design. It is simply a flat nearly two dimensional compression design, with nearly always two compression cords, and one or two tension cords. You could make it by the compression type boomilever or by the tension type boomilever. It may or may not have lateral bracings.
+</p>
+<h3><span class="mw-headline" id="Tower_Chimney">Tower Chimney</span></h3>
+<p>This is mistakenly called the box beam design, as per the definition of a box beam. As the name describes, it is simply the chimney of a tower serving as the compression. It is made up of four compression members in a square or rectangle formation. It also has many thin cross-bracings to connect the four cords. Most of these are based on the right principles, but have a tendency to be overbuilt. The point of a tower chimney design is to lower forces on the compression cords, instead of two sticks taking the weight, shift it to four sticks, allowing each individual compression cord to take less force.
+</p>
+<h3><span class="mw-headline" id="Box_Beam_Design">Box Beam Design</span></h3>
+<p>It is like a standard boomilever, but the compression cords are hollow, allowing them to be slightly larger. This is because of the concept, or due to the thinking that the compression does not need to be 'full' to have complete stability. For example, think of a hollow wooden beam with a load stacked on it. Now think of a solid wooden pillar of the same dimensions with the same load stacked on it. The beam should be able to support as much weight as a solid beam. So in a box beam design, the compression sticks are the hollow beams. It is very similar to a standard boom.
+</p>
+<h3><span class="mw-headline" id="Compression_Tube">Compression Tube</span></h3>
+<div class="thumb tleft"><div class="thumbinner" style="width:102px;"><a href="/wiki/index.php/File:Tubeboom.jpg" class="image"><img alt="Tubeboom.jpg" src="/wiki/images/5/5b/Tubeboom.jpg" width="100" height="56" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/index.php/File:Tubeboom.jpg" class="internal" title="Enlarge"></a></div></div></div></div><p><br clear="both" />
+</p><p>The rarest of all designs. This design consist of one large single piece of wood used for the compression member of the Boomilever. The boom shown has only one member for tensile strength. These booms can be extremely light and if made right can also be quite competitive.
+</p><p><br />
+</p>
+<h2><span class="mw-headline" id="Materials">Materials</span></h2>
+<h3><span class="mw-headline" id="Glue">Glue</span></h3>
+<div class="thumb tleft"><div class="thumbinner" style="width:252px;"><a href="/wiki/index.php/File:Gluetypesboomilever.jpg" class="image"><img alt="" src="/wiki/images/f/ff/Gluetypesboomilever.jpg" width="250" height="117" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/index.php/File:Gluetypesboomilever.jpg" class="internal" title="Enlarge"></a></div>Purple CA Glue, Gorilla Glue, Blue CA glue</div></div></div>
+<p>Glue weight can be a major weight factor, but it doesn't have to be. You can easily use 0.1-0.5 grams of glue (or less) on a 10-gram boomilever.
+The two most common, and probably best suited glues for building would be CA glue and Gorilla Glue.
+</p><p>CA glue is super glue. There are many different brands such as Krazy-Glue, Loctite Super Glues, Zap-a-Gap, along with many many others. The best CA glues are probably industrial CA glues, such as products from Hobby Lobby or BSI industries. CA glue is divided into two main categories. 
+</p><p>The first is medium viscosity (thickness) CA. This is an all purpose glue. It dries in about 10-15 seconds and reaches maximum strength in an hour or less. It is ALMOST ALWAYS found in a purple label.
+</p><p>The second is Blue CA. This is very thin viscosity CA glue. It is thinner than water, and soaks into balsa very quickly. It is better for balsa than bass. This dries in 2-5 seconds or quicker. This is VERY strong, but is hard to use. A single drop is good for very strong bonds.
+</p><p>The other widely popular glue is Gorilla Glue. It is VERY strong, and expands LIKE CRAZY. One drop will expand into about 2/3 of a centimeter. Be careful when using this. This is best for the distal end, and the base. If using this for other bonds, and you want the gorilla glue to dry or set faster, a simple solution is to simply drop a few drops of blue CA onto the Gorilla Glue. It will cause the glue to set very fast. Use with caution as it may even lower strength by a little.
+</p><p>Another popular glue is epoxy. Epoxy is made by using two different  compounds and mixing them together creating a very strong bond. It is very heavy. Some other glues used are Weldabond, Titebond III, and Ambroid. Ambroid is in the same class as CA glue.
+</p>
+<h3><span class="mw-headline" id="Wood">Wood</span></h3>
+<p>The two varieties most heavily favored are basswood and balsa wood, both which can likely be purchased at a hobby store. You should proudly march into your favorite hobby store that stocks balsa and basswood armed with a hundredth gram precision scale and weight all the size sticks you desire. 
+</p><p>Lightest balsa sticks by the yard:
+1/16 * 1/16 sticks are around .3 grams.
+1/8 * 1/8 sticks are around .7 to .8 grams.
+1/4 * 1/4 sticks are around 3 grams
+</p><p>Please EXPERIMENT with using different weights for compression. The most important aspect of wood is not size, but density. The more dense (i.e the more relatively heavy compared to other wood of the same size), the stronger the members are. Experiment with different densities to find the right density for your boom.
+</p><p>I do not have the lightest basswood stats on hand. Using the lightest 1/16 * 1/16 basswood sticks for the tension sticks may result in premature failure. Please experiment.
+</p><p>It is often a good idea to buy sheets of balsa/bass and cut strips/sticks to a size using a balsa stripper instead of buying sticks of sizes because it gives greater flexibility with sizes, its also generally cheaper than buying sticks and sheets are more consistent in terms of density than sticks unless the sticks are carefully sorted. 
+</p><p>Basically, everything should be made of balsa except for the tension sticks which should be basswood. This shouldn't imply that this is the only way to do things. We don't intend to stifle creativity. However, the main idea to remember is that <b>balsa wood is better at compression then tension</b>.
+</p>
+<h2><span class="mw-headline" id="Building_a_Boomilever">Building a Boomilever</span></h2>
+<h3><span class="mw-headline" id="Step_One">Step One</span></h3>
+<p>Start out by making either the tension members or compression. It is probably more convenient to start out with compression. First, draw out design on graph paper. After pinning to table, place a sheet of wax paper over it to stop boom from sticking to paper. THIS IS VERY IMPORTANT. A suggested way to build, from bottom to top: Your table -&gt; corkboard -&gt; Paper template -&gt; polyethylene plastic sheet (from a plastic bag) -&gt; the wood pieces to be joined -&gt; thumbtacks.
+</p><p>Straightness is key. Check straightness with a long straightedge, like a T square. Templates may be drawn with either CAD software to ensure straightness, or just pencil and paper. This is a matter of preference.
+</p><p>Next cut all parts needed for the compression such as X bracings, compression cords (2), etc.
+</p><p>Next, start by placing both compression cords on top of the graph paper, however you drew the design, directly on the design itself.
+</p><p>Next, attach cross-bracing and whatever else is on your design. Remember, CA glue, and all other glues for that matter, are PERMANENT. If you put your glue, and did not put the item to glue on it, chances are that you won't be able to reapply glue and try again, unless you scrape and file off glue. Therefore, avoid using too much glue near the distal end, lest it soak into the sides and prevent you from gluing the tension members later on in the next step.
+</p><p>When all glue is dry, simply pick up wax paper from the design, remove all pins and tapings, and et cetera, from the compression 'piece' and there you have it. A brand new compression member.
+</p><p>If this is a box beam or tube design, construction would be harder or different but considering that you can make a box beam or tube design, you probably have enough experience to not need this page.
+</p>
+<h3><span class="mw-headline" id="Step_Two">Step Two</span></h3>
+<p>Onward, to tension members. Depending on design, if there are lateral bracings, you may have to make two blueprints, one for each side. This is so you don't end up with for example, two tension members both of which have the lateral bracings on the left side of the cords. So you need to make two blueprints that are mirror images, the opposite of the other.
+</p><p>Once done, simply follow steps from step one, and place wax paper over designs, place/cut [and place] wood directly onto the plans, and glue other pieces. Wait for them to dry, and voila!
+</p>
+<h3><span class="mw-headline" id="Step_Three">Step Three</span></h3>
+<p>This is probably one of the hardest parts as there are many ways to do this. One way is to glue tension members to the side of the distal end of the compression. Use the strongest glue possible such as Gorilla Glue, or Titebond III.
+</p><p>Next on both sides on the distal end, place two more small wood pieces on the top and bottom of the tension members. These should be the same size as the tension members. Next, place a thin (probably 1/16" balsa) on top of the three stick 'sandwich' and glue to laminate. This will make the distal end very strong.
+</p><p>According to the esteemed Bob Monetza:
+"You'd want to get the point of support as close as possible to the center of the block. If the center of the block is beyond the connection point between the tension and compression chord, it will cause bending of the compression chord, like a diving board."
+</p><p>After doing this, glue lateral bracings to compression members, etc. At this point, you may have to bend the tension members inwards depending on lateral bracing design. As long as it is not way too much bent, you should be fine.
+</p>
+<h3><span class="mw-headline" id="Useful_Tips_and_Techniques">Useful Tips and Techniques</span></h3>
+<p>There are many different building techniques for boomilevers, but there are two concepts that hold true throughout all building stages:
+</p>
+<ul><li>You need less wood than you think.</li>
+<li>You need less glue than you think.</li></ul>
+<h4><span class="mw-headline" id="Cutting_Wood">Cutting Wood</span></h4>
+<p>The Easy Cutter from Midwest products is very useful for balsa events. <a rel="nofollow" class="external text" href="http://www.midwestproducts.com/item_detail.asp?item_id=23">Midwest Products Easy Cutter</a> The X-Acto knife is also useful.
+</p><p>A nail file is also important. You cut a little longer than you need, and you file it down to the exact length you need. It is much better to have more wood than you need than to have less, because once you have too little wood, it is impossible to add wood back onto that member without sacrificing strength.
+</p>
+<h4><span class="mw-headline" id="Gluing">Gluing</span></h4>
+<p>Lap joints are great for the boomilever, or for any balsa event for that matter <a rel="nofollow" class="external text" href="http://www.garrettsbridges.com/building/bridge-joints/">Explanation of Joints</a>
+</p><p>Gaps in glue joints are EVIL. Use like the eraser on a pencil to push down on the wood when you glue so there are no gaps. <a rel="nofollow" class="external text" href="http://www.soinc.org/sites/default/files/uploaded_files/glueweight.pdf">Minimizing Weight Gain While Maximizing Strength When Gluing Balsa</a>
+</p>
+<h4><span class="mw-headline" id="Dehydrating">Dehydrating</span></h4>
+<p>The concept behind dehydrating a boomilever is that dehydrating will allow a boomilever to become lighter through water loss. This in turn will raise the efficiency of a boomilever in what could prove to be a crucial amount of points. The amount of water loss does vary by design, but one can expect to lose about 1 +/- 0.2 grams of weight. 
+</p><p>There are various ways to go about dehydrating a boomilever. One can bake the entire structure before competition, which generally allows for a more even distribution of water loss. Another way is to use a hairdryer, which allows for last minute dehydrating at the competition site. 
+</p><p>Regardless of what method is used to dehydrate the boomilever, it is important to store it in dry conditions. Balsa will easily reabsorb moisture as easily as it loses it. One can store the boomilever in a box full of silica gel to ensure minimal water absorption.
+</p>
+<h2><span class="mw-headline" id="Testing">Testing</span></h2>
+<p>It is vital that you test your boomilever before competition. Of course, you never test unless you have enough time to build another one before competition. Testing a boomilever does not weaken the structure in most cases. The key to know if your boomilever is damaged is to listen while you test. If you hear any pops, cracks, or groans then the boom is probably in need of repair. However, if you do not hear anything, your boomilever should be as good as new.
+</p><p>One method is to test the boomilever to the point where you like the efficiency score and stop without breaking the boomilever. I definitely think it is a good idea to test some boomilevers to failure, but you can use this method if you are nearing a competition.
+</p><p>Testing to failure lets you know where the structure is weak, and gives you the knowledge to make the boomilever better. Typically, the weak spot on boomilevers is the connection to the base.
+</p>
+<h3><span class="mw-headline" id="Testing_at_Competition">Testing at Competition</span></h3>
+<p>When you  are at the competition, your testing methods are important. Don't waste time pouring sand. You should be able to get all 15kg of sand done in less than 3 minutes. The longer the boomilever has to hold weight, the more likely it is to break. Basically, the faster you can pour the better in most cases, although with pouring devices, take care not to pour too quickly initially, as that can cause a huge amount of initial stress, since the flow rate adds additional force when it hits the bucket, not simply its own weight. Avoid spilling sand. This is an annoyance to the event supervisor (ES). There have been cases where the ES makes the testers pick up the sand off the floor and put it into the bucket. This gets old fast, remember that the clock is ticking. Your best bet is to not fill the pouring container up to the brim, or worse, over the brim.
+</p><p>It is possible that the ES will let you bring and use your own pouring cup. This is definitely something to think about, since sometimes what the ES brings is less than nice. I had to once pour sand out of those 1 gallon ice cream containers. If you do bring your own cup, clear it with the ES beforehand. They may let you use it under the condition that it is available to everyone else.The ideal pouring container would probably be a plastic, 2-cup measuring cup with a large open-end handle.
+</p><p>Make sure that there is enough space between the bucket and the floor. There is nothing worse than getting a lower score than what the boomilever could have gotten simply because the bucket starts to touch the floor due to the loaded sand. Boomilevers are not rigid; the tensile forces will cause the boomilever to stretch at the tension members.
+</p><p><b>It does NOT matter if the sand is not even:</b> It is a common myth that it will damage or lower the amount of weight the boomilever can carry. The physics behind it are slightly complicated if you were to write out the derivatives, but think about it this way: The force exerted by the boomilever is being pulled down by the force of gravity by a single point of contact- the chain and or hook of the loading black. Since gravity will always remain constant, no matter where the bucket is or how it is leaning, it will ALWAYS pull down at the chain with the same force, since as previously said it is connected at a SINGLE point.
+</p><p><b>Boomilever is a fun event:</b> make sure you don't get caught up in trying to win so hard that you stop enjoying it. Build a lot, test a lot, and document everything.
+</p>
+<h2><span class="mw-headline" id="Scoring_2">Scoring</span></h2>
+<p>Boomilever is scored based on efficiency. The score is equal to the mass of the load held divided by the mass of the boomilever. For example: if a boomilever has a mass of 20g and holds 7000g or 7kg, the team would have a score of 350.
+</p><p>As of the 2014 season, scores greater than 800 were considered very competitive, typically sufficient to finish highly at most state competitions.
+</p>
+<h2><span class="mw-headline" id="Useful_Links">Useful Links</span></h2>
+<ul><li><a href="/wiki/index.php/Aia%27s_Boomilever_Guide" title="Aia&#39;s Boomilever Guide">Aia's Boomilever Guide</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.turnertoys.com/G1/science_olympiad/Bridge_and_Tower/boomilever_specifications2007.htm">Boom Specs 07</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.madsci.org/posts/archives/2000-10/972402307.Eg.r.html">How to build a boom</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Technology_and_Engineering_Events" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/index.php/Template:Technology_and_Engineering_Event" title="Template:Technology and Engineering Event"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/index.php?title=Template_talk:Technology_and_Engineering_Event&amp;action=edit&amp;redlink=1" class="new" title="Template talk:Technology and Engineering Event (page does not exist)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a rel="nofollow" class="external text" href="https://scioly.org/wiki/index.php?title=Template:Technology_and_Engineering_Event&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Technology_and_Engineering_Events" style="font-size:114%;margin:0 4em">Technology and Engineering Events</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">National Events</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Balloon_Launch_Glider" title="Balloon Launch Glider">Balloon Launch Glider</a></li>
+<li><a href="/wiki/index.php/Battery_Buggy" title="Battery Buggy">Battery Buggy</a></li>
+<li><a class="mw-selflink selflink">Boomilever</a></li>
+<li><a href="/wiki/index.php/Bridge_Building" title="Bridge Building">Bridge Building</a></li>
+<li><a href="/wiki/index.php/Detector_Building" title="Detector Building">Detector Building</a></li>
+<li><a href="/wiki/index.php/Egg-O-Naut" title="Egg-O-Naut">Egg-O-Naut</a></li>
+<li><a href="/wiki/index.php/Elastic_Launched_Glider" title="Elastic Launched Glider">Elastic Launched Glider</a></li>
+<li><a href="/wiki/index.php/Electric_Vehicle" title="Electric Vehicle">Electric Vehicle</a></li>
+<li><a href="/wiki/index.php/Elevated_Bridge" title="Elevated Bridge">Elevated Bridge</a></li>
+<li><a href="/wiki/index.php/Gravity_Vehicle" title="Gravity Vehicle">Gravity Vehicle</a></li>
+<li><a href="/wiki/index.php/Helicopters" title="Helicopters">Helicopters</a></li>
+<li><a href="/wiki/index.php/Junkyard_Challenge" title="Junkyard Challenge">Junkyard Challenge</a></li>
+<li><a href="/wiki/index.php/Mission_Possible" title="Mission Possible">Mission Possible</a></li>
+<li><a href="/wiki/index.php/Mousetrap_Vehicle" title="Mousetrap Vehicle">Mousetrap Vehicle</a></li>
+<li><a href="/wiki/index.php/Robo-Cross" title="Robo-Cross">Robo-Cross</a></li>
+<li><a href="/wiki/index.php/Robot_Arm" title="Robot Arm">Robot Arm</a></li>
+<li><a href="/wiki/index.php/Robot_Ramble" title="Robot Ramble">Robot Ramble</a></li>
+<li><a href="/wiki/index.php/Roller_Coaster" title="Roller Coaster">Roller Coaster</a></li>
+<li><a href="/wiki/index.php/Scrambler" title="Scrambler">Scrambler</a></li>
+<li><a href="/wiki/index.php/Towers" title="Towers">Towers</a></li>
+<li><a href="/wiki/index.php/Wheeled_Vehicle" title="Wheeled Vehicle">Wheeled Vehicle</a></li>
+<li><a href="/wiki/index.php/Wright_Stuff" title="Wright Stuff">Wright Stuff</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Trial Events</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Aerial_Scramble" title="Aerial Scramble">Aerial Scramble</a></li>
+<li><a href="/wiki/index.php/Amazing_Mechatronics" title="Amazing Mechatronics">Amazing Mechatronics</a></li>
+<li><a href="/wiki/index.php/Electric_Wright_Stuff" title="Electric Wright Stuff">Electric Wright Stuff</a></li>
+<li><a href="/wiki/index.php/Flying_Bird" title="Flying Bird">Flying Bird</a></li>
+<li><a href="/wiki/index.php/Robot_Tour" title="Robot Tour">Robot Tour</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Event Resources</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/MPC_Index" title="MPC Index">Mission Possible Series</a></li>
+<li><a href="/wiki/index.php/Zero_Cost_Scrambler" title="Zero Cost Scrambler">Zero Cost Scrambler</a></li>
+<li><a href="/wiki/index.php/Aia%27s_Boomilever_Guide" title="Aia&#39;s Boomilever Guide">Aia's Boomilever Guide</a></li>
+<li><a href="/wiki/index.php/Mousetrap_Vehicle_2010_Design" title="Mousetrap Vehicle 2010 Design">Mousetrap Vehicle 2010 Design</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="2020.2F2021_Events" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/index.php/Template:2021Events" title="Template:2021Events"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/index.php?title=Template_talk:2021Events&amp;action=edit&amp;redlink=1" class="new" title="Template talk:2021Events (page does not exist)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a rel="nofollow" class="external text" href="https://scioly.org/wiki/index.php?title=Template:2021Events&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="2020.2F2021_Events" style="font-size:114%;margin:0 4em">2020/2021 Events</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Division B Events</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Anatomy_and_Physiology" title="Anatomy and Physiology">Anatomy and Physiology</a></li>
+<li><a class="mw-selflink selflink">Boomilever</a></li>
+<li><a href="/wiki/index.php/Circuit_Lab" title="Circuit Lab">Circuit Lab</a></li>
+<li><a href="/wiki/index.php/Crime_Busters" title="Crime Busters">Crime Busters</a></li>
+<li><a href="/wiki/index.php/Density_Lab" title="Density Lab">Density Lab</a></li>
+<li><a href="/wiki/index.php/Disease_Detectives" title="Disease Detectives">Disease Detectives</a></li>
+<li><a href="/wiki/index.php/Dynamic_Planet_Topics" title="Dynamic Planet Topics">Dynamic Planet</a></li>
+<li><a href="/wiki/index.php/Elastic_Launched_Glider" title="Elastic Launched Glider">Elastic Launched Glider</a></li>
+<li><a href="/wiki/index.php/Experimental_Design" title="Experimental Design">Experimental Design</a></li>
+<li><a href="/wiki/index.php/Food_Science" title="Food Science">Food Science</a></li>
+<li><a href="/wiki/index.php/Fossils" title="Fossils">Fossils</a></li>
+<li><a href="/wiki/index.php/Game_On" title="Game On">Game On</a></li>
+<li><a href="/wiki/index.php/Heredity" title="Heredity">Heredity</a></li>
+<li><a href="/wiki/index.php/Machines" title="Machines">Machines</a></li>
+<li><a href="/wiki/index.php/Meteorology" title="Meteorology">Meteorology</a></li>
+<li><a href="/wiki/index.php/Mission_Possible" title="Mission Possible">Mission Possible</a></li>
+<li><a href="/wiki/index.php/Mousetrap_Vehicle" title="Mousetrap Vehicle">Mousetrap Vehicle</a></li>
+<li><a href="/wiki/index.php/Ornithology" title="Ornithology">Ornithology</a></li>
+<li><a href="/wiki/index.php/Ping_Pong_Parachute" title="Ping Pong Parachute">Ping Pong Parachute</a></li>
+<li><a href="/wiki/index.php/Reach_for_the_Stars" title="Reach for the Stars">Reach for the Stars</a></li>
+<li><a href="/wiki/index.php/Road_Scholar" title="Road Scholar">Road Scholar</a></li>
+<li><a href="/wiki/index.php/Water_Quality" title="Water Quality">Water Quality</a></li>
+<li><a href="/wiki/index.php/Write_It_Do_It" title="Write It Do It">Write It Do It</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Division C Events</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Anatomy_and_Physiology" title="Anatomy and Physiology">Anatomy and Physiology</a></li>
+<li><a href="/wiki/index.php/Astronomy" title="Astronomy">Astronomy</a></li>
+<li><a class="mw-selflink selflink">Boomilever</a></li>
+<li><a href="/wiki/index.php/Chemistry_Lab" title="Chemistry Lab">Chemistry Lab</a></li>
+<li><a href="/wiki/index.php/Circuit_Lab" title="Circuit Lab">Circuit Lab</a></li>
+<li><a href="/wiki/index.php/Codebusters" title="Codebusters">Codebusters</a></li>
+<li><a href="/wiki/index.php/Designer_Genes" title="Designer Genes">Designer Genes</a></li>
+<li><a href="/wiki/index.php/Detector_Building" title="Detector Building">Detector Building</a></li>
+<li><a href="/wiki/index.php/Disease_Detectives" title="Disease Detectives">Disease Detectives</a></li>
+<li><a href="/wiki/index.php/Dynamic_Planet_Topics" title="Dynamic Planet Topics">Dynamic Planet</a></li>
+<li><a href="/wiki/index.php/Experimental_Design" title="Experimental Design">Experimental Design</a></li>
+<li><a href="/wiki/index.php/Forensics" title="Forensics">Forensics</a></li>
+<li><a href="/wiki/index.php/Fossils" title="Fossils">Fossils</a></li>
+<li><a href="/wiki/index.php/GeoLogic_Mapping" title="GeoLogic Mapping">GeoLogic Mapping</a></li>
+<li><a href="/wiki/index.php/Gravity_Vehicle" title="Gravity Vehicle">Gravity Vehicle</a></li>
+<li><a href="/wiki/index.php/Machines" title="Machines">Machines</a></li>
+<li><a href="/wiki/index.php/Ornithology" title="Ornithology">Ornithology</a></li>
+<li><a href="/wiki/index.php/Ping_Pong_Parachute" title="Ping Pong Parachute">Ping Pong Parachute</a></li>
+<li><a href="/wiki/index.php/Protein_Modeling" title="Protein Modeling">Protein Modeling</a></li>
+<li><a href="/wiki/index.php/Sounds_of_Music" title="Sounds of Music">Sounds of Music</a></li>
+<li><a href="/wiki/index.php/Water_Quality" title="Water Quality">Water Quality</a></li>
+<li><a href="/wiki/index.php/Wright_Stuff" title="Wright Stuff">Wright Stuff</a></li>
+<li><a href="/wiki/index.php/Write_It_Do_It" title="Write It Do It">Write It Do It</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Division B National Trials 2020</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Aerial_Scramble" title="Aerial Scramble">Aerial Scramble</a></li>
+<li><a href="/wiki/index.php/Amazing_Mechatronics" title="Amazing Mechatronics">Amazing Mechatronics</a></li>
+<li><a href="/wiki/index.php/Codebusters" title="Codebusters">Codebusters</a></li>
+<li><a href="/wiki/index.php/Storm_the_Castle" title="Storm the Castle">Storm the Castle</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Division C National Trials 2020</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Aerial_Scramble" title="Aerial Scramble">Aerial Scramble</a></li>
+<li><a href="/wiki/index.php/Amazing_Mechatronics" title="Amazing Mechatronics">Amazing Mechatronics</a></li>
+<li><a href="/wiki/index.php/Environmental_Chemistry" title="Environmental Chemistry">Environmental Chemistry</a></li>
+<li><a href="/wiki/index.php/Trajectory" title="Trajectory">Trajectory</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Division B National Trials 2021</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Aerial_Scramble" title="Aerial Scramble">Aerial Scramble</a></li>
+<li><a href="/wiki/index.php/Awesome_Aquifers" title="Awesome Aquifers">Awesome Aquifers</a></li>
+<li><a href="/wiki/index.php/Botany" title="Botany">Botany</a></li>
+<li><a href="/wiki/index.php/Codebusters" title="Codebusters">Codebusters</a></li>
+<li><a href="/wiki/index.php/Electric_Wright_Stuff" title="Electric Wright Stuff">Electric Wright Stuff</a></li>
+<li><a href="/wiki/index.php/Home_Horticulture" title="Home Horticulture">Home Horticulture</a></li>
+<li><a href="/wiki/index.php/Solar_Power" title="Solar Power">Solar Power</a></li>
+<li><a href="/wiki/index.php/Storm_the_Castle" title="Storm the Castle">Storm the Castle</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Division C National Trials 2021</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Aerial_Scramble" title="Aerial Scramble">Aerial Scramble</a></li>
+<li><a href="/wiki/index.php/Botany" title="Botany">Botany</a></li>
+<li><a href="/wiki/index.php/Electric_Wright_Stuff" title="Electric Wright Stuff">Electric Wright Stuff</a></li>
+<li><a href="/wiki/index.php/Environmental_Chemistry" title="Environmental Chemistry">Environmental Chemistry</a></li>
+<li><a href="/wiki/index.php/Home_Horticulture" title="Home Horticulture">Home Horticulture</a></li>
+<li><a href="/wiki/index.php/Robot_Tour" title="Robot Tour">Robot Tour</a></li>
+<li><a href="/wiki/index.php/Solar_Power" title="Solar Power">Solar Power</a></li>
+<li><a href="/wiki/index.php/Trajectory" title="Trajectory">Trajectory</a></li>
+<li><a href="/wiki/index.php/WiFi_Lab" title="WiFi Lab">WiFi Lab</a></li></ul>
+</div></td></tr></tbody></table></div>
+
+<!-- 
+NewPP limit report
+Cached time: 20200806181212
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.496 seconds
+Real time usage: 0.599 seconds
+Preprocessor visited node count: 670/1000000
+Preprocessor generated node count: 5028/1000000
+Post‐expand include size: 26357/2097152 bytes
+Template argument size: 1747/2097152 bytes
+Highest expansion depth: 10/40
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.040/7.000 seconds
+Lua virtual size: 8.62 MB/50 MB
+Lua estimated memory usage: 0 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  216.980      1 -total
+ 56.85%  123.347      2 Template:Navbox
+ 48.69%  105.638      1 Template:Technology_and_Engineering_Event
+ 23.80%   51.648      1 Template:EventLinksBox
+ 13.91%   30.172      1 Template:2021Events
+  3.34%    7.248      4 Template:Break
+  2.00%    4.333      2 Template:SpoilerBoxBegin
+  1.96%    4.257      2 Template:Clear
+  1.94%    4.203      2 Template:SpoilerBoxContent
+  1.79%    3.879      2 Template:SpoilerBoxEnd
+-->
+</div>
+<!-- Saved in parser cache with key wiki-wikiv2_:pcache:idhash:83-0!canonical and timestamp 20200806181211 and revision id 106440
+ -->
+</div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://scioly.org/wiki/index.php?title=Boomilever&amp;oldid=106440">https://scioly.org/wiki/index.php?title=Boomilever&amp;oldid=106440</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/index.php/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/index.php/Category:Technology_and_Engineering_Events" title="Category:Technology and Engineering Events">Technology and Engineering Events</a></li><li><a href="/wiki/index.php/Category:Event_Pages" title="Category:Event Pages">Event Pages</a></li><li><a href="/wiki/index.php/Category:Building_Event_Pages" title="Category:Building Event Pages">Building Event Pages</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-login"><a href="//scioly.org/forums/ucp.php?mode=login&amp;redirect=https%3A%2F%2Fscioly.org%2Fwiki%2Findex.php%2FBoomilever" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/index.php/Boomilever" title="View the content page [c]" accesskey="c">Page</a></span></li><li id="ca-talk" class="new"><span><a href="/wiki/index.php?title=Talk:Boomilever&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/index.php/Boomilever">Read</a></span></li><li id="ca-viewsource" class="collapsible"><span><a href="/wiki/index.php?title=Boomilever&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li><li id="ca-history" class="collapsible"><span><a href="/wiki/index.php?title=Boomilever&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/wiki/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Scioly.org" title="Search Scioly.org [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/index.php/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage"><a href="/wiki/index.php/Main_Page" title="Visit the main page [z]" accesskey="z">Main Page</a></li><li id="n-recentchanges"><a href="/wiki/index.php/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/wiki/index.php/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-MediaWiki-Help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">MediaWiki Help</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/index.php/Special:WhatLinksHere/Boomilever" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/index.php/Special:RecentChangesLinked/Boomilever" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/wiki/index.php/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="/wiki/index.php?title=Boomilever&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/wiki/index.php?title=Boomilever&amp;oldid=106440" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/wiki/index.php?title=Boomilever&amp;action=info" title="More information about this page">Page information</a></li>				</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 6 August 2020, at 04:50.</li>
+								<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution</a> unless otherwise noted.</li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="http://creativecommons.org/licenses/by/3.0/"><img src="/wiki/resources/assets/licenses/cc-by.png" alt="Creative Commons Attribution" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<style>.MathJax_Display{display:inline !important;}
+.mathjax-wrapper{font-size:120%;}</style>
+<script type='text/x-mathjax-config'>MathJax.Hub.Config({displayAlign:'left',tex2jax:{displayMath:[['[math]','[/math]']]}})</script>
+<script src='//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.496","walltime":"0.599","ppvisitednodes":{"value":670,"limit":1000000},"ppgeneratednodes":{"value":5028,"limit":1000000},"postexpandincludesize":{"value":26357,"limit":2097152},"templateargumentsize":{"value":1747,"limit":2097152},"expansiondepth":{"value":10,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%  216.980      1 -total"," 56.85%  123.347      2 Template:Navbox"," 48.69%  105.638      1 Template:Technology_and_Engineering_Event"," 23.80%   51.648      1 Template:EventLinksBox"," 13.91%   30.172      1 Template:2021Events","  3.34%    7.248      4 Template:Break","  2.00%    4.333      2 Template:SpoilerBoxBegin","  1.96%    4.257      2 Template:Clear","  1.94%    4.203      2 Template:SpoilerBoxContent","  1.79%    3.879      2 Template:SpoilerBoxEnd"]},"scribunto":{"limitreport-timeusage":{"value":"0.040","limit":"7.000"},"limitreport-virtmemusage":{"value":9039872,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20200806181212","ttl":86400,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":194});});</script>
+	</body>
+</html>

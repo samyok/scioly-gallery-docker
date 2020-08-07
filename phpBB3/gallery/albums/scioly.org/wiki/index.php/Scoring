@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Scoring - Scioly.org</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Scoring","wgTitle":"Scoring","wgCurRevisionId":93361,"wgRevisionId":93361,"wgArticleId":8762,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["General Competition"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Scoring","wgRelevantArticleId":8762,"wgRequestId":"7cc08796330a0a5ebc34a40f","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":[]});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","site":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@1ltrs49",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/wiki/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/wiki/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/wiki/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.8"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/wiki/opensearch_desc.php" title="Scioly.org (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://scioly.org/wiki/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Scioly.org Atom feed" href="/wiki/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/wiki/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Scoring rootpage-Scoring skin-vector action-view"><meta property="og:title" content="Science Olympiad Student Center"/>
+<meta property="og:type" content="website"/>
+<meta property="og:url" content="https://scioly.org/"/>
+
+<meta property="og:image" content="http://scioly.org/src/img/logo/logo_square.png"/>
+<meta property="og:image:secure_url" content="https://scioly.org/src/img/logo/logo_square.png"/> 
+<meta property="og:image:type" content="image/png"/> 
+<meta property="og:image:width" content="500"/> 
+<meta property="og:image:height" content="500"/>
+
+<meta property="og:description" content="A resource by and for Science Olympiad students, coaches, and alumni nationwide."/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script type="text/javascript" src="/src/js/jquery.min.js"></script>
+<script type="text/javascript" src="/src/js/main.js"></script>
+
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+<link rel="stylesheet" type="text/css" href="/src/css/main.css">
+
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<link rel="icon" href="/favicon.ico" type="image/x-icon"><div class="site-nav">
+	<a href="/">
+		<img src="/src/img/logo/logo.png">
+	</a>
+	<div class="hamburger" onclick="hamburger(this)">
+		<div>
+			<div></div>
+			<div></div>
+			<div></div>
+		</div>
+	</div>
+	<ul>
+		<li><a href="/forums">Forums</a></li>
+		<li><a href="/wiki">Wiki</a></li>
+		<li><a href="/tests">Test Exchange</a></li>
+		<!-- <li><a href="/gallery">Image Gallery</a></li> -->
+		<!-- <li><a href="/invitational">Invites</a></li> -->
+		<li><a href="/chat">Chat</a></li>
+		<li><a href="/login" class="button">Login</a></li>
+	</ul>
+</div>
+<img class="print-only" src="/src/img/logo/logo_black.png" style="max-width: 150px;"><link rel="stylesheet" type="text/css" href="/src/css/wiki.css">
+<div id="wrap-me-up">
+
+
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Scoring</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Scioly.org</div>				<div id="contentSub"></div>
+								<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p><b>Scoring</b> refers generally to the process by which Science Olympiad tournaments are scored, either on an individual event basis or for the tournament as a whole.
+</p>
+<div id="toc" class="toc"><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Tournament_Scoring"><span class="tocnumber">1</span> <span class="toctext">Tournament Scoring</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Scoring_Solutions"><span class="tocnumber">1.1</span> <span class="toctext">Scoring Solutions</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Event_Scoring"><span class="tocnumber">2</span> <span class="toctext">Event Scoring</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Penalties"><span class="tocnumber">3</span> <span class="toctext">Penalties</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Disqualification"><span class="tocnumber">3.1</span> <span class="toctext">Disqualification</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Tiers"><span class="tocnumber">3.2</span> <span class="toctext">Tiers</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Tournament_Scoring">Tournament Scoring</span></h2>
+<p>The current most common method of scoring, sometimes known as the national method, gives each team a number of points equal to their rank in each event - the team's ranks in every event are added up to form the team's score, with lower scores being more desirable. This method has been in use at the National Tournament since 2001.
+</p><p>Many tournaments make modifications to the national method. Some tournaments drop the team's worst few scores from the team score. Tournaments in some areas, such as <a href="/wiki/index.php/Texas" title="Texas">Texas</a> and <a href="/wiki/index.php/Wisconsin" title="Wisconsin">Wisconsin</a>, add some events in addition to the national events, and score teams out of only 23 events (see <a href="/wiki/index.php/Rules_Manual#Event_Slate_Modification" title="Rules Manual">Event Slate Modification</a> for more detail). Some tournaments use a points cutoff, where all teams ranked lower than a certain point get the same score. For example, for several years teams at the <a href="/wiki/index.php/Michigan" title="Michigan">Michigan</a> state tournament ranking between 40th and 48th in an event were all awarded 40 points.
+</p><p>Some tournaments (such as <a href="/wiki/index.php/North_Dakota" title="North Dakota">North Dakota</a> state tournaments) continue to use the older high-score-wins method of scoring which was used at the National Tournament prior to 2001. In this method of scoring, the lowest-ranked team in an event earns 1 point and the highest-ranked team earns one more point than the total number of teams at the tournament. When this method was used at the National Tournament, a points cutoff was common - for example, in the late 1990s the top team in each event earned 41 points, with all teams ranked 40th or below earning 1 point.
+</p>
+<h3><span class="mw-headline" id="Scoring_Solutions">Scoring Solutions</span></h3>
+<p>While different hosts take different approaches to calculating and publishing scores, several programs have been developed in order to make the process easier for tournament hosts. Online systems like <a href="/wiki/index.php/Avogadro" title="Avogadro">Avogadro</a> and <a href="/wiki/index.php/Ezra_Tech" title="Ezra Tech">Ezra Tech</a> enable hosts to collect information from teams such as which events they are competing in and create schedules based around this information. As results come in, raw scores can be put in and placements will automatically be calculated. They also allow for the archival of results, permitting teams to review scores after the tournament is over. <a href="/wiki/index.php/Unosmium" title="Unosmium">Unosmium</a> is a similar program which revolves mainly around the archival and displaying of results as opposed to assisting tournament hosts. Different solutions fit different needs, and may be applied at a tournament for any number of reasons.
+</p>
+<h2><span class="mw-headline" id="Event_Scoring">Event Scoring</span></h2>
+<p>When "scoring" is used to describe individual events, it most often refers to build events or other events involving a detailed scoring method specified in the rules (such as many Physics events).
+</p><p>The majority of study events are written tests or similar, and are scored as such, with the rules typically stating no more than that high score wins and predetermined questions should be used to break ties. Some events break down the scoring by topic, specifying a rough percentage for each topic (for example, <a href="/wiki/index.php/Forensics" title="Forensics">Forensics</a>).
+</p><p>Build events (such as all Engineering events, and some other events like <a href="/wiki/index.php/Air_Trajectory" title="Air Trajectory">Air Trajectory</a>, <a href="/wiki/index.php/Bottle_Rocket" title="Bottle Rocket">Bottle Rocket</a>, and <a href="/wiki/index.php/Bungee_Drop" title="Bungee Drop">Bungee Drop</a>) typically outline a specific scoring method in the rules. This is most often high-score-wins, with the exception of the vehicle events, which are usually low-score-wins. Physics events, with the exception of <a href="/wiki/index.php/Air_Trajectory" title="Air Trajectory">Air Trajectory</a> (which is a typical build event) usually involve both a test component and a build component.
+</p>
+<h2><span class="mw-headline" id="Penalties">Penalties</span></h2>
+<h3><span class="mw-headline" id="Disqualification">Disqualification</span></h3>
+<p>Disqualification in Science Olympiad is a specific penalty that is applied to teams only under certain conditions. Generally teams should only be disqualified for misbehavior, including "excessive use of improper or vulgar language" (from the <a rel="nofollow" class="external text" href="https://www.soinc.org/scoring-guidelines">national organization scoring guidelines</a>), unsportsmanlike conduct, or outright cheating. Per <a rel="nofollow" class="external text" href="https://www.soinc.org/code-ethics-general-rules">General Rule #5</a> tournament officials are encouraged to apply the least restrictive penalty for rules infractions. Breaking specific event rules generally involve other less severe penalties, whether specifically delineated in the rules (such as tiers) or left to the discretion of the event supervisor.
+</p><p>In the past, disqualification was a common penalty used for many infractions of event rules. This policy was amended with the inclusion of tiers and other rule changes, and disqualification is now reserved for very specific and egregious violations of general rules.
+</p>
+<h3><span class="mw-headline" id="Tiers">Tiers</span></h3>
+<p>Some events use tiers as a way to penalize teams breaking event rules without resorting to disqualification. The default tier is Tier 1, for teams that have not violated any event rules. The event rules typically specify that teams breaking certain rules are ranked in lower tiers - extending to as many as 4 or 5 tiers in some events. The word is frequently used as a verb; for example, referring to a team as having "been tiered for violating Construction Parameters." In the past, various infractions involved differing levels of penalty, sometimes with as many as eight tiers. This process was simplified to involve a smaller number of tiers during the early 2000s.
+</p><p>For example, events with tiers for the <a href="/wiki/index.php/2020" title="2020">2020</a> season include:
+</p>
+<dl><dd><a href="/wiki/index.php/Boomilever" title="Boomilever">Boomilever</a> (B/C) - Tier 2 for holding a load with any construction/competition violations, Tier 3 for being unable to be loaded (cannot hold Loading Assembly, not wearing eye protection, etc.)</dd>
+<dd><a href="/wiki/index.php/Gravity_Vehicle" title="Gravity Vehicle">Gravity Vehicle</a> (C) - Tier 2 for runs with any competition violations, Tier 3 for runs with any construction violations, Tier 4 for teams with 2 failed runs, Tier 5 for teams that did not impound their Vehicle during the impound period.</dd>
+<dd><a href="/wiki/index.php/Mousetrap_Vehicle" title="Mousetrap Vehicle">Mousetrap Vehicle</a> (B) - Same as Gravity Vehicle.</dd>
+<dd><a href="/wiki/index.php/Ping_Pong_Parachute" title="Ping Pong Parachute">Ping Pong Parachute</a> (B/C) - Tier 2 if the parachute system does not separate from the rocket, Tier 3 if any part of the rocket/parachute system touches the ceiling.</dd>
+<dd><a href="/wiki/index.php/Write_It_Do_It" title="Write It Do It">Write It Do It</a> (B/C) - Tier 2 for drawing a subsection of the model.</dd></dl>
+<div role="navigation" class="navbox" aria-labelledby="General_Competition_Resources" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/index.php/Template:Competition_Navbox" title="Template:Competition Navbox"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/index.php/Template_talk:Competition_Navbox" title="Template talk:Competition Navbox"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a rel="nofollow" class="external text" href="http://198.211.96.235/wiki/index.php?title=Template:Competition_Navbox&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="General_Competition_Resources" style="font-size:114%;margin:0 4em">General Competition Resources</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">About Scioly.org</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Forums</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Scioly.org:BBCode" title="Scioly.org:BBCode">BBCode</a></li>
+<li><a href="/wiki/index.php/Scioly.org:Scioly_Summer_Study_Session" title="Scioly.org:Scioly Summer Study Session">Scioly Summer Study Session</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Wiki</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Help:Editing" title="Help:Editing">Help:Editing</a></li>
+<li><a href="/wiki/index.php/How_to_Write_a_Practice_Test" title="How to Write a Practice Test">How to Write a Practice Test</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">General</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Scioly.org:IRC" title="Scioly.org:IRC">IRC</a></li>
+<li><a href="/wiki/index.php/Scioly.org:History" title="Scioly.org:History">History</a></li>
+<li><a href="/wiki/index.php/Scioly.org:FAQ" title="Scioly.org:FAQ">FAQ</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Event Tools</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Binders" title="Binders">Binders</a></li>
+<li><a href="/wiki/index.php/Calculators" title="Calculators">Calculators</a></li>
+<li><a href="/wiki/index.php/Field_Guides" title="Field Guides">Field Guides</a></li>
+<li><a href="/wiki/index.php/Microscope" title="Microscope">Microscope</a></li>
+<li><a href="/wiki/index.php/Note_Sheets" title="Note Sheets">Note Sheets</a></li>
+<li><a href="/wiki/index.php/Safety_Glasses" title="Safety Glasses">Safety Glasses</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Competition Help</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Preparing_for_Competition" title="Preparing for Competition">Preparing for Competition</a></li>
+<li><a href="/wiki/index.php/Rules_Manual" title="Rules Manual">Rules Manual</a></li>
+<li><a class="mw-selflink selflink">Scoring</a></li>
+<li><a href="/wiki/index.php/Significant_Figures" title="Significant Figures">Significant Figures</a></li>
+<li><a href="/wiki/index.php/Starting_A_Science_Olympiad_Team" title="Starting A Science Olympiad Team">Starting A Science Olympiad Team</a></li>
+<li><a href="/wiki/index.php/Test_Taking_Skills" title="Test Taking Skills">Test Taking Skills</a></li></ul>
+</div></td></tr></tbody></table></div>
+
+<!-- 
+NewPP limit report
+Cached time: 20200806171626
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.128 seconds
+Real time usage: 0.246 seconds
+Preprocessor visited node count: 94/1000000
+Preprocessor generated node count: 220/1000000
+Post‐expand include size: 12172/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.040/7.000 seconds
+Lua virtual size: 8.73 MB/50 MB
+Lua estimated memory usage: 0 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+114.60%  170.861      2 Template:Navbox
+100.00%  149.095      1 Template:Competition_Navbox
+100.00%  149.095      1 -total
+-->
+</div>
+<!-- Saved in parser cache with key wiki-wikiv2_:pcache:idhash:8762-0!canonical and timestamp 20200806171626 and revision id 93361
+ -->
+</div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://scioly.org/wiki/index.php?title=Scoring&amp;oldid=93361">https://scioly.org/wiki/index.php?title=Scoring&amp;oldid=93361</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/index.php/Special:Categories" title="Special:Categories">Category</a>: <ul><li><a href="/wiki/index.php/Category:General_Competition" title="Category:General Competition">General Competition</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-login"><a href="//scioly.org/forums/ucp.php?mode=login&amp;redirect=https%3A%2F%2Fscioly.org%2Fwiki%2Findex.php%2FScoring" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/index.php/Scoring" title="View the content page [c]" accesskey="c">Page</a></span></li><li id="ca-talk"><span><a href="/wiki/index.php/Talk:Scoring" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discussion</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/index.php/Scoring">Read</a></span></li><li id="ca-viewsource" class="collapsible"><span><a href="/wiki/index.php?title=Scoring&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li><li id="ca-history" class="collapsible"><span><a href="/wiki/index.php?title=Scoring&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/wiki/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Scioly.org" title="Search Scioly.org [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/index.php/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage"><a href="/wiki/index.php/Main_Page" title="Visit the main page [z]" accesskey="z">Main Page</a></li><li id="n-recentchanges"><a href="/wiki/index.php/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/wiki/index.php/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-MediaWiki-Help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">MediaWiki Help</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/index.php/Special:WhatLinksHere/Scoring" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/index.php/Special:RecentChangesLinked/Scoring" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/wiki/index.php/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="/wiki/index.php?title=Scoring&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/wiki/index.php?title=Scoring&amp;oldid=93361" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/wiki/index.php?title=Scoring&amp;action=info" title="More information about this page">Page information</a></li>				</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 18 May 2020, at 15:02.</li>
+								<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution</a> unless otherwise noted.</li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="http://creativecommons.org/licenses/by/3.0/"><img src="/wiki/resources/assets/licenses/cc-by.png" alt="Creative Commons Attribution" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<style>.MathJax_Display{display:inline !important;}
+.mathjax-wrapper{font-size:120%;}</style>
+<script type='text/x-mathjax-config'>MathJax.Hub.Config({displayAlign:'left',tex2jax:{displayMath:[['[math]','[/math]']]}})</script>
+<script src='//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.128","walltime":"0.246","ppvisitednodes":{"value":94,"limit":1000000},"ppgeneratednodes":{"value":220,"limit":1000000},"postexpandincludesize":{"value":12172,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["114.60%  170.861      2 Template:Navbox","100.00%  149.095      1 Template:Competition_Navbox","100.00%  149.095      1 -total"]},"scribunto":{"limitreport-timeusage":{"value":"0.040","limit":"7.000"},"limitreport-virtmemusage":{"value":9158656,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20200806171626","ttl":86400,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":120});});</script>
+	</body>
+</html>

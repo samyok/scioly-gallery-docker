@@ -1,0 +1,1854 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-gb">
+<head>
+<meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+<title>Most Competitive States - Page 2 - Scioly.org</title>
+
+	<link rel="alternate" type="application/atom+xml" title="Feed - Scioly.org" href="/forums/app.php/feed">	<link rel="alternate" type="application/atom+xml" title="Feed - News" href="/forums/app.php/feed/news">	<link rel="alternate" type="application/atom+xml" title="Feed - All forums" href="/forums/app.php/feed/forums">	<link rel="alternate" type="application/atom+xml" title="Feed - New Topics" href="/forums/app.php/feed/topics">	<link rel="alternate" type="application/atom+xml" title="Feed - Active Topics" href="/forums/app.php/feed/topics_active">	<link rel="alternate" type="application/atom+xml" title="Feed - Forum - General Competition" href="/forums/app.php/feed/forum/334">	<link rel="alternate" type="application/atom+xml" title="Feed - Topic - Most Competitive States" href="/forums/app.php/feed/topic/17929">	
+	<link rel="canonical" href="https://scioly.org/forums/viewtopic.php?t=17929&amp;start=10">
+
+<!--
+	phpBB style name: prosilver
+	Based on style:   prosilver (this is the default phpBB3 style)
+	Original author:  Tom Beddard ( http://www.subBlue.com/ )
+	Modified by:
+-->
+
+<link href="./assets/css/font-awesome.min.css?assets_version=50" rel="stylesheet">
+<link href="./styles/scioly/theme/stylesheet.css?assets_version=50" rel="stylesheet">
+<link href="./styles/scioly/theme/en/stylesheet.css?assets_version=50" rel="stylesheet">
+
+
+
+
+<!--[if lte IE 9]>
+	<link href="./styles/scioly/theme/tweaks.css?assets_version=50" rel="stylesheet">
+<![endif]-->
+
+
+<link href="./ext/gfksx/ThanksForPosts/styles/prosilver/theme/thanks.css?assets_version=50" rel="stylesheet" media="screen" />
+
+
+
+</head>
+<body id="phpbb" class="nojs notouch section-viewtopic ltr ">
+
+
+<!-- <script type="text/javascript" src="/src/js/snowstorm.js"></script> -->
+<!-- <script type="text/javascript" src="/src/js/fireworks.js"></script> -->
+<script type="text/javascript" src="/src/js/jquery.min.js"></script>
+<script type="text/javascript" src="/src/js/forums.js"></script>
+<link rel="stylesheet" type="text/css" href="/src/css/forums.css">
+
+<script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');ga('create', 'UA-340310-1', 'auto');ga('send', 'pageview');</script>
+
+<div class="banner" style="background-color: #f4f4f4; color: #555555;"><span class="close" onclick="this.parentElement.style.display='none'; close_banner();">&times;</span><span class="message"><a href="https://scioly.org/chat.php" style="color: #555555;">This is a test announcement! We're redoing how banners appear on this site.</a></span></div><script type="text/javascript">
+	var banner_id = "banner_" + 15;
+	var banner_boolean = localStorage.getItem(banner_id);
+
+	$(document).ready(function() {
+		if (banner_boolean == "false") {
+			$('.banner').hide();
+		}
+	});
+
+	function close_banner() {
+		localStorage.setItem(banner_id, "false");
+	}
+</script>
+<style>
+	.banner > .close {
+		margin-left: 15px;
+		float: right;
+		font-size: 20px;
+		line-height: 16px;
+		cursor: pointer;
+		transition: 0.3s;
+	}
+	.banner > .message {
+		display: block;
+		margin-right: 30px;
+	}
+</style>
+
+<div class="navbar navbar-default navbar-fixed-top" role="navigation" style="top: auto;">
+	<div class="site-nav">
+		<a href="https://scioly.org/">
+				<img src="https://scioly.org/src/img/logo/logo.png">
+		</a>
+		<div class="hamburger" onclick="hamburger(this)">
+			<div>
+				<div></div>
+				<div></div>
+				<div></div>
+			</div>
+		</div>
+		<ul>
+			<li><a href="https://scioly.org/forums">Forums</a></li>
+			<li><a href="https://scioly.org/wiki">Wiki</a></li>
+			<li><a href="https://scioly.org/tests">Test Exchange</a></li>
+			<!-- <li><a href="https://scioly.org/gallery">Image Gallery</a></li> -->
+			<!-- <li><a href="https://scioly.org/invitational">Invites</a></li> -->
+			<li><a href="https://scioly.org/chat">Chat</a></li>
+			<li><a href="/login" class="insert-button">Login</a></li>		</ul>
+	</div>
+	<img class="print-only" src="https://scioly.org/src/img/logo/logo_black.png" style="max-width: 150px;">
+</div>
+
+
+
+<div id="wrap" class="wrap">
+	<a id="top" class="top-anchor" accesskey="t"></a>
+	<div id="page-header">
+		<div class="headerbar" role="banner">
+					<div class="inner">
+
+			<div id="site-description" class="site-description">
+				<a id="logo" class="logo" href="https://scioly.org" title="Scioly.org"><span class="site_logo"></span></a>
+				<h1>Scioly.org</h1>
+				<p>Science Olympiad Student Center</p>
+				<p class="skiplink"><a href="#start_here">Skip to content</a></p>
+			</div>
+
+									<div id="search-box" class="search-box search-header" role="search">
+				<form action="./search.php" method="get" id="search">
+				<fieldset>
+					<input name="keywords" id="keywords" type="search" maxlength="128" title="Search for keywords" class="inputbox search tiny" size="20" value="" placeholder="Search…" />
+					<button class="button button-search" type="submit" title="Search">
+						<i class="icon fa-search fa-fw" aria-hidden="true"></i><span class="sr-only">Search</span>
+					</button>
+					<a href="./search.php" class="button button-search-end" title="Advanced search">
+						<i class="icon fa-cog fa-fw" aria-hidden="true"></i><span class="sr-only">Advanced search</span>
+					</a>
+					
+				</fieldset>
+				</form>
+			</div>
+						
+			</div>
+					</div>
+				<div class="navbar" role="navigation">
+	<div class="inner">
+
+	<ul id="nav-main" class="nav-main linklist" role="menubar">
+
+		<li id="quick-links" class="quick-links dropdown-container responsive-menu" data-skip-responsive="true">
+			<a href="#" class="dropdown-trigger">
+				<i class="icon fa-bars fa-fw" aria-hidden="true"></i><span>Quick links</span>
+			</a>
+			<div class="dropdown">
+				<div class="pointer"><div class="pointer-inner"></div></div>
+				<ul class="dropdown-contents" role="menu">
+					
+											<li class="separator"></li>
+																									<li>
+								<a href="./search.php?search_id=unanswered" role="menuitem">
+									<i class="icon fa-file-o fa-fw icon-gray" aria-hidden="true"></i><span>Unanswered topics</span>
+								</a>
+							</li>
+							<li>
+								<a href="./search.php?search_id=active_topics" role="menuitem">
+									<i class="icon fa-file-o fa-fw icon-blue" aria-hidden="true"></i><span>Active topics</span>
+								</a>
+							</li>
+							<li class="separator"></li>
+							<li>
+								<a href="./search.php" role="menuitem">
+									<i class="icon fa-search fa-fw" aria-hidden="true"></i><span>Search</span>
+								</a>
+							</li>
+					
+											<li class="separator"></li>
+													<li>
+								<a href="./memberlist.php" role="menuitem">
+									<i class="icon fa-group fa-fw" aria-hidden="true"></i><span>Members</span>
+								</a>
+							</li>
+																			<li>
+								<a href="./memberlist.php?mode=team" role="menuitem">
+									<i class="icon fa-shield fa-fw" aria-hidden="true"></i><span>The team</span>
+								</a>
+							</li>
+																<li class="separator"></li>
+
+									</ul>
+			</div>
+		</li>
+
+				<li data-skip-responsive="true">
+			<a href="/forums/app.php/help/faq" rel="help" title="Frequently Asked Questions" role="menuitem">
+				<i class="icon fa-question-circle fa-fw" aria-hidden="true"></i><span>FAQ</span>
+			</a>
+		</li>
+						
+			<li class="rightside"  data-skip-responsive="true">
+			<a href="./ucp.php?mode=login" title="Login" accesskey="x" role="menuitem">
+				<i class="icon fa-power-off fa-fw" aria-hidden="true"></i><span>Login</span>
+			</a>
+		</li>
+					<li class="rightside" data-skip-responsive="true">
+				<a href="./ucp.php?mode=register" role="menuitem">
+					<i class="icon fa-pencil-square-o  fa-fw" aria-hidden="true"></i><span>Register</span>
+				</a>
+			</li>
+						</ul>
+
+	<ul id="nav-breadcrumbs" class="nav-breadcrumbs linklist navlinks" role="menubar">
+								<li class="breadcrumbs" itemscope itemtype="http://schema.org/BreadcrumbList">
+							<span class="crumb"  itemtype="http://schema.org/ListItem" itemprop="itemListElement" itemscope><a href="https://scioly.org" itemtype="https://schema.org/Thing" itemprop="item" data-navbar-reference="home"><i class="icon fa-home fa-fw" aria-hidden="true"></i><span itemprop="name">Scioly.org</span></a><meta itemprop="position" content="1" /></span>
+										<span class="crumb"  itemtype="http://schema.org/ListItem" itemprop="itemListElement" itemscope><a href="./index.php" itemtype="https://schema.org/Thing" itemprop="item" accesskey="h" data-navbar-reference="index"><span itemprop="name">Forums</span></a><meta itemprop="position" content="2" /></span>
+
+											<span class="crumb"  itemtype="http://schema.org/ListItem" itemprop="itemListElement" itemscope data-forum-id="6"><a href="./viewforum.php?f=6" itemtype="https://schema.org/Thing" itemprop="item"><span itemprop="name">Competition Forums</span></a><meta itemprop="position" content="3" /></span>
+															<span class="crumb"  itemtype="http://schema.org/ListItem" itemprop="itemListElement" itemscope data-forum-id="334"><a href="./viewforum.php?f=334" itemtype="https://schema.org/Thing" itemprop="item"><span itemprop="name">General Competition</span></a><meta itemprop="position" content="4" /></span>
+												</li>
+		
+					<li class="rightside responsive-search">
+				<a href="./search.php" title="View the advanced search options" role="menuitem">
+					<i class="icon fa-search fa-fw" aria-hidden="true"></i><span class="sr-only">Search</span>
+				</a>
+			</li>
+			</ul>
+
+	</div>
+</div>
+	</div>
+
+	
+	<a id="start_here" class="anchor"></a>
+	<div id="page-body" class="page-body" role="main">
+		
+		
+<h2 class="topic-title"><a href="./viewtopic.php?f=334&amp;t=17929&amp;start=10">Most Competitive States</a></h2>
+<!-- NOTE: remove the style="display: none" when you want to have the forum description on the topic body -->
+<div style="display: none !important;">For anything Science Olympiad-related that might not fall under a specific event or competition.<br /></div>
+
+
+<div class="action-bar bar-top">
+	
+			<a href="./posting.php?mode=reply&amp;f=334&amp;t=17929" class="button" title="Post a reply">
+							<span>Post Reply</span> <i class="icon fa-reply fa-fw" aria-hidden="true"></i>
+					</a>
+	
+			<div class="dropdown-container dropdown-button-control topic-tools">
+		<span title="Topic tools" class="button button-secondary dropdown-trigger dropdown-select">
+			<i class="icon fa-wrench fa-fw" aria-hidden="true"></i>
+			<span class="caret"><i class="icon fa-sort-down fa-fw" aria-hidden="true"></i></span>
+		</span>
+		<div class="dropdown">
+			<div class="pointer"><div class="pointer-inner"></div></div>
+			<ul class="dropdown-contents">
+																												<li>
+					<a href="./viewtopic.php?f=334&amp;t=17929&amp;start=10&amp;view=print" title="Print view" accesskey="p">
+						<i class="icon fa-print fa-fw" aria-hidden="true"></i><span>Print view</span>
+					</a>
+				</li>
+											</ul>
+		</div>
+	</div>
+	
+			<div class="search-box" role="search">
+			<form method="get" id="topic-search" action="./search.php">
+			<fieldset>
+				<input class="inputbox search tiny"  type="search" name="keywords" id="search_keywords" size="20" placeholder="Search this topic…" />
+				<button class="button button-search" type="submit" title="Search">
+					<i class="icon fa-search fa-fw" aria-hidden="true"></i><span class="sr-only">Search</span>
+				</button>
+				<a href="./search.php" class="button button-search-end" title="Advanced search">
+					<i class="icon fa-cog fa-fw" aria-hidden="true"></i><span class="sr-only">Advanced search</span>
+				</a>
+				<input type="hidden" name="t" value="17929" />
+<input type="hidden" name="sf" value="msgonly" />
+
+			</fieldset>
+			</form>
+		</div>
+	
+			<div class="pagination">
+			22 posts
+							<ul>
+			<li class="arrow previous"><a class="button button-icon-only" href="./viewtopic.php?f=334&amp;t=17929" rel="prev" role="button"><i class="icon fa-chevron-left fa-fw" aria-hidden="true"></i><span class="sr-only">Previous</span></a></li>
+				<li><a class="button" href="./viewtopic.php?f=334&amp;t=17929" role="button">1</a></li>
+			<li class="active"><span>2</span></li>
+				<li><a class="button" href="./viewtopic.php?f=334&amp;t=17929&amp;start=20" role="button">3</a></li>
+				<li class="arrow next"><a class="button button-icon-only" href="./viewtopic.php?f=334&amp;t=17929&amp;start=20" rel="next" role="button"><i class="icon fa-chevron-right fa-fw" aria-hidden="true"></i><span class="sr-only">Next</span></a></li>
+	</ul>
+					</div>
+		</div>
+
+
+
+
+			<div id="p421519" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile421519">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=33048" class="avatar"><img class="avatar" src="./download/file.php?avatar=33048_1596142712.jpg" width="75" height="75" alt="User avatar" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=33048" style="color: #000077;" class="username-coloured">Tailsfan101</a>							</dt>
+
+						<dd class="profile-rank">Wiki Moderator<br /><img src="./images/ranks/stars5.gif" alt="Wiki Moderator" title="Wiki Moderator" /></dd>			
+		<dd class="profile-posts"><strong>Posts:</strong> <a href="./search.php?author_id=33048&amp;sr=posts">770</a></dd>		<dd class="profile-joined"><strong>Joined:</strong> April 14th, 2017, 4:33 pm</dd>		
+		
+											<dd class="profile-custom-field profile-division"><strong>Division:</strong> C</dd>
+												<dd class="profile-custom-field profile-state"><strong>State:</strong> ID</dd>
+												<dd class="profile-custom-field profile-pronouns"><strong>Pronouns:</strong> He/Him/His</dd>
+																	<dd class="profile-custom-field profile-phpbb_location"><strong>Location:</strong> Philippians 3:20a &quot;For our citizenship is in heaven&quot;</dd>
+							<dd class="profile-posts" data-user-give-id="33048">
+    <strong>Has thanked:</strong>
+    <a href="/forums/app.php/thankslist/givens/33048/true">56 times</a>
+</dd>
+<dd class="profile-posts" data-user-receive-id="33048">
+    <strong>Been&nbsp;thanked:</strong>
+    <a href="/forums/app.php/thankslist/givens/33048/false">74 times</a>
+</dd>
+
+							<dd class="profile-contact">
+				<strong>Contact:</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contact Tailsfan101">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contact Tailsfan101</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="https://scioly.org/wiki/index.php/User:Tailsfan101" title="Website" class="last-cell">
+										<span class="contact-icon phpbb_website-icon">Website</span>
+									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content421519">
+
+						<h3 class="first"><a href="#p421519">Re: Most Competitive States</a></h3>
+
+													<ul class="post-buttons">
+																																									<li>
+							<a href="./posting.php?mode=quote&amp;f=334&amp;p=421519" title="Reply with quote" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Quote</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="./viewtopic.php?p=421519#p421519" title="Post">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Post</span>
+					</a>
+								<span class="responsive-hide">by <strong><a href="./memberlist.php?mode=viewprofile&amp;u=33048" style="color: #000077;" class="username-coloured">Tailsfan101</a></strong> &raquo; </span>June 6th, 2020, 8:16 am
+			</p>
+			
+			
+			
+			<div class="content"><blockquote><div><cite><a href="./memberlist.php?mode=viewprofile&amp;u=35723">Name</a> wrote: <a href="./viewtopic.php?p=421511#p421511" data-post-id="421511" onclick="if(document.getElementById(hash.substr(1)))href=hash">↑</a><div class="responsive-hide">June 6th, 2020, 12:13 am</div></cite>
+-Notoriously Extreme: NorCal, Michigan (-), New Jersey, Ohio(+), Pennsylvania, Texas<br>
+-Competitive: SoCal(+), Florida (-), Georgia, New York, North Carolina, Virginia (-), Washington (-)<br>
+-Simple: Connecticut, Hawaii, Kansas, Maryland, Massachusetts (+), Minnesota, Missouri, Nevada, Wisconsin<br>
+-Passive: Alabama, Alaska, Arizona, Arkansas, Colorado (+), Delaware, Idaho, Iowa, Kentucky, Louisiana, Maine, Mississippi, Montana, Nebraska, New Hampshire, New Mexico, North Dakota, Oklahoma, Oregon, Rhode Island, South Carolina, South Dakota, Tennessee, Utah, Vermont, West Virginia, Wyoming, DC<br>
+<br>
+Kinda subjective so sorry if you disagree. <br>
+For Notoriously Extreme I put in a criteria that the race for a nats bid was uncertain (why SoCal is not there). Differentiating between Simple and Passive was for the most part just nationals placings.
+</div></blockquote>
+I feel Idaho is right between Simple and Passive. My high school team did get 35th last year at Nats, and our B teams can be very competitive (there were probably four teams in contention this year), even if they're not especially competitive at Nats. I also think Colorado is on the border of Simple, since their teams consistently get top 30 at Nats.<br>
+<br>
+I think there are two ways of classifying states by competitiveness: Nats performance and in-state competition. For example, Idaho B is very competitive in-state, but at Nats, our B teams don't really perform that well.</div>
+
+			
+			
+									
+						<div id='list_thanks421519'>
+	</div>
+<div id='div_post_reput421519'>
+	</div>
+			<div id="sig421519" class="signature"><strong class="text-strong">2016-2020 <a class="wikilink" target="blank_" href="http://scioly.org/wiki/index.php/Treasure Valley Homeschool" rel="noreferrer">Treasure Valley Homeschool Wiki</a></strong><br>
+<em class="text-italics">2021 possible events: Disease Detectives, Designer Genes, Protein Modeling, Geologic Mapping, Write It Do It, Codebusters</em><br>
+<br>
+<span style="color:#BF4000">Assassinator for games 118: New Life and 136: A SciOly Pandemic</span><br>
+<span style="color:#008080">Selected Assassinators for games 121 and 148</span><br>
+<br>
+#Nats22@BSU</div>
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Top">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Top</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+	<hr class="divider" />
+				<div id="p421527" class="post has-profile bg1">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile421527">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=37098" class="avatar"><img class="avatar" src="./download/file.php?avatar=37098_1589591924.png" width="33" height="31" alt="User avatar" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=37098" style="color: #000000;" class="username-coloured">jaspattack</a>							</dt>
+
+						<dd class="profile-rank">Exalted Member<br /><img src="./images/ranks/exalt2.gif" alt="Exalted Member" title="Exalted Member" /></dd>			
+		<dd class="profile-posts"><strong>Posts:</strong> <a href="./search.php?author_id=37098&amp;sr=posts">78</a></dd>		<dd class="profile-joined"><strong>Joined:</strong> April 30th, 2018, 8:29 am</dd>		
+		
+											<dd class="profile-custom-field profile-division"><strong>Division:</strong> C</dd>
+												<dd class="profile-custom-field profile-state"><strong>State:</strong> MO</dd>
+																	<dd class="profile-custom-field profile-phpbb_location"><strong>Location:</strong> within cyberspace</dd>
+							<dd class="profile-posts" data-user-give-id="37098">
+    <strong>Has thanked:</strong>
+    <a href="/forums/app.php/thankslist/givens/37098/true">44 times</a>
+</dd>
+<dd class="profile-posts" data-user-receive-id="37098">
+    <strong>Been&nbsp;thanked:</strong>
+    <a href="/forums/app.php/thankslist/givens/37098/false">46 times</a>
+</dd>
+
+							<dd class="profile-contact">
+				<strong>Contact:</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contact jaspattack">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contact jaspattack</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="https://crouton.net/" title="Website" class="last-cell">
+										<span class="contact-icon phpbb_website-icon">Website</span>
+									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content421527">
+
+						<h3 ><a href="#p421527">Re: Most Competitive States</a></h3>
+
+													<ul class="post-buttons">
+																																									<li>
+							<a href="./posting.php?mode=quote&amp;f=334&amp;p=421527" title="Reply with quote" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Quote</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="./viewtopic.php?p=421527#p421527" title="Post">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Post</span>
+					</a>
+								<span class="responsive-hide">by <strong><a href="./memberlist.php?mode=viewprofile&amp;u=37098" style="color: #000000;" class="username-coloured">jaspattack</a></strong> &raquo; </span>June 6th, 2020, 12:12 pm
+			</p>
+			
+			
+			
+			<div class="content">I might be biased, but I would say that Missouri is more of a low competitive state than a simple state. Ladue and Pembroke are two very good, well-known teams and while they aren't consistently in the top ten at nationals, it's almost always a toss-up between them at state (at least in Div C). The gap between second and third place is something we don't need to talk about, though. In Div C last year, the second place team scored 94 and the third place team scored 161. <br>
+<br>
+I guess it's more just competitive between Pembroke Hill and Ladue, while everyone else plays catch-up.</div>
+
+			
+			
+									
+						<div id='list_thanks421527'>
+	</div>
+<div id='div_post_reput421527'>
+	</div>
+			<div id="sig421527" class="signature">2019-20 Events (C): Designer Genes, Forensics, Fossils<br>
+2018-19 Events (C): Designer Genes, Fossils, Write It Do It (Mousetrap Vehicle and Experimental Design @ Regionals)<br>
+2017-18 Events (B): Rocks and Minerals, Wright Stuff, Write It Do It<br>
+I edit the wiki sometimes.</div>
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Top">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Top</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+	<hr class="divider" />
+				<div id="p421529" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile421529">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=36000" class="avatar"><img class="avatar" src="./download/file.php?avatar=36000_1585716510.jpg" width="54" height="60" alt="User avatar" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=36000" class="username">Umaroth</a>							</dt>
+
+						<dd class="profile-rank">Member<br /><img src="./images/ranks/stars4.gif" alt="Member" title="Member" /></dd>			
+		<dd class="profile-posts"><strong>Posts:</strong> <a href="./search.php?author_id=36000&amp;sr=posts">238</a></dd>		<dd class="profile-joined"><strong>Joined:</strong> February 10th, 2018, 8:51 pm</dd>		
+		
+											<dd class="profile-custom-field profile-division"><strong>Division:</strong> C</dd>
+												<dd class="profile-custom-field profile-state"><strong>State:</strong> CA</dd>
+												<dd class="profile-custom-field profile-pronouns"><strong>Pronouns:</strong> He/Him/His</dd>
+												<dd class="profile-custom-field profile-phpbb_location"><strong>Location:</strong> Pretend hugging SIlverBreeze because social distancing</dd>
+							<dd class="profile-posts" data-user-give-id="36000">
+    <strong>Has thanked:</strong>
+    <a href="/forums/app.php/thankslist/givens/36000/true">35 times</a>
+</dd>
+<dd class="profile-posts" data-user-receive-id="36000">
+    <strong>Been&nbsp;thanked:</strong>
+    <a href="/forums/app.php/thankslist/givens/36000/false">83 times</a>
+</dd>
+
+						
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content421529">
+
+						<h3 ><a href="#p421529">Re: Most Competitive States</a></h3>
+
+													<ul class="post-buttons">
+																																									<li>
+							<a href="./posting.php?mode=quote&amp;f=334&amp;p=421529" title="Reply with quote" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Quote</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="./viewtopic.php?p=421529#p421529" title="Post">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Post</span>
+					</a>
+								<span class="responsive-hide">by <strong><a href="./memberlist.php?mode=viewprofile&amp;u=36000" class="username">Umaroth</a></strong> &raquo; </span>June 6th, 2020, 12:56 pm
+			</p>
+			
+			
+			
+			<div class="content"><blockquote><div><cite><a href="./memberlist.php?mode=viewprofile&amp;u=59158">SilverBreeze</a> wrote: <a href="./viewtopic.php?p=421513#p421513" data-post-id="421513" onclick="if(document.getElementById(hash.substr(1)))href=hash">↑</a><div class="responsive-hide">June 6th, 2020, 2:05 am</div></cite>
+<blockquote><div><cite><a href="./memberlist.php?mode=viewprofile&amp;u=35723">Name</a> wrote: <a href="./viewtopic.php?p=421511#p421511" data-post-id="421511" onclick="if(document.getElementById(hash.substr(1)))href=hash">↑</a><div class="responsive-hide">June 6th, 2020, 12:13 am</div></cite>
+-Notoriously Extreme: NorCal, Michigan (-), New Jersey, Ohio(+), Pennsylvania, Texas<br>
+-Competitive: SoCal(+), Florida (-), Georgia, New York, North Carolina, Virginia (-), Washington (-)<br>
+-Simple: Connecticut, Hawaii, Kansas, Maryland, Massachusetts (+), Minnesota, Missouri, Nevada, Wisconsin<br>
+-Passive: Alabama, Alaska, Arizona, Arkansas, Colorado (+), Delaware, Idaho, Iowa, Kentucky, Louisiana, Maine, Mississippi, Montana, Nebraska, New Hampshire, New Mexico, North Dakota, Oklahoma, Oregon, Rhode Island, South Carolina, South Dakota, Tennessee, Utah, Vermont, West Virginia, Wyoming, DC<br>
+<br>
+Kinda subjective so sorry if you disagree. <br>
+For Notoriously Extreme I put in a criteria that the race for a nats bid was uncertain (why SoCal is not there). Differentiating between Simple and Passive was for the most part just nationals placings.
+</div></blockquote>
+Not too familiar with other states, but I think SoCal Div. B qualifies for Notoriously Extreme. Div. B and C tend to be similar, so grouping them together makes sense, but not always.
+</div></blockquote>
+
+Yeah, both NorCal and SoCal B are Notoriously Extreme, much more so in SoCal because there are three teams in the running for nats and average teams tend to be much stronger in SoCal than NorCal for B</div>
+
+			
+			
+									
+						<div id='list_thanks421529'>
+	</div>
+<div id='div_post_reput421529'>
+	</div>
+			<div id="sig421529" class="signature"><strong class="text-strong">Troy SciOly 2019-now<br>
+The Ambassador</strong><br>
+Proud Kraemer SciOly Padre 2018-now<br>
+Dank Memes Area Homeschool Juggernaut 2018-now<br>
+Kraemer SciOly Pretty-Much Head Coach 2019-now<br>
+2020 Tryouts: Circuit, Code, Detector, DP, GeoMaps, Machines<br>
+States Events: HANDS ON DISEASE DETECTIVES<br>
+<br>
+<a target="blank_" href="http://scioly.org/wiki/index.php/User:Umaroth" rel="noreferrer">Umaroth's Userpage</a></div>
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Top">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Top</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+	<hr class="divider" />
+				<div id="p421530" class="post has-profile bg1">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile421530">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=35723" class="avatar"><img class="avatar" src="./download/file.php?avatar=35723_1550028022.jpg" width="50" height="50" alt="User avatar" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=35723" class="username">Name</a>							</dt>
+
+						<dd class="profile-rank">Member<br /><img src="./images/ranks/stars4.gif" alt="Member" title="Member" /></dd>			
+		<dd class="profile-posts"><strong>Posts:</strong> <a href="./search.php?author_id=35723&amp;sr=posts">407</a></dd>		<dd class="profile-joined"><strong>Joined:</strong> January 21st, 2018, 4:41 pm</dd>		
+		
+											<dd class="profile-custom-field profile-division"><strong>Division:</strong> C</dd>
+												<dd class="profile-custom-field profile-state"><strong>State:</strong> NY</dd>
+												<dd class="profile-custom-field profile-pronouns"><strong>Pronouns:</strong> He/Him/His</dd>
+												<dd class="profile-custom-field profile-phpbb_location"><strong>Location:</strong> Syosset</dd>
+							<dd class="profile-posts" data-user-give-id="35723">
+    <strong>Has thanked:</strong>
+    <a href="/forums/app.php/thankslist/givens/35723/true">15 times</a>
+</dd>
+<dd class="profile-posts" data-user-receive-id="35723">
+    <strong>Been&nbsp;thanked:</strong>
+    <a href="/forums/app.php/thankslist/givens/35723/false">10 times</a>
+</dd>
+
+						
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content421530">
+
+						<h3 ><a href="#p421530">Re: Most Competitive States</a></h3>
+
+													<ul class="post-buttons">
+																																									<li>
+							<a href="./posting.php?mode=quote&amp;f=334&amp;p=421530" title="Reply with quote" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Quote</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="./viewtopic.php?p=421530#p421530" title="Post">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Post</span>
+					</a>
+								<span class="responsive-hide">by <strong><a href="./memberlist.php?mode=viewprofile&amp;u=35723" class="username">Name</a></strong> &raquo; </span>June 6th, 2020, 1:11 pm
+			</p>
+			
+			
+			
+			<div class="content">whoops I forgot IL. I'd put IL in probably the upper tier of competitive. I mostly just looked at div C although SoCal B I definitely agree would be Notoriously Extreme. You could argue that Missouri is  a low competitive state, but I feel that it is less competitive then the other states in competitive, and that arguably Minnesota and Massachusetts are more competitive (again in Div C). I think it could be fair to push Minnesota and Massachusetts into low competitive and denote Missouri as high simple. Similarly, I think it would be fair to push Colorado into simple, and denote Idaho as high passive. <br>
+<br>
+I agree there's two ways of classifying competitiveness, but I feel like the closeness of teams only really applies to states that are already competitive. This is because in a weak state with many close teams, if one team has a sudden and drastic improvement, the teams suddenly aren't close anymore.</div>
+
+			
+			
+									
+						<div id='list_thanks421530'>
+	</div>
+<div id='div_post_reput421530'>
+	</div>
+			<div id="sig421530" class="signature"><span style="text-decoration:underline"><strong class="text-strong">South Woods MS, Syosset HS '21<br>
+</strong></span>Favorite Past Events: Microbe, Invasive, Matsci, Fermi  <img class="smilies" src="./images/smilies/icon_heart.gif" width="17" height="17" alt="&lt;3" title="Heart"> <br>
+Events!: Astro  <img class="smilies" src="./images/smilies/icon_question.gif" width="17" height="17" alt=":?:" title="Question"> , Code  <img class="smilies" src="./images/smilies/icon_heart.gif" width="17" height="17" alt="&lt;3" title="Heart"> , Fossils  <img class="smilies" src="./images/smilies/icon_cry.gif" width="17" height="17" alt=":cry:" title="Crying or Very Sad"> <br>
+<br>
+2019-2020 Season<br>
+Cornell/LISO/Duke/MIT/Regionals/Brown/SOUP<br>
+Astro: <span style="color:#FF0000">2</span>/<span style="color:#FFBF00">4</span>/<span style="color:#FF0000">2</span>/10/<span style="color:#FF0000">2</span>/<span style="color:#FF0000">2</span>/<span style="color:#FFBF00">3</span><br>
+Code: 9/<span style="color:#0000FF">1</span>/<span style="color:#FF0000">2</span>/<span style="color:#0000FF">1</span>/<span style="color:#0000FF">1</span>/<span style="color:#0000FF">1</span>/<span style="color:#0000FF">1</span><br>
+Fossils: 16/13/6/9/<span style="color:#FF0000">2</span>/<span style="color:#FFBF40">3</span>/8<br>
+<br>
+Success is not an option, it is an obligation.</div>
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Top">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Top</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+	<hr class="divider" />
+				<div id="p421539" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile421539">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=63071" class="avatar"><img class="avatar" src="./download/file.php?avatar=63071_1587224041.jpg" width="75" height="75" alt="User avatar" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=63071" class="username">EwwPhysics</a>							</dt>
+
+						<dd class="profile-rank">Member<br /><img src="./images/ranks/stars3.gif" alt="Member" title="Member" /></dd>			
+		<dd class="profile-posts"><strong>Posts:</strong> <a href="./search.php?author_id=63071&amp;sr=posts">92</a></dd>		<dd class="profile-joined"><strong>Joined:</strong> February 22nd, 2020, 12:38 pm</dd>		
+		
+											<dd class="profile-custom-field profile-division"><strong>Division:</strong> B</dd>
+												<dd class="profile-custom-field profile-state"><strong>State:</strong> PA</dd>
+												<dd class="profile-custom-field profile-pronouns"><strong>Pronouns:</strong> She/Her/Hers</dd>
+												<dd class="profile-custom-field profile-phpbb_location"><strong>Location:</strong> Seattle!</dd>
+							<dd class="profile-posts" data-user-give-id="63071">
+    <strong>Has thanked:</strong>
+    <a href="/forums/app.php/thankslist/givens/63071/true">58 times</a>
+</dd>
+<dd class="profile-posts" data-user-receive-id="63071">
+    <strong>Been&nbsp;thanked:</strong>
+    <a href="/forums/app.php/thankslist/givens/63071/false">33 times</a>
+</dd>
+
+						
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content421539">
+
+						<h3 ><a href="#p421539">Re: Most Competitive States</a></h3>
+
+													<ul class="post-buttons">
+																																									<li>
+							<a href="./posting.php?mode=quote&amp;f=334&amp;p=421539" title="Reply with quote" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Quote</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="./viewtopic.php?p=421539#p421539" title="Post">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Post</span>
+					</a>
+								<span class="responsive-hide">by <strong><a href="./memberlist.php?mode=viewprofile&amp;u=63071" class="username">EwwPhysics</a></strong> &raquo; </span>June 6th, 2020, 4:29 pm
+			</p>
+			
+			
+			
+			<div class="content">I agree with jaspattack that Missouri (if not division C, then at least in division B) should definitely be Competitive. For the last few years, whichever team that makes nats in division B has usually placed somewhere in the low teens at nats, and the worst they've gotten in like 15 years has been 22nd. Also, when they had 2 bids, the second team also usually did quite well, usually placing in the teens or 20s. They've done better than some of the states that you've put in the Competitive category, such as Washington and Georgia, as well as having much closer gaps between 1st place and 2nd at states. Their division C teams haven't done quite as well but still good enough to be designated as low competitive imo.</div>
+
+			
+			
+									
+						<div id='list_thanks421539'>
+		<div class="notice">
+		<dl>
+			
+			<dt>These users thanked the author <a href="./memberlist.php?mode=viewprofile&amp;u=63071" class="username">EwwPhysics</a> for the post: </dt>
+			<dd><a href="./memberlist.php?mode=viewprofile&amp;u=37098" style="color: #000000;" class="username-coloured">jaspattack</a> (June 6th, 2020, 6:55 pm)</dd>
+		</dl>
+	</div>
+	</div>
+<div id='div_post_reput421539'>
+	</div>
+			<div id="sig421539" class="signature">Bala Cynwyd Middle School Class of '20 --&gt; Lower Merion High School Class of '24<br>
+<br>
+2021 events:<br>
+Designer Genes<br>
+Fossils<br>
+[Protein and/or Disease]<br>
+Possibly Botany (trial)
+ <div class="bbcode-hide codebox"><label><span style="font-weight:bold">2020 (the year that never happened) events </span> <span style="color:#555">(Click to Show Hidden Text)</span></label><pre>Heredity  (we &lt;3 genetics!)
+Fossils :D
+WIDI (no comment)
+Circuit :/</pre></div><style type="text/css">
+div.bbcode-hide {
+	padding: 3px;
+}
+.bbcode-hide label {
+	display: block;
+	font-size: 0.8em !important;
+	text-transform: uppercase;
+	width: 100%;
+}
+.bbcode-hide pre {
+	display: none;
+	font-family: 'Avenir', Arial, sans-serif;
+	white-space: pre-wrap;
+}
+@media print {
+	.bbcode-hide pre {
+		display: block !important;
+	}
+}
+</style><script type="text/javascript">
+$(document).ready(()=>{
+	$(".bbcode-hide").each((_, tag) => {
+		tag = $(tag);
+		tag.find("label").off("click").on("click", ()=>{
+			tag.find("pre").toggle();
+		})
+	})
+})
+</script></div>
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Top">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Top</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+	<hr class="divider" />
+				<div id="p421554" class="post has-profile bg1">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile421554">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=42571" class="avatar"><img class="avatar" src="./download/file.php?avatar=42571_1587845918.png" width="67" height="66" alt="User avatar" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=42571" style="color: #000000;" class="username-coloured">CPScienceDude</a>							</dt>
+
+						<dd class="profile-rank">Exalted Member<br /><img src="./images/ranks/exalt1.gif" alt="Exalted Member" title="Exalted Member" /></dd>			
+		<dd class="profile-posts"><strong>Posts:</strong> <a href="./search.php?author_id=42571&amp;sr=posts">327</a></dd>		<dd class="profile-joined"><strong>Joined:</strong> December 12th, 2018, 2:40 pm</dd>		
+		
+											<dd class="profile-custom-field profile-division"><strong>Division:</strong> C</dd>
+												<dd class="profile-custom-field profile-state"><strong>State:</strong> IN</dd>
+												<dd class="profile-custom-field profile-pronouns"><strong>Pronouns:</strong> He/Him/His</dd>
+												<dd class="profile-custom-field profile-phpbb_location"><strong>Location:</strong> Crown Point High School</dd>
+							<dd class="profile-posts" data-user-give-id="42571">
+    <strong>Has thanked:</strong>
+    <a href="/forums/app.php/thankslist/givens/42571/true">63 times</a>
+</dd>
+<dd class="profile-posts" data-user-receive-id="42571">
+    <strong>Been&nbsp;thanked:</strong>
+    <a href="/forums/app.php/thankslist/givens/42571/false">37 times</a>
+</dd>
+
+						
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content421554">
+
+						<h3 ><a href="#p421554">Re: Most Competitive States</a></h3>
+
+													<ul class="post-buttons">
+																																									<li>
+							<a href="./posting.php?mode=quote&amp;f=334&amp;p=421554" title="Reply with quote" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Quote</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="./viewtopic.php?p=421554#p421554" title="Post">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Post</span>
+					</a>
+								<span class="responsive-hide">by <strong><a href="./memberlist.php?mode=viewprofile&amp;u=42571" style="color: #000000;" class="username-coloured">CPScienceDude</a></strong> &raquo; </span>June 6th, 2020, 7:28 pm
+			</p>
+			
+			
+			
+			<div class="content"><blockquote><div><cite><a href="./memberlist.php?mode=viewprofile&amp;u=35723">Name</a> wrote: <a href="./viewtopic.php?p=421511#p421511" data-post-id="421511" onclick="if(document.getElementById(hash.substr(1)))href=hash">↑</a><div class="responsive-hide">June 6th, 2020, 12:13 am</div></cite>
+-Notoriously Extreme: NorCal, Michigan (-), New Jersey, Ohio(+), Pennsylvania, Texas<br>
+-Competitive: SoCal(+), Florida (-), Georgia, New York, North Carolina, Virginia (-), Washington (-)<br>
+-Simple: Connecticut, Hawaii, Kansas, Maryland, Massachusetts (+), Minnesota, Missouri, Nevada, Wisconsin<br>
+-Passive: Alabama, Alaska, Arizona, Arkansas, Colorado (+), Delaware, Idaho, Iowa, Kentucky, Louisiana, Maine, Mississippi, Montana, Nebraska, New Hampshire, New Mexico, North Dakota, Oklahoma, Oregon, Rhode Island, South Carolina, South Dakota, Tennessee, Utah, Vermont, West Virginia, Wyoming, DC<br>
+<br>
+Kinda subjective so sorry if you disagree. <br>
+For Notoriously Extreme I put in a criteria that the race for a nats bid was uncertain (why SoCal is not there). Differentiating between Simple and Passive was for the most part just nationals placings.
+</div></blockquote>
+Indiana???? Or am I just blind. Personally, I'd say that div c is competitive, but div b maybe not as competitive, seeing that TJ has won for the past 11 years.</div>
+
+			
+			
+									
+						<div id='list_thanks421554'>
+	</div>
+<div id='div_post_reput421554'>
+	</div>
+			<div id="sig421554" class="signature"><span style="color:#FF0000">Captain of CPSO</span><br>
+<br>
+<em class="text-italics"><span style="color:#FF0000">Member of the Builder Cult</span></em><br>
+<br>
+Assassinator 139 and 147<br>
+2020 (and probably 2021) events: Ornithology, Machines, Gravity Vehicle, and Forensics<br>
+<a href="https://scioly.org/wiki/index.php/User:CPScienceDude" class="postlink">About Me!</a><br>
+<span style="font-size:85%;line-height:116%"><em class="text-italics">RIP Indiana Flag GIF :(</em></span></div>
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Top">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Top</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+	<hr class="divider" />
+				<div id="p421609" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile421609">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=45407" class="avatar"><img class="avatar" src="./download/file.php?avatar=45407_1578635376.jpg" width="70" height="75" alt="User avatar" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=45407" class="username">Giantpants</a>							</dt>
+
+						<dd class="profile-rank">Member<br /><img src="./images/ranks/stars3.gif" alt="Member" title="Member" /></dd>			
+		<dd class="profile-posts"><strong>Posts:</strong> <a href="./search.php?author_id=45407&amp;sr=posts">149</a></dd>		<dd class="profile-joined"><strong>Joined:</strong> February 7th, 2019, 5:42 am</dd>		
+		
+											<dd class="profile-custom-field profile-division"><strong>Division:</strong> Grad</dd>
+												<dd class="profile-custom-field profile-state"><strong>State:</strong> NY</dd>
+												<dd class="profile-custom-field profile-pronouns"><strong>Pronouns:</strong> He/Him/His</dd>
+							<dd class="profile-posts" data-user-give-id="45407">
+    <strong>Has thanked:</strong>
+    <a href="/forums/app.php/thankslist/givens/45407/true">43 times</a>
+</dd>
+<dd class="profile-posts" data-user-receive-id="45407">
+    <strong>Been&nbsp;thanked:</strong>
+    <a href="/forums/app.php/thankslist/givens/45407/false">46 times</a>
+</dd>
+
+						
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content421609">
+
+						<h3 ><a href="#p421609">Re: Most Competitive States</a></h3>
+
+													<ul class="post-buttons">
+																																									<li>
+							<a href="./posting.php?mode=quote&amp;f=334&amp;p=421609" title="Reply with quote" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Quote</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="./viewtopic.php?p=421609#p421609" title="Post">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Post</span>
+					</a>
+								<span class="responsive-hide">by <strong><a href="./memberlist.php?mode=viewprofile&amp;u=45407" class="username">Giantpants</a></strong> &raquo; </span>June 8th, 2020, 2:22 am
+			</p>
+			
+			
+			
+			<div class="content">Name left Indiana out  <img class="smilies" src="./images/smilies/icon_redface.gif" width="17" height="17" alt=":oops:" title="Embarrassed"> lol<br>
+tbh Indiana could go low competitive/high simple for me, at least for C, where there was some level of contention for a nationals spot this year? Obviously I miss some stuff from all the way here in New York but it seemed like there was some competition between Carmel and Munster? Not so sure lol<br>
+<br>
+I may be biased, but maybe we could sneak New York into low notoriously extreme? There are three NY powerhouses that have been dominating the nationals qualifications and top 3 since 2014 for C (Columbia, Ward Melville, Fayetteville Manlius), and for B Gelinas and Eagle Hill consistently qualify, and all teams have been turning in strong showings at nationals each year.<br>
+<br>
+Also, especially for NY C this year, it was extremely competitive among the teams in the top 7, and I really really can't say I had any confidence as to who would've gone to nationals for NY in 2020. I believe that a team like Syosset or Stuyvesant (or even Kellenberg with some insane luck!) could've snuck into the top 3 and broken the long-standing history of "the big three." Definitely a year that will be long remembered in the hearts of New York SOers for the right reasons!<br>
+<br>
+This is by no means a comprehensive or extremely accurate list (perhaps I'll write another one when it's not literal 5 am haha) BUT maybe...<br>
+<br>
+<strong class="text-strong">1. Notoriously Extreme:</strong> Ohio, Texas, Pennsylvania, Illinois, NorCal, SoCal, New Jersey, Michigan, New York<br>
+<br>
+<strong class="text-strong">2. Competitive:</strong> Virginia, Minnesota, North Carolina, Florida, Maryland, Georgia, Indiana<br>
+<br>
+<strong class="text-strong">3. Simple:</strong> Missouri, Washington, Nevada, Wisconsin, Hawaii, Connecticut<br>
+<br>
+<strong class="text-strong">4. Passive:</strong> the other states<br>
+<br>
+Notes:<br>
+I put SoCal in Notoriously Extreme because not only is it home to the best team in the country, but other than first place, the other top teams are extremely extremely close. In 2019, 3rd through 6th place were all within 10 points!<br>
+<br>
+Also, for MA, although home to one of the nations best teams, the top scores are extremely spread out, especially skewed towards Acton-Boxborough, who won in 2019 by 74 points. However, it goes further, as they beat Newton North, who beat 3rd place by 52. 3rd place (Belmont HS) beat 4th by 58, so yeah, I put them in Passive.<br>
+<br>
+Also if I got something wrong pls dont flame me lol my perspective is definitely limited as a New Yorker/East Coaster and this post was written with relatively speed so yeah lol<br>
+<br>
+And yes the order in which they are listed is part of my ranking as well haha<br>
+<br>
+Any thoughts?<br>
+Here is a visual representation of the list I made if it's easier to view in this format...</div>
+
+			
+							<dl class="attachbox">
+					<dt>
+						Attachments
+					</dt>
+											<dd>
+			
+		
+				<dl class="file">
+			<dt class="attach-image"><img src="./download/file.php?id=564" class="postimage" alt="State Tier List.PNG" onclick="viewableArea(this);" /></dt>
+						<dd>State Tier List.PNG (114.66 KiB) Viewed 389 times</dd>
+		</dl>
+		
+		
+		
+			</dd>
+									</dl>
+			
+									
+						<div id='list_thanks421609'>
+		<div class="notice">
+		<dl>
+			
+			<dt>These users thanked the author <a href="./memberlist.php?mode=viewprofile&amp;u=45407" class="username">Giantpants</a> for the post (total 4):</dt>
+			<dd><a href="./memberlist.php?mode=viewprofile&amp;u=41580" class="username">LittleMissNyan</a> (June 8th, 2020, 6:50 am) &bull; <a href="./memberlist.php?mode=viewprofile&amp;u=62463" class="username">Booknerd</a> (June 8th, 2020, 8:07 am) &bull; <a href="./memberlist.php?mode=viewprofile&amp;u=37001" class="username">sciolyperson1</a> (June 8th, 2020, 9:44 am) &bull; <a href="./memberlist.php?mode=viewprofile&amp;u=34942" style="color: #000000;" class="username-coloured">MadCow2357</a> (June 13th, 2020, 7:43 pm)</dd>
+		</dl>
+	</div>
+	</div>
+<div id='div_post_reput421609'>
+	</div>
+			<div id="sig421609" class="signature">Haverford College '24!<br>
+Former President, Kellenberg, 2018-2020<br>
+Bro. Joseph Fox, 2014-2017<br>
+<br>
+2020 Events: Dynamic Planet, Geologic Mapping, Sounds of Music, Astronomy<br>
+<a target="blank_" href="http://scioly.org/wiki/index.php/User:Giantpants" rel="noreferrer">Giantpants's Userpage</a></div>
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Top">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Top</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+	<hr class="divider" />
+				<div id="p421615" class="post has-profile bg1">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile421615">
+			<dt class="has-profile-rank no-avatar">
+				<div class="avatar-container">
+																			</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=47945" class="username">anandymous</a>							</dt>
+
+						<dd class="profile-rank">Member<br /><img src="./images/ranks/stars3.gif" alt="Member" title="Member" /></dd>			
+		<dd class="profile-posts"><strong>Posts:</strong> <a href="./search.php?author_id=47945&amp;sr=posts">56</a></dd>		<dd class="profile-joined"><strong>Joined:</strong> May 18th, 2019, 10:37 am</dd>		
+		
+											<dd class="profile-custom-field profile-division"><strong>Division:</strong> B</dd>
+												<dd class="profile-custom-field profile-state"><strong>State:</strong> FL</dd>
+												<dd class="profile-custom-field profile-phpbb_location"><strong>Location:</strong> Orlando</dd>
+							<dd class="profile-posts" data-user-give-id="47945">
+    <strong>Has thanked:</strong>
+    <a href="/forums/app.php/thankslist/givens/47945/true">23 times</a>
+</dd>
+<dd class="profile-posts" data-user-receive-id="47945">
+    <strong>Been&nbsp;thanked:</strong>
+    <a href="/forums/app.php/thankslist/givens/47945/false">5 times</a>
+</dd>
+
+						
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content421615">
+
+						<h3 ><a href="#p421615">Re: Most Competitive States</a></h3>
+
+													<ul class="post-buttons">
+																																									<li>
+							<a href="./posting.php?mode=quote&amp;f=334&amp;p=421615" title="Reply with quote" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Quote</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="./viewtopic.php?p=421615#p421615" title="Post">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Post</span>
+					</a>
+								<span class="responsive-hide">by <strong><a href="./memberlist.php?mode=viewprofile&amp;u=47945" class="username">anandymous</a></strong> &raquo; </span>June 8th, 2020, 9:01 am
+			</p>
+			
+			
+			
+			<div class="content"><blockquote><div><cite><a href="./memberlist.php?mode=viewprofile&amp;u=45407">Giantpants</a> wrote: <a href="./viewtopic.php?p=421609#p421609" data-post-id="421609" onclick="if(document.getElementById(hash.substr(1)))href=hash">↑</a><div class="responsive-hide">June 8th, 2020, 2:22 am</div></cite>
+Name left Indiana out  <img class="smilies" src="./images/smilies/icon_redface.gif" width="17" height="17" alt=":oops:" title="Embarrassed"> lol<br>
+tbh Indiana could go low competitive/high simple for me, at least for C, where there was some level of contention for a nationals spot this year? Obviously I miss some stuff from all the way here in New York but it seemed like there was some competition between Carmel and Munster? Not so sure lol<br>
+<br>
+I may be biased, but maybe we could sneak New York into low notoriously extreme? There are three NY powerhouses that have been dominating the nationals qualifications and top 3 since 2014 for C (Columbia, Ward Melville, Fayetteville Manlius), and for B Gelinas and Eagle Hill consistently qualify, and all teams have been turning in strong showings at nationals each year.<br>
+<br>
+Also, especially for NY C this year, it was extremely competitive among the teams in the top 7, and I really really can't say I had any confidence as to who would've gone to nationals for NY in 2020. I believe that a team like Syosset or Stuyvesant (or even Kellenberg with some insane luck!) could've snuck into the top 3 and broken the long-standing history of "the big three." Definitely a year that will be long remembered in the hearts of New York SOers for the right reasons!<br>
+<br>
+This is by no means a comprehensive or extremely accurate list (perhaps I'll write another one when it's not literal 5 am haha) BUT maybe...<br>
+<br>
+<strong class="text-strong">1. Notoriously Extreme:</strong> Ohio, Texas, Pennsylvania, Illinois, NorCal, SoCal, New Jersey, Michigan, New York<br>
+<br>
+<strong class="text-strong">2. Competitive:</strong> Virginia, Minnesota, North Carolina, Florida, Maryland, Georgia, Indiana<br>
+<br>
+<strong class="text-strong">3. Simple:</strong> Missouri, Washington, Nevada, Wisconsin, Hawaii, Connecticut<br>
+<br>
+<strong class="text-strong">4. Passive:</strong> the other states<br>
+<br>
+Notes:<br>
+I put SoCal in Notoriously Extreme because not only is it home to the best team in the country, but other than first place, the other top teams are extremely extremely close. In 2019, 3rd through 6th place were all within 10 points!<br>
+<br>
+Also, for MA, although home to one of the nations best teams, the top scores are extremely spread out, especially skewed towards Acton-Boxborough, who won in 2019 by 74 points. However, it goes further, as they beat Newton North, who beat 3rd place by 52. 3rd place (Belmont HS) beat 4th by 58, so yeah, I put them in Passive.<br>
+<br>
+Also if I got something wrong pls dont flame me lol my perspective is definitely limited as a New Yorker/East Coaster and this post was written with relatively speed so yeah lol<br>
+<br>
+And yes the order in which they are listed is part of my ranking as well haha<br>
+<br>
+Any thoughts?<br>
+Here is a visual representation of the list I made if it's easier to view in this format...
+</div></blockquote>
+
+I definitely think a few states in the Simple category are more competitive than FL B (Missouri, Hawaii, Washington), but for FL C it seems about right. I would also say that you need a few Simple states for either B or C (Colorado, Kansas, Idaho) that place around 30th at Nats. But other than that it seems pretty good  <img class="smilies" src="./images/smilies/icon_e_biggrin.gif" width="17" height="17" alt=":D" title="Very Happy"></div>
+
+			
+			
+									
+						<div id='list_thanks421615'>
+		<div class="notice">
+		<dl>
+			
+			<dt>These users thanked the author <a href="./memberlist.php?mode=viewprofile&amp;u=47945" class="username">anandymous</a> for the post: </dt>
+			<dd><a href="./memberlist.php?mode=viewprofile&amp;u=45407" class="username">Giantpants</a> (June 8th, 2020, 4:58 pm)</dd>
+		</dl>
+	</div>
+	</div>
+<div id='div_post_reput421615'>
+	</div>
+			<div id="sig421615" class="signature"><strong class="text-strong">Orlando Science Middle School</strong><br>
+2020 Events: Dynamic Planet, Fossils, Meteorology, and Reach For The Stars</div>
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Top">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Top</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+	<hr class="divider" />
+				<div id="p421639" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile421639">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=11259" class="avatar"><img class="avatar" src="./download/file.php?avatar=11259_1591107833.png" width="40" height="42" alt="User avatar" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=11259" style="color: #AA0000;" class="username-coloured">EastStroudsburg13</a>							</dt>
+
+						<dd class="profile-rank">Administrator<br /><img src="./images/ranks/stars6.gif" alt="Administrator" title="Administrator" /></dd>			
+		<dd class="profile-posts"><strong>Posts:</strong> <a href="./search.php?author_id=11259&amp;sr=posts">3156</a></dd>		<dd class="profile-joined"><strong>Joined:</strong> January 17th, 2009, 7:32 am</dd>		
+		
+											<dd class="profile-custom-field profile-division"><strong>Division:</strong> Grad</dd>
+												<dd class="profile-custom-field profile-state"><strong>State:</strong> MD</dd>
+												<dd class="profile-custom-field profile-pronouns"><strong>Pronouns:</strong> He/Him/His</dd>
+																	<dd class="profile-custom-field profile-phpbb_location"><strong>Location:</strong> At work trying to be a real adult</dd>
+																	<dd class="profile-posts" data-user-give-id="11259">
+    <strong>Has thanked:</strong>
+    <a href="/forums/app.php/thankslist/givens/11259/true">20 times</a>
+</dd>
+<dd class="profile-posts" data-user-receive-id="11259">
+    <strong>Been&nbsp;thanked:</strong>
+    <a href="/forums/app.php/thankslist/givens/11259/false">126 times</a>
+</dd>
+
+							<dd class="profile-contact">
+				<strong>Contact:</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contact EastStroudsburg13">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contact EastStroudsburg13</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="http://www.scioly.org" title="Website">
+										<span class="contact-icon phpbb_website-icon">Website</span>
+									</a>
+																																																<a href="http://twitter.com/jcohen42" title="Twitter">
+										<span class="contact-icon phpbb_twitter-icon">Twitter</span>
+									</a>
+																																																<a href="http://youtube.com/channel/RickAstleyVEVO" title="YouTube" class="last-cell">
+										<span class="contact-icon phpbb_youtube-icon">YouTube</span>
+									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content421639">
+
+						<h3 ><a href="#p421639">Re: Most Competitive States</a></h3>
+
+													<ul class="post-buttons">
+																																									<li>
+							<a href="./posting.php?mode=quote&amp;f=334&amp;p=421639" title="Reply with quote" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Quote</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="./viewtopic.php?p=421639#p421639" title="Post">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Post</span>
+					</a>
+								<span class="responsive-hide">by <strong><a href="./memberlist.php?mode=viewprofile&amp;u=11259" style="color: #AA0000;" class="username-coloured">EastStroudsburg13</a></strong> &raquo; </span>June 8th, 2020, 4:04 pm
+			</p>
+			
+			
+			
+			<div class="content">So when I come across stuff like this, I always feel like it's very difficult to be unbiased. So I went straight to the numbers!<br>
+<br>
+Basically I took three core components of what makes a competitive state. <span style="text-decoration:underline">Strength, closeness, and turnover.</span> Strength, which I based off nationals scores because it's the most standard means of comparison, was my base, as it's the foremost measure for what makes a state competitive. I then adjusted it by closeness, which I considered as how close together the top few teams are to each other, and turnover, which is how often distinct teams place highly. If you want to see the finer details of how I came up with a ranking, click below:<br>
+
+<div class="bbcode-hide codebox"><label><span style="font-weight:bold">Methodology details</span> <span style="color:#555">(Click to Show Hidden Text)</span></label><pre>[b]Strength:[/b] I used a weighted average of the state's top score at nationals over the past four years:
+
+S = 2019+2018*.6+2017*.3+2016*.1
+
+[b]Closeness:[/b] I based this off of the difference between the scores of the 1st and 3rd placed schools at the state tournament, divided by the 3rd place school's score. I used 3rd because I think having 3 strong teams is more indicative of competitiveness than just 2. This is a complete judgment call, I could have done it differently based on 1 vs. 2 national bids but I didn't, so there. Ha.
+
+This was a simple average between 2020, 2019, and 2018. If no 2020 state tournament was held, I used 2019 again. This definitely skewed results, but whaddaya gonna do?
+
+[b]Turnover:[/b] This was a simple sum. I added up the total number of different teams that had placed first since 2016. I also added the total number of [i]additional[/i] teams that placed second in that range, divided by 2. If no 2020 state tournament was held, I just disregarded that year, except in Maryland when River Hill was the clear and obvious favorite to win. My ranking my rules!
+
+And then to come up with a final ranking, I scaled the strength scores so that 1000 was "average", and so that closeness and tolerance were adjusting the strength scores up or down:
+
+SQRT( S/1000 ) * SQRT( C+0.5 ) - ( T-1.5 )/50
+
+Tada.</pre></div><style type="text/css">
+div.bbcode-hide {
+	padding: 3px;
+}
+.bbcode-hide label {
+	display: block;
+	font-size: 0.8em !important;
+	text-transform: uppercase;
+	width: 100%;
+}
+.bbcode-hide pre {
+	display: none;
+	font-family: 'Avenir', Arial, sans-serif;
+	white-space: pre-wrap;
+}
+@media print {
+	.bbcode-hide pre {
+		display: block !important;
+	}
+}
+</style><script type="text/javascript">
+$(document).ready(()=>{
+	$(".bbcode-hide").each((_, tag) => {
+		tag = $(tag);
+		tag.find("label").off("click").on("click", ()=>{
+			tag.find("pre").toggle();
+		})
+	})
+})
+</script>
+
+If you just want the "extreme", "competitive", etc, here they are. I separated this out by where tier breaks appeared to be. They are ordered by descending rank.<br>
+<br>
+<strong class="text-strong"><span style="text-decoration:underline">Division B</span></strong><br>
+<strong class="text-strong">Extreme:</strong> California (North), Ohio, Michigan, Pennsylvania, Illinois, California (South)<br>
+<strong class="text-strong">Competitive:</strong> Virginia, New Jersey, New York, Texas, Washington, Missouri, North Carolina<br>
+<strong class="text-strong">Simple</strong>: Wisconsin, Tennessee, Hawaii, Georgia, Indiana, Kansas<br>
+<strong class="text-strong">Passive Plus</strong>: Rhode Island, Delaware, Nevada, Connecticut, Minnesota, Florida, Alabama<br>
+<strong class="text-strong">Passive</strong>: Arizona, Oregon, Massachusetts, Montana, Maryland, Utah, Colorado, Idaho, Louisiana, New Mexico, Iowa, South Carolina, Maine, Nebraska, Oklahoma, Kentucky<br>
+<strong class="text-strong">Low Passive:</strong> New Hampshire, Mississippi, South Dakota, North Dakota, District of Columbia, Alaska, Arkansas, Wyoming<br>
+<br>
+<strong class="text-strong"><span style="text-decoration:underline">Division C</span></strong><br>
+<strong class="text-strong">Extreme:</strong> Ohio, Pennsylvania, Texas, California (South), California (North), Illinois, Michigan, New Jersey, New York<br>
+<strong class="text-strong">Competitive:</strong> Indiana, North Carolina, Virginia, Wisconsin, Minnesota, Massachusetts, Washington, Florida<br>
+<strong class="text-strong">Simple:</strong> Missouri, Tennessee, Georgia, Connecticut, Hawaii, Nevada, Maryland, New Mexico<br>
+<strong class="text-strong">Passive Plus:</strong> Louisiana, Kansas, Colorado, Alabama<br>
+<strong class="text-strong">Passive:</strong> Iowa, South Carolina, Mississippi, Kentucky, New Hampshire, Montana, Arizona, Rhode Island, Oregon, Nebraska, Idaho, Delaware<br>
+<strong class="text-strong">Low Passive:</strong> Oklahoma, Utah, Alaska, South Dakota, Maine, West Virginia, District of Columbia, Wyoming, Arkansas, Vermont<br>
+<br>
+It should be noted that a lot of "Passive" states that may be unexpectedly high are because their state competitions have been quite close lately. This is the case for Arizona, Montana, and Maine in B, and South Carolina, Mississippi, and Montana in C. So while the states are not traditionally strong, they do represent high competitiveness.<br>
+<br>
+Anyway, this is just one method, and I'm not gonna sit here and pretend it's a definitive ranking. But, it's all based on available numbers, so at the very least it's unbiased!</div>
+
+			
+			
+													<div class="notice">
+					Last edited by <a href="./memberlist.php?mode=viewprofile&amp;u=11259" style="color: #AA0000;" class="username-coloured">EastStroudsburg13</a> on June 8th, 2020, 5:32 pm, edited 1 time in total.
+					<br /><strong>Reason:</strong> <em>Updated rankings after removing &quot;closeness&quot; scores from 2020 state tournaments</em>				</div>
+			
+						<div id='list_thanks421639'>
+		<div class="notice">
+		<dl>
+			
+			<dt>These users thanked the author <a href="./memberlist.php?mode=viewprofile&amp;u=11259" style="color: #AA0000;" class="username-coloured">EastStroudsburg13</a> for the post (total 6):</dt>
+			<dd><a href="./memberlist.php?mode=viewprofile&amp;u=47945" class="username">anandymous</a> (June 8th, 2020, 4:07 pm) &bull; <a href="./memberlist.php?mode=viewprofile&amp;u=47584" style="color: #00AA00;" class="username-coloured">gz839918</a> (June 8th, 2020, 5:36 pm) &bull; <a href="./memberlist.php?mode=viewprofile&amp;u=37001" class="username">sciolyperson1</a> (June 8th, 2020, 6:29 pm) &bull; <a href="./memberlist.php?mode=viewprofile&amp;u=33450" class="username">Froggie</a> (June 9th, 2020, 8:43 pm) &bull; <a href="./memberlist.php?mode=viewprofile&amp;u=34942" style="color: #000000;" class="username-coloured">MadCow2357</a> (June 13th, 2020, 7:46 pm) &bull; <a href="./memberlist.php?mode=viewprofile&amp;u=21843" style="color: #00AA00;" class="username-coloured">Adi1008</a> (June 19th, 2020, 7:00 pm)</dd>
+		</dl>
+	</div>
+	</div>
+<div id='div_post_reput421639'>
+	</div>
+			<div id="sig421639" class="signature"><div align="center"><span style="color:#8000BF">East Stroudsburg South Class of 2012, Alumnus of JT Lambert</span>, <span style="color:#0000BF">Drexel University Class of 2017</span><br>
+<br>
+<strong class="text-strong"><span style="text-decoration:underline"><span style="color:#208000">Helpful Links</span></span> <br>
+<a href="http://scioly.org/wiki/index.php/Main_Page" class="postlink">Wiki</a> <br>
+<a href="http://scioly.org/wiki/index.php/Category:Needs_Work" class="postlink">Wiki Pages that Need Work</a><br>
+<a href="http://www.scioly.org/phpBB3/faq.php" class="postlink">FAQ</a> and <a class="wikilink" target="blank_" href="http://scioly.org/wiki/index.php/SciOly FAQ" rel="noreferrer">SciOly FAQ Wiki</a><br>
+<a href="http://scioly.org/chat.php" class="postlink">Chat</a> (See <a class="wikilink" target="blank_" href="http://scioly.org/wiki/index.php/IRC" rel="noreferrer">IRC Wiki</a> for more info)<br>
+<a class="wikilink" target="blank_" href="http://scioly.org/wiki/index.php/BBCode" rel="noreferrer">BBCode Wiki</a></strong><br>
+<br>
+<a href="https://scioly.org/forums/viewtopic.php?f=335&amp;t=23&amp;p=401962#p401962" class="postlink">So long, and thanks for all the Future Dictator titles!</a></div></div>
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Top">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Top</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+	<hr class="divider" />
+				<div id="p421644" class="post has-profile bg1">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile421644">
+			<dt class="has-profile-rank no-avatar">
+				<div class="avatar-container">
+																			</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=32638" class="username">pb5754</a>							</dt>
+
+						<dd class="profile-rank">Member<br /><img src="./images/ranks/stars4.gif" alt="Member" title="Member" /></dd>			
+		<dd class="profile-posts"><strong>Posts:</strong> <a href="./search.php?author_id=32638&amp;sr=posts">464</a></dd>		<dd class="profile-joined"><strong>Joined:</strong> March 5th, 2017, 7:49 pm</dd>		
+		
+											<dd class="profile-custom-field profile-division"><strong>Division:</strong> C</dd>
+												<dd class="profile-custom-field profile-state"><strong>State:</strong> NJ</dd>
+												<dd class="profile-custom-field profile-pronouns"><strong>Pronouns:</strong> He/Him/His</dd>
+							<dd class="profile-posts" data-user-give-id="32638">
+    <strong>Has thanked:</strong>
+    <a href="/forums/app.php/thankslist/givens/32638/true">17 times</a>
+</dd>
+<dd class="profile-posts" data-user-receive-id="32638">
+    <strong>Been&nbsp;thanked:</strong>
+    <a href="/forums/app.php/thankslist/givens/32638/false">30 times</a>
+</dd>
+
+						
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content421644">
+
+						<h3 ><a href="#p421644">Re: Most Competitive States</a></h3>
+
+													<ul class="post-buttons">
+																																									<li>
+							<a href="./posting.php?mode=quote&amp;f=334&amp;p=421644" title="Reply with quote" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Quote</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="./viewtopic.php?p=421644#p421644" title="Post">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Post</span>
+					</a>
+								<span class="responsive-hide">by <strong><a href="./memberlist.php?mode=viewprofile&amp;u=32638" class="username">pb5754</a></strong> &raquo; </span>June 8th, 2020, 4:58 pm
+			</p>
+			
+			
+			
+			<div class="content"><blockquote><div><cite><a href="./memberlist.php?mode=viewprofile&amp;u=11259">EastStroudsburg13</a> wrote: <a href="./viewtopic.php?p=421639#p421639" data-post-id="421639" onclick="if(document.getElementById(hash.substr(1)))href=hash">↑</a><div class="responsive-hide">June 8th, 2020, 4:04 pm</div></cite>
+So when I come across stuff like this, I always feel like it's very difficult to be unbiased. So I went straight to the numbers!<br>
+<br>
+Basically I took three core components of what makes a competitive state. <span style="text-decoration:underline">Strength, closeness, and turnover.</span> Strength, which I based off nationals scores because it's the most standard means of comparison, was my base, as it's the foremost measure for what makes a state competitive. I then adjusted it by closeness, which I considered as how close together the top few teams are to each other, and turnover, which is how often distinct teams place highly. If you want to see the finer details of how I came up with a ranking, click below:<br>
+
+<div class="bbcode-hide codebox"><label><span style="font-weight:bold">Methodology details</span> <span style="color:#555">(Click to Show Hidden Text)</span></label><pre>[b]Strength:[/b] I used a weighted average of the state's top score at nationals over the past four years:
+
+S = 2019+2018*.6+2017*.3+2016*.1
+
+[b]Closeness:[/b] I based this off of the difference between the scores of the 1st and 3rd placed schools at the state tournament, divided by the 3rd place school's score. I used 3rd because I think having 3 strong teams is more indicative of competitiveness than just 2. This is a complete judgment call, I could have done it differently based on 1 vs. 2 national bids but I didn't, so there. Ha.
+
+This was a simple average between 2020, 2019, and 2018. If no 2020 state tournament was held, I used 2019 again. This definitely skewed results, but whaddaya gonna do?
+
+[b]Turnover:[/b] This was a simple sum. I added up the total number of different teams that had placed first since 2016. I also added the total number of [i]additional[/i] teams that placed second in that range, divided by 2. If no 2020 state tournament was held, I just disregarded that year, except in Maryland when River Hill was the clear and obvious favorite to win. My ranking my rules!
+
+And then to come up with a final ranking, I scaled the strength scores so that 1000 was "average", and so that closeness and tolerance were adjusting the strength scores up or down:
+
+SQRT( S/1000 ) * SQRT( C+0.5 ) - ( T-1.5 )/50
+
+Tada.</pre></div><style type="text/css">
+div.bbcode-hide {
+	padding: 3px;
+}
+.bbcode-hide label {
+	display: block;
+	font-size: 0.8em !important;
+	text-transform: uppercase;
+	width: 100%;
+}
+.bbcode-hide pre {
+	display: none;
+	font-family: 'Avenir', Arial, sans-serif;
+	white-space: pre-wrap;
+}
+@media print {
+	.bbcode-hide pre {
+		display: block !important;
+	}
+}
+</style><script type="text/javascript">
+$(document).ready(()=>{
+	$(".bbcode-hide").each((_, tag) => {
+		tag = $(tag);
+		tag.find("label").off("click").on("click", ()=>{
+			tag.find("pre").toggle();
+		})
+	})
+})
+</script>
+
+If you just want the "extreme", "competitive", etc, here they are. I separated this out by where tier breaks appeared to be. They are ordered by descending rank.<br>
+<br>
+<strong class="text-strong"><span style="text-decoration:underline">Division B</span></strong><br>
+<strong class="text-strong">Extreme:</strong> California (North), Ohio, Michigan, New Jersey, Pennsylvania, Illinois, California (South)<br>
+<strong class="text-strong">Competitive:</strong> Virginia, New York, Texas, Washington, Missouri, North Carolina<br>
+<strong class="text-strong">Simple</strong>: Wisconsin, Tennessee, Hawaii, Georgia, Indiana, Kansas<br>
+<strong class="text-strong">Passive Plus</strong>: Rhode Island, Delaware, Nevada, Connecticut, Minnesota, Florida, Alabama<br>
+<strong class="text-strong">Passive</strong>: Arizona, Oregon, Massachusetts, Maryland, New Mexico, Utah, Colorado, Idaho, Montana, Louisiana, Iowa, South Carolina, Maine, Nebraska, Oklahoma, Kentucky<br>
+<strong class="text-strong">Low Passive:</strong> New Hampshire, Mississippi, South Dakota, North Dakota, District of Columbia, Alaska, Arkansas, Wyoming<br>
+<br>
+<strong class="text-strong"><span style="text-decoration:underline">Division C</span></strong><br>
+<strong class="text-strong">Extreme:</strong> Ohio, Pennsylvania, Texas, California (South), California (North), Illinois, Michigan, New Jersey, New York<br>
+<strong class="text-strong">Competitive:</strong> Indiana, North Carolina, Virginia, Minnesota, Wisconsin, Massachusetts, Washington, Florida<br>
+<strong class="text-strong">Simple:</strong> Missouri, Tennessee, Georgia, Connecticut, Hawaii, New Mexico, Nevada, Maryland<br>
+<strong class="text-strong">Passive Plus:</strong> Louisiana, Kansas, Colorado, Alabama<br>
+<strong class="text-strong">Passive:</strong> Iowa, South Carolina, Mississippi, Montana, Kentucky, New Hampshire, Arizona, Rhode Island, Oregon, Nebraska, Idaho, Delaware<br>
+<strong class="text-strong">Low Passive:</strong> Oklahoma, Utah, Alaska, South Dakota, Maine, West Virginia, District of Columbia, Wyoming, Arkansas, Vermont<br>
+<br>
+It should be noted that a lot of "Passive" states that may be unexpectedly high are because their state competitions have been quite close lately. This is the case for Arizona, Montana, and Maine in B, and South Carolina, Mississippi, and Montana in C. So while the states are not traditionally strong, they do represent high competitiveness.<br>
+<br>
+Anyway, this is just one method, and I'm not gonna sit here and pretend it's a definitive ranking. But, it's all based on available numbers, so at the very least it's unbiased!
+</div></blockquote>
+
+I know this is largely due to Community's two 3rd places at 2019 and 2018 Nationals, but I am still very surprised to see that NJ B is apparently more competitive than NJ C!?<br>
+<br>
+Also, I think the number of teams (or something similar) should be included as a part of the closeness factor, as a 40 point win in a 60 team tournament is far closer than a 40 point win in a 25 team tournament.</div>
+
+			
+			
+									
+						<div id='list_thanks421644'>
+		<div class="notice">
+		<dl>
+			
+			<dt>These users thanked the author <a href="./memberlist.php?mode=viewprofile&amp;u=32638" class="username">pb5754</a> for the post: </dt>
+			<dd><a href="./memberlist.php?mode=viewprofile&amp;u=47584" style="color: #00AA00;" class="username-coloured">gz839918</a> (June 8th, 2020, 5:36 pm)</dd>
+		</dl>
+	</div>
+	</div>
+<div id='div_post_reput421644'>
+	</div>
+			<div id="sig421644" class="signature"><strong class="text-strong">West Windsor-Plainsboro High School South '21</strong></div>
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Top">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Top</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+	<hr class="divider" />
+	
+
+	<div class="action-bar bar-bottom">
+	
+			<a href="./posting.php?mode=reply&amp;f=334&amp;t=17929" class="button" title="Post a reply">
+							<span>Post Reply</span> <i class="icon fa-reply fa-fw" aria-hidden="true"></i>
+					</a>
+		
+		<div class="dropdown-container dropdown-button-control topic-tools">
+		<span title="Topic tools" class="button button-secondary dropdown-trigger dropdown-select">
+			<i class="icon fa-wrench fa-fw" aria-hidden="true"></i>
+			<span class="caret"><i class="icon fa-sort-down fa-fw" aria-hidden="true"></i></span>
+		</span>
+		<div class="dropdown">
+			<div class="pointer"><div class="pointer-inner"></div></div>
+			<ul class="dropdown-contents">
+																												<li>
+					<a href="./viewtopic.php?f=334&amp;t=17929&amp;start=10&amp;view=print" title="Print view" accesskey="p">
+						<i class="icon fa-print fa-fw" aria-hidden="true"></i><span>Print view</span>
+					</a>
+				</li>
+											</ul>
+		</div>
+	</div>
+
+			<form method="post" action="./viewtopic.php?f=334&amp;t=17929&amp;start=10">
+		<div class="dropdown-container dropdown-container-left dropdown-button-control sort-tools">
+	<span title="Display and sorting options" class="button button-secondary dropdown-trigger dropdown-select">
+		<i class="icon fa-sort-amount-asc fa-fw" aria-hidden="true"></i>
+		<span class="caret"><i class="icon fa-sort-down fa-fw" aria-hidden="true"></i></span>
+	</span>
+	<div class="dropdown hidden">
+		<div class="pointer"><div class="pointer-inner"></div></div>
+		<div class="dropdown-contents">
+			<fieldset class="display-options">
+							<label>Display: <select name="st" id="st"><option value="0" selected="selected">All posts</option><option value="1">1 day</option><option value="7">7 days</option><option value="14">2 weeks</option><option value="30">1 month</option><option value="90">3 months</option><option value="180">6 months</option><option value="365">1 year</option></select></label>
+								<label>Sort by: <select name="sk" id="sk"><option value="a">Author</option><option value="t" selected="selected">Post time</option><option value="s">Subject</option></select></label>
+				<label>Direction: <select name="sd" id="sd"><option value="a" selected="selected">Ascending</option><option value="d">Descending</option></select></label>
+								<hr class="dashed" />
+				<input type="submit" class="button2" name="sort" value="Go" />
+						</fieldset>
+		</div>
+	</div>
+</div>
+		</form>
+	
+	
+	
+			<div class="pagination">
+			22 posts
+							<ul>
+			<li class="arrow previous"><a class="button button-icon-only" href="./viewtopic.php?f=334&amp;t=17929" rel="prev" role="button"><i class="icon fa-chevron-left fa-fw" aria-hidden="true"></i><span class="sr-only">Previous</span></a></li>
+				<li><a class="button" href="./viewtopic.php?f=334&amp;t=17929" role="button">1</a></li>
+			<li class="active"><span>2</span></li>
+				<li><a class="button" href="./viewtopic.php?f=334&amp;t=17929&amp;start=20" role="button">3</a></li>
+				<li class="arrow next"><a class="button button-icon-only" href="./viewtopic.php?f=334&amp;t=17929&amp;start=20" rel="next" role="button"><i class="icon fa-chevron-right fa-fw" aria-hidden="true"></i><span class="sr-only">Next</span></a></li>
+	</ul>
+					</div>
+	</div>
+
+
+<div class="action-bar actions-jump">
+		<p class="jumpbox-return">
+		<a href="./viewforum.php?f=334" class="left-box arrow-left" accesskey="r">
+			<i class="icon fa-angle-left fa-fw icon-black" aria-hidden="true"></i><span>Return to “General Competition”</span>
+		</a>
+	</p>
+	
+		<div class="jumpbox dropdown-container dropdown-container-right dropdown-up dropdown-left dropdown-button-control" id="jumpbox">
+			<span title="Jump to" class="button button-secondary dropdown-trigger dropdown-select">
+				<span>Jump to</span>
+				<span class="caret"><i class="icon fa-sort-down fa-fw" aria-hidden="true"></i></span>
+			</span>
+		<div class="dropdown">
+			<div class="pointer"><div class="pointer-inner"></div></div>
+			<ul class="dropdown-contents">
+																				<li><a href="./viewforum.php?f=278" class="jumpbox-forum-link"> <span> We Stand With The Black Community</span></a></li>
+																<li><a href="./viewforum.php?f=1" class="jumpbox-cat-link"> <span> Event Forums</span></a></li>
+																<li><a href="./viewforum.php?f=283" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Build Events</span></a></li>
+																<li><a href="./viewforum.php?f=316" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Boomilever B/C</span></a></li>
+																<li><a href="./viewforum.php?f=319" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Detector Building C</span></a></li>
+																<li><a href="./viewforum.php?f=320" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Elastic Launched Glider B</span></a></li>
+																<li><a href="./viewforum.php?f=315" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Gravity Vehicle C</span></a></li>
+																<li><a href="./viewforum.php?f=318" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Mission Possible B</span></a></li>
+																<li><a href="./viewforum.php?f=314" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Mousetrap Vehicle B</span></a></li>
+																<li><a href="./viewforum.php?f=317" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Ping Pong Parachute B/C</span></a></li>
+																<li><a href="./viewforum.php?f=321" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; ​W​r​i​g​h​t​ ​S​t​u​f​f​ ​C​</span></a></li>
+																<li><a href="./viewforum.php?f=284" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Lab Events</span></a></li>
+																<li><a href="./viewforum.php?f=322" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Machines B/C</span></a></li>
+																<li><a href="./viewforum.php?f=323" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Protein Modeling C</span></a></li>
+																<li><a href="./viewforum.php?f=285" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Study Events</span></a></li>
+																<li><a href="./viewforum.php?f=251" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Trial Events</span></a></li>
+																<li><a href="./viewforum.php?f=297" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Question Marathons</span></a></li>
+																<li><a href="./viewforum.php?f=252" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Question Marathons Explained</span></a></li>
+																<li><a href="./viewforum.php?f=6" class="jumpbox-cat-link"> <span> Competition Forums</span></a></li>
+																<li><a href="./viewforum.php?f=334" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; General Competition</span></a></li>
+																<li><a href="./viewforum.php?f=294" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Invitationals</span></a></li>
+																<li><a href="./viewforum.php?f=295" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Regionals &amp; States</span></a></li>
+																<li><a href="./viewforum.php?f=296" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Nationals</span></a></li>
+																<li><a href="./viewforum.php?f=333" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Alumni</span></a></li>
+																<li><a href="./viewforum.php?f=4" class="jumpbox-cat-link"> <span> Off-Topic Forums</span></a></li>
+																<li><a href="./viewforum.php?f=335" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; General Chat</span></a></li>
+																<li><a href="./viewforum.php?f=21" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Posting Games</span></a></li>
+																<li><a href="./viewforum.php?f=344" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Assassinator Games</span></a></li>
+																<li><a href="./viewforum.php?f=22" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; The Polling Place</span></a></li>
+																<li><a href="./viewforum.php?f=7" class="jumpbox-cat-link"> <span> Administrative</span></a></li>
+																<li><a href="./viewforum.php?f=24" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Announcements</span></a></li>
+																<li><a href="./viewforum.php?f=25" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Feedback</span></a></li>
+																<li><a href="./viewforum.php?f=8" class="jumpbox-cat-link"> <span> Team Forums</span></a></li>
+																<li><a href="./viewforum.php?f=28" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; How to get an (invisible) team forum</span></a></li>
+																<li><a href="./viewforum.php?f=54" class="jumpbox-cat-link"> <span> Archives</span></a></li>
+																<li><a href="./viewforum.php?f=70" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Old Board - 2001-2008</span></a></li>
+																<li><a href="./viewforum.php?f=88" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; 2009</span></a></li>
+																<li><a href="./viewforum.php?f=16" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2009 Build Events</span></a></li>
+																<li><a href="./viewforum.php?f=18" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2009 Lab Events</span></a></li>
+																<li><a href="./viewforum.php?f=17" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2009 Study Events</span></a></li>
+																<li><a href="./viewforum.php?f=19" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2009 Invitationals, Regionals, and States</span></a></li>
+																<li><a href="./viewforum.php?f=23" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2009 Nationals</span></a></li>
+																<li><a href="./viewforum.php?f=89" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; 2010</span></a></li>
+																<li><a href="./viewforum.php?f=66" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2010 Build Events</span></a></li>
+																<li><a href="./viewforum.php?f=68" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Wright Stuff B</span></a></li>
+																<li><a href="./viewforum.php?f=69" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Mission Possible C</span></a></li>
+																<li><a href="./viewforum.php?f=65" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2010 Lab Events</span></a></li>
+																<li><a href="./viewforum.php?f=67" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2010 Study Events</span></a></li>
+																<li><a href="./viewforum.php?f=72" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2010 Invitationals, Regionals, and States</span></a></li>
+																<li><a href="./viewforum.php?f=73" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2010 Nationals</span></a></li>
+																<li><a href="./viewforum.php?f=90" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; 2011</span></a></li>
+																<li><a href="./viewforum.php?f=91" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2011 Build Events</span></a></li>
+																<li><a href="./viewforum.php?f=94" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Towers B/C</span></a></li>
+																<li><a href="./viewforum.php?f=95" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Mission Possible C</span></a></li>
+																<li><a href="./viewforum.php?f=96" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Helicopters C</span></a></li>
+																<li><a href="./viewforum.php?f=92" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2011 Lab Events</span></a></li>
+																<li><a href="./viewforum.php?f=93" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2011 Study Events</span></a></li>
+																<li><a href="./viewforum.php?f=99" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2011 Invitationals, Regionals, and States</span></a></li>
+																<li><a href="./viewforum.php?f=100" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2011 Nationals</span></a></li>
+																<li><a href="./viewforum.php?f=118" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; 2012</span></a></li>
+																<li><a href="./viewforum.php?f=119" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2012 Build Events</span></a></li>
+																<li><a href="./viewforum.php?f=124" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Helicopters C</span></a></li>
+																<li><a href="./viewforum.php?f=122" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Mission Possible B</span></a></li>
+																<li><a href="./viewforum.php?f=123" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Towers B/C</span></a></li>
+																<li><a href="./viewforum.php?f=127" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2012 Lab Events</span></a></li>
+																<li><a href="./viewforum.php?f=121" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2012 Study Events</span></a></li>
+																<li><a href="./viewforum.php?f=126" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2012 Nationals</span></a></li>
+																<li><a href="./viewforum.php?f=141" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; 2013</span></a></li>
+																<li><a href="./viewforum.php?f=143" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2013 Build Events</span></a></li>
+																<li><a href="./viewforum.php?f=146" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Helicopters B</span></a></li>
+																<li><a href="./viewforum.php?f=147" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Boomilever B/C</span></a></li>
+																<li><a href="./viewforum.php?f=148" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Mission Possible B</span></a></li>
+																<li><a href="./viewforum.php?f=142" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2013 Lab Events</span></a></li>
+																<li><a href="./viewforum.php?f=144" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2013 Study Events</span></a></li>
+																<li><a href="./viewforum.php?f=149" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2013 Invitationals, Regionals, and States</span></a></li>
+																<li><a href="./viewforum.php?f=150" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2013 Nationals</span></a></li>
+																<li><a href="./viewforum.php?f=151" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2013 News</span></a></li>
+																<li><a href="./viewforum.php?f=165" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; 2014</span></a></li>
+																<li><a href="./viewforum.php?f=168" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2014 Build Events</span></a></li>
+																<li><a href="./viewforum.php?f=166" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2014 Lab Events</span></a></li>
+																<li><a href="./viewforum.php?f=167" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2014 Study Events</span></a></li>
+																<li><a href="./viewforum.php?f=173" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2014 Question Marathons</span></a></li>
+																<li><a href="./viewforum.php?f=170" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2014 Invitationals, Regionals, and States</span></a></li>
+																<li><a href="./viewforum.php?f=171" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2014 Nationals</span></a></li>
+																<li><a href="./viewforum.php?f=172" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2014 News</span></a></li>
+																<li><a href="./viewforum.php?f=185" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; 2015</span></a></li>
+																<li><a href="./viewforum.php?f=188" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2015 Build Events</span></a></li>
+																<li><a href="./viewforum.php?f=189" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Bridge Building B/C</span></a></li>
+																<li><a href="./viewforum.php?f=190" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Mission Possible C</span></a></li>
+																<li><a href="./viewforum.php?f=191" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Wright Stuff C</span></a></li>
+																<li><a href="./viewforum.php?f=186" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2015 Lab Events</span></a></li>
+																<li><a href="./viewforum.php?f=187" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2015 Study Events</span></a></li>
+																<li><a href="./viewforum.php?f=193" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2015 Question Marathons</span></a></li>
+																<li><a href="./viewforum.php?f=195" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2015 Invitationals, Regionals, and States</span></a></li>
+																<li><a href="./viewforum.php?f=200" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2015 Competition Advertising</span></a></li>
+																<li><a href="./viewforum.php?f=196" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2015 Nationals</span></a></li>
+																<li><a href="./viewforum.php?f=194" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2015 News</span></a></li>
+																<li><a href="./viewforum.php?f=213" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; 2016</span></a></li>
+																<li><a href="./viewforum.php?f=206" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2016 Build Events</span></a></li>
+																<li><a href="./viewforum.php?f=221" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Air Trajectory B/C</span></a></li>
+																<li><a href="./viewforum.php?f=209" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Bridge Building B/C</span></a></li>
+																<li><a href="./viewforum.php?f=211" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Elastic Launch Glider B</span></a></li>
+																<li><a href="./viewforum.php?f=222" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Electric Vehicle C</span></a></li>
+																<li><a href="./viewforum.php?f=210" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Mission Possible B</span></a></li>
+																<li><a href="./viewforum.php?f=223" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Robot Arm C</span></a></li>
+																<li><a href="./viewforum.php?f=212" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Wright Stuff C</span></a></li>
+																<li><a href="./viewforum.php?f=207" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2016 Lab Events</span></a></li>
+																<li><a href="./viewforum.php?f=219" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Wind Power B/C</span></a></li>
+																<li><a href="./viewforum.php?f=208" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2016 Study Events</span></a></li>
+																<li><a href="./viewforum.php?f=217" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2016 Question Marathons</span></a></li>
+																<li><a href="./viewforum.php?f=214" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2016 Invitationals, Regionals, and States</span></a></li>
+																<li><a href="./viewforum.php?f=218" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2016 Competition Advertising</span></a></li>
+																<li><a href="./viewforum.php?f=215" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2016 Nationals</span></a></li>
+																<li><a href="./viewforum.php?f=216" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2016 News</span></a></li>
+																<li><a href="./viewforum.php?f=224" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; 2017</span></a></li>
+																<li><a href="./viewforum.php?f=225" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2017 Build Events</span></a></li>
+																<li><a href="./viewforum.php?f=249" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Bottle Rocket B</span></a></li>
+																<li><a href="./viewforum.php?f=242" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Electric Vehicle C</span></a></li>
+																<li><a href="./viewforum.php?f=246" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Helicopters C</span></a></li>
+																<li><a href="./viewforum.php?f=247" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Mission Possible B</span></a></li>
+																<li><a href="./viewforum.php?f=244" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Robot Arm C</span></a></li>
+																<li><a href="./viewforum.php?f=248" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Scrambler B</span></a></li>
+																<li><a href="./viewforum.php?f=243" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Towers B/C</span></a></li>
+																<li><a href="./viewforum.php?f=245" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Wright Stuff B</span></a></li>
+																<li><a href="./viewforum.php?f=260" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Hovercraft B/C</span></a></li>
+																<li><a href="./viewforum.php?f=226" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2017 Lab Events</span></a></li>
+																<li><a href="./viewforum.php?f=227" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2017 Study Events</span></a></li>
+																<li><a href="./viewforum.php?f=228" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2017 Question Marathons</span></a></li>
+																<li><a href="./viewforum.php?f=229" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2017 Invitationals, Regionals, and States</span></a></li>
+																<li><a href="./viewforum.php?f=230" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2017 Competition Advertising</span></a></li>
+																<li><a href="./viewforum.php?f=231" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2017 Nationals</span></a></li>
+																<li><a href="./viewforum.php?f=236" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; 2018</span></a></li>
+																<li><a href="./viewforum.php?f=263" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2018 Build Events</span></a></li>
+																<li><a href="./viewforum.php?f=271" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Battery Buggy B</span></a></li>
+																<li><a href="./viewforum.php?f=272" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Helicopters C</span></a></li>
+																<li><a href="./viewforum.php?f=273" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Mission Possible C</span></a></li>
+																<li><a href="./viewforum.php?f=274" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Mousetrap Vehicle C</span></a></li>
+																<li><a href="./viewforum.php?f=275" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Roller Coaster B</span></a></li>
+																<li><a href="./viewforum.php?f=276" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Towers B/C</span></a></li>
+																<li><a href="./viewforum.php?f=277" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Wright Stuff B</span></a></li>
+																<li><a href="./viewforum.php?f=264" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2018 Lab Events</span></a></li>
+																<li><a href="./viewforum.php?f=265" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2018 Study Events</span></a></li>
+																<li><a href="./viewforum.php?f=266" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2018 Question Marathons</span></a></li>
+																<li><a href="./viewforum.php?f=267" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2018 Invitationals</span></a></li>
+																<li><a href="./viewforum.php?f=268" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2018 Regionals &amp; States</span></a></li>
+																<li><a href="./viewforum.php?f=269" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2018 Nationals</span></a></li>
+																<li><a href="./viewforum.php?f=262" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; 2019</span></a></li>
+																<li><a href="./viewforum.php?f=326" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2019 Build Events</span></a></li>
+																<li><a href="./viewforum.php?f=287" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Battery Buggy B</span></a></li>
+																<li><a href="./viewforum.php?f=290" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Boomilever B/C</span></a></li>
+																<li><a href="./viewforum.php?f=288" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Elastic Launched Gliders B</span></a></li>
+																<li><a href="./viewforum.php?f=291" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Mission Possible C</span></a></li>
+																<li><a href="./viewforum.php?f=292" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Mousetrap Vehicle C</span></a></li>
+																<li><a href="./viewforum.php?f=286" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Roller Coaster B</span></a></li>
+																<li><a href="./viewforum.php?f=299" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Wright Stuff C</span></a></li>
+																<li><a href="./viewforum.php?f=327" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2019 Lab Events</span></a></li>
+																<li><a href="./viewforum.php?f=293" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Thermodynamics B/C</span></a></li>
+																<li><a href="./viewforum.php?f=328" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2019 Study Events</span></a></li>
+																<li><a href="./viewforum.php?f=329" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2019 Question Marathons</span></a></li>
+																<li><a href="./viewforum.php?f=330" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2019 Invitationals</span></a></li>
+																<li><a href="./viewforum.php?f=331" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2019 Regionals &amp; States</span></a></li>
+																<li><a href="./viewforum.php?f=332" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2019 Nationals</span></a></li>
+																<li><a href="./viewforum.php?f=256" class="jumpbox-cat-link"> <span> Miscellaneous</span></a></li>
+																<li><a href="./viewforum.php?f=238" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Template: Visible, Topics Disabled, Replies Enabled, Increment Enabled</span></a></li>
+																<li><a href="./viewforum.php?f=257" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Template: Visible, Topics/Replies Enabled, Increment Enabled, Attachments</span></a></li>
+																<li><a href="./viewforum.php?f=341" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Template: Visible, Topics/Replies Enabled, Increment Disabled</span></a></li>
+																<li><a href="./viewforum.php?f=342" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Template: Visible, Topics Approval, Replies Disabled, Increment Disabled (Polls)</span></a></li>
+																<li><a href="./viewforum.php?f=253" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Template: Visible, Posting Disabled (Locked)</span></a></li>
+											</ul>
+		</div>
+	</div>
+
+	</div>
+
+	<div class="stat-block online-list">
+		<h3><a href="./viewonline.php">Who is online</a></h3>
+		<p>Users browsing this forum: No registered users and 16 guests</p>
+	</div>
+
+			</div>
+
+
+<div id="page-footer" class="page-footer" role="contentinfo">
+	<div class="navbar" role="navigation">
+	<div class="inner">
+
+	<ul id="nav-footer" class="nav-footer linklist" role="menubar">
+		<li class="breadcrumbs">
+							<span class="crumb"><a href="https://scioly.org" data-navbar-reference="home"><i class="icon fa-home fa-fw" aria-hidden="true"></i><span>Scioly.org</span></a></span>									<span class="crumb"><a href="./index.php" data-navbar-reference="index"><span>Forums</span></a></span>					</li>
+		
+				<li class="rightside">All times are <span title="America/Los Angeles">UTC-07:00</span></li>
+							<li class="rightside">
+				<a href="./ucp.php?mode=delete_cookies" data-ajax="true" data-refresh="true" role="menuitem">
+					<i class="icon fa-trash fa-fw" aria-hidden="true"></i><span>Delete cookies</span>
+				</a>
+			</li>
+							<li class="rightside" data-last-responsive="true">
+					<a href="./memberlist.php" title="View complete list of members" role="menuitem">
+						<i class="icon fa-group fa-fw" aria-hidden="true"></i><span>Members</span>
+					</a>
+				</li>
+												<li class="rightside" data-last-responsive="true">
+				<a href="./memberlist.php?mode=team" role="menuitem">
+					<i class="icon fa-shield fa-fw" aria-hidden="true"></i><span>The team</span>
+				</a>
+			</li>
+									<li class="rightside" data-last-responsive="true">
+				<a href="./memberlist.php?mode=contactadmin" role="menuitem">
+					<i class="icon fa-envelope fa-fw" aria-hidden="true"></i><span>Contact us</span>
+				</a>
+			</li>
+			</ul>
+
+	</div>
+</div>
+
+	<div class="copyright">
+				<p class="footer-row">
+			<span class="footer-copyright">Powered by <a href="https://www.phpbb.com/">phpBB</a>&reg; Forum Software &copy; phpBB Limited</span>
+		</p>
+						<p class="footer-row">
+			<a class="footer-link" href="./ucp.php?mode=privacy" title="Privacy" role="menuitem">
+				<span class="footer-link-text">Privacy</span>
+			</a>
+			|
+			<a class="footer-link" href="./ucp.php?mode=terms" title="Terms" role="menuitem">
+				<span class="footer-link-text">Terms</span>
+			</a>
+		</p>
+					</div>
+
+	<div id="darkenwrapper" class="darkenwrapper" data-ajax-error-title="AJAX error" data-ajax-error-text="Something went wrong when processing your request." data-ajax-error-text-abort="User aborted request." data-ajax-error-text-timeout="Your request timed out; please try again." data-ajax-error-text-parsererror="Something went wrong with the request and the server returned an invalid reply.">
+		<div id="darken" class="darken">&nbsp;</div>
+	</div>
+
+	<div id="phpbb_alert" class="phpbb_alert" data-l-err="Error" data-l-timeout-processing-req="Request timed out.">
+		<a href="#" class="alert_close">
+			<i class="icon fa-times-circle fa-fw" aria-hidden="true"></i>
+		</a>
+		<h3 class="alert_title">&nbsp;</h3><p class="alert_text"></p>
+	</div>
+	<div id="phpbb_confirm" class="phpbb_alert">
+		<a href="#" class="alert_close">
+			<i class="icon fa-times-circle fa-fw" aria-hidden="true"></i>
+		</a>
+		<div class="alert_text"></div>
+	</div>
+</div>
+
+</div>
+
+<div>
+	<a id="bottom" class="anchor" accesskey="z"></a>
+	</div>
+
+<script src="./assets/javascript/jquery.min.js?assets_version=50"></script>
+<script src="./assets/javascript/core.js?assets_version=50"></script>
+
+
+
+</div><!-- closing tag for div#wrap -->
+<div class="site-footer">
+	<div class="tiles">
+		<div>
+			<h4>Connect</h4>
+			<p><a href="https://scioly.org/forums/viewforum.php?f=1">Event Forums</a></p>
+			<p><a href="https://scioly.org/forums/viewforum.php?f=6">Competition Forums</a></p>
+			<p><a href="https://scioly.org/chat">Online Chat</a></p>
+			<!-- <p><a href="https://scioly.org/watch">YouTube Channel</a></p> -->
+		</div>
+		<div>
+			<h4>Learn</h4>
+			<p><a href="https://scioly.org/wiki">Wiki</a></p>
+			<p><a href="https://scioly.org/forums/viewforum.php?f=297">Question Marathons</a></p>
+			<p><a href="https://scioly.org/tests">Test Exchange</a></p>
+			<p><a href="https://scioly.org/wiki/index.php/Test_Exchange_Archive">Test Archive</a></p>
+		</div>
+		<div>
+			<h4>Get Involved</h4>
+			<p><a href="https://scioly.org/wiki/index.php/Starting_A_Science_Olympiad_Team">Starting a Team</a></p>
+			<p><a href="https://scioly.org/wiki/index.php/How_to_Write_a_Practice_Test">Test Writing Guide</a></p>
+			<p><a href="https://scioly.org/wiki/index.php/Category:Needs_Work">Wiki: Needs Work</a></p>
+			<p><a href="https://scioly.org/wiki/index.php/Category:Student_Volunteer_Organizations">Volunteering</a></p>
+		</div>
+		<div>
+			<h4>About</h4>
+			<p><a href="https://scioly.org/about">History</a></p>
+			<p><a href="https://scioly.org/rules">Site Rules</a></p>
+			<p><a href="https://scioly.org/rules">Privacy Policy</a></p>
+			<p><a href="https://www.facebook.com/scioly.org">Facebook Page</a></p>
+		</div>
+		<div>
+			<h4>Disclaimer</h4>
+			<p>Scioly.org is a place to ask questions and share ideas. This site is not the place to get event rules, official rules changes, or official clarifications.</p>
+			<p><a href="https://scioly.org/bernard" style="color: transparent;">Click me! Click me!</a></p>
+		</div>
+	</div>
+</div>
+
+
+
+<script src="./styles/scioly/template/forum_fn.js?assets_version=50"></script>
+<script src="./styles/scioly/template/ajax.js?assets_version=50"></script>
+
+
+
+</body>
+</html>

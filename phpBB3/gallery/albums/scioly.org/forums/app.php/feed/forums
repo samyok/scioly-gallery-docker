@@ -1,0 +1,2293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+	<link rel="self" type="application/atom+xml" href="https://scioly.org/forums/app.php/feed/forums" />
+
+	<title>Scioly.org</title>
+	<subtitle>Science Olympiad Student Center</subtitle>
+	<link href="https://scioly.org/forums/index.php" />
+	<updated>2020-08-06T18:03:11-07:00</updated>
+
+	<author><name><![CDATA[Scioly.org]]></name></author>
+	<id>https://scioly.org/forums/app.php/feed/forums</id>
+
+		<entry>
+		
+		<updated>2020-02-23T23:52:51-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=283</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=283"/>
+		<title type="html"><![CDATA[Build Events]]></title>
+
+					<category term="Build Events" scheme="https://scioly.org/forums/viewforum.php?f=283" label="Build Events"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=283"><![CDATA[
+<p>Statistics: Total topics <strong>1</strong> — Total posts <strong>3</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2020-07-20T15:24:53-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=316</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=316"/>
+		<title type="html"><![CDATA[Boomilever B/C]]></title>
+
+					<category term="Boomilever B/C" scheme="https://scioly.org/forums/viewforum.php?f=316" label="Boomilever B/C"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=316"><![CDATA[
+<p>Statistics: Total topics <strong>20</strong> — Total posts <strong>532</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2020-04-08T12:56:32-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=319</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=319"/>
+		<title type="html"><![CDATA[Detector Building C]]></title>
+
+					<category term="Detector Building C" scheme="https://scioly.org/forums/viewforum.php?f=319" label="Detector Building C"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=319"><![CDATA[
+<p>Statistics: Total topics <strong>26</strong> — Total posts <strong>385</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2020-03-23T10:42:04-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=320</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=320"/>
+		<title type="html"><![CDATA[Elastic Launched Glider B]]></title>
+
+					<category term="Elastic Launched Glider B" scheme="https://scioly.org/forums/viewforum.php?f=320" label="Elastic Launched Glider B"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=320"><![CDATA[
+<p>Statistics: Total topics <strong>6</strong> — Total posts <strong>142</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2020-08-04T08:11:39-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=315</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=315"/>
+		<title type="html"><![CDATA[Gravity Vehicle C]]></title>
+
+					<category term="Gravity Vehicle C" scheme="https://scioly.org/forums/viewforum.php?f=315" label="Gravity Vehicle C"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=315"><![CDATA[
+<p>Statistics: Total topics <strong>19</strong> — Total posts <strong>565</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2020-04-07T07:12:16-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=318</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=318"/>
+		<title type="html"><![CDATA[Mission Possible B]]></title>
+
+					<category term="Mission Possible B" scheme="https://scioly.org/forums/viewforum.php?f=318" label="Mission Possible B"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=318"><![CDATA[
+<p>Statistics: Total topics <strong>34</strong> — Total posts <strong>317</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2020-03-02T19:19:30-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=314</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=314"/>
+		<title type="html"><![CDATA[Mousetrap Vehicle B]]></title>
+
+					<category term="Mousetrap Vehicle B" scheme="https://scioly.org/forums/viewforum.php?f=314" label="Mousetrap Vehicle B"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=314"><![CDATA[
+<p>Statistics: Total topics <strong>19</strong> — Total posts <strong>111</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2020-07-22T08:56:18-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=317</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=317"/>
+		<title type="html"><![CDATA[Ping Pong Parachute B/C]]></title>
+
+					<category term="Ping Pong Parachute B/C" scheme="https://scioly.org/forums/viewforum.php?f=317" label="Ping Pong Parachute B/C"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=317"><![CDATA[
+<p>Statistics: Total topics <strong>56</strong> — Total posts <strong>782</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2020-07-20T19:27:36-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=321</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=321"/>
+		<title type="html"><![CDATA[​W​r​i​g​h​t​ ​S​t​u​f​f​ ​C​]]></title>
+
+					<category term="​W​r​i​g​h​t​ ​S​t​u​f​f​ ​C​" scheme="https://scioly.org/forums/viewforum.php?f=321" label="​W​r​i​g​h​t​ ​S​t​u​f​f​ ​C​"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=321"><![CDATA[
+<p>Statistics: Total topics <strong>23</strong> — Total posts <strong>1030</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2020-07-21T01:21:46-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=284</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=284"/>
+		<title type="html"><![CDATA[Lab Events]]></title>
+
+					<category term="Lab Events" scheme="https://scioly.org/forums/viewforum.php?f=284" label="Lab Events"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=284"><![CDATA[
+<p>Statistics: Total topics <strong>11</strong> — Total posts <strong>548</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2020-04-29T10:23:16-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=322</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=322"/>
+		<title type="html"><![CDATA[Machines B/C]]></title>
+
+					<category term="Machines B/C" scheme="https://scioly.org/forums/viewforum.php?f=322" label="Machines B/C"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=322"><![CDATA[
+<p>Statistics: Total topics <strong>25</strong> — Total posts <strong>296</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2020-07-30T07:30:12-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=323</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=323"/>
+		<title type="html"><![CDATA[Protein Modeling C]]></title>
+
+					<category term="Protein Modeling C" scheme="https://scioly.org/forums/viewforum.php?f=323" label="Protein Modeling C"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=323"><![CDATA[
+<p>Statistics: Total topics <strong>1</strong> — Total posts <strong>160</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2020-07-30T15:13:33-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=285</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=285"/>
+		<title type="html"><![CDATA[Study Events]]></title>
+
+					<category term="Study Events" scheme="https://scioly.org/forums/viewforum.php?f=285" label="Study Events"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=285"><![CDATA[
+<p>Statistics: Total topics <strong>17</strong> — Total posts <strong>1436</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2020-08-06T15:21:53-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=297</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=297"/>
+		<title type="html"><![CDATA[Question Marathons]]></title>
+
+					<category term="Question Marathons" scheme="https://scioly.org/forums/viewforum.php?f=297" label="Question Marathons"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=297"><![CDATA[
+Test your knowledge of various Science Olympiad events.<p>Statistics: Total topics <strong>24</strong> — Total posts <strong>1082</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2020-08-05T17:38:31-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=334</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=334"/>
+		<title type="html"><![CDATA[General Competition]]></title>
+
+					<category term="General Competition" scheme="https://scioly.org/forums/viewforum.php?f=334" label="General Competition"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=334"><![CDATA[
+For anything Science Olympiad-related that might not fall under a specific event or competition.<p>Statistics: Total topics <strong>770</strong> — Total posts <strong>20459</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2020-08-02T12:19:11-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=294</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=294"/>
+		<title type="html"><![CDATA[Invitationals]]></title>
+
+					<category term="Invitationals" scheme="https://scioly.org/forums/viewforum.php?f=294" label="Invitationals"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=294"><![CDATA[
+Area to advertise for your competitions!<p>Statistics: Total topics <strong>45</strong> — Total posts <strong>953</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2020-07-21T14:02:00-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=295</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=295"/>
+		<title type="html"><![CDATA[Regionals &amp; States]]></title>
+
+					<category term="Regionals &amp; States" scheme="https://scioly.org/forums/viewforum.php?f=295" label="Regionals &amp; States"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=295"><![CDATA[
+Show your regional and state pride!<p>Statistics: Total topics <strong>30</strong> — Total posts <strong>2403</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2020-06-03T10:42:48-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=296</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=296"/>
+		<title type="html"><![CDATA[Nationals]]></title>
+
+					<category term="Nationals" scheme="https://scioly.org/forums/viewforum.php?f=296" label="Nationals"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=296"><![CDATA[
+We're looking forward to the tournament at North Carolina State!<p>Statistics: Total topics <strong>3</strong> — Total posts <strong>337</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2020-04-30T11:43:49-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=333</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=333"/>
+		<title type="html"><![CDATA[Alumni]]></title>
+
+					<category term="Alumni" scheme="https://scioly.org/forums/viewforum.php?f=333" label="Alumni"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=333"><![CDATA[
+Alumni make some of the best volunteers!<p>Statistics: Total topics <strong>25</strong> — Total posts <strong>201</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2020-08-05T23:39:32-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=335</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=335"/>
+		<title type="html"><![CDATA[General Chat]]></title>
+
+					<category term="General Chat" scheme="https://scioly.org/forums/viewforum.php?f=335" label="General Chat"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=335"><![CDATA[
+Shoot the breeze with other Olympians.<p>Statistics: Total topics <strong>839</strong> — Total posts <strong>50316</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2020-08-06T16:53:59-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=21</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=21"/>
+		<title type="html"><![CDATA[Posting Games]]></title>
+
+					<category term="Posting Games" scheme="https://scioly.org/forums/viewforum.php?f=21" label="Posting Games"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=21"><![CDATA[
+A forum for those Word Games that plague the Earth.<p>Statistics: Total topics <strong>354</strong> — Total posts <strong>79334</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2020-08-06T08:58:44-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=344</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=344"/>
+		<title type="html"><![CDATA[Assassinator Games]]></title>
+
+					<category term="Assassinator Games" scheme="https://scioly.org/forums/viewforum.php?f=344" label="Assassinator Games"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=344"><![CDATA[
+<p>Statistics: Total topics <strong>162</strong> — Total posts <strong>33502</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2020-08-06T18:03:11-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=22</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=22"/>
+		<title type="html"><![CDATA[The Polling Place]]></title>
+
+					<category term="The Polling Place" scheme="https://scioly.org/forums/viewforum.php?f=22" label="The Polling Place"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=22"><![CDATA[
+A home for moderator-approved, long term polls.<p>Statistics: Total topics <strong>631</strong> — Total posts <strong>631</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2020-07-27T18:45:04-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=24</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=24"/>
+		<title type="html"><![CDATA[Announcements]]></title>
+
+					<category term="Announcements" scheme="https://scioly.org/forums/viewforum.php?f=24" label="Announcements"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=24"><![CDATA[
+<p>Statistics: Total topics <strong>87</strong> — Total posts <strong>618</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2020-08-05T23:48:01-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=25</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=25"/>
+		<title type="html"><![CDATA[Feedback]]></title>
+
+					<category term="Feedback" scheme="https://scioly.org/forums/viewforum.php?f=25" label="Feedback"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=25"><![CDATA[
+<p>Statistics: Total topics <strong>203</strong> — Total posts <strong>2867</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated></updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=88</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=88"/>
+		<title type="html"><![CDATA[2009]]></title>
+
+					<category term="2009" scheme="https://scioly.org/forums/viewforum.php?f=88" label="2009"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=88"><![CDATA[
+<p>Statistics: Total topics <strong>0</strong> — Total posts <strong>0</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2009-08-02T17:06:54-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=16</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=16"/>
+		<title type="html"><![CDATA[2009 Build Events]]></title>
+
+					<category term="2009 Build Events" scheme="https://scioly.org/forums/viewforum.php?f=16" label="2009 Build Events"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=16"><![CDATA[
+<p>Statistics: Total topics <strong>44</strong> — Total posts <strong>6330</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2009-08-01T14:43:15-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=18</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=18"/>
+		<title type="html"><![CDATA[2009 Lab Events]]></title>
+
+					<category term="2009 Lab Events" scheme="https://scioly.org/forums/viewforum.php?f=18" label="2009 Lab Events"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=18"><![CDATA[
+<p>Statistics: Total topics <strong>30</strong> — Total posts <strong>3042</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2009-08-01T13:15:28-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=17</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=17"/>
+		<title type="html"><![CDATA[2009 Study Events]]></title>
+
+					<category term="2009 Study Events" scheme="https://scioly.org/forums/viewforum.php?f=17" label="2009 Study Events"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=17"><![CDATA[
+<p>Statistics: Total topics <strong>46</strong> — Total posts <strong>5970</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2009-08-01T13:05:17-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=19</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=19"/>
+		<title type="html"><![CDATA[2009 Invitationals, Regionals, and States]]></title>
+
+					<category term="2009 Invitationals, Regionals, and States" scheme="https://scioly.org/forums/viewforum.php?f=19" label="2009 Invitationals, Regionals, and States"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=19"><![CDATA[
+<p>Statistics: Total topics <strong>59</strong> — Total posts <strong>4799</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2009-08-02T17:55:55-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=23</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=23"/>
+		<title type="html"><![CDATA[2009 Nationals]]></title>
+
+					<category term="2009 Nationals" scheme="https://scioly.org/forums/viewforum.php?f=23" label="2009 Nationals"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=23"><![CDATA[
+<p>Statistics: Total topics <strong>26</strong> — Total posts <strong>1645</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated></updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=89</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=89"/>
+		<title type="html"><![CDATA[2010]]></title>
+
+					<category term="2010" scheme="https://scioly.org/forums/viewforum.php?f=89" label="2010"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=89"><![CDATA[
+<p>Statistics: Total topics <strong>0</strong> — Total posts <strong>0</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2010-08-25T16:12:04-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=66</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=66"/>
+		<title type="html"><![CDATA[2010 Build Events]]></title>
+
+					<category term="2010 Build Events" scheme="https://scioly.org/forums/viewforum.php?f=66" label="2010 Build Events"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=66"><![CDATA[
+<p>Statistics: Total topics <strong>11</strong> — Total posts <strong>3857</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2010-08-30T15:25:53-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=68</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=68"/>
+		<title type="html"><![CDATA[Wright Stuff B]]></title>
+
+					<category term="Wright Stuff B" scheme="https://scioly.org/forums/viewforum.php?f=68" label="Wright Stuff B"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=68"><![CDATA[
+<p>Statistics: Total topics <strong>31</strong> — Total posts <strong>1007</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2010-06-11T22:38:22-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=69</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=69"/>
+		<title type="html"><![CDATA[Mission Possible C]]></title>
+
+					<category term="Mission Possible C" scheme="https://scioly.org/forums/viewforum.php?f=69" label="Mission Possible C"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=69"><![CDATA[
+<p>Statistics: Total topics <strong>23</strong> — Total posts <strong>652</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2010-08-06T09:47:05-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=65</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=65"/>
+		<title type="html"><![CDATA[2010 Lab Events]]></title>
+
+					<category term="2010 Lab Events" scheme="https://scioly.org/forums/viewforum.php?f=65" label="2010 Lab Events"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=65"><![CDATA[
+<p>Statistics: Total topics <strong>19</strong> — Total posts <strong>2306</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2010-08-24T13:08:13-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=67</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=67"/>
+		<title type="html"><![CDATA[2010 Study Events]]></title>
+
+					<category term="2010 Study Events" scheme="https://scioly.org/forums/viewforum.php?f=67" label="2010 Study Events"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=67"><![CDATA[
+<p>Statistics: Total topics <strong>15</strong> — Total posts <strong>3972</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2010-08-10T05:29:58-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=72</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=72"/>
+		<title type="html"><![CDATA[2010 Invitationals, Regionals, and States]]></title>
+
+					<category term="2010 Invitationals, Regionals, and States" scheme="https://scioly.org/forums/viewforum.php?f=72" label="2010 Invitationals, Regionals, and States"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=72"><![CDATA[
+<p>Statistics: Total topics <strong>38</strong> — Total posts <strong>3080</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2010-08-14T17:25:20-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=73</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=73"/>
+		<title type="html"><![CDATA[2010 Nationals]]></title>
+
+					<category term="2010 Nationals" scheme="https://scioly.org/forums/viewforum.php?f=73" label="2010 Nationals"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=73"><![CDATA[
+<p>Statistics: Total topics <strong>20</strong> — Total posts <strong>1395</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated></updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=90</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=90"/>
+		<title type="html"><![CDATA[2011]]></title>
+
+					<category term="2011" scheme="https://scioly.org/forums/viewforum.php?f=90" label="2011"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=90"><![CDATA[
+<p>Statistics: Total topics <strong>0</strong> — Total posts <strong>0</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2011-08-27T10:11:44-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=91</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=91"/>
+		<title type="html"><![CDATA[2011 Build Events]]></title>
+
+					<category term="2011 Build Events" scheme="https://scioly.org/forums/viewforum.php?f=91" label="2011 Build Events"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=91"><![CDATA[
+<p>Statistics: Total topics <strong>14</strong> — Total posts <strong>3090</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2011-08-11T14:00:08-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=94</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=94"/>
+		<title type="html"><![CDATA[Towers B/C]]></title>
+
+					<category term="Towers B/C" scheme="https://scioly.org/forums/viewforum.php?f=94" label="Towers B/C"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=94"><![CDATA[
+<p>Statistics: Total topics <strong>28</strong> — Total posts <strong>1108</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2011-08-21T19:10:22-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=95</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=95"/>
+		<title type="html"><![CDATA[Mission Possible C]]></title>
+
+					<category term="Mission Possible C" scheme="https://scioly.org/forums/viewforum.php?f=95" label="Mission Possible C"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=95"><![CDATA[
+<p>Statistics: Total topics <strong>24</strong> — Total posts <strong>902</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2011-08-08T11:55:42-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=96</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=96"/>
+		<title type="html"><![CDATA[Helicopters C]]></title>
+
+					<category term="Helicopters C" scheme="https://scioly.org/forums/viewforum.php?f=96" label="Helicopters C"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=96"><![CDATA[
+<p>Statistics: Total topics <strong>21</strong> — Total posts <strong>1642</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2011-08-27T13:06:02-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=92</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=92"/>
+		<title type="html"><![CDATA[2011 Lab Events]]></title>
+
+					<category term="2011 Lab Events" scheme="https://scioly.org/forums/viewforum.php?f=92" label="2011 Lab Events"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=92"><![CDATA[
+<p>Statistics: Total topics <strong>21</strong> — Total posts <strong>3624</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2011-08-28T12:35:14-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=93</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=93"/>
+		<title type="html"><![CDATA[2011 Study Events]]></title>
+
+					<category term="2011 Study Events" scheme="https://scioly.org/forums/viewforum.php?f=93" label="2011 Study Events"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=93"><![CDATA[
+<p>Statistics: Total topics <strong>15</strong> — Total posts <strong>5333</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2011-08-28T16:38:36-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=99</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=99"/>
+		<title type="html"><![CDATA[2011 Invitationals, Regionals, and States]]></title>
+
+					<category term="2011 Invitationals, Regionals, and States" scheme="https://scioly.org/forums/viewforum.php?f=99" label="2011 Invitationals, Regionals, and States"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=99"><![CDATA[
+<p>Statistics: Total topics <strong>53</strong> — Total posts <strong>4938</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2011-08-23T08:18:56-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=100</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=100"/>
+		<title type="html"><![CDATA[2011 Nationals]]></title>
+
+					<category term="2011 Nationals" scheme="https://scioly.org/forums/viewforum.php?f=100" label="2011 Nationals"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=100"><![CDATA[
+<p>Statistics: Total topics <strong>23</strong> — Total posts <strong>1790</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated></updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=118</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=118"/>
+		<title type="html"><![CDATA[2012]]></title>
+
+					<category term="2012" scheme="https://scioly.org/forums/viewforum.php?f=118" label="2012"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=118"><![CDATA[
+<p>Statistics: Total topics <strong>0</strong> — Total posts <strong>0</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2012-08-29T13:08:36-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=119</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=119"/>
+		<title type="html"><![CDATA[2012 Build Events]]></title>
+
+					<category term="2012 Build Events" scheme="https://scioly.org/forums/viewforum.php?f=119" label="2012 Build Events"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=119"><![CDATA[
+<p>Statistics: Total topics <strong>13</strong> — Total posts <strong>2287</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2012-08-28T15:57:36-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=124</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=124"/>
+		<title type="html"><![CDATA[Helicopters C]]></title>
+
+					<category term="Helicopters C" scheme="https://scioly.org/forums/viewforum.php?f=124" label="Helicopters C"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=124"><![CDATA[
+<p>Statistics: Total topics <strong>20</strong> — Total posts <strong>1035</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2012-06-14T07:58:15-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=122</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=122"/>
+		<title type="html"><![CDATA[Mission Possible B]]></title>
+
+					<category term="Mission Possible B" scheme="https://scioly.org/forums/viewforum.php?f=122" label="Mission Possible B"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=122"><![CDATA[
+<p>Statistics: Total topics <strong>14</strong> — Total posts <strong>610</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2012-08-26T19:14:28-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=123</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=123"/>
+		<title type="html"><![CDATA[Towers B/C]]></title>
+
+					<category term="Towers B/C" scheme="https://scioly.org/forums/viewforum.php?f=123" label="Towers B/C"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=123"><![CDATA[
+<p>Statistics: Total topics <strong>21</strong> — Total posts <strong>1047</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2012-08-22T18:11:17-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=127</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=127"/>
+		<title type="html"><![CDATA[2012 Lab Events]]></title>
+
+					<category term="2012 Lab Events" scheme="https://scioly.org/forums/viewforum.php?f=127" label="2012 Lab Events"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=127"><![CDATA[
+<p>Statistics: Total topics <strong>16</strong> — Total posts <strong>3084</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2012-08-22T15:12:33-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=121</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=121"/>
+		<title type="html"><![CDATA[2012 Study Events]]></title>
+
+					<category term="2012 Study Events" scheme="https://scioly.org/forums/viewforum.php?f=121" label="2012 Study Events"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=121"><![CDATA[
+<p>Statistics: Total topics <strong>24</strong> — Total posts <strong>5749</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2012-08-17T08:45:26-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=126</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=126"/>
+		<title type="html"><![CDATA[2012 Nationals]]></title>
+
+					<category term="2012 Nationals" scheme="https://scioly.org/forums/viewforum.php?f=126" label="2012 Nationals"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=126"><![CDATA[
+<p>Statistics: Total topics <strong>20</strong> — Total posts <strong>1140</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated></updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=141</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=141"/>
+		<title type="html"><![CDATA[2013]]></title>
+
+					<category term="2013" scheme="https://scioly.org/forums/viewforum.php?f=141" label="2013"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=141"><![CDATA[
+<p>Statistics: Total topics <strong>0</strong> — Total posts <strong>0</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2013-08-25T20:18:13-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=143</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=143"/>
+		<title type="html"><![CDATA[2013 Build Events]]></title>
+
+					<category term="2013 Build Events" scheme="https://scioly.org/forums/viewforum.php?f=143" label="2013 Build Events"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=143"><![CDATA[
+<p>Statistics: Total topics <strong>9</strong> — Total posts <strong>2429</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2013-06-16T17:44:49-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=146</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=146"/>
+		<title type="html"><![CDATA[Helicopters B]]></title>
+
+					<category term="Helicopters B" scheme="https://scioly.org/forums/viewforum.php?f=146" label="Helicopters B"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=146"><![CDATA[
+<p>Statistics: Total topics <strong>20</strong> — Total posts <strong>268</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2013-08-14T18:53:42-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=147</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=147"/>
+		<title type="html"><![CDATA[Boomilever B/C]]></title>
+
+					<category term="Boomilever B/C" scheme="https://scioly.org/forums/viewforum.php?f=147" label="Boomilever B/C"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=147"><![CDATA[
+<p>Statistics: Total topics <strong>9</strong> — Total posts <strong>1061</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2013-04-27T11:51:44-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=148</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=148"/>
+		<title type="html"><![CDATA[Mission Possible B]]></title>
+
+					<category term="Mission Possible B" scheme="https://scioly.org/forums/viewforum.php?f=148" label="Mission Possible B"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=148"><![CDATA[
+<p>Statistics: Total topics <strong>24</strong> — Total posts <strong>320</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2013-08-24T10:43:12-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=142</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=142"/>
+		<title type="html"><![CDATA[2013 Lab Events]]></title>
+
+					<category term="2013 Lab Events" scheme="https://scioly.org/forums/viewforum.php?f=142" label="2013 Lab Events"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=142"><![CDATA[
+<p>Statistics: Total topics <strong>11</strong> — Total posts <strong>1664</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2013-08-28T15:08:04-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=144</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=144"/>
+		<title type="html"><![CDATA[2013 Study Events]]></title>
+
+					<category term="2013 Study Events" scheme="https://scioly.org/forums/viewforum.php?f=144" label="2013 Study Events"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=144"><![CDATA[
+<p>Statistics: Total topics <strong>19</strong> — Total posts <strong>4505</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2013-08-28T19:00:57-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=149</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=149"/>
+		<title type="html"><![CDATA[2013 Invitationals, Regionals, and States]]></title>
+
+					<category term="2013 Invitationals, Regionals, and States" scheme="https://scioly.org/forums/viewforum.php?f=149" label="2013 Invitationals, Regionals, and States"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=149"><![CDATA[
+<p>Statistics: Total topics <strong>39</strong> — Total posts <strong>2919</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2013-07-01T22:37:54-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=150</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=150"/>
+		<title type="html"><![CDATA[2013 Nationals]]></title>
+
+					<category term="2013 Nationals" scheme="https://scioly.org/forums/viewforum.php?f=150" label="2013 Nationals"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=150"><![CDATA[
+<p>Statistics: Total topics <strong>13</strong> — Total posts <strong>824</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2013-07-31T12:23:22-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=151</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=151"/>
+		<title type="html"><![CDATA[2013 News]]></title>
+
+					<category term="2013 News" scheme="https://scioly.org/forums/viewforum.php?f=151" label="2013 News"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=151"><![CDATA[
+<p>Statistics: Total topics <strong>7</strong> — Total posts <strong>51</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated></updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=165</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=165"/>
+		<title type="html"><![CDATA[2014]]></title>
+
+					<category term="2014" scheme="https://scioly.org/forums/viewforum.php?f=165" label="2014"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=165"><![CDATA[
+<p>Statistics: Total topics <strong>0</strong> — Total posts <strong>0</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2014-08-19T08:52:21-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=168</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=168"/>
+		<title type="html"><![CDATA[2014 Build Events]]></title>
+
+					<category term="2014 Build Events" scheme="https://scioly.org/forums/viewforum.php?f=168" label="2014 Build Events"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=168"><![CDATA[
+<p>Statistics: Total topics <strong>14</strong> — Total posts <strong>2909</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2014-08-19T11:00:30-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=166</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=166"/>
+		<title type="html"><![CDATA[2014 Lab Events]]></title>
+
+					<category term="2014 Lab Events" scheme="https://scioly.org/forums/viewforum.php?f=166" label="2014 Lab Events"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=166"><![CDATA[
+<p>Statistics: Total topics <strong>13</strong> — Total posts <strong>795</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2014-08-21T17:17:59-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=167</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=167"/>
+		<title type="html"><![CDATA[2014 Study Events]]></title>
+
+					<category term="2014 Study Events" scheme="https://scioly.org/forums/viewforum.php?f=167" label="2014 Study Events"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=167"><![CDATA[
+<p>Statistics: Total topics <strong>17</strong> — Total posts <strong>1797</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2014-08-14T11:43:49-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=173</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=173"/>
+		<title type="html"><![CDATA[2014 Question Marathons]]></title>
+
+					<category term="2014 Question Marathons" scheme="https://scioly.org/forums/viewforum.php?f=173" label="2014 Question Marathons"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=173"><![CDATA[
+Test your knowledge of various Science Olympiad events<p>Statistics: Total topics <strong>16</strong> — Total posts <strong>2028</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2014-09-10T15:23:43-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=170</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=170"/>
+		<title type="html"><![CDATA[2014 Invitationals, Regionals, and States]]></title>
+
+					<category term="2014 Invitationals, Regionals, and States" scheme="https://scioly.org/forums/viewforum.php?f=170" label="2014 Invitationals, Regionals, and States"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=170"><![CDATA[
+<p>Statistics: Total topics <strong>41</strong> — Total posts <strong>1999</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2014-08-20T09:16:36-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=171</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=171"/>
+		<title type="html"><![CDATA[2014 Nationals]]></title>
+
+					<category term="2014 Nationals" scheme="https://scioly.org/forums/viewforum.php?f=171" label="2014 Nationals"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=171"><![CDATA[
+<p>Statistics: Total topics <strong>17</strong> — Total posts <strong>751</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2014-08-19T19:27:45-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=172</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=172"/>
+		<title type="html"><![CDATA[2014 News]]></title>
+
+					<category term="2014 News" scheme="https://scioly.org/forums/viewforum.php?f=172" label="2014 News"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=172"><![CDATA[
+<p>Statistics: Total topics <strong>2</strong> — Total posts <strong>22</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated></updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=185</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=185"/>
+		<title type="html"><![CDATA[2015]]></title>
+
+					<category term="2015" scheme="https://scioly.org/forums/viewforum.php?f=185" label="2015"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=185"><![CDATA[
+<p>Statistics: Total topics <strong>0</strong> — Total posts <strong>0</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2015-08-25T21:15:36-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=188</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=188"/>
+		<title type="html"><![CDATA[2015 Build Events]]></title>
+
+					<category term="2015 Build Events" scheme="https://scioly.org/forums/viewforum.php?f=188" label="2015 Build Events"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=188"><![CDATA[
+<p>Statistics: Total topics <strong>9</strong> — Total posts <strong>1567</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2015-05-26T18:45:28-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=189</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=189"/>
+		<title type="html"><![CDATA[Bridge Building B/C]]></title>
+
+					<category term="Bridge Building B/C" scheme="https://scioly.org/forums/viewforum.php?f=189" label="Bridge Building B/C"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=189"><![CDATA[
+<p>Statistics: Total topics <strong>23</strong> — Total posts <strong>587</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2015-05-27T15:47:05-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=190</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=190"/>
+		<title type="html"><![CDATA[Mission Possible C]]></title>
+
+					<category term="Mission Possible C" scheme="https://scioly.org/forums/viewforum.php?f=190" label="Mission Possible C"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=190"><![CDATA[
+<p>Statistics: Total topics <strong>9</strong> — Total posts <strong>366</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2015-08-27T15:16:53-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=191</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=191"/>
+		<title type="html"><![CDATA[Wright Stuff C]]></title>
+
+					<category term="Wright Stuff C" scheme="https://scioly.org/forums/viewforum.php?f=191" label="Wright Stuff C"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=191"><![CDATA[
+<p>Statistics: Total topics <strong>19</strong> — Total posts <strong>563</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2015-08-25T20:54:37-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=186</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=186"/>
+		<title type="html"><![CDATA[2015 Lab Events]]></title>
+
+					<category term="2015 Lab Events" scheme="https://scioly.org/forums/viewforum.php?f=186" label="2015 Lab Events"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=186"><![CDATA[
+<p>Statistics: Total topics <strong>17</strong> — Total posts <strong>940</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2015-08-29T17:13:58-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=187</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=187"/>
+		<title type="html"><![CDATA[2015 Study Events]]></title>
+
+					<category term="2015 Study Events" scheme="https://scioly.org/forums/viewforum.php?f=187" label="2015 Study Events"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=187"><![CDATA[
+<p>Statistics: Total topics <strong>14</strong> — Total posts <strong>1305</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2015-08-30T14:23:38-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=193</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=193"/>
+		<title type="html"><![CDATA[2015 Question Marathons]]></title>
+
+					<category term="2015 Question Marathons" scheme="https://scioly.org/forums/viewforum.php?f=193" label="2015 Question Marathons"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=193"><![CDATA[
+<p>Statistics: Total topics <strong>27</strong> — Total posts <strong>2003</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2015-08-30T17:59:23-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=195</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=195"/>
+		<title type="html"><![CDATA[2015 Invitationals, Regionals, and States]]></title>
+
+					<category term="2015 Invitationals, Regionals, and States" scheme="https://scioly.org/forums/viewforum.php?f=195" label="2015 Invitationals, Regionals, and States"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=195"><![CDATA[
+<p>Statistics: Total topics <strong>36</strong> — Total posts <strong>1415</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2015-06-16T18:17:30-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=200</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=200"/>
+		<title type="html"><![CDATA[2015 Competition Advertising]]></title>
+
+					<category term="2015 Competition Advertising" scheme="https://scioly.org/forums/viewforum.php?f=200" label="2015 Competition Advertising"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=200"><![CDATA[
+Area to advertise for your competitions!<p>Statistics: Total topics <strong>13</strong> — Total posts <strong>144</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2015-08-22T10:45:40-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=196</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=196"/>
+		<title type="html"><![CDATA[2015 Nationals]]></title>
+
+					<category term="2015 Nationals" scheme="https://scioly.org/forums/viewforum.php?f=196" label="2015 Nationals"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=196"><![CDATA[
+<p>Statistics: Total topics <strong>12</strong> — Total posts <strong>745</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2015-08-15T17:43:17-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=194</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=194"/>
+		<title type="html"><![CDATA[2015 News]]></title>
+
+					<category term="2015 News" scheme="https://scioly.org/forums/viewforum.php?f=194" label="2015 News"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=194"><![CDATA[
+<p>Statistics: Total topics <strong>2</strong> — Total posts <strong>46</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated></updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=213</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=213"/>
+		<title type="html"><![CDATA[2016]]></title>
+
+					<category term="2016" scheme="https://scioly.org/forums/viewforum.php?f=213" label="2016"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=213"><![CDATA[
+<p>Statistics: Total topics <strong>0</strong> — Total posts <strong>0</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2016-06-30T07:16:54-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=206</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=206"/>
+		<title type="html"><![CDATA[2016 Build Events]]></title>
+
+					<category term="2016 Build Events" scheme="https://scioly.org/forums/viewforum.php?f=206" label="2016 Build Events"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=206"><![CDATA[
+<p>Statistics: Total topics <strong>4</strong> — Total posts <strong>317</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2016-07-25T22:29:43-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=221</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=221"/>
+		<title type="html"><![CDATA[Air Trajectory B/C]]></title>
+
+					<category term="Air Trajectory B/C" scheme="https://scioly.org/forums/viewforum.php?f=221" label="Air Trajectory B/C"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=221"><![CDATA[
+<p>Statistics: Total topics <strong>13</strong> — Total posts <strong>431</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2016-08-12T07:44:34-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=209</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=209"/>
+		<title type="html"><![CDATA[Bridge Building B/C]]></title>
+
+					<category term="Bridge Building B/C" scheme="https://scioly.org/forums/viewforum.php?f=209" label="Bridge Building B/C"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=209"><![CDATA[
+<p>Statistics: Total topics <strong>22</strong> — Total posts <strong>406</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2016-05-02T14:32:54-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=211</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=211"/>
+		<title type="html"><![CDATA[Elastic Launch Glider B]]></title>
+
+					<category term="Elastic Launch Glider B" scheme="https://scioly.org/forums/viewforum.php?f=211" label="Elastic Launch Glider B"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=211"><![CDATA[
+<p>Statistics: Total topics <strong>13</strong> — Total posts <strong>98</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2016-09-05T10:40:45-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=222</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=222"/>
+		<title type="html"><![CDATA[Electric Vehicle C]]></title>
+
+					<category term="Electric Vehicle C" scheme="https://scioly.org/forums/viewforum.php?f=222" label="Electric Vehicle C"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=222"><![CDATA[
+<p>Statistics: Total topics <strong>24</strong> — Total posts <strong>533</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2016-08-01T08:22:01-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=210</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=210"/>
+		<title type="html"><![CDATA[Mission Possible B]]></title>
+
+					<category term="Mission Possible B" scheme="https://scioly.org/forums/viewforum.php?f=210" label="Mission Possible B"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=210"><![CDATA[
+<p>Statistics: Total topics <strong>33</strong> — Total posts <strong>206</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2016-09-04T13:05:45-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=223</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=223"/>
+		<title type="html"><![CDATA[Robot Arm C]]></title>
+
+					<category term="Robot Arm C" scheme="https://scioly.org/forums/viewforum.php?f=223" label="Robot Arm C"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=223"><![CDATA[
+<p>Statistics: Total topics <strong>13</strong> — Total posts <strong>416</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2016-08-12T03:41:01-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=212</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=212"/>
+		<title type="html"><![CDATA[Wright Stuff C]]></title>
+
+					<category term="Wright Stuff C" scheme="https://scioly.org/forums/viewforum.php?f=212" label="Wright Stuff C"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=212"><![CDATA[
+<p>Statistics: Total topics <strong>51</strong> — Total posts <strong>335</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2016-08-27T13:06:48-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=207</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=207"/>
+		<title type="html"><![CDATA[2016 Lab Events]]></title>
+
+					<category term="2016 Lab Events" scheme="https://scioly.org/forums/viewforum.php?f=207" label="2016 Lab Events"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=207"><![CDATA[
+<p>Statistics: Total topics <strong>14</strong> — Total posts <strong>695</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2016-08-28T15:39:55-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=219</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=219"/>
+		<title type="html"><![CDATA[Wind Power B/C]]></title>
+
+					<category term="Wind Power B/C" scheme="https://scioly.org/forums/viewforum.php?f=219" label="Wind Power B/C"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=219"><![CDATA[
+<p>Statistics: Total topics <strong>7</strong> — Total posts <strong>402</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2016-09-05T11:11:46-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=208</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=208"/>
+		<title type="html"><![CDATA[2016 Study Events]]></title>
+
+					<category term="2016 Study Events" scheme="https://scioly.org/forums/viewforum.php?f=208" label="2016 Study Events"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=208"><![CDATA[
+<p>Statistics: Total topics <strong>14</strong> — Total posts <strong>1418</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2016-09-05T17:50:45-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=217</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=217"/>
+		<title type="html"><![CDATA[2016 Question Marathons]]></title>
+
+					<category term="2016 Question Marathons" scheme="https://scioly.org/forums/viewforum.php?f=217" label="2016 Question Marathons"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=217"><![CDATA[
+Test your knowledge of various Science Olympiad events.<p>Statistics: Total topics <strong>27</strong> — Total posts <strong>1815</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2016-09-05T08:03:12-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=214</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=214"/>
+		<title type="html"><![CDATA[2016 Invitationals, Regionals, and States]]></title>
+
+					<category term="2016 Invitationals, Regionals, and States" scheme="https://scioly.org/forums/viewforum.php?f=214" label="2016 Invitationals, Regionals, and States"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=214"><![CDATA[
+<p>Statistics: Total topics <strong>31</strong> — Total posts <strong>1602</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2016-09-04T17:20:23-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=218</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=218"/>
+		<title type="html"><![CDATA[2016 Competition Advertising]]></title>
+
+					<category term="2016 Competition Advertising" scheme="https://scioly.org/forums/viewforum.php?f=218" label="2016 Competition Advertising"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=218"><![CDATA[
+Area to advertise for your competitions!<p>Statistics: Total topics <strong>24</strong> — Total posts <strong>89</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2017-03-14T12:09:22-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=215</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=215"/>
+		<title type="html"><![CDATA[2016 Nationals]]></title>
+
+					<category term="2016 Nationals" scheme="https://scioly.org/forums/viewforum.php?f=215" label="2016 Nationals"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=215"><![CDATA[
+<p>Statistics: Total topics <strong>12</strong> — Total posts <strong>722</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2016-07-18T09:15:12-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=216</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=216"/>
+		<title type="html"><![CDATA[2016 News]]></title>
+
+					<category term="2016 News" scheme="https://scioly.org/forums/viewforum.php?f=216" label="2016 News"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=216"><![CDATA[
+<p>Statistics: Total topics <strong>3</strong> — Total posts <strong>11</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated></updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=224</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=224"/>
+		<title type="html"><![CDATA[2017]]></title>
+
+					<category term="2017" scheme="https://scioly.org/forums/viewforum.php?f=224" label="2017"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=224"><![CDATA[
+<p>Statistics: Total topics <strong>0</strong> — Total posts <strong>0</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2017-08-14T19:13:54-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=225</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=225"/>
+		<title type="html"><![CDATA[2017 Build Events]]></title>
+
+					<category term="2017 Build Events" scheme="https://scioly.org/forums/viewforum.php?f=225" label="2017 Build Events"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=225"><![CDATA[
+<p>Statistics: Total topics <strong>5</strong> — Total posts <strong>39</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2017-05-23T16:36:25-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=249</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=249"/>
+		<title type="html"><![CDATA[Bottle Rocket B]]></title>
+
+					<category term="Bottle Rocket B" scheme="https://scioly.org/forums/viewforum.php?f=249" label="Bottle Rocket B"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=249"><![CDATA[
+<p>Statistics: Total topics <strong>10</strong> — Total posts <strong>164</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2017-06-02T13:25:38-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=242</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=242"/>
+		<title type="html"><![CDATA[Electric Vehicle C]]></title>
+
+					<category term="Electric Vehicle C" scheme="https://scioly.org/forums/viewforum.php?f=242" label="Electric Vehicle C"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=242"><![CDATA[
+<p>Statistics: Total topics <strong>8</strong> — Total posts <strong>343</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2017-09-02T19:25:23-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=246</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=246"/>
+		<title type="html"><![CDATA[Helicopters C]]></title>
+
+					<category term="Helicopters C" scheme="https://scioly.org/forums/viewforum.php?f=246" label="Helicopters C"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=246"><![CDATA[
+<p>Statistics: Total topics <strong>8</strong> — Total posts <strong>338</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2017-05-24T14:28:12-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=247</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=247"/>
+		<title type="html"><![CDATA[Mission Possible B]]></title>
+
+					<category term="Mission Possible B" scheme="https://scioly.org/forums/viewforum.php?f=247" label="Mission Possible B"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=247"><![CDATA[
+<p>Statistics: Total topics <strong>33</strong> — Total posts <strong>175</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2017-06-01T19:17:47-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=244</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=244"/>
+		<title type="html"><![CDATA[Robot Arm C]]></title>
+
+					<category term="Robot Arm C" scheme="https://scioly.org/forums/viewforum.php?f=244" label="Robot Arm C"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=244"><![CDATA[
+<p>Statistics: Total topics <strong>10</strong> — Total posts <strong>268</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2017-08-04T06:20:15-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=248</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=248"/>
+		<title type="html"><![CDATA[Scrambler B]]></title>
+
+					<category term="Scrambler B" scheme="https://scioly.org/forums/viewforum.php?f=248" label="Scrambler B"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=248"><![CDATA[
+<p>Statistics: Total topics <strong>6</strong> — Total posts <strong>172</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2017-09-03T08:28:43-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=243</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=243"/>
+		<title type="html"><![CDATA[Towers B/C]]></title>
+
+					<category term="Towers B/C" scheme="https://scioly.org/forums/viewforum.php?f=243" label="Towers B/C"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=243"><![CDATA[
+<p>Statistics: Total topics <strong>36</strong> — Total posts <strong>1344</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2017-06-27T06:53:16-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=245</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=245"/>
+		<title type="html"><![CDATA[Wright Stuff B]]></title>
+
+					<category term="Wright Stuff B" scheme="https://scioly.org/forums/viewforum.php?f=245" label="Wright Stuff B"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=245"><![CDATA[
+<p>Statistics: Total topics <strong>34</strong> — Total posts <strong>541</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2017-08-23T20:54:41-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=226</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=226"/>
+		<title type="html"><![CDATA[2017 Lab Events]]></title>
+
+					<category term="2017 Lab Events" scheme="https://scioly.org/forums/viewforum.php?f=226" label="2017 Lab Events"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=226"><![CDATA[
+<p>Statistics: Total topics <strong>17</strong> — Total posts <strong>1954</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2017-09-03T18:09:13-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=227</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=227"/>
+		<title type="html"><![CDATA[2017 Study Events]]></title>
+
+					<category term="2017 Study Events" scheme="https://scioly.org/forums/viewforum.php?f=227" label="2017 Study Events"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=227"><![CDATA[
+<p>Statistics: Total topics <strong>13</strong> — Total posts <strong>1263</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2017-09-04T14:11:11-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=228</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=228"/>
+		<title type="html"><![CDATA[2017 Question Marathons]]></title>
+
+					<category term="2017 Question Marathons" scheme="https://scioly.org/forums/viewforum.php?f=228" label="2017 Question Marathons"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=228"><![CDATA[
+Test your knowledge of various Science Olympiad events.<p>Statistics: Total topics <strong>27</strong> — Total posts <strong>1595</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2017-09-04T20:55:49-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=229</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=229"/>
+		<title type="html"><![CDATA[2017 Invitationals, Regionals, and States]]></title>
+
+					<category term="2017 Invitationals, Regionals, and States" scheme="https://scioly.org/forums/viewforum.php?f=229" label="2017 Invitationals, Regionals, and States"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=229"><![CDATA[
+<p>Statistics: Total topics <strong>34</strong> — Total posts <strong>2373</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2017-09-02T15:02:31-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=230</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=230"/>
+		<title type="html"><![CDATA[2017 Competition Advertising]]></title>
+
+					<category term="2017 Competition Advertising" scheme="https://scioly.org/forums/viewforum.php?f=230" label="2017 Competition Advertising"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=230"><![CDATA[
+Area to advertise for your competitions!<p>Statistics: Total topics <strong>41</strong> — Total posts <strong>201</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2017-08-22T06:14:35-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=231</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=231"/>
+		<title type="html"><![CDATA[2017 Nationals]]></title>
+
+					<category term="2017 Nationals" scheme="https://scioly.org/forums/viewforum.php?f=231" label="2017 Nationals"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=231"><![CDATA[
+<p>Statistics: Total topics <strong>23</strong> — Total posts <strong>1017</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated></updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=236</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=236"/>
+		<title type="html"><![CDATA[2018]]></title>
+
+					<category term="2018" scheme="https://scioly.org/forums/viewforum.php?f=236" label="2018"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=236"><![CDATA[
+<p>Statistics: Total topics <strong>0</strong> — Total posts <strong>0</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2018-05-06T08:45:17-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=263</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=263"/>
+		<title type="html"><![CDATA[2018 Build Events]]></title>
+
+					<category term="2018 Build Events" scheme="https://scioly.org/forums/viewforum.php?f=263" label="2018 Build Events"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=263"><![CDATA[
+<p>Statistics: Total topics <strong>3</strong> — Total posts <strong>34</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2018-06-11T16:42:08-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=271</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=271"/>
+		<title type="html"><![CDATA[Battery Buggy B]]></title>
+
+					<category term="Battery Buggy B" scheme="https://scioly.org/forums/viewforum.php?f=271" label="Battery Buggy B"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=271"><![CDATA[
+<p>Statistics: Total topics <strong>39</strong> — Total posts <strong>759</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2018-06-05T08:45:09-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=272</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=272"/>
+		<title type="html"><![CDATA[Helicopters C]]></title>
+
+					<category term="Helicopters C" scheme="https://scioly.org/forums/viewforum.php?f=272" label="Helicopters C"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=272"><![CDATA[
+<p>Statistics: Total topics <strong>12</strong> — Total posts <strong>543</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2018-06-01T18:50:45-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=273</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=273"/>
+		<title type="html"><![CDATA[Mission Possible C]]></title>
+
+					<category term="Mission Possible C" scheme="https://scioly.org/forums/viewforum.php?f=273" label="Mission Possible C"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=273"><![CDATA[
+<p>Statistics: Total topics <strong>25</strong> — Total posts <strong>1203</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2018-06-23T11:07:10-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=274</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=274"/>
+		<title type="html"><![CDATA[Mousetrap Vehicle C]]></title>
+
+					<category term="Mousetrap Vehicle C" scheme="https://scioly.org/forums/viewforum.php?f=274" label="Mousetrap Vehicle C"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=274"><![CDATA[
+<p>Statistics: Total topics <strong>17</strong> — Total posts <strong>788</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2018-09-02T14:21:05-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=275</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=275"/>
+		<title type="html"><![CDATA[Roller Coaster B]]></title>
+
+					<category term="Roller Coaster B" scheme="https://scioly.org/forums/viewforum.php?f=275" label="Roller Coaster B"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=275"><![CDATA[
+<p>Statistics: Total topics <strong>28</strong> — Total posts <strong>444</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2018-09-02T10:11:01-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=276</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=276"/>
+		<title type="html"><![CDATA[Towers B/C]]></title>
+
+					<category term="Towers B/C" scheme="https://scioly.org/forums/viewforum.php?f=276" label="Towers B/C"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=276"><![CDATA[
+<p>Statistics: Total topics <strong>52</strong> — Total posts <strong>1265</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2018-08-30T20:24:20-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=277</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=277"/>
+		<title type="html"><![CDATA[Wright Stuff B]]></title>
+
+					<category term="Wright Stuff B" scheme="https://scioly.org/forums/viewforum.php?f=277" label="Wright Stuff B"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=277"><![CDATA[
+<p>Statistics: Total topics <strong>47</strong> — Total posts <strong>394</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2018-09-02T19:56:49-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=264</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=264"/>
+		<title type="html"><![CDATA[2018 Lab Events]]></title>
+
+					<category term="2018 Lab Events" scheme="https://scioly.org/forums/viewforum.php?f=264" label="2018 Lab Events"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=264"><![CDATA[
+<p>Statistics: Total topics <strong>19</strong> — Total posts <strong>2560</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2018-09-01T08:58:09-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=265</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=265"/>
+		<title type="html"><![CDATA[2018 Study Events]]></title>
+
+					<category term="2018 Study Events" scheme="https://scioly.org/forums/viewforum.php?f=265" label="2018 Study Events"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=265"><![CDATA[
+<p>Statistics: Total topics <strong>16</strong> — Total posts <strong>2051</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2018-08-30T19:18:09-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=266</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=266"/>
+		<title type="html"><![CDATA[2018 Question Marathons]]></title>
+
+					<category term="2018 Question Marathons" scheme="https://scioly.org/forums/viewforum.php?f=266" label="2018 Question Marathons"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=266"><![CDATA[
+Test your knowledge of various Science Olympiad events.<p>Statistics: Total topics <strong>25</strong> — Total posts <strong>2279</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2018-07-07T10:29:08-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=267</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=267"/>
+		<title type="html"><![CDATA[2018 Invitationals]]></title>
+
+					<category term="2018 Invitationals" scheme="https://scioly.org/forums/viewforum.php?f=267" label="2018 Invitationals"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=267"><![CDATA[
+Area to advertise for your competitions!<p>Statistics: Total topics <strong>39</strong> — Total posts <strong>980</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2018-09-03T18:40:47-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=268</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=268"/>
+		<title type="html"><![CDATA[2018 Regionals &amp; States]]></title>
+
+					<category term="2018 Regionals &amp; States" scheme="https://scioly.org/forums/viewforum.php?f=268" label="2018 Regionals &amp; States"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=268"><![CDATA[
+<p>Statistics: Total topics <strong>27</strong> — Total posts <strong>2815</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2018-07-15T20:04:26-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=269</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=269"/>
+		<title type="html"><![CDATA[2018 Nationals]]></title>
+
+					<category term="2018 Nationals" scheme="https://scioly.org/forums/viewforum.php?f=269" label="2018 Nationals"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=269"><![CDATA[
+<p>Statistics: Total topics <strong>33</strong> — Total posts <strong>1466</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated></updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=262</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=262"/>
+		<title type="html"><![CDATA[2019]]></title>
+
+					<category term="2019" scheme="https://scioly.org/forums/viewforum.php?f=262" label="2019"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=262"><![CDATA[
+<p>Statistics: Total topics <strong>0</strong> — Total posts <strong>0</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2019-07-08T16:29:22-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=326</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=326"/>
+		<title type="html"><![CDATA[2019 Build Events]]></title>
+
+					<category term="2019 Build Events" scheme="https://scioly.org/forums/viewforum.php?f=326" label="2019 Build Events"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=326"><![CDATA[
+<p>Statistics: Total topics <strong>2</strong> — Total posts <strong>28</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2019-06-04T15:44:01-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=287</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=287"/>
+		<title type="html"><![CDATA[Battery Buggy B]]></title>
+
+					<category term="Battery Buggy B" scheme="https://scioly.org/forums/viewforum.php?f=287" label="Battery Buggy B"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=287"><![CDATA[
+<p>Statistics: Total topics <strong>41</strong> — Total posts <strong>557</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2019-08-31T14:08:22-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=290</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=290"/>
+		<title type="html"><![CDATA[Boomilever B/C]]></title>
+
+					<category term="Boomilever B/C" scheme="https://scioly.org/forums/viewforum.php?f=290" label="Boomilever B/C"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=290"><![CDATA[
+<p>Statistics: Total topics <strong>45</strong> — Total posts <strong>915</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2019-08-12T14:42:34-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=288</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=288"/>
+		<title type="html"><![CDATA[Elastic Launched Gliders B]]></title>
+
+					<category term="Elastic Launched Gliders B" scheme="https://scioly.org/forums/viewforum.php?f=288" label="Elastic Launched Gliders B"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=288"><![CDATA[
+<p>Statistics: Total topics <strong>13</strong> — Total posts <strong>311</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2019-06-27T03:44:56-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=291</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=291"/>
+		<title type="html"><![CDATA[Mission Possible C]]></title>
+
+					<category term="Mission Possible C" scheme="https://scioly.org/forums/viewforum.php?f=291" label="Mission Possible C"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=291"><![CDATA[
+<p>Statistics: Total topics <strong>24</strong> — Total posts <strong>776</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2019-06-26T18:56:20-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=292</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=292"/>
+		<title type="html"><![CDATA[Mousetrap Vehicle C]]></title>
+
+					<category term="Mousetrap Vehicle C" scheme="https://scioly.org/forums/viewforum.php?f=292" label="Mousetrap Vehicle C"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=292"><![CDATA[
+<p>Statistics: Total topics <strong>39</strong> — Total posts <strong>724</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2019-06-10T06:51:07-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=286</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=286"/>
+		<title type="html"><![CDATA[Roller Coaster B]]></title>
+
+					<category term="Roller Coaster B" scheme="https://scioly.org/forums/viewforum.php?f=286" label="Roller Coaster B"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=286"><![CDATA[
+<p>Statistics: Total topics <strong>18</strong> — Total posts <strong>241</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2019-09-02T18:49:30-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=299</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=299"/>
+		<title type="html"><![CDATA[Wright Stuff C]]></title>
+
+					<category term="Wright Stuff C" scheme="https://scioly.org/forums/viewforum.php?f=299" label="Wright Stuff C"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=299"><![CDATA[
+<p>Statistics: Total topics <strong>38</strong> — Total posts <strong>1391</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2019-09-02T19:57:22-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=327</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=327"/>
+		<title type="html"><![CDATA[2019 Lab Events]]></title>
+
+					<category term="2019 Lab Events" scheme="https://scioly.org/forums/viewforum.php?f=327" label="2019 Lab Events"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=327"><![CDATA[
+<p>Statistics: Total topics <strong>15</strong> — Total posts <strong>1568</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2019-05-09T13:59:53-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=293</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=293"/>
+		<title type="html"><![CDATA[Thermodynamics B/C]]></title>
+
+					<category term="Thermodynamics B/C" scheme="https://scioly.org/forums/viewforum.php?f=293" label="Thermodynamics B/C"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=293"><![CDATA[
+<p>Statistics: Total topics <strong>11</strong> — Total posts <strong>452</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2019-09-02T20:01:39-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=328</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=328"/>
+		<title type="html"><![CDATA[2019 Study Events]]></title>
+
+					<category term="2019 Study Events" scheme="https://scioly.org/forums/viewforum.php?f=328" label="2019 Study Events"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=328"><![CDATA[
+<p>Statistics: Total topics <strong>15</strong> — Total posts <strong>1986</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2019-08-27T10:43:17-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=329</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=329"/>
+		<title type="html"><![CDATA[2019 Question Marathons]]></title>
+
+					<category term="2019 Question Marathons" scheme="https://scioly.org/forums/viewforum.php?f=329" label="2019 Question Marathons"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=329"><![CDATA[
+<p>Statistics: Total topics <strong>26</strong> — Total posts <strong>2176</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2019-06-05T07:23:28-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=330</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=330"/>
+		<title type="html"><![CDATA[2019 Invitationals]]></title>
+
+					<category term="2019 Invitationals" scheme="https://scioly.org/forums/viewforum.php?f=330" label="2019 Invitationals"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=330"><![CDATA[
+<p>Statistics: Total topics <strong>50</strong> — Total posts <strong>1403</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2019-09-02T20:25:05-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=331</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=331"/>
+		<title type="html"><![CDATA[2019 Regionals &amp; States]]></title>
+
+					<category term="2019 Regionals &amp; States" scheme="https://scioly.org/forums/viewforum.php?f=331" label="2019 Regionals &amp; States"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=331"><![CDATA[
+<p>Statistics: Total topics <strong>36</strong> — Total posts <strong>3161</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated>2019-08-27T10:13:01-07:00 </updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=332</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=332"/>
+		<title type="html"><![CDATA[2019 Nationals]]></title>
+
+					<category term="2019 Nationals" scheme="https://scioly.org/forums/viewforum.php?f=332" label="2019 Nationals"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=332"><![CDATA[
+<p>Statistics: Total topics <strong>19</strong> — Total posts <strong>2207</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated></updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=341</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=341"/>
+		<title type="html"><![CDATA[Template: Visible, Topics/Replies Enabled, Increment Disabled]]></title>
+
+					<category term="Template: Visible, Topics/Replies Enabled, Increment Disabled" scheme="https://scioly.org/forums/viewforum.php?f=341" label="Template: Visible, Topics/Replies Enabled, Increment Disabled"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=341"><![CDATA[
+<p>Statistics: Total topics <strong>0</strong> — Total posts <strong>0</strong></p><hr />
+]]></content>
+	</entry>
+		<entry>
+		
+		<updated></updated>
+
+		
+		<id>https://scioly.org/forums/viewforum.php?f=342</id>
+		<link href="https://scioly.org/forums/viewforum.php?f=342"/>
+		<title type="html"><![CDATA[Template: Visible, Topics Approval, Replies Disabled, Increment Disabled (Polls)]]></title>
+
+					<category term="Template: Visible, Topics Approval, Replies Disabled, Increment Disabled (Polls)" scheme="https://scioly.org/forums/viewforum.php?f=342" label="Template: Visible, Topics Approval, Replies Disabled, Increment Disabled (Polls)"/>
+		
+		<content type="html" xml:base="https://scioly.org/forums/viewforum.php?f=342"><![CDATA[
+<p>Statistics: Total topics <strong>0</strong> — Total posts <strong>0</strong></p><hr />
+]]></content>
+	</entry>
+	</feed>

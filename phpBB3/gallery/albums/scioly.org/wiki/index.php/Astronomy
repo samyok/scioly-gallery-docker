@@ -1,0 +1,995 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Astronomy - Scioly.org</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Astronomy","wgTitle":"Astronomy","wgCurRevisionId":101852,"wgRevisionId":101852,"wgArticleId":4,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Event Pages","Study Event Pages","Astronomy","Earth and Space Science Events"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Astronomy","wgRelevantArticleId":4,"wgRequestId":"70dff979661f53b4881d8129","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":[]});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","site":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@1ltrs49",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/wiki/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/wiki/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/wiki/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.8"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/wiki/opensearch_desc.php" title="Scioly.org (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://scioly.org/wiki/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Scioly.org Atom feed" href="/wiki/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/wiki/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Astronomy rootpage-Astronomy skin-vector action-view"><meta property="og:title" content="Science Olympiad Student Center"/>
+<meta property="og:type" content="website"/>
+<meta property="og:url" content="https://scioly.org/"/>
+
+<meta property="og:image" content="http://scioly.org/src/img/logo/logo_square.png"/>
+<meta property="og:image:secure_url" content="https://scioly.org/src/img/logo/logo_square.png"/> 
+<meta property="og:image:type" content="image/png"/> 
+<meta property="og:image:width" content="500"/> 
+<meta property="og:image:height" content="500"/>
+
+<meta property="og:description" content="A resource by and for Science Olympiad students, coaches, and alumni nationwide."/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script type="text/javascript" src="/src/js/jquery.min.js"></script>
+<script type="text/javascript" src="/src/js/main.js"></script>
+
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+<link rel="stylesheet" type="text/css" href="/src/css/main.css">
+
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<link rel="icon" href="/favicon.ico" type="image/x-icon"><div class="site-nav">
+	<a href="/">
+		<img src="/src/img/logo/logo.png">
+	</a>
+	<div class="hamburger" onclick="hamburger(this)">
+		<div>
+			<div></div>
+			<div></div>
+			<div></div>
+		</div>
+	</div>
+	<ul>
+		<li><a href="/forums">Forums</a></li>
+		<li><a href="/wiki">Wiki</a></li>
+		<li><a href="/tests">Test Exchange</a></li>
+		<!-- <li><a href="/gallery">Image Gallery</a></li> -->
+		<!-- <li><a href="/invitational">Invites</a></li> -->
+		<li><a href="/chat">Chat</a></li>
+		<li><a href="/login" class="button">Login</a></li>
+	</ul>
+</div>
+<img class="print-only" src="/src/img/logo/logo_black.png" style="max-width: 150px;"><link rel="stylesheet" type="text/css" href="/src/css/wiki.css">
+<div id="wrap-me-up">
+
+
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Astronomy</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Scioly.org</div>				<div id="contentSub"></div>
+								<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><dl><dd><i>This article is about the Astronomy event in general.&#32;&#32;For information on topics for specific years, see <a href="/wiki/index.php/Astronomy#Topics" title="Astronomy">Astronomy#Topics</a>.</i></dd></dl>
+<table align="right" class="infobox">
+
+<tbody><tr>
+<th colspan="2" style="font-size: larger; text-align: center;"><b>Astronomy</b>
+</th></tr>
+<tr>
+<td colspan="2"><center><i>This event is an event held in the current season.</i></center>
+</td></tr>
+<tr>
+<td colspan="2"><hr />
+</td></tr>
+<tr>
+<td><b>Type</b>
+</td>
+<td>Earth Science
+</td></tr>
+<tr>
+<td><b>Category</b>
+</td>
+<td>Study
+</td></tr>
+<tr>
+<td colspan="2" class="infobox-header"><b>Event Information</b>
+</td></tr>
+
+
+
+
+
+
+
+<tr>
+<td><b>Latest Appearance</b>
+</td>
+<td>2020
+</td></tr>
+<tr>
+<td colspan="2" class="infobox-header"><b>Forum Threads</b>
+</td></tr>
+
+<tr>
+<td colspan="2" style="padding: 0;">
+<table class="infobox-events-link-table">
+
+<tbody><tr>
+<td><a rel="nofollow" class="external text" href="https://scioly.org/forums/viewtopic.php?f=285&amp;t=15378">2020</a>
+</td>
+<td><a rel="nofollow" class="external text" href="https://scioly.org/forums/viewtopic.php?f=285&amp;t=12226">2019</a>
+</td>
+<td><a rel="nofollow" class="external text" href="https://scioly.org/forums/viewtopic.php?f=265&amp;t=10853">2018</a>
+</td>
+<td><a rel="nofollow" class="external text" href="http://scioly.org/phpBB3/viewtopic.php?f=227&amp;t=9297">2017</a>
+</td>
+<td><a rel="nofollow" class="external text" href="http://scioly.org/phpBB3/viewtopic.php?f=208&amp;t=7697">2016</a>
+</td></tr>
+</tbody></table>
+</td></tr>
+<tr>
+<td colspan="2" style="padding: 0;">
+<table class="infobox-events-link-table">
+
+<tbody><tr>
+<td><a rel="nofollow" class="external text" href="http://scioly.org/phpBB3/viewtopic.php?f=187&amp;t=5961">2015</a>
+</td>
+<td><a rel="nofollow" class="external text" href="http://www.scioly.org/phpBB3/viewtopic.php?f=167&amp;t=5001">2014</a>
+</td>
+<td><a rel="nofollow" class="external text" href="http://www.scioly.org/phpBB3/viewtopic.php?f=144&amp;t=3688">2013</a>
+</td>
+<td><a rel="nofollow" class="external text" href="http://scioly.org/phpBB3/viewtopic.php?f=121&amp;t=2965">2012</a>
+</td>
+<td><a rel="nofollow" class="external text" href="http://scioly.org/phpBB3/viewtopic.php?f=93&amp;t=2201">2011</a>
+</td></tr>
+</tbody></table>
+</td></tr>
+<tr>
+<td colspan="2" style="padding: 0;">
+<table class="infobox-events-link-table">
+
+<tbody><tr>
+<td><a rel="nofollow" class="external text" href="http://www.scioly.org/phpBB3/viewtopic.php?f=67&amp;t=1388">2010</a>
+</td>
+<td><a rel="nofollow" class="external text" href="http://www.scioly.org/phpBB3/viewtopic.php?f=17&amp;t=209">2009</a>
+</td>
+<td><span> </span>
+</td>
+<td><span> </span>
+</td>
+<td><span> </span>
+</td></tr>
+</tbody></table>
+</td></tr>
+<tr>
+<td colspan="2" class="infobox-header"><b>Forum Question Threads</b>
+</td></tr>
+
+<tr>
+<td colspan="2" style="padding: 0;">
+<table class="infobox-events-link-table">
+
+<tbody><tr>
+<td><a rel="nofollow" class="external text" href="https://scioly.org/forums/viewtopic.php?f=297&amp;t=15708">2020</a>
+</td>
+<td><a rel="nofollow" class="external text" href="https://scioly.org/forums/viewtopic.php?f=297&amp;t=12419">2019</a>
+</td>
+<td><a rel="nofollow" class="external text" href="https://scioly.org/forums/viewtopic.php?f=266&amp;t=10947">2018</a>
+</td>
+<td><a rel="nofollow" class="external text" href="http://scioly.org/phpBB3/viewtopic.php?f=228&amp;t=9654">2017</a>
+</td>
+<td><a rel="nofollow" class="external text" href="https://scioly.org/forums/viewtopic.php?f=217&amp;t=7980">2016</a>
+</td></tr>
+</tbody></table>
+</td></tr>
+<tr>
+<td colspan="2" style="padding: 0;">
+<table class="infobox-events-link-table">
+
+<tbody><tr>
+<td><a rel="nofollow" class="external text" href="http://scioly.org/phpBB3/viewtopic.php?f=193&amp;t=6527">2015</a>
+</td>
+<td><a rel="nofollow" class="external text" href="http://www.scioly.org/phpBB3/viewtopic.php?f=173&amp;t=5021">2014</a>
+</td>
+<td><span> </span>
+</td>
+<td><span> </span>
+</td>
+<td><span> </span>
+</td></tr>
+</tbody></table>
+</td></tr>
+
+<tr>
+<td colspan="2" class="infobox-header"><b>Official Resources</b>
+</td></tr>
+<tr>
+<td><b>Website</b>
+</td>
+<td><a rel="nofollow" class="external text" href="https://www.soinc.org/astronomy-c">soinc.org</a>
+</td></tr>
+
+
+
+
+<tr>
+<td colspan="2" class="infobox-header"><b>Division C Results</b>
+</td></tr>
+<tr>
+<td colspan="2" style="padding: 0;">
+<table class="infobox-scoreboard" style="margin: 0; padding: 0; width:100%;">
+
+
+<tbody><tr style="background-color: gold;">
+<td style="width: 10%; text-align: center;"><b>1st</b>
+</td>
+<td style="width: 90%; padding-left: 5px;"><b>New Trier High School</b>
+</td></tr>
+<tr style="background-color: silver;">
+<td style="width: 10%; text-align: center;">2nd
+</td>
+<td style="width: 90%; padding-left: 5px;">Carmel High School
+</td></tr>
+<tr style="background-color: #d1965c;">
+<td style="width: 10%; text-align: center;">3rd
+</td>
+<td style="width: 90%; padding-left: 5px;">Acton-Boxborough Regional High School
+</td></tr>
+</tbody></table>
+</td></tr>
+</tbody></table>
+<p>In <b>Astronomy</b>, teams answer questions on math and physics relating to the year's topic.  For <a href="/wiki/index.php/2019" title="2019">2019</a>, the topic of Astronomy is <a href="/wiki/index.php/Astronomy/Stellar_Evolution" title="Astronomy/Stellar Evolution">Stellar Evolution</a> and <a href="/wiki/index.php/Astronomy/Starburst_Galaxies" title="Astronomy/Starburst Galaxies">Starburst Galaxies</a>. Some questions pertain to specific objects on the year's <a href="/wiki/index.php/Astronomy/DSOs" title="Astronomy/DSOs">DSO list</a>.
+</p><p>Test questions in Astronomy frequently rely on a significant amount of background knowledge - hence, gathering information on topics tangentially related to the rules may be beneficial.
+</p><p>Prior to the <a href="/wiki/index.php/2004" title="2004">2004</a> season, this event was called <b>Reach for the Stars</b>. Although it had the same name as the <a href="/wiki/index.php/Division_B" title="Division B">Division B</a> event <a href="/wiki/index.php/Reach_for_the_Stars" title="Reach for the Stars">Reach for the Stars</a>, the content areas for the two events were similar to how they are today.
+</p><p><br />
+</p>
+<div id="toc" class="toc"><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Topics"><span class="tocnumber">1</span> <span class="toctext">Topics</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Deep_Sky_Objects"><span class="tocnumber">2</span> <span class="toctext">Deep Sky Objects</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Stellar_Life_Cycle"><span class="tocnumber">3</span> <span class="toctext">Stellar Life Cycle</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Supernovae"><span class="tocnumber">3.1</span> <span class="toctext">Supernovae</span></a>
+<ul>
+<li class="toclevel-3 tocsection-5"><a href="#Type_Ia_supernovae"><span class="tocnumber">3.1.1</span> <span class="toctext">Type Ia supernovae</span></a></li>
+<li class="toclevel-3 tocsection-6"><a href="#Type_II_supernovae"><span class="tocnumber">3.1.2</span> <span class="toctext">Type II supernovae</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Stellar_Classification"><span class="tocnumber">4</span> <span class="toctext">Stellar Classification</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Spectral_Class"><span class="tocnumber">4.1</span> <span class="toctext">Spectral Class</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Yerkes_Classification"><span class="tocnumber">4.2</span> <span class="toctext">Yerkes Classification</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#H-R_Diagram"><span class="tocnumber">4.3</span> <span class="toctext">H-R Diagram</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#Variable_Stars"><span class="tocnumber">5</span> <span class="toctext">Variable Stars</span></a>
+<ul>
+<li class="toclevel-2 tocsection-12"><a href="#Intrinsic_Variable_Stars"><span class="tocnumber">5.1</span> <span class="toctext">Intrinsic Variable Stars</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Extrinsic_Variable_Stars"><span class="tocnumber">5.2</span> <span class="toctext">Extrinsic Variable Stars</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-14"><a href="#Groups_of_Stars"><span class="tocnumber">6</span> <span class="toctext">Groups of Stars</span></a>
+<ul>
+<li class="toclevel-2 tocsection-15"><a href="#Stellar_Populations"><span class="tocnumber">6.1</span> <span class="toctext">Stellar Populations</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#Galaxies"><span class="tocnumber">6.2</span> <span class="toctext">Galaxies</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-17"><a href="#Math_and_Calculations"><span class="tocnumber">7</span> <span class="toctext">Math and Calculations</span></a>
+<ul>
+<li class="toclevel-2 tocsection-18"><a href="#Orbital_Motion"><span class="tocnumber">7.1</span> <span class="toctext">Orbital Motion</span></a>
+<ul>
+<li class="toclevel-3 tocsection-19"><a href="#Kepler.27s_Laws"><span class="tocnumber">7.1.1</span> <span class="toctext">Kepler's Laws</span></a></li>
+<li class="toclevel-3 tocsection-20"><a href="#Binary_Systems"><span class="tocnumber">7.1.2</span> <span class="toctext">Binary Systems</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-21"><a href="#Determining_Distances"><span class="tocnumber">7.2</span> <span class="toctext">Determining Distances</span></a>
+<ul>
+<li class="toclevel-3 tocsection-22"><a href="#Cepheids_and_RR_Lyrae"><span class="tocnumber">7.2.1</span> <span class="toctext">Cepheids and RR Lyrae</span></a></li>
+<li class="toclevel-3 tocsection-23"><a href="#Distance_Equations"><span class="tocnumber">7.2.2</span> <span class="toctext">Distance Equations</span></a>
+<ul>
+<li class="toclevel-4 tocsection-24"><a href="#Triangulation.2FParallax"><span class="tocnumber">7.2.2.1</span> <span class="toctext">Triangulation/Parallax</span></a></li>
+<li class="toclevel-4 tocsection-25"><a href="#Hubble.27s_Law"><span class="tocnumber">7.2.2.2</span> <span class="toctext">Hubble's Law</span></a></li>
+<li class="toclevel-4 tocsection-26"><a href="#Distance_Modulus"><span class="tocnumber">7.2.2.3</span> <span class="toctext">Distance Modulus</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-27"><a href="#Radiation_Laws"><span class="tocnumber">7.3</span> <span class="toctext">Radiation Laws</span></a></li>
+<li class="toclevel-2 tocsection-28"><a href="#Inverse_Square_Law"><span class="tocnumber">7.4</span> <span class="toctext">Inverse Square Law</span></a></li>
+<li class="toclevel-2 tocsection-29"><a href="#Other_Math"><span class="tocnumber">7.5</span> <span class="toctext">Other Math</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-30"><a href="#The_Competition"><span class="tocnumber">8</span> <span class="toctext">The Competition</span></a>
+<ul>
+<li class="toclevel-2 tocsection-31"><a href="#Laptop_or_Binder.3F"><span class="tocnumber">8.1</span> <span class="toctext">Laptop or Binder?</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-32"><a href="#Useful_Resources"><span class="tocnumber">9</span> <span class="toctext">Useful Resources</span></a></li>
+<li class="toclevel-1 tocsection-33"><a href="#External_Links"><span class="tocnumber">10</span> <span class="toctext">External Links</span></a></li>
+<li class="toclevel-1 tocsection-34"><a href="#See_Also"><span class="tocnumber">11</span> <span class="toctext">See Also</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Topics">Topics</span></h2>
+<p>Astronomy typically rotates between different topics each year.
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Season
+</th>
+<th>Topic
+</th></tr>
+<tr>
+<th><a href="/wiki/index.php/2020" title="2020">2020</a>
+</th>
+<td><a href="/wiki/index.php/Astronomy/Stellar_Evolution" title="Astronomy/Stellar Evolution">Star Formation and Evolution</a> and <a href="/wiki/index.php/Astronomy/Galaxies" title="Astronomy/Galaxies">Galaxy Formation and Evolution</a>
+</td></tr>
+<tr>
+<th><a href="/wiki/index.php/2019" title="2019">2019</a>
+</th>
+<td><a href="/wiki/index.php/Astronomy/Stellar_Evolution" title="Astronomy/Stellar Evolution">Stellar Evolution</a> and <a href="/wiki/index.php/Astronomy/Starburst_Galaxies" title="Astronomy/Starburst Galaxies">Starburst Galaxies</a>
+</td></tr>
+<tr>
+<th><a href="/wiki/index.php/2018" title="2018">2018</a>
+</th>
+<td><a href="/wiki/index.php/Astronomy/Stellar_Evolution" title="Astronomy/Stellar Evolution">Stellar Evolution</a> and <a href="/wiki/index.php/Astronomy/Type_II_Supernovae" title="Astronomy/Type II Supernovae">Type II Supernovae</a>
+</td></tr>
+<tr>
+<th><a href="/wiki/index.php/2017" title="2017">2017</a>
+</th>
+<td><a href="/wiki/index.php/Astronomy/Stellar_Evolution" title="Astronomy/Stellar Evolution">Stellar Evolution</a> and <a href="/wiki/index.php/Astronomy/Type_Ia_Supernovae" title="Astronomy/Type Ia Supernovae">Type Ia Supernovae</a>
+</td></tr>
+<tr>
+<th><a href="/wiki/index.php/2016" title="2016">2016</a>
+</th>
+<td><a href="/wiki/index.php/Astronomy/Stellar_Evolution" title="Astronomy/Stellar Evolution">Stellar Evolution</a> and <a href="/wiki/index.php/Astronomy/Exoplanets" title="Astronomy/Exoplanets">Exoplanets</a>
+</td></tr>
+<tr>
+<th><a href="/wiki/index.php/2015" title="2015">2015</a>
+</th>
+<td><a href="/wiki/index.php/Astronomy/Stellar_Evolution" title="Astronomy/Stellar Evolution">Stellar Evolution</a> and <a href="/wiki/index.php/Astronomy/Star_and_Planet_Formation" title="Astronomy/Star and Planet Formation">Star and Planet Formation</a>
+</td></tr>
+<tr>
+<th><a href="/wiki/index.php/2014" title="2014">2014</a>
+</th>
+<td><a href="/wiki/index.php/Astronomy/Stellar_Evolution" title="Astronomy/Stellar Evolution">Stellar Evolution</a> and <a href="/wiki/index.php/Astronomy/Variable_Stars" title="Astronomy/Variable Stars">Variable Stars</a>
+</td></tr>
+<tr>
+<th><a href="/wiki/index.php/2013" title="2013">2013</a>
+</th>
+<td><a href="/wiki/index.php/Astronomy/Stellar_Evolution" title="Astronomy/Stellar Evolution">Stellar Evolution</a> and <a href="/wiki/index.php/Astronomy/Type_II_Supernovae" title="Astronomy/Type II Supernovae">Type II Supernovae</a>
+</td></tr>
+<tr>
+<th><a href="/wiki/index.php/2012" title="2012">2012</a>
+</th>
+<td><a href="/wiki/index.php/Astronomy/Stellar_Evolution" title="Astronomy/Stellar Evolution">Stellar Evolution</a> and <a href="/wiki/index.php/Astronomy/Type_Ia_Supernovae" title="Astronomy/Type Ia Supernovae">Type Ia Supernovae</a>
+</td></tr>
+<tr>
+<th><a href="/wiki/index.php/2011" title="2011">2011</a>
+</th>
+<td><a href="/wiki/index.php/Astronomy/Active_Galaxies" title="Astronomy/Active Galaxies">Active Galaxies</a>
+</td></tr>
+<tr>
+<th><a href="/wiki/index.php/2010" title="2010">2010</a>
+</th>
+<td><a href="/wiki/index.php/Astronomy/Galaxies" title="Astronomy/Galaxies">Galaxies</a>
+</td></tr>
+<tr>
+<th><a href="/wiki/index.php/2009" title="2009">2009</a>
+</th>
+<td><a href="/wiki/index.php/Astronomy/Variable_Stars" title="Astronomy/Variable Stars">Variable Stars</a>
+</td></tr>
+<tr>
+<th><a href="/wiki/index.php/2008" title="2008">2008</a>
+</th>
+<td><a href="/wiki/index.php/Astronomy/Variable_Stars" title="Astronomy/Variable Stars">Variable Stars</a>
+</td></tr>
+<tr>
+<th><a href="/wiki/index.php/2007" title="2007">2007</a>
+</th>
+<td><a href="/wiki/index.php/Astronomy/Variable_Stars" title="Astronomy/Variable Stars">Variable Stars</a>
+</td></tr>
+</tbody></table>
+<h2><span class="mw-headline" id="Deep_Sky_Objects">Deep Sky Objects</span></h2>
+<p>In terms of this event, the <b>Deep Sky Objects</b> (DSOs) are objects selected before the year that relate in some way to the topic of the year. There are generally about 16 of them, and participants are expected to research the characteristics that make them unique and relevant. Other information is also necessary, including, but not limited to, constellation, alternate names, magnitude, type of star, stellar classification, right ascension/declination, color index, and images.
+</p><p>It is important to know as much as possible for DSOs, as they will almost always show up on a test. Some tests end up being almost completely on DSOs and their characteristics.
+</p><p>For lists of this year's and past years' DSOs, please see the <b><a href="/wiki/index.php/Astronomy/DSOs" title="Astronomy/DSOs">DSO list</a></b>.
+</p>
+<h2><span class="mw-headline" id="Stellar_Life_Cycle">Stellar Life Cycle</span></h2>
+<dl><dd><i>For information regarding stellar evolution, please see the <a href="/wiki/index.php/Astronomy/Stellar_Evolution" title="Astronomy/Stellar Evolution">Stellar Evolution</a> main page and the <a href="/wiki/index.php/Astronomy/Star_and_Planet_Formation" title="Astronomy/Star and Planet Formation">Star and Planet Formation</a> main page.</i></dd></dl>
+<h3><span class="mw-headline" id="Supernovae">Supernovae</span></h3>
+<dl><dd><i>For more information about supernovae, please see <a href="/wiki/index.php/Astronomy/Type_Ia_Supernovae" title="Astronomy/Type Ia Supernovae">Astronomy/Type Ia Supernovae</a> and <a href="/wiki/index.php/Astronomy/Type_II_Supernovae" title="Astronomy/Type II Supernovae">Astronomy/Type II Supernovae</a>.</i></dd></dl>
+<p>A supernova is where a star explodes, and, depending on the star's mass, leaves a neutron star or a black hole.
+</p>
+<h4><span class="mw-headline" id="Type_Ia_supernovae">Type Ia supernovae</span></h4>
+<p><b>Type Ia supernovae</b> are caused not by high-mass stars reaching the end of their lives, but by white dwarves that gain too much mass. They generally occur in binary systems in which a white dwarf pulls enough mass off of its companion to go supernova. This limit is 1.4 solar masses. When the white dwarf exceeds this limit, it blows itself up in a supernova that is significantly brighter than a Type II supernova. All Type Ia supernovae are of the same brightness, and this fact can be used to determine intergalactic distances.
+</p>
+<h4><span class="mw-headline" id="Type_II_supernovae">Type II supernovae</span></h4>
+<p>A <b>Type II supernova</b> is where a star of at least eight solar masses cannot fuse any more elements together to create energy. This happens when iron is created; no nuclear energy can be made from iron with fusion or fission. When this happens, the star blows itself apart. Heavy elements - elements with atomic numbers greater than 26 - are created in these supernovae. If the star's core has a mass of 1.4 to 3.2 solar masses, a <b>neutron star</b> is formed. Neutron stars are incredibly dense - a neutron star with a diameter of about 12 km has the same mass as the Sun. Some neutron stars rotate quickly enough to emit beams of radiation at the magnetic poles; these are called <b>pulsars</b>, as the beams appear to "pulse" at a constant rate. However, if the core has a mass greater than 3.2 solar masses, a <b>black hole</b> is formed. These are made of degenerate elementary particles and have infinite density. Their gravity is so great that at a certain distance, called the <b>event horizon</b>, not even light can escape. This is where they get the name "black" holes.
+</p>
+<h2><span class="mw-headline" id="Stellar_Classification">Stellar Classification</span></h2>
+<p>Stars are classified in many ways. The two most common methods are discussed here.
+</p>
+<h3><span class="mw-headline" id="Spectral_Class">Spectral Class</span></h3>
+<p>First, stars can be categorized through Spectral Class (Letters O, B, A, F, G, K and M, with O being the hottest and M being the coolest). Each of these classes have special properties, relating to temperature and spectra. A common mnemonic for spectral classification is "Oh Be A Fine Girl, Kiss Me". 
+</p>
+<table class="wikitable">
+<caption>Spectral Class Properties
+</caption>
+<tbody><tr>
+<th>Type
+</th>
+<th>Temperature (Kelvin)
+</th>
+<th>Color
+</th>
+<th>Hydrogen
+</th></tr>
+<tr>
+<th>O
+</th>
+<td>30,000-60,000
+</td>
+<td>Blue
+</td>
+<td>Weak
+</td></tr>
+<tr>
+<th>B
+</th>
+<td>10,000-30,000
+</td>
+<td>Blue-White
+</td>
+<td>Medium
+</td></tr>
+<tr>
+<th>A
+</th>
+<td>7,500-10,000
+</td>
+<td>White
+</td>
+<td>Strong
+</td></tr>
+<tr>
+<th>F
+</th>
+<td>6,000-7,500
+</td>
+<td>White
+</td>
+<td>Medium
+</td></tr>
+<tr>
+<th>G
+</th>
+<td>5,000-6,000
+</td>
+<td>Yellow
+</td>
+<td>Weak
+</td></tr>
+<tr>
+<th>K
+</th>
+<td>3,500-5,000
+</td>
+<td>Yellow-Orange
+</td>
+<td>Very Weak
+</td></tr>
+<tr>
+<th>M
+</th>
+<td>2,000-3,500
+</td>
+<td>Red
+</td>
+<td>Very Weak
+</td></tr>
+</tbody></table><p>.
+</p><h3><span class="mw-headline" id="Yerkes_Classification">Yerkes Classification</span></h3>
+<p>Further, stars can be classified into different luminosity classes. This is done by the Yerkes Classification system:
+</p>
+<table class="wikitable">
+<caption>Yerkes Classification
+</caption>
+<tbody><tr>
+<th>Designation
+</th>
+<th>Definition
+</th></tr>
+<tr>
+<td>0 or 1a
+</td>
+<td>Hypergiant/Extrememly Luminous Supergiant
+</td></tr>
+<tr>
+<td>1a
+</td>
+<td>Luminous Supergiants
+</td></tr>
+<tr>
+<td>1ab
+</td>
+<td>Intermediate luminous supergiants
+</td></tr>
+<tr>
+<td>1b
+</td>
+<td>Less luminous supergaints
+</td></tr>
+<tr>
+<td>II
+</td>
+<td>Bright giants
+</td></tr>
+<tr>
+<td>III
+</td>
+<td>Giants
+</td></tr>
+<tr>
+<td>IV
+</td>
+<td>Subgiants
+</td></tr>
+<tr>
+<td>V
+</td>
+<td>Main Sequence
+</td></tr>
+<tr>
+<td>D
+</td>
+<td>White dwarfs
+</td></tr>
+</tbody></table>
+<div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/wiki/index.php/File:Hertzsprung-Russell_diagram.jpg" class="image"><img alt="" src="/wiki/images/2/2c/Hertzsprung-Russell_diagram.jpg" width="350" height="357" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/index.php/File:Hertzsprung-Russell_diagram.jpg" class="internal" title="Enlarge"></a></div>The H-R Diagram</div></div></div>
+<p><br />
+</p>
+<h3><span class="mw-headline" id="H-R_Diagram">H-R Diagram</span></h3>
+<p>The <b>Hertzsprung-Russell</b> diagram relates the absolute magnitudes and luminosities of stars with their spectral types and temperatures. They are especially important in understanding <a href="/wiki/index.php/Astronomy/Stellar_Evolution" title="Astronomy/Stellar Evolution">stellar evolution</a>. Although some diagrams may have more characteristics labeled on them than others, including characteristics not listed above like Color Index, they all have basically the same shape. Here, a basic introduction to the diagram and its usefulness will be given.
+</p><p>First, the H-R Diagram reveals key relationships in characteristics of stars. The first and most apparent of these is in the <b>main sequence</b>, which contains all of the stars that form a band in the middle of the diagram. The vast majority of stars fall within this band, including the Sun. Also, giants are found in a group above the main sequence, and white dwarves have their own conglomerate on the lower-left part of the diagram. The fact that these stars occupy distinct sections shows how a star's age can change its physical properties.
+</p><p>Another use of the H-R Diagram is that it can predict the location of a new, previously unknown star based on certain observations. For example, say a new star was discovered that had a temperature of 10,000 K and was known to be part of the main sequence. By looking at the diagram, it can be predicted that the star will have a luminosity of between 100 to 1000 solar luminosities.
+</p><p>The axes of H-R diagrams relate the luminosity of the star (often in relation to the Sun), to the temperature of the star. Temperatures can be represented in degrees (Kelvin), through Spectral Class (Letters O, B, A, F, G, K and M), or both.
+</p>
+<h2><span class="mw-headline" id="Variable_Stars">Variable Stars</span></h2>
+<dl><dd><i>Main article: <a href="/wiki/index.php/Astronomy/Variable_Stars" title="Astronomy/Variable Stars">Astronomy/Variable Stars</a></i></dd></dl>
+<p>Variable stars are split into two categories, intrinsic variables and extrinsic variables. 
+</p>
+<h3><span class="mw-headline" id="Intrinsic_Variable_Stars">Intrinsic Variable Stars</span></h3>
+<p>These variables vary in brightness due to changes in the properties of the star itself. For example, pulsating variable stars expand and contract, increasing their radius and changing their luminosity. The most well known type of variables stars are:
+</p>
+<ul><li><b>Cepheid Variables</b> are stars that lie on the instability strip and have a fixed period-luminosity relationship. This relationship allows for the determining of distances to objects and galaxies. Additionally, Cepheid variables pulsate via the k-mechanism, where if the opacity of a star increases with temperature, more heat is trapped, causing the star to expand. However, as it expands, it becomes more transparent, releasing that heat, and decreasing in size once again.</li>
+<li><b>RR Lyrae Variables</b> are stars that are similar to Cepheid variables, but are older and have shorter periods than Cepheids.</li>
+<li><b>Mira Variables</b> are asymptotic giant branch red giants that have luminosity amplitudes of 2 to 11 magnitudes. The prototype of this type of star was Omicron Ceti, also known as Mira. The entirety of the star is expanding and contracting, causing the fluctuations in luminosity.</li></ul>
+<h3><span class="mw-headline" id="Extrinsic_Variable_Stars">Extrinsic Variable Stars</span></h3>
+<p>Extrinsic variable stars change in luminosity as a result of external changes. 
+</p>
+<ul><li><b>Rotating variable stars</b> vary in brightness due to its rotation, potentially causing sunspots to appear into view. These darker regions on the star reduce the luminosity, and thus appear to have variable luminosity.</li>
+<li><b>Eclipsing variable stars</b> are stars that vary in brightness due to our view being obscured by another object. Just as astronomers can detect the minute difference in brightness of exoplanet transits in transit photometry, they can detect the variations in brightness. As the secondary star travels around the primary, the primary star's brightness appears to dim, even though the star itself may not be undergoing any changes to its properties.</li></ul>
+<h2><span class="mw-headline" id="Groups_of_Stars">Groups of Stars</span></h2>
+<p>Astronomy also frequently deals with groups of stars, in addition to stellar properties themselves.
+</p>
+<h3><span class="mw-headline" id="Stellar_Populations">Stellar Populations</span></h3>
+<p>Populations of stars are classified by their metallicity, or by how much heavy metals a star has. 
+</p>
+<ul><li><b>Population I</b> has the greatest concentration of metals, and most of them are relatively new stars that have taken metals expelled from other stars. The Sun is included within this group, as are many stars in the outer reaches of our galaxy. These make up the majority of stars in spiral and irregular galaxies. Open clusters, which are mostly located in the spiral arms of a galaxy contain mostly Population I stars.</li>
+<li><b>Population II</b> has some heavy metals, but not as much as Population I, as they are older and did not benefit from as much metal dust as newer stars did. Stars in globular clusters and near the core of our galaxy belong to this population. Smaller galaxies also have more stars in this population. Population II stars also make up the majority of stars in elliptical galaxies. There is also a hypothetical</li>
+<li><i>Population III</i> consisting of the very first stars with little to no metal content, as they did not exist near the beginning of the universe. They did not last very long, but helped the metals to form for the later populations.</li></ul>
+<h3><span class="mw-headline" id="Galaxies">Galaxies</span></h3>
+<p><i>For more information about galaxies, please see <a href="/wiki/index.php/Astronomy/Galaxies" title="Astronomy/Galaxies">Astronomy/Galaxies</a> and <a href="/wiki/index.php/Astronomy/Active_Galaxies" title="Astronomy/Active Galaxies">Astronomy/Active Galaxies</a>.</i>
+</p>
+<h2><span class="mw-headline" id="Math_and_Calculations">Math and Calculations</span></h2>
+<p>A notorious portion of the Astronomy event is the math portion. Due to the abstract nature of some of the concepts in the event, and the fact that these concepts are unlikely to be covered in any depth in any high school class, the math portion can be very intimidating to some. However, at its core, the math is not that difficult, and the difficulty is knowing how to apply these mathematical relationships, as opposed to actually using them to crunch the numbers. Developing a greater grasp on the math and becoming able to perform calculations accurately can help an Astronomy team go from being decent at the event to becoming very good at the event. Being comfortable with these equations can also help develop a deeper understanding of the governing relationships.
+</p><p>For the competition itself, math questions may vary. Some will be simple plug-and-play questions, whereas others will require more critical thinking, either by using multiple equations to arrive at the answer, using provided data to determine a relationship, or other various tasks. Either way, practice is very important with the Astronomy math. Luckily, the math does not normally change from year to year in the same way that the DSOs or the overall governing topic do, so past tests are a great resource for studying these. This is especially important because, on most tests, math is graded as partial credit. This means that even if the wrong answer is given, work that demonstrates an understanding of the concept can still earn points.
+</p>
+<h3><span class="mw-headline" id="Orbital_Motion">Orbital Motion</span></h3>
+<p>A significant part of the math involved in Astronomy relates to orbital motion, either between a planet and a star, or between stars in a binary system.
+</p>
+<h4><span id="Kepler's_Laws"></span><span class="mw-headline" id="Kepler.27s_Laws">Kepler's Laws</span></h4>
+<p>Kepler's Laws govern the orbits of satellites. They were originally formed with respect to planetary motion around the sun, but they apply to other elliptical orbits as well.
+</p><p><b>Kepler's First Law</b>
+</p><p>The first law says that <b>all of the orbits of the planets are elliptical with the Sun at one focus.</b>  In terms of ellipses, the foci are two points along the <i>semi-major axis</i> (a in the diagram) of the ellipse around which the planet orbits. At any given point in time, the sum of the planet's distances to both foci is constant, giving it is slightly flattened shape. In the case of a circle, both foci are at the same point. The diagram below illustrates this point.
+</p>
+<div class="center"><div class="thumb tnone"><div class="thumbinner" style="width:302px;"><a href="/wiki/index.php/File:Keplers_first.gif" class="image"><img alt="" src="/wiki/images/9/98/Keplers_first.gif" width="300" height="228" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/index.php/File:Keplers_first.gif" class="internal" title="Enlarge"></a></div>A diagram demonstrating Kepler's First Law. For a more basic diagram, see <a href="/wiki/index.php/Solar_System#Law_1" title="Solar System">the Solar System page</a>.</div></div></div></div>
+<p><b>Kepler's Second Law</b>
+</p><p>The second law is slightly more complex. This law says that <b>a planet traces out equal areas in equal time</b>. Since the satellite does not trace out as much area when it is closer to the Sun, it has to move faster in order for this law to be true, so this law basically proves that objects move faster the closer they are to the central object. This law is more easily explained with a diagram.
+</p>
+<div class="center"><div class="floatnone"><a href="/wiki/index.php/File:Kepler2.gif" class="image"><img alt="Kepler2.gif" src="/wiki/images/7/75/Kepler2.gif" width="400" height="200" /></a></div></div>
+<p>Proving this law requires a little bit of physics and calculus. <a rel="nofollow" class="external text" href="http://www.youtube.com/watch?v=Pa3Of_3vpRc">This YouTube video</a> has a very clear and direct explanation of this, which is understandable even without a background in calculus. A quick summary of the video is that an elliptical orbit can be regarded as a circular orbit when the angle that the object is tracing out is infinitely small, so by manipulating the formulas for angular momentum [math]\left(L=mv_{\perp}r\right)[/math] and partial area of a circle [math]\left(A=\frac{\theta r^2}{2}\right)[/math], a value for the change in area with respect to the change in time ([math]{\operatorname{d}\!A\over\operatorname{d}\!t}[/math] for those familiar with derivatives) can be found. This expression only depends on the angular momentum (which is always conserved) and the mass of the satellite, neither of which changes over time. Therefore, Kepler's Second Law must be true.
+</p><p><b>Kepler's Third Law</b>
+</p><p>All of these laws are important for a basic knowledge of astrophysics, but Kepler's Third Law is the one of most relevance to the Astronomy event. According to this law, <b>the square of the satellite's period is directly proportional to the cube of the length of its semi-major axis.</b> This law can be presented symbolically as [math]p^2\propto a^3[/math]. If we want an actual equation, we have to use a constant.
+</p>
+<div align="center">[math]p^2=\left( \frac{4\pi^2}{GM} \right) a^3[/math]</div>
+<p>Where G is the gravitational constant and M is the mass of the central object.
+</p><p>In the case of the Earth, when p is expressed in solar years, M is expressed in solar masses, and a is expressed in AU, G cancels out. Then, the formula is simply
+</p>
+<div align="center">[math]p^2=\frac{a^3}{M}[/math]</div>
+<p>Where M is the total mass of the system in solar masses. Thus, when talking about our solar system, the solar mass is 1 and we get the most common form of Kepler's Third Law:
+</p>
+<div align="center">[math]p^2=a^3[/math]</div>
+<p><b>IMPORTANT:</b> This formula only works if the correct units are used such that everything cancels. If years are not for period or AU is not used for semi-major axis length, then it will likely result in an incorrect answer.
+</p><p><a rel="nofollow" class="external text" href="http://www.youtube.com/watch?v=FjAdqr1Qbac">See this YouTube video</a> for a proof of this law.
+</p>
+<h4><span class="mw-headline" id="Binary_Systems">Binary Systems</span></h4>
+<p>Orbital calculations involving planets often assume that the location of the massive body (eg the sun) is fixed and that the less massive object orbits the center of mass of the massive body. This approximation works for most practical purposes when the ratio of the bodies' masses is very large. However, more technically, both bodies in a binary system orbit their shared center of mass, or barycenter. For example, in a system that contained only Jupiter and the Sun, the barycenter would be located just outside the sun (it actually shifts around constantly with multiple significantly massive planets). The difference is far more pronounced when the bodies are similar in mass, such as Pluto and Charon or two binary stars.
+</p><p>For the remainder of this section, we will assume two massive bodies in isolation. The physics becomes far more complicated when one considers more than two bodies. One of the most important things to note is that the two bodies orbit in direct opposition to each other with the same period. The more massive body is always closer to the center of mass, while the less massive object orbits further from the barycenter. These are related such that for an object with a mass ma and a distance from the barycenter ra and a second object with a mass mb and a distnance rb:
+</p>
+<div align="center">[math]\frac{m_a}{m_b}=\frac{r_b}{r_a}[/math]</div>
+<p>As the period is constant, the object must travel the full circumference in one period. Therefore as circumference is proportion to radius, so also the orbital velocity is directly proportional to the distance from the barycenter.
+</p>
+<div align="center">[math]\frac{v_a}{r_a}=\frac{v_b}{r_b}[/math]</div>
+<p>We can also extend Kepler's Third Law to binary systems. Using the result above that:
+</p>
+<div align="center">[math]p^2=\frac{a^3}{M} [/math]</div>
+<p>where M is the mass of the system, we substitute the sum of the values of both stars, yielding:
+</p>
+<div align="center">[math]m+M=\frac{a^3}{p^2}[/math]</div>
+<p>Here, M,m are both in solar masses,  a is in AU, and p is in years. This only works because again, the units cancel out.
+</p>
+<h3><span class="mw-headline" id="Determining_Distances">Determining Distances</span></h3>
+<p>A large part of the Astronomy event is being able to determine distances to objects in space from Earth. Often a question will give certain information and the participant will have to interpret and use the information to find the distance, luminosity, or some other characteristics of the object in question. 
+</p>
+<h4><span class="mw-headline" id="Cepheids_and_RR_Lyrae">Cepheids and RR Lyrae</span></h4>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/wiki/index.php/File:Period_Luminosity_Relationship.gif" class="image"><img alt="" src="/wiki/images/9/96/Period_Luminosity_Relationship.gif" width="300" height="228" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/index.php/File:Period_Luminosity_Relationship.gif" class="internal" title="Enlarge"></a></div>A period-luminosity graph</div></div></div>
+<p><i>This section deals with the uses of Cepheids and RR Lyrae in determining distances. For information about their physical properties, please see <a href="/wiki/index.php/Astronomy/Variable_Stars" title="Astronomy/Variable Stars">Astronomy/Variable Stars</a></i>
+</p><p>Cepheids and RR Lyrae are two types of variable stars that are especially good for finding distances to galaxies or other groups of stars because they have direct correlations between luminosity and period. In both Cepheids and RR Lyrae, the longer the period, the higher the luminosity. Cepheids typically have periods of about 1 to 50 days. <b>Type I Cepheids</b>, or Classical Cepheids, are brighter, newer Population I stars (see section about stellar populations below for an explanation). <b>Type II Cepheids</b> are similar to Type I in terms of the relationship, but they are smaller, dimmer Population II stars. These are also called <i>W Virginis</i> stars. 
+</p><p><b>RR Lyrae</b> are different from Cepheids in that they are older and fainter than Cepheids. RR Lyrae stars typically have shorter periods than Cepheids - usually less than one day. They have masses about half that of our Sun, and are Population II stars. Also, the luminosity does not increase as much to a change in period, as <b>most RR Lyrae have absolute magnitudes close to 0.75</b>. Therefore, they are only useful in our galaxy and the one closest to us, Andromeda. However, this makes them very useful in determining distance, because once an RR Lyrae star has been found, one only needs to know the apparent magnitude in order to put it into the distance modulus equation and find distance. RR Lyrae have been linked to globular clusters, since most variable stars in globular clusters are RR Lyrae. They are named after the original RR Lyrae in the constellation Lyra.
+</p><p>These variable stars are useful in calculations because once the period is found, the luminosity can be calculated or determined through the use of a period-luminosity graph. Then, through other formulas, the distance can also be determined. This gives them the use as "standard candles" in galaxies relatively close to ours in our universe. NGC 4603, one of the listed DSO's, is the furthest galaxy that a Cepheid has been used to calculate distance at 108 million light years away.
+</p>
+<h4><span class="mw-headline" id="Distance_Equations">Distance Equations</span></h4>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/wiki/index.php/File:Parallax.jpg" class="image"><img alt="" src="/wiki/images/d/d8/Parallax.jpg" width="300" height="131" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/index.php/File:Parallax.jpg" class="internal" title="Enlarge"></a></div>A diagram of parallax showing how the apparent position of Star A changes from January to July. Over this time span, the Earth travels 2 AU, so half of the total change is used as the value for parallax, in arcseconds. This value can then be used to determine distance in parsecs using 1/parallax.</div></div></div>
+<p>There are many equations that are used to find distances to objects in space. Several of these equations can be found in the <a href="/wiki/images/c/c6/Formula_Sheet.pdf" class="internal" title="Formula Sheet.pdf">Astronomy formula sheet</a>.
+</p>
+<h5><span id="Triangulation/Parallax"></span><span class="mw-headline" id="Triangulation.2FParallax">Triangulation/Parallax</span></h5>
+<p><b>Triangulation</b> is often used to determine distances. This method is based on parallax shifts, apparent changes in a star's location when viewed from different locations. The <i>parallax</i> of a star is one-half of the angular shift seen of an object produced over six months, which corresponds to a distance of 2 AU. In other words, it is the angle subtended by a star as the Earth moves by 1 AU. The parallax decreases as distance increases. The equation for parallax is:
+</p>
+<div align="center">[math]D=\frac{1}{p} [/math] </div>
+<p>Thus, a parsec is defined as the distance to a star that has a parallax of one arcsecond. Parallax is only useful to measure stars up to 1000 parsecs away, since past that the parallax is so small that it is not accurate.
+</p>
+<h5><span id="Hubble's_Law"></span><span class="mw-headline" id="Hubble.27s_Law">Hubble's Law</span></h5>
+<p>Hubble's Law uses the fact that objects in space are receding from us to determine distance. Edwin Hubble found that the recessional velocity is proportional to the distance away an object is and created an equation,
+[math]v=H_oD[/math], where v is the recessional velocity, [math]H_o [/math] is Hubble's constant, and D is the distance. The exact value of Hubble's constant is disputed, but most values are about 70.
+</p><p>The value of v is found by looking at an object's spectrum. The recessional velocity is the redshift multiplied by the speed of light, and in order to find redshift, a spectrum must be used. Redshift is how much a spectrum shifts toward the red side of the spectrum due to recession. Redshift, or Z, is found by dividing the change in wavelength of the spectrum by the wavelength the object was expected to have.
+</p>
+<h5><span class="mw-headline" id="Distance_Modulus">Distance Modulus</span></h5>
+<p>The distance modulus equation is also very important. It relates an object's distance with the difference between the apparent magnitude (m) with the absolute magnitude (M). This difference is known as the <i>distance modulus</i>.
+</p>
+<div align="center">[math]5~(log_{10}(d)-1)=m-M[/math]</div> 
+<p>where d is in parsecs, and m,M are apparent and absolute magnitudes respectively. 
+</p><p>This equation can be written in many different ways so that different values can be found, but the essential purpose of the formula remains the same. A good way to practice using this equation before the competition is to take the apparent magnitude and approximate distance to a DSO and use them to find the absolute magnitude. This experience will save time if this concept comes up during a test.
+</p>
+<h3><span class="mw-headline" id="Radiation_Laws">Radiation Laws</span></h3>
+<p>The radiation laws show relationships between stellar temperature, radius, and luminosity. Both Wien's Law and Stefan's Law are proportionality statements that can be turned into equations by introducing a proportionality constant. In this event, math questions will typically approximate a star or other luminous object with a <a href="http://en.wikipedia.org/wiki/Black_Body" class="extiw" title="wikipedia:Black Body">black body</a>.
+</p><p><b>Wien's Law:</b> Wien's displacement law states that the wavelength where a blackbody emits most of its radiation is inversely proportional to the temperature. In equations,
+</p>
+<div align="center">[math]\lambda_{max}\propto\frac1T,\quad\lambda_{max}=\frac{b}{T}[/math],</div>
+<p>where [math]{\lambda}_{max} [/math] is the maximum output of radiation from an object, [math]T[/math] is Temperature in Kelvin, and [math]b=2900\mu m\cdot K[/math] is known as Wien's displacement constant.
+</p><p>For example, the sun has surface temperature [math]T=5778K[/math], so its radiation peaks at [math]\lambda_{max}=\frac{2.9\cdot 10^{-3} m\cdot K}{5778K}=502nm[/math], a yellow-green color.
+</p>
+<p><b>Stefan-Boltzmann's Law:</b> The Stefan-Boltzmann Law states that the total energy emitted from a black-body per unit surface area is proportional to the fourth power of its temperature. In equations, </p><div align="center">[math]j^*\propto T^4,\quad j^*=\sigma T^4,[/math]</div>
+<p>where [math]j^*[/math] is the total energy emitted per unit area, [math]T[/math] is Temperature in Kelvin, and [math]\sigma=5.67\cdot 10^{-8}\frac{W}{m^2\cdot K^4}[/math] is known as the Stefan–Boltzmann constant.
+</p><p>Since all blackbodies we encounter are spheres, it has surface area [math]A=4\pi R^2[/math], where [math]R[/math] is the radius of the object. Combining these equations, the total luminosity is
+</p>
+<div align="center">[math]L=4\pi {R}^{2}\sigma {T}^{4}.[/math]</div>
+<p>For example, the sun has radius and temperature [math]R=6.96\cdot 10^8 m,~T=5778K[/math]. Plugging these into the equation, its luminosity is [math]3.85\cdot 10^{26}\mathrm{W}[/math], which is close to the experimental value of [math]3.83\cdot 10^{26}\mathrm{W}[/math].
+</p><p><br />
+<b>Planck's Law:</b> Planck's Law states that a hotter blackbody emits more energy at every frequency than a cooler blackbody. The equation form of the law is complicated, but on a radiance vs. temperature graph the curve for a hotter blackbody never dips below that of a cooler one.
+</p>
+<div align="center"><div class="thumb tright"><div class="thumbinner" style="width:202px;"><a href="/wiki/index.php/File:PlancksLaw1.png" class="image"><img alt="PlancksLaw1.png" src="/wiki/images/e/e2/PlancksLaw1.png" width="200" height="167" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/index.php/File:PlancksLaw1.png" class="internal" title="Enlarge"></a></div></div></div></div></div>
+<p>The actual equation for Planck's law, known as the <a href="http://en.wikipedia.org/wiki/Planck%27s_Law" class="extiw" title="wikipedia:Planck&#39;s Law">Planck function</a>, is rarely used in calculation - it is usually only used in questions conceptually. It is a multivariable function that describes the radiance of a blackbody at different temperatures and wavelengths of light.
+</p>
+<h3><span class="mw-headline" id="Inverse_Square_Law">Inverse Square Law</span></h3>
+<p>An inverse square law is a relationship in which a quantity is inversely proportional to the square of the distance relating to that quantity. For example, suppose one measures intensity [math]I_1[/math] at distance [math]D[/math] from the source. By the inverse square law, we have:
+</p>
+<div align="center">[math]I_1\propto \frac{1}{D^2}[/math].</div>
+<p>This law also applies to Newton's Law of Gravitation. The law states that:
+</p>
+<div align="center">[math]F=\frac{GMm}{r^2}[/math]</div>
+<p>where [math] r[/math] is the distance between the two objects. By the law, [math]F\approx\frac{1}{r^2}[/math].
+</p><p>The law is very common in physics - it also applies to the electrostatic force and the intensity of sound wave in a gas.
+</p>
+<h3><span class="mw-headline" id="Other_Math">Other Math</span></h3>
+<p>This is not a comprehensive list, as these represent simply the most common math relationships that appear on Astronomy tests. Brief research will show other relationships that can sometimes appear on an Astronomy test. See the <a href="/wiki/images/c/c6/Formula_Sheet.pdf" class="internal" title="Formula Sheet.pdf">Astronomy formula sheet</a> for additional Astronomy equations.
+</p>
+<h2><span class="mw-headline" id="The_Competition">The Competition</span></h2>
+<p>The competition usually consists of a test, which is normally a pencil-and-paper test, but also may be PowerPoint or station-based. Each team member may bring a laptop or a <a href="/wiki/index.php/Binders" title="Binders">binder</a>. It is advisable to bring as much information as possible, as a wide breadth of material may be covered. Organize this information so that it is easily referenced during the exam.  Most Astronomy tests include mathematical computations, so it is important to have a <a href="/wiki/index.php/Calculators" title="Calculators">calculator</a> and a formula sheet ready.
+</p>
+<h3><span id="Laptop_or_Binder?"></span><span class="mw-headline" id="Laptop_or_Binder.3F">Laptop or Binder?</span></h3>
+<p>The question of using laptops or binders as resources has plagued Science Olympians for years. In the end it comes down to personal preference, and experimentation with differing combinations of laptops or binders may be beneficial. Here is a list of advantages and disadvantages to help get a feel for each resource type.
+</p>
+<ul><li>Binder
+<ul><li>Advantages
+<ul><li>Ability to take things in and out of the rings</li>
+<li>The process of organizing the binder helps to retain information</li>
+<li>Provides a hard-copy of information</li>
+<li>Ability to write notes on the papers</li></ul></li>
+<li>Disadvantages
+<ul><li>More limited in terms of data storage</li>
+<li>If the binder is not used frequently, it can be difficult to find certain information</li>
+<li>Large binders use up LOTS of paper and ink, making it expensive to update and maintain</li></ul></li></ul></li>
+<li>Laptop
+<ul><li>Advantages
+<ul><li>Much higher capacity for data storage</li>
+<li>Easier to carry</li>
+<li>Availability of Find/Search functions</li>
+<li>Provides light if taking test in a planetarium</li>
+<li>Cheaper (free) to update information and maintain the notes, as printing is not necessary</li>
+<li>No limit on the amount of information available for use</li></ul></li>
+<li>Disadvantages
+<ul><li>No hard-copy of the information (unless one binder and one laptop are used)</li>
+<li>More difficult to write personal notes</li>
+<li>Battery could run out during the event</li></ul></li></ul></li></ul>
+<h2><span class="mw-headline" id="Useful_Resources">Useful Resources</span></h2>
+<dl><dd>User <a href="/wiki/index.php?title=User:FuzzyLogic&amp;action=edit&amp;redlink=1" class="new" title="User:FuzzyLogic (page does not exist)">FuzzyLogic</a>'s <a href="/wiki/images/a/ac/Astronomy_Notes_FuzzyLogic_SSSS16.pdf" class="internal" title="Astronomy Notes FuzzyLogic SSSS16.pdf">Notes</a>, from <a href="/wiki/index.php/SSSS" class="mw-redirect" title="SSSS">SSSS</a> 2017.</dd>
+<dd>User <a href="/wiki/index.php/User:Magikarpmaster629" title="User:Magikarpmaster629">Magikarpmaster629</a>'s <a href="/wiki/images/6/6d/Astronomy_Notes_Magikarpmaster629_SSSS16.pdf" class="internal" title="Astronomy Notes Magikarpmaster629 SSSS16.pdf">Notes</a>, from <a href="/wiki/index.php/SSSS" class="mw-redirect" title="SSSS">SSSS</a> 2017.</dd>
+<dd><a href="/wiki/images/c/c6/Formula_Sheet.pdf" class="internal" title="Formula Sheet.pdf">Formula Sheet for Math Portion of Astronomy</a> for the mathematical section</dd>
+<dd><a href="/wiki/index.php/Astronomy/DSOs" title="Astronomy/DSOs">List of Deep Sky Objects</a></dd>
+<dd><a href="/wiki/index.php/Reach_for_the_Stars" title="Reach for the Stars">Reach for the Stars</a> for some sample pictures</dd></dl>
+<p>2015 <a href="/wiki/index.php/SSSS" class="mw-redirect" title="SSSS">SSSS</a> Resources:
+</p>
+<ul><li><a href="/wiki/index.php/User:Foreverphysics" title="User:Foreverphysics">foreverphysics</a>' <a href="/wiki/images/5/52/Foreverphysics%27_Astronomy_Notes.pdf" class="internal" title="Foreverphysics&#39; Astronomy Notes.pdf">Notes</a></li>
+<li><a href="/wiki/index.php?title=User:Nickf852&amp;action=edit&amp;redlink=1" class="new" title="User:Nickf852 (page does not exist)">Nickf852</a>'s <a href="/wiki/images/1/15/Nickf852%27s_Astronomy_Notes.pdf" class="internal" title="Nickf852&#39;s Astronomy Notes.pdf">Notes</a></li>
+<li><a href="/wiki/index.php?title=User:Nickf852&amp;action=edit&amp;redlink=1" class="new" title="User:Nickf852 (page does not exist)">Nickf852</a>'s <a href="/wiki/images/c/c1/Nickf852%27s_Astronomy_DSO_Info_Sheet.pdf" class="internal" title="Nickf852&#39;s Astronomy DSO Info Sheet.pdf">DSO Info Sheet</a></li>
+<li><a href="/wiki/index.php?title=User:Phys1cs&amp;action=edit&amp;redlink=1" class="new" title="User:Phys1cs (page does not exist)">phys1cs</a>' <a href="/wiki/images/1/1f/Phys1cs%27_Astronomy_Notes.pdf" class="internal" title="Phys1cs&#39; Astronomy Notes.pdf">Notes</a></li></ul>
+<h2><span class="mw-headline" id="External_Links">External Links</span></h2>
+<dl><dd><a rel="nofollow" class="external text" href="http://astronomynotes.com/">Good overall site for the basics of Astronomy</a></dd>
+<dd><a rel="nofollow" class="external text" href="http://www.aavso.org">American Association of Variable Star Observers</a></dd>
+<dd><a rel="nofollow" class="external text" href="http://chandra.harvard.edu/index.html">Images from the Chandra X-Ray Observatory</a></dd>
+<dd><a rel="nofollow" class="external text" href="http://apod.nasa.gov/apod/astropix.html">NASA Astronomy Picture of the Day</a></dd>
+<dd><a rel="nofollow" class="external text" href="http://simbad.u-strasbg.fr/simbad/sim-fid">SIMBAD Astronomy Database for DSOs</a></dd>
+<dd><a rel="nofollow" class="external text" href="http://spacemath.gsfc.nasa.gov/">NASA Space Math</a> provides work sheets for a wide variety of Astronomy math problems</dd>
+<dd><a href="http://en.wikipedia.org/wiki/List_of_Messier_objects" class="extiw" title="wikipedia:List of Messier objects">List of Messier objects</a> Helpful for identification</dd>
+<dd><a rel="nofollow" class="external text" href="http://www.khanacademy.org/science/cosmology-and-astronomy?k">Khan Academy- Cosmology and Astronomy</a> Easy to digest videos on the basics of Astronomy</dd>
+<dd><a rel="nofollow" class="external text" href="http://onwardtotheedge.wordpress.com/">Onward to the Edge</a> An astronomy blog run by scioly.org's own AlphaTauri, syo_astro, and foreverphysics.</dd></dl>
+<h2><span class="mw-headline" id="See_Also">See Also</span></h2>
+<ul><li><a href="/wiki/index.php/Astronomy/DSOs" title="Astronomy/DSOs">Astronomy/DSOs</a></li>
+<li><a href="/wiki/index.php/Astronomy/Stellar_Evolution" title="Astronomy/Stellar Evolution">Astronomy/Stellar Evolution</a></li>
+<li><a href="/wiki/index.php/Astronomy/Type_II_Supernovae" title="Astronomy/Type II Supernovae">Astronomy/Type II Supernovae</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Earth_and_Space_Science_Events" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/index.php/Template:Earth_and_Space_Event" title="Template:Earth and Space Event"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/index.php?title=Template_talk:Earth_and_Space_Event&amp;action=edit&amp;redlink=1" class="new" title="Template talk:Earth and Space Event (page does not exist)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a rel="nofollow" class="external text" href="https://scioly.org/wiki/index.php?title=Template:Earth_and_Space_Event&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Earth_and_Space_Science_Events" style="font-size:114%;margin:0 4em">Earth and Space Science Events</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">National Events</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-selflink selflink">Astronomy</a></li>
+<li><a href="/wiki/index.php/Dynamic_Planet_Topics" title="Dynamic Planet Topics">Dynamic Planet</a></li>
+<li><a href="/wiki/index.php/Fossils" title="Fossils">Fossils</a></li>
+<li><a href="/wiki/index.php/GeoLogic_Mapping" title="GeoLogic Mapping">GeoLogic Mapping</a></li>
+<li><a href="/wiki/index.php/Meteorology" title="Meteorology">Meteorology</a></li>
+<li><a href="/wiki/index.php/Reach_for_the_Stars" title="Reach for the Stars">Reach for the Stars</a></li>
+<li><a href="/wiki/index.php/Remote_Sensing" title="Remote Sensing">Remote Sensing</a></li>
+<li><a href="/wiki/index.php/Road_Scholar" title="Road Scholar">Road Scholar</a></li>
+<li><a href="/wiki/index.php/Rocks_and_Minerals" title="Rocks and Minerals">Rocks and Minerals</a></li>
+<li><a href="/wiki/index.php/Solar_System" title="Solar System">Solar System</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Event Resources</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/GMOA_Notes" title="GMOA Notes">GMOA Notes</a></li>
+<li><a href="/wiki/index.php/Rocks_and_Minerals/Definitions" title="Rocks and Minerals/Definitions">Rocks and Minerals Definitions</a></li>
+<li><a href="/wiki/index.php/Climate_Notes" title="Climate Notes">Climate Notes</a></li>
+<li><a href="/wiki/index.php/Everyday_Weather_Notes" title="Everyday Weather Notes">Everyday Weather Notes</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Astronomy" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/index.php/Template:Astronomy" title="Template:Astronomy"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/index.php?title=Template_talk:Astronomy&amp;action=edit&amp;redlink=1" class="new" title="Template talk:Astronomy (page does not exist)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a rel="nofollow" class="external text" href="https://scioly.org/wiki/index.php?title=Template:Astronomy&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Astronomy" style="font-size:114%;margin:0 4em"><a class="mw-selflink selflink">Astronomy</a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Astronomy/Active_Galaxies" title="Astronomy/Active Galaxies">Active Galaxies</a></li>
+<li><a href="/wiki/index.php/Astronomy/DSOs" title="Astronomy/DSOs">Deep Space Objects</a></li>
+<li><a href="/wiki/index.php/Astronomy/Exoplanets" title="Astronomy/Exoplanets">Exoplanets</a></li>
+<li><a href="/wiki/index.php/Astronomy/Galaxies" title="Astronomy/Galaxies">Galaxies</a></li>
+<li><a href="/wiki/index.php/Astronomy/Galaxies" title="Astronomy/Galaxies">Galaxy Formation and Evolution</a></li>
+<li><a href="/wiki/index.php/Astronomy/Star_and_Planet_Formation" title="Astronomy/Star and Planet Formation">Star and Planet Formation</a></li>
+<li><a href="/wiki/index.php/Astronomy/Starburst_Galaxies" title="Astronomy/Starburst Galaxies">Starburst Galaxies</a></li>
+<li><a href="/wiki/index.php/Astronomy/Stellar_Evolution" title="Astronomy/Stellar Evolution">Star Formation and Evolution</a></li>
+<li><a href="/wiki/index.php/Astronomy/Stellar_Evolution" title="Astronomy/Stellar Evolution">Stellar Evolution</a></li>
+<li><a href="/wiki/index.php/Astronomy/Type_Ia_Supernovae" title="Astronomy/Type Ia Supernovae">Type Ia Supernovae</a></li>
+<li><a href="/wiki/index.php/Astronomy/Type_II_Supernovae" title="Astronomy/Type II Supernovae">Type II Supernovae</a></li>
+<li><a href="/wiki/index.php/Astronomy/Variable_Stars" title="Astronomy/Variable Stars">Variable Stars</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="2020.2F2021_Events" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/index.php/Template:2021Events" title="Template:2021Events"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/index.php?title=Template_talk:2021Events&amp;action=edit&amp;redlink=1" class="new" title="Template talk:2021Events (page does not exist)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a rel="nofollow" class="external text" href="https://scioly.org/wiki/index.php?title=Template:2021Events&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="2020.2F2021_Events" style="font-size:114%;margin:0 4em">2020/2021 Events</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Division B Events</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Anatomy_and_Physiology" title="Anatomy and Physiology">Anatomy and Physiology</a></li>
+<li><a href="/wiki/index.php/Boomilever" title="Boomilever">Boomilever</a></li>
+<li><a href="/wiki/index.php/Circuit_Lab" title="Circuit Lab">Circuit Lab</a></li>
+<li><a href="/wiki/index.php/Crime_Busters" title="Crime Busters">Crime Busters</a></li>
+<li><a href="/wiki/index.php/Density_Lab" title="Density Lab">Density Lab</a></li>
+<li><a href="/wiki/index.php/Disease_Detectives" title="Disease Detectives">Disease Detectives</a></li>
+<li><a href="/wiki/index.php/Dynamic_Planet_Topics" title="Dynamic Planet Topics">Dynamic Planet</a></li>
+<li><a href="/wiki/index.php/Elastic_Launched_Glider" title="Elastic Launched Glider">Elastic Launched Glider</a></li>
+<li><a href="/wiki/index.php/Experimental_Design" title="Experimental Design">Experimental Design</a></li>
+<li><a href="/wiki/index.php/Food_Science" title="Food Science">Food Science</a></li>
+<li><a href="/wiki/index.php/Fossils" title="Fossils">Fossils</a></li>
+<li><a href="/wiki/index.php/Game_On" title="Game On">Game On</a></li>
+<li><a href="/wiki/index.php/Heredity" title="Heredity">Heredity</a></li>
+<li><a href="/wiki/index.php/Machines" title="Machines">Machines</a></li>
+<li><a href="/wiki/index.php/Meteorology" title="Meteorology">Meteorology</a></li>
+<li><a href="/wiki/index.php/Mission_Possible" title="Mission Possible">Mission Possible</a></li>
+<li><a href="/wiki/index.php/Mousetrap_Vehicle" title="Mousetrap Vehicle">Mousetrap Vehicle</a></li>
+<li><a href="/wiki/index.php/Ornithology" title="Ornithology">Ornithology</a></li>
+<li><a href="/wiki/index.php/Ping_Pong_Parachute" title="Ping Pong Parachute">Ping Pong Parachute</a></li>
+<li><a href="/wiki/index.php/Reach_for_the_Stars" title="Reach for the Stars">Reach for the Stars</a></li>
+<li><a href="/wiki/index.php/Road_Scholar" title="Road Scholar">Road Scholar</a></li>
+<li><a href="/wiki/index.php/Water_Quality" title="Water Quality">Water Quality</a></li>
+<li><a href="/wiki/index.php/Write_It_Do_It" title="Write It Do It">Write It Do It</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Division C Events</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Anatomy_and_Physiology" title="Anatomy and Physiology">Anatomy and Physiology</a></li>
+<li><a class="mw-selflink selflink">Astronomy</a></li>
+<li><a href="/wiki/index.php/Boomilever" title="Boomilever">Boomilever</a></li>
+<li><a href="/wiki/index.php/Chemistry_Lab" title="Chemistry Lab">Chemistry Lab</a></li>
+<li><a href="/wiki/index.php/Circuit_Lab" title="Circuit Lab">Circuit Lab</a></li>
+<li><a href="/wiki/index.php/Codebusters" title="Codebusters">Codebusters</a></li>
+<li><a href="/wiki/index.php/Designer_Genes" title="Designer Genes">Designer Genes</a></li>
+<li><a href="/wiki/index.php/Detector_Building" title="Detector Building">Detector Building</a></li>
+<li><a href="/wiki/index.php/Disease_Detectives" title="Disease Detectives">Disease Detectives</a></li>
+<li><a href="/wiki/index.php/Dynamic_Planet_Topics" title="Dynamic Planet Topics">Dynamic Planet</a></li>
+<li><a href="/wiki/index.php/Experimental_Design" title="Experimental Design">Experimental Design</a></li>
+<li><a href="/wiki/index.php/Forensics" title="Forensics">Forensics</a></li>
+<li><a href="/wiki/index.php/Fossils" title="Fossils">Fossils</a></li>
+<li><a href="/wiki/index.php/GeoLogic_Mapping" title="GeoLogic Mapping">GeoLogic Mapping</a></li>
+<li><a href="/wiki/index.php/Gravity_Vehicle" title="Gravity Vehicle">Gravity Vehicle</a></li>
+<li><a href="/wiki/index.php/Machines" title="Machines">Machines</a></li>
+<li><a href="/wiki/index.php/Ornithology" title="Ornithology">Ornithology</a></li>
+<li><a href="/wiki/index.php/Ping_Pong_Parachute" title="Ping Pong Parachute">Ping Pong Parachute</a></li>
+<li><a href="/wiki/index.php/Protein_Modeling" title="Protein Modeling">Protein Modeling</a></li>
+<li><a href="/wiki/index.php/Sounds_of_Music" title="Sounds of Music">Sounds of Music</a></li>
+<li><a href="/wiki/index.php/Water_Quality" title="Water Quality">Water Quality</a></li>
+<li><a href="/wiki/index.php/Wright_Stuff" title="Wright Stuff">Wright Stuff</a></li>
+<li><a href="/wiki/index.php/Write_It_Do_It" title="Write It Do It">Write It Do It</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Division B National Trials 2020</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Aerial_Scramble" title="Aerial Scramble">Aerial Scramble</a></li>
+<li><a href="/wiki/index.php/Amazing_Mechatronics" title="Amazing Mechatronics">Amazing Mechatronics</a></li>
+<li><a href="/wiki/index.php/Codebusters" title="Codebusters">Codebusters</a></li>
+<li><a href="/wiki/index.php/Storm_the_Castle" title="Storm the Castle">Storm the Castle</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Division C National Trials 2020</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Aerial_Scramble" title="Aerial Scramble">Aerial Scramble</a></li>
+<li><a href="/wiki/index.php/Amazing_Mechatronics" title="Amazing Mechatronics">Amazing Mechatronics</a></li>
+<li><a href="/wiki/index.php/Environmental_Chemistry" title="Environmental Chemistry">Environmental Chemistry</a></li>
+<li><a href="/wiki/index.php/Trajectory" title="Trajectory">Trajectory</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Division B National Trials 2021</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Aerial_Scramble" title="Aerial Scramble">Aerial Scramble</a></li>
+<li><a href="/wiki/index.php/Awesome_Aquifers" title="Awesome Aquifers">Awesome Aquifers</a></li>
+<li><a href="/wiki/index.php/Botany" title="Botany">Botany</a></li>
+<li><a href="/wiki/index.php/Codebusters" title="Codebusters">Codebusters</a></li>
+<li><a href="/wiki/index.php/Electric_Wright_Stuff" title="Electric Wright Stuff">Electric Wright Stuff</a></li>
+<li><a href="/wiki/index.php/Home_Horticulture" title="Home Horticulture">Home Horticulture</a></li>
+<li><a href="/wiki/index.php/Solar_Power" title="Solar Power">Solar Power</a></li>
+<li><a href="/wiki/index.php/Storm_the_Castle" title="Storm the Castle">Storm the Castle</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Division C National Trials 2021</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Aerial_Scramble" title="Aerial Scramble">Aerial Scramble</a></li>
+<li><a href="/wiki/index.php/Botany" title="Botany">Botany</a></li>
+<li><a href="/wiki/index.php/Electric_Wright_Stuff" title="Electric Wright Stuff">Electric Wright Stuff</a></li>
+<li><a href="/wiki/index.php/Environmental_Chemistry" title="Environmental Chemistry">Environmental Chemistry</a></li>
+<li><a href="/wiki/index.php/Home_Horticulture" title="Home Horticulture">Home Horticulture</a></li>
+<li><a href="/wiki/index.php/Robot_Tour" title="Robot Tour">Robot Tour</a></li>
+<li><a href="/wiki/index.php/Solar_Power" title="Solar Power">Solar Power</a></li>
+<li><a href="/wiki/index.php/Trajectory" title="Trajectory">Trajectory</a></li>
+<li><a href="/wiki/index.php/WiFi_Lab" title="WiFi Lab">WiFi Lab</a></li></ul>
+</div></td></tr></tbody></table></div>
+
+<!-- 
+NewPP limit report
+Cached time: 20200806180931
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.572 seconds
+Real time usage: 0.765 seconds
+Preprocessor visited node count: 854/1000000
+Preprocessor generated node count: 6528/1000000
+Post‐expand include size: 32218/2097152 bytes
+Template argument size: 6524/2097152 bytes
+Highest expansion depth: 10/40
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.070/7.000 seconds
+Lua virtual size: 8.62 MB/50 MB
+Lua estimated memory usage: 0 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  325.048      1 -total
+ 68.92%  224.039      3 Template:Navbox
+ 53.86%  175.055      1 Template:Earth_and_Space_Event
+ 16.57%   53.849      1 Template:EventLinksBox
+ 11.49%   37.347      1 Template:2021Events
+  9.84%   31.996      1 Template:Astronomy
+  2.89%    9.382      1 Template:About
+  2.68%    8.720      1 Template:Main
+  1.47%    4.769      3 Template:Wikipedia
+-->
+</div>
+<!-- Saved in parser cache with key wiki-wikiv2_:pcache:idhash:4-0!canonical and timestamp 20200806180930 and revision id 101852
+ -->
+</div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://scioly.org/wiki/index.php?title=Astronomy&amp;oldid=101852">https://scioly.org/wiki/index.php?title=Astronomy&amp;oldid=101852</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/index.php/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/index.php/Category:Event_Pages" title="Category:Event Pages">Event Pages</a></li><li><a href="/wiki/index.php/Category:Study_Event_Pages" title="Category:Study Event Pages">Study Event Pages</a></li><li><a href="/wiki/index.php/Category:Astronomy" title="Category:Astronomy">Astronomy</a></li><li><a href="/wiki/index.php/Category:Earth_and_Space_Science_Events" title="Category:Earth and Space Science Events">Earth and Space Science Events</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-login"><a href="//scioly.org/forums/ucp.php?mode=login&amp;redirect=https%3A%2F%2Fscioly.org%2Fwiki%2Findex.php%2FAstronomy" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/index.php/Astronomy" title="View the content page [c]" accesskey="c">Page</a></span></li><li id="ca-talk"><span><a href="/wiki/index.php/Talk:Astronomy" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discussion</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/index.php/Astronomy">Read</a></span></li><li id="ca-viewsource" class="collapsible"><span><a href="/wiki/index.php?title=Astronomy&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li><li id="ca-history" class="collapsible"><span><a href="/wiki/index.php?title=Astronomy&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/wiki/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Scioly.org" title="Search Scioly.org [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/index.php/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage"><a href="/wiki/index.php/Main_Page" title="Visit the main page [z]" accesskey="z">Main Page</a></li><li id="n-recentchanges"><a href="/wiki/index.php/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/wiki/index.php/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-MediaWiki-Help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">MediaWiki Help</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/index.php/Special:WhatLinksHere/Astronomy" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/index.php/Special:RecentChangesLinked/Astronomy" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/wiki/index.php/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="/wiki/index.php?title=Astronomy&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/wiki/index.php?title=Astronomy&amp;oldid=101852" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/wiki/index.php?title=Astronomy&amp;action=info" title="More information about this page">Page information</a></li>				</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 29 June 2020, at 22:41.</li>
+								<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution</a> unless otherwise noted.</li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="http://creativecommons.org/licenses/by/3.0/"><img src="/wiki/resources/assets/licenses/cc-by.png" alt="Creative Commons Attribution" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<style>.MathJax_Display{display:inline !important;}
+.mathjax-wrapper{font-size:120%;}</style>
+<script type='text/x-mathjax-config'>MathJax.Hub.Config({displayAlign:'left',tex2jax:{displayMath:[['[math]','[/math]']]}})</script>
+<script src='//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.572","walltime":"0.765","ppvisitednodes":{"value":854,"limit":1000000},"ppgeneratednodes":{"value":6528,"limit":1000000},"postexpandincludesize":{"value":32218,"limit":2097152},"templateargumentsize":{"value":6524,"limit":2097152},"expansiondepth":{"value":10,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%  325.048      1 -total"," 68.92%  224.039      3 Template:Navbox"," 53.86%  175.055      1 Template:Earth_and_Space_Event"," 16.57%   53.849      1 Template:EventLinksBox"," 11.49%   37.347      1 Template:2021Events","  9.84%   31.996      1 Template:Astronomy","  2.89%    9.382      1 Template:About","  2.68%    8.720      1 Template:Main","  1.47%    4.769      3 Template:Wikipedia"]},"scribunto":{"limitreport-timeusage":{"value":"0.070","limit":"7.000"},"limitreport-virtmemusage":{"value":9035776,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20200806180931","ttl":86400,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":129});});</script>
+	</body>
+</html>

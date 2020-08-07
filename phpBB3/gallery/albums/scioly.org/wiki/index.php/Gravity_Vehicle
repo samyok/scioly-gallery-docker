@@ -1,0 +1,623 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Gravity Vehicle - Scioly.org</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Gravity_Vehicle","wgTitle":"Gravity Vehicle","wgCurRevisionId":106482,"wgRevisionId":106482,"wgArticleId":3086,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Technology and Engineering Events","Event Pages","Building Event Pages"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Gravity_Vehicle","wgRelevantArticleId":3086,"wgRequestId":"0addc0181562626cca025f27","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":[]});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","site":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@1ltrs49",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/wiki/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/wiki/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/wiki/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.8"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/wiki/opensearch_desc.php" title="Scioly.org (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://scioly.org/wiki/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Scioly.org Atom feed" href="/wiki/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/wiki/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Gravity_Vehicle rootpage-Gravity_Vehicle skin-vector action-view"><meta property="og:title" content="Science Olympiad Student Center"/>
+<meta property="og:type" content="website"/>
+<meta property="og:url" content="https://scioly.org/"/>
+
+<meta property="og:image" content="http://scioly.org/src/img/logo/logo_square.png"/>
+<meta property="og:image:secure_url" content="https://scioly.org/src/img/logo/logo_square.png"/> 
+<meta property="og:image:type" content="image/png"/> 
+<meta property="og:image:width" content="500"/> 
+<meta property="og:image:height" content="500"/>
+
+<meta property="og:description" content="A resource by and for Science Olympiad students, coaches, and alumni nationwide."/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script type="text/javascript" src="/src/js/jquery.min.js"></script>
+<script type="text/javascript" src="/src/js/main.js"></script>
+
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+<link rel="stylesheet" type="text/css" href="/src/css/main.css">
+
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<link rel="icon" href="/favicon.ico" type="image/x-icon"><div class="site-nav">
+	<a href="/">
+		<img src="/src/img/logo/logo.png">
+	</a>
+	<div class="hamburger" onclick="hamburger(this)">
+		<div>
+			<div></div>
+			<div></div>
+			<div></div>
+		</div>
+	</div>
+	<ul>
+		<li><a href="/forums">Forums</a></li>
+		<li><a href="/wiki">Wiki</a></li>
+		<li><a href="/tests">Test Exchange</a></li>
+		<!-- <li><a href="/gallery">Image Gallery</a></li> -->
+		<!-- <li><a href="/invitational">Invites</a></li> -->
+		<li><a href="/chat">Chat</a></li>
+		<li><a href="/login" class="button">Login</a></li>
+	</ul>
+</div>
+<img class="print-only" src="/src/img/logo/logo_black.png" style="max-width: 150px;"><link rel="stylesheet" type="text/css" href="/src/css/wiki.css">
+<div id="wrap-me-up">
+
+
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Gravity Vehicle</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Scioly.org</div>				<div id="contentSub"></div>
+								<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table align="right" class="infobox">
+
+<tbody><tr>
+<th colspan="2" style="font-size: larger; text-align: center;"><b>Gravity Vehicle</b>
+</th></tr>
+
+
+<tr>
+<td colspan="2"><hr />
+</td></tr>
+<tr>
+<td><b>Type</b>
+</td>
+<td>Engineering
+</td></tr>
+<tr>
+<td><b>Category</b>
+</td>
+<td>Build
+</td></tr>
+<tr>
+<td colspan="2" class="infobox-header"><b>Event Information</b>
+</td></tr>
+
+
+
+
+
+
+
+<tr>
+<td><b>Latest Appearance</b>
+</td>
+<td>2020
+</td></tr>
+<tr>
+<td colspan="2" class="infobox-header"><b>Forum Threads</b>
+</td></tr>
+
+<tr>
+<td colspan="2" style="padding: 0;">
+<table class="infobox-events-link-table">
+
+<tbody><tr>
+<td><a rel="nofollow" class="external text" href="https://scioly.org/forums/viewtopic.php?f=315&amp;t=15418">2020</a>
+</td>
+<td><span> </span>
+</td>
+<td><span> </span>
+</td>
+<td><span> </span>
+</td>
+<td><span> </span>
+</td></tr>
+</tbody></table>
+</td></tr>
+<tr>
+<td colspan="2" style="padding: 0;">
+<table class="infobox-events-link-table">
+
+<tbody><tr>
+<td><span> </span>
+</td>
+<td><span> </span>
+</td>
+<td><a rel="nofollow" class="external text" href="http://scioly.org/phpBB3/viewtopic.php?f=143&amp;t=3715">2013</a>
+</td>
+<td><a rel="nofollow" class="external text" href="http://scioly.org/phpBB3/viewtopic.php?f=119&amp;t=2939">2012</a>
+</td>
+<td><span> </span>
+</td></tr>
+</tbody></table>
+</td></tr>
+
+
+
+
+
+
+<tr>
+<td colspan="2" class="infobox-header"><b>Official Resources</b>
+</td></tr>
+<tr>
+<td><b>Website</b>
+</td>
+<td><a rel="nofollow" class="external text" href="https://www.soinc.org/gravity-vehicle-c">soinc.org</a>
+</td></tr>
+
+
+
+
+<tr>
+<td colspan="2" class="infobox-header"><b>Division C Results</b>
+</td></tr>
+<tr>
+<td colspan="2" style="padding: 0;">
+<table class="infobox-scoreboard" style="margin: 0; padding: 0; width:100%;">
+
+
+<tbody><tr style="background-color: gold;">
+<td style="width: 10%; text-align: center;"><b>1st</b>
+</td>
+<td style="width: 90%; padding-left: 5px;"><b>Brookwood High School</b>
+</td></tr>
+<tr style="background-color: silver;">
+<td style="width: 10%; text-align: center;">2nd
+</td>
+<td style="width: 90%; padding-left: 5px;">Poudre High School
+</td></tr>
+<tr style="background-color: #d1965c;">
+<td style="width: 10%; text-align: center;">3rd
+</td>
+<td style="width: 90%; padding-left: 5px;">Harriton High School
+</td></tr>
+</tbody></table>
+</td></tr>
+</tbody></table>
+<p><a class="mw-selflink selflink">Gravity Vehicle</a> is an event that returned for the <a href="/wiki/index.php/2020" title="2020">2020</a> and <a href="/wiki/index.php/2021" title="2021">2021</a> competition seasons after being held in <a href="/wiki/index.php/2012" title="2012">2012</a> and <a href="/wiki/index.php/2013" title="2013">2013</a>. In this event, competitors design and build a ramp and a vehicle that is powered solely by the vehicle's <a href="http://en.wikipedia.org/wiki/Potential_energy#Gravitational_potential_energy" class="extiw" title="wikipedia:Potential energy">gravitational potential energy</a>.
+</p><p><br />
+</p>
+<div id="toc" class="toc"><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#The_Competition"><span class="tocnumber">1</span> <span class="toctext">The Competition</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Construction"><span class="tocnumber">2</span> <span class="toctext">Construction</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#The_Ramp"><span class="tocnumber">2.1</span> <span class="toctext">The Ramp</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#The_Vehicle"><span class="tocnumber">2.2</span> <span class="toctext">The Vehicle</span></a>
+<ul>
+<li class="toclevel-3 tocsection-5"><a href="#The_Chassis"><span class="tocnumber">2.2.1</span> <span class="toctext">The Chassis</span></a></li>
+<li class="toclevel-3 tocsection-6"><a href="#Axles"><span class="tocnumber">2.2.2</span> <span class="toctext">Axles</span></a></li>
+<li class="toclevel-3 tocsection-7"><a href="#Wheels"><span class="tocnumber">2.2.3</span> <span class="toctext">Wheels</span></a></li>
+<li class="toclevel-3 tocsection-8"><a href="#Brakes"><span class="tocnumber">2.2.4</span> <span class="toctext">Brakes</span></a></li>
+<li class="toclevel-3 tocsection-9"><a href="#Braking_Systems"><span class="tocnumber">2.2.5</span> <span class="toctext">Braking Systems</span></a>
+<ul>
+<li class="toclevel-4 tocsection-10"><a href="#String_Type"><span class="tocnumber">2.2.5.1</span> <span class="toctext">String Type</span></a></li>
+<li class="toclevel-4 tocsection-11"><a href="#Threaded_Rod_Type"><span class="tocnumber">2.2.5.2</span> <span class="toctext">Threaded Rod Type</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#Practice_Log"><span class="tocnumber">3</span> <span class="toctext">Practice Log</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Scoring"><span class="tocnumber">4</span> <span class="toctext">Scoring</span></a>
+<ul>
+<li class="toclevel-2 tocsection-14"><a href="#Tiering"><span class="tocnumber">4.1</span> <span class="toctext">Tiering</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-15"><a href="#General_Tips"><span class="tocnumber">5</span> <span class="toctext">General Tips</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="The_Competition">The Competition</span></h2>
+<p>Event supervisors will designate a distance between 9-12 meters as the target distance, or target point. The distance will be in 0.5 meter increments for regionals, 0.25 meter increments for states, and 0.05 meter increments for nationals. The target distance is announced by the event supervisor after impound period is over. The start point consists of a piece of tape, 2.5 cm wide, and extending 50 cm to either side of the start point. Timing lines are placed at the 0.5 meter and 8.5 meter lines, to count towards the time portion of the score. As of the 2020 and 2021 rules of the event, the vehicle does not need to curve around a bucket or cans.
+</p><p>Participants are given 8 minutes to complete up to 2 runs, as well as a variety of adjustments to the vehicle and ramp. Often times, participants clean and measure the track. Using dry-clothed swiffers are common in competitive competitions. Alignment tools may be used to align the vehicle on the ramp, and the ramp on the floor, but before the run, cannot be placed on the track.
+</p><p><br />
+</p>
+<h2><span class="mw-headline" id="Construction">Construction</span></h2>
+<h3><span class="mw-headline" id="The_Ramp">The Ramp</span></h3>
+<p>A ramp is used to convert the gravitational potential energy of the vehicle into forward motion. Although it is not necessary, some teams may find it beneficial to construct an adjustable ramp. One way to do this is by hinging your ramp at the front end (the area that touches the floor) and using supports of various heights to raise the back end, resulting in different slopes. Also available is the system that is used on pool chairs, although it may be more complex to build. It is also possible to have multiple starting positions on a static ramp, which allows for the convenience of an adjustable ramp without the difficulties.
+</p><p>The surface of your ramp must provide enough traction to avoid wheel slippage without being so tacky that the wheels stick to the ramp and provide drag. In order to have the best surface, you want any material that is smooth enough to not damage your wheels but has enough to friction to not let them slip. 
+Some materials to keep in mind are:
+</p>
+<ul><li>Plastic (flimsy, very low level of friction)</li>
+<li>Metal (more rigid than plastic, offers similar level of friction)</li>
+<li>Wood (smooth wood is rigid, and decently smooth. May also be easier to work with)</li>
+<li>Plexiglas (flimsy if using thin sheets, similar friction level as plastic)</li></ul>
+<p>Please note that if the surface of the ramp is too slippery and the wheels of the vehicle lack grip on it, then the vehicle may have problems with the straightness of its path.
+</p><p>Ramp shape will affect your performance to some extent. A flat ramp without any curve is the easiest to construct, but a vehicle may lose some forward momentum, or even change course, depending on the angle at which the ramp meets the floor. Another possible shape would be the <a href="http://en.wikipedia.org/wiki/Brachistochrone_Curve" class="extiw" title="wikipedia:Brachistochrone Curve">Brachistochrone Curve</a>. A ramp in this shape could be difficult to construct, but it may provide the best transfer angle from the ramp to the floor. Below is an example of a vehicle on a ramp in the shape of a Brachistochrone curve, courtesy of the Scrambler Wiki. Note that the egg on the vehicle's front is not part of this event:
+</p><p><a href="/wiki/index.php/File:SC-ramptype.gif" class="image"><img alt="SC-ramptype.gif" src="/wiki/images/1/11/SC-ramptype.gif" width="650" height="400" /></a>
+</p>
+<h3><span class="mw-headline" id="The_Vehicle">The Vehicle</span></h3>
+<p>Construction of the vehicle will usually be similar to "vehicle" events in the past, like <a href="/wiki/index.php/Scrambler" title="Scrambler">Scrambler</a>, <a href="/wiki/index.php/Wheeled_Vehicle" title="Wheeled Vehicle">Wheeled Vehicle</a>, <a href="/wiki/index.php/Electric_Vehicle" title="Electric Vehicle">Electric Vehicle</a>, and <a href="/wiki/index.php/Mousetrap_Vehicle" title="Mousetrap Vehicle">Mousetrap Vehicle</a>.
+During the construction of the vehicle, attention must be paid to where the mass will be concentrated in order to gain most gravitational potential energy. However, builders must also keep in mind that the location of the mass will also affect vehicle skid during braking, which could impact the accuracy of the vehicle.
+</p>
+<h4><span class="mw-headline" id="The_Chassis">The Chassis</span></h4>
+<p>The chassis of your vehicle will need to be rigid and well built. Unlike years past, the 2020 and 2021 events call for a propulsion method that will place a great deal of stress on the frame. Therefore it is crucial to build a solid structure. A flimsy chassis will result in an unpredictable path, and possibly even vehicle damage, leading to a loss of points. The chassis can be built either as four walls or simply just one flat board.
+Some materials for the chassis are:
+</p>
+<ul><li>Wood</li>
+<li>Metal</li>
+<li>Plexiglas</li>
+<li>Plastic</li>
+<li>Carbon Fiber</li>
+<li>3D Printed Parts</li></ul>
+<p>Some materials will work better than others, and a combination may work best.
+When building the chassis, ensure that the vehicle will have right angles and that the axles will be situated perpendicular to the direction of travel. This is crucial to prevent your vehicle from curving, which could have effects ranging from a minor change in the stopping point to causing the vehicle to fall off of the side of the ramp or to crash into a wall. An adjustable steering system may be helpful if the chassis cannot be built straight, or if the competitors foresee a rule change requiring the vehicle to curve or plan to reuse the vehicle in an event that might require a curve.
+</p><p>From the <a href="/wiki/index.php/Mousetrap_Vehicle" title="Mousetrap Vehicle">Mousetrap Vehicle</a> page, "If you cannot build the axles to be exactly parallel, then there are some other options. One commonly used solution is to build the car in two halves. The front axle will be part of the front half, and the rear axle will be attached to the back half. The two halves of the vehicle are connected together with a bolt that runs to the middle. To adjust the path of the vehicle, simply loosen the bolt, turn the front half, and lock it in place by tightening the bolt again. Now you can adjust how straight or arched the path of your vehicle is!"
+</p>
+<h4><span class="mw-headline" id="Axles">Axles</span></h4>
+<p>Axles connect your wheels to your chassis. They will need to be non-flexible and stiff. A crooked axle will greatly affect the path of your vehicle.
+Materials for the axles include:
+</p>
+<ul><li>Wooden dowels</li>
+<li>Brass/Aluminum rods</li>
+<li>Plastic dowels</li>
+<li>Carbon fiber rods</li></ul>
+<p>When attaching your axles to the chassis, you have multiple options. One common method is to simply drill a hole in the walls of your chassis, and simply insert the axle into these holes. Another popular method is to use some sort of sleeve, like a straw, attach the sleeves to the chassis, and then place the axle inside these tubes.
+</p><p>One thing to note though, is that with this event, the vehicle will endure more stress and will carry more weight than in years past. Thus, it will be most beneficial to use ball bearings this year. You can find them in skateboards and in-line roller blades, or you can purchase them individually. Quality bearings will improve your time score and can also help in ensuring your vehicle follows a straight path. It is also important to note that a faster vehicle may not always be better, as if your vehicle is <i>too</i> fast, its skid may be unpredictable. Remember that accuracy and precision is more important than speed.
+</p>
+<h4><span class="mw-headline" id="Wheels">Wheels</span></h4>
+<p>The wheels will need to be straight as well as light-weight (for the front) and strong (for the back.) There are multiple things to consider when choosing wheels. For example, thick or thin? Large or small? 3 or 4? 
+The answer will depend on your ramp design and vehicle.
+Common choices for wheels are:
+</p>
+<ul><li>CDs</li>
+<li>Hobby airplane wheels (like <a rel="nofollow" class="external text" href="https://web.archive.org/web/20130118235634/http://www.hobby-lobby.com/light_foam_wheels_382_ctg.htm">these</a>)</li>
+<li>Wheels from companies like <a rel="nofollow" class="external text" href="http://www.banebots.com/">BaneBots</a> are common within very competitive teams, but are relatively expensive.</li>
+<li>Home-made wheels</li></ul>
+<p>The last option is not recommended unless you have the proper tools and abilities to make perfectly circular wheels.
+Friction is your enemy when it comes to axles. A necessary option is to use ball bearings and they are not difficult to find. The pay-off is incredible because the negligible increase in weight of the bearings does nothing negative while your time score will improve drastically. Another idea might be to use some sort of sleeve to hold your axle, and apply either liquid or graphite lubricant to the area (not recommended.) Be careful not to overdo the lube, or else you'll end up with a sticky mess that will attract large amounts of dirt.
+A great idea is to cut a strip of latex balloon, and wrap it around the circumference of your CD wheels. It will provide a nice amount of traction. If you are using wheels in the front, they need no balloons to operate optimally.
+</p>
+<h4><span class="mw-headline" id="Brakes">Brakes</span></h4>
+<p>A good braking system will stop your vehicle on the mark, with precision and accuracy. Skid is a factor that affects the braking ability and stopping distance. Skid can be fixed by using <a href="/wiki/index.php/Gravity_Vehicle#Wheels" title="Gravity Vehicle">wheels</a> with more traction. Other ways to reduce skid include lightening the vehicle and lowering the vehicle's starting point on the ramp. Reducing the mass of the vehicle causes it to have less momentum, which then requires less traction to stop the vehicle. Lowering the starting point on the ramp reduces the speed of the vehicle, which also reduces the momentum of the vehicle.
+</p><p>Many braking systems have appeared over the years, and two of the most common are the ones listed in the following excerpt from the <a href="/wiki/index.php/Scrambler" title="Scrambler">Scrambler</a> Wiki:
+</p>
+<h4><span class="mw-headline" id="Braking_Systems">Braking Systems</span></h4>
+<p>There are two commonly used braking systems. Here they are listed in order of difficulty of construction.
+</p>
+<h5><span class="mw-headline" id="String_Type">String Type</span></h5>
+<table class="wikitable">
+<tbody><tr>
+<th>Pros</th>
+<th>Cons
+</th></tr>
+<tr>
+<td>Easy to build</td>
+<td>Poor Accuracy
+</td></tr>
+<tr>
+<td></td>
+<td>Backlash
+</td></tr>
+<tr>
+<td></td>
+<td>Skid
+</td></tr></tbody></table>
+<p><br />
+<a href="/wiki/index.php/File:SC-brake1diag.gif" class="image"><img alt="SC-brake1diag.gif" src="/wiki/images/f/f9/SC-brake1diag.gif" width="600" height="400" /></a>
+<a href="/wiki/index.php/File:SC-brake1.gif" class="image"><img alt="SC-brake1.gif" src="/wiki/images/1/10/SC-brake1.gif" width="600" height="400" /></a>
+</p><p>The first braking design is made by running a string from one axle to another. As the car travels, the string from one axle unwinds and wraps around the second axle. 
+Once all of the string has fed through from one axle to the another the axles lock and the car stops. The distance the car travels can be controlled by the amount of string wrapped around each axle. 
+This design tends to have poor accuracy for several reasons. First, the string used will often stretch in an irregular way. Second, the string will not always wrap in exactly the same manner, 
+meaning there is a slight variation in the amount of travel allowed before stopping the car. Third, while the taut string will prevent the car from moving forwards, nothing prevents the car from moving backwards. So, you will get some amount of backlash. 
+This system relies on the braking power of the rims of the wheels, which may lead to skid, as this design does not allow for gradual locking of the wheels. That being said, this is the easiest system to implement. So, if you need a quick solution or don’t plan on putting much time in your system, this is certainly an option.
+</p>
+<h5><span class="mw-headline" id="Threaded_Rod_Type">Threaded Rod Type</span></h5>
+<table class="wikitable">
+<tbody><tr>
+<th>Pros</th>
+<th>Cons
+</th></tr>
+<tr>
+<td>High accuracy</td>
+<td>Somewhat complicated to build
+</td></tr>
+<tr>
+<td>Consistency</td>
+<td>Skid
+</td></tr>
+<tr>
+<td>Little to no backlash</td>
+<td>Added Friction to the axles
+</td></tr></tbody></table>
+<p><br />
+<a href="/wiki/index.php/File:SC-brake2diag.gif" class="image"><img alt="SC-brake2diag.gif" src="/wiki/images/1/19/SC-brake2diag.gif" width="600" height="400" /></a>
+<a href="/wiki/index.php/File:SC-brake2.gif" class="image"><img alt="SC-brake2.gif" src="/wiki/images/4/46/SC-brake2.gif" width="600" height="400" /></a>
+</p><p>In order to be even remotely competitive, you need to use this system. This system is very popular among competitors. While only slightly more complicated than the string method, it is more consistent. 
+The basic concept of this design is using a threaded rod for the axle, placing a nut (usually a wing nut is used) on the axle. As the wheels rotate their rotary motion is transferred into linear motion in the form of a wing nut moving along the axle. 
+When the wing nut reaches a barrier, it will no longer be able to move, and thus stops the axle from turning. The distance is set by setting how far the wing nut starts from the barrier and is usually measured in rotations of the wheels. 
+While as described the system is still vulnerable to skid, it can be minimized by carefully choosing a material for the barrier that the wing nut engages during the stopping motion. By choosing something rubbery many teams achieved a gradual locking of the wheels, which effectively eliminated any skid inherent to the system.
+The wing nut also adds some friction to the axle, thus the car may not roll as smoothly or as far.
+</p><p>The above section is from the Scrambler Wiki page. 
+The wing nut system is the most popular method, due to its simplicity and effectiveness. <a rel="nofollow" class="external text" href="http://www.youtube.com/watch?v=RJwFtkFSuJM">This</a> video is an example of the wing nut system.
+The easiest method of reducing skid is to reduce the mass of the vehicle. This will reduce your vehicle's inertia, and therefore will reduce the amount of skid it experiences. And having wheels with good traction also helps.
+If the wheels hop when the brake engages, the easiest fix is to add mass near the axle that has the braking system.
+</p>
+<h2><span class="mw-headline" id="Practice_Log">Practice Log</span></h2>
+<p>A practice log consisting of 4 or more parameters and at least 10 practice runs must be impounded with the device. The practice log must include the following 3 parameters; the target distance, the vehicle distance from the target, and the run time. An additional 4th parameter must be selected by each team. Possible examples of the 4th parameter include the amount of turns of the braking axle, the angle of alignment, the mass of the vehicle, or the starting height of the vehicle on the ramp.
+</p>
+<h2><span class="mw-headline" id="Scoring">Scoring</span></h2>
+<p>The lowest score wins, and negative scores are not possible, due to the lack of a bonus. The lowest score of the two runs is used in all cases. Scoring is calculated based on two factors:
+</p>
+<ul><li><b>Run Time</b>: The run time is the time it takes for the vehicle to travel between the 0.50 meter and 8.50 meter timing lines on the track. It starts with the dowel crossing the 0.50 meter line and ends with the dowel crossing the 8.50 meter line. The time is recorded in seconds. If the vehicle passes the 0.50 meter line and fails to cross the 8.5 meter line, the run time must be recorded as 60 seconds.</li>
+<li><b>Vehicle Distance</b>: The vehicle distance is the distance in centimeters from the measurement point to the target point to the nearest 0.1 cm.</li></ul>
+<p>To calculate the score, the following formula is used:
+</p><p>Score = 2 × (Vehicle Distance, in centimeters) + Run Time, in seconds.
+</p>
+<h3><span class="mw-headline" id="Tiering">Tiering</span></h3>
+<p>Tier 1: Runs with no violations.
+Tier 2: Runs with any <b>competition violations</b>.
+Tier 3: Runs with any <b>construction violations</b>.
+Tier 4: Runs with 2 failed runs.
+Tier 5: Teams that did not impound their Vehicle during impound period.
+</p><p>Tiebreakers are as follows: 
+</p><p>1) Better non-scored run.
+2) Faster time - scored run.
+3) Lower Vehicle Distance - scored run.
+</p>
+<h2><span class="mw-headline" id="General_Tips">General Tips</span></h2>
+<ul><li>Before starting you build, it is crucial that you have an idea of where you want to go. Don't pick up your materials and throw something together on the fly. Having a good plan will almost always work better than not having a plan.</li>
+<li>Most of your time should be spent making and modifying your vehicle. It is crucial that you test your vehicle, but it is even more important that you are not wasting time testing an inferior device. Ensure that it is consistent and accurate.
+<ul><li>A great idea I've used in the past is to test on many surfaces. You will not be 100% sure about the competition surface, so it is best to test your vehicle on many surfaces such as gym floor and hallway tiles.</li></ul></li>
+<li>Clean the floor before your run at competition, and while you practice. This will allow you to keep dirt and dust from affecting the stopping ability of your vehicle. Note: this will decrease the chance of skidding, but may cause your car's braking wheels to hop a few times when the brake engages, decreasing accuracy. A way you can limit this, however, is placing weight over your braking axle. This will increase the friction between the wheels and the ground, thus decreasing skid.</li>
+<li>You can use mathematical calculations to determine the amount of turns that will be needed for the wingnut if you are using the "Threaded Rod" system. Measure the distance from the starting point of your vehicle to the finish mark. Divide this by the circumference of your wheel, and then you have the number of turns that are needed. However theoretical calculations are no substitute for hands-on testing.</li>
+<li>As you test on each surface, keep data in the form of a chart. This allows you to accurately replicate your vehicle's performance for the day of competition.</li></ul>
+<p>There are functions for time and distance and the inaccurate times are highlighted in order to be ignored during LSRS calculation.
+</p>
+<ul><li>Another way to calculate the number of turns you need for a given distance is to pick a random number of turns then see how far your vehicle went. Repeat that at least 10 times, picking different numbers for axle rotations, and record the data. From that data, you can create a line of best fit that will give you accurate results.</li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Technology_and_Engineering_Events" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/index.php/Template:Technology_and_Engineering_Event" title="Template:Technology and Engineering Event"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/index.php?title=Template_talk:Technology_and_Engineering_Event&amp;action=edit&amp;redlink=1" class="new" title="Template talk:Technology and Engineering Event (page does not exist)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a rel="nofollow" class="external text" href="https://scioly.org/wiki/index.php?title=Template:Technology_and_Engineering_Event&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Technology_and_Engineering_Events" style="font-size:114%;margin:0 4em">Technology and Engineering Events</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">National Events</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Balloon_Launch_Glider" title="Balloon Launch Glider">Balloon Launch Glider</a></li>
+<li><a href="/wiki/index.php/Battery_Buggy" title="Battery Buggy">Battery Buggy</a></li>
+<li><a href="/wiki/index.php/Boomilever" title="Boomilever">Boomilever</a></li>
+<li><a href="/wiki/index.php/Bridge_Building" title="Bridge Building">Bridge Building</a></li>
+<li><a href="/wiki/index.php/Detector_Building" title="Detector Building">Detector Building</a></li>
+<li><a href="/wiki/index.php/Egg-O-Naut" title="Egg-O-Naut">Egg-O-Naut</a></li>
+<li><a href="/wiki/index.php/Elastic_Launched_Glider" title="Elastic Launched Glider">Elastic Launched Glider</a></li>
+<li><a href="/wiki/index.php/Electric_Vehicle" title="Electric Vehicle">Electric Vehicle</a></li>
+<li><a href="/wiki/index.php/Elevated_Bridge" title="Elevated Bridge">Elevated Bridge</a></li>
+<li><a class="mw-selflink selflink">Gravity Vehicle</a></li>
+<li><a href="/wiki/index.php/Helicopters" title="Helicopters">Helicopters</a></li>
+<li><a href="/wiki/index.php/Junkyard_Challenge" title="Junkyard Challenge">Junkyard Challenge</a></li>
+<li><a href="/wiki/index.php/Mission_Possible" title="Mission Possible">Mission Possible</a></li>
+<li><a href="/wiki/index.php/Mousetrap_Vehicle" title="Mousetrap Vehicle">Mousetrap Vehicle</a></li>
+<li><a href="/wiki/index.php/Robo-Cross" title="Robo-Cross">Robo-Cross</a></li>
+<li><a href="/wiki/index.php/Robot_Arm" title="Robot Arm">Robot Arm</a></li>
+<li><a href="/wiki/index.php/Robot_Ramble" title="Robot Ramble">Robot Ramble</a></li>
+<li><a href="/wiki/index.php/Roller_Coaster" title="Roller Coaster">Roller Coaster</a></li>
+<li><a href="/wiki/index.php/Scrambler" title="Scrambler">Scrambler</a></li>
+<li><a href="/wiki/index.php/Towers" title="Towers">Towers</a></li>
+<li><a href="/wiki/index.php/Wheeled_Vehicle" title="Wheeled Vehicle">Wheeled Vehicle</a></li>
+<li><a href="/wiki/index.php/Wright_Stuff" title="Wright Stuff">Wright Stuff</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Trial Events</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Aerial_Scramble" title="Aerial Scramble">Aerial Scramble</a></li>
+<li><a href="/wiki/index.php/Amazing_Mechatronics" title="Amazing Mechatronics">Amazing Mechatronics</a></li>
+<li><a href="/wiki/index.php/Electric_Wright_Stuff" title="Electric Wright Stuff">Electric Wright Stuff</a></li>
+<li><a href="/wiki/index.php/Flying_Bird" title="Flying Bird">Flying Bird</a></li>
+<li><a href="/wiki/index.php/Robot_Tour" title="Robot Tour">Robot Tour</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Event Resources</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/MPC_Index" title="MPC Index">Mission Possible Series</a></li>
+<li><a href="/wiki/index.php/Zero_Cost_Scrambler" title="Zero Cost Scrambler">Zero Cost Scrambler</a></li>
+<li><a href="/wiki/index.php/Aia%27s_Boomilever_Guide" title="Aia&#39;s Boomilever Guide">Aia's Boomilever Guide</a></li>
+<li><a href="/wiki/index.php/Mousetrap_Vehicle_2010_Design" title="Mousetrap Vehicle 2010 Design">Mousetrap Vehicle 2010 Design</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="2020.2F2021_Events" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/index.php/Template:2021Events" title="Template:2021Events"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/index.php?title=Template_talk:2021Events&amp;action=edit&amp;redlink=1" class="new" title="Template talk:2021Events (page does not exist)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a rel="nofollow" class="external text" href="https://scioly.org/wiki/index.php?title=Template:2021Events&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="2020.2F2021_Events" style="font-size:114%;margin:0 4em">2020/2021 Events</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Division B Events</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Anatomy_and_Physiology" title="Anatomy and Physiology">Anatomy and Physiology</a></li>
+<li><a href="/wiki/index.php/Boomilever" title="Boomilever">Boomilever</a></li>
+<li><a href="/wiki/index.php/Circuit_Lab" title="Circuit Lab">Circuit Lab</a></li>
+<li><a href="/wiki/index.php/Crime_Busters" title="Crime Busters">Crime Busters</a></li>
+<li><a href="/wiki/index.php/Density_Lab" title="Density Lab">Density Lab</a></li>
+<li><a href="/wiki/index.php/Disease_Detectives" title="Disease Detectives">Disease Detectives</a></li>
+<li><a href="/wiki/index.php/Dynamic_Planet_Topics" title="Dynamic Planet Topics">Dynamic Planet</a></li>
+<li><a href="/wiki/index.php/Elastic_Launched_Glider" title="Elastic Launched Glider">Elastic Launched Glider</a></li>
+<li><a href="/wiki/index.php/Experimental_Design" title="Experimental Design">Experimental Design</a></li>
+<li><a href="/wiki/index.php/Food_Science" title="Food Science">Food Science</a></li>
+<li><a href="/wiki/index.php/Fossils" title="Fossils">Fossils</a></li>
+<li><a href="/wiki/index.php/Game_On" title="Game On">Game On</a></li>
+<li><a href="/wiki/index.php/Heredity" title="Heredity">Heredity</a></li>
+<li><a href="/wiki/index.php/Machines" title="Machines">Machines</a></li>
+<li><a href="/wiki/index.php/Meteorology" title="Meteorology">Meteorology</a></li>
+<li><a href="/wiki/index.php/Mission_Possible" title="Mission Possible">Mission Possible</a></li>
+<li><a href="/wiki/index.php/Mousetrap_Vehicle" title="Mousetrap Vehicle">Mousetrap Vehicle</a></li>
+<li><a href="/wiki/index.php/Ornithology" title="Ornithology">Ornithology</a></li>
+<li><a href="/wiki/index.php/Ping_Pong_Parachute" title="Ping Pong Parachute">Ping Pong Parachute</a></li>
+<li><a href="/wiki/index.php/Reach_for_the_Stars" title="Reach for the Stars">Reach for the Stars</a></li>
+<li><a href="/wiki/index.php/Road_Scholar" title="Road Scholar">Road Scholar</a></li>
+<li><a href="/wiki/index.php/Water_Quality" title="Water Quality">Water Quality</a></li>
+<li><a href="/wiki/index.php/Write_It_Do_It" title="Write It Do It">Write It Do It</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Division C Events</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Anatomy_and_Physiology" title="Anatomy and Physiology">Anatomy and Physiology</a></li>
+<li><a href="/wiki/index.php/Astronomy" title="Astronomy">Astronomy</a></li>
+<li><a href="/wiki/index.php/Boomilever" title="Boomilever">Boomilever</a></li>
+<li><a href="/wiki/index.php/Chemistry_Lab" title="Chemistry Lab">Chemistry Lab</a></li>
+<li><a href="/wiki/index.php/Circuit_Lab" title="Circuit Lab">Circuit Lab</a></li>
+<li><a href="/wiki/index.php/Codebusters" title="Codebusters">Codebusters</a></li>
+<li><a href="/wiki/index.php/Designer_Genes" title="Designer Genes">Designer Genes</a></li>
+<li><a href="/wiki/index.php/Detector_Building" title="Detector Building">Detector Building</a></li>
+<li><a href="/wiki/index.php/Disease_Detectives" title="Disease Detectives">Disease Detectives</a></li>
+<li><a href="/wiki/index.php/Dynamic_Planet_Topics" title="Dynamic Planet Topics">Dynamic Planet</a></li>
+<li><a href="/wiki/index.php/Experimental_Design" title="Experimental Design">Experimental Design</a></li>
+<li><a href="/wiki/index.php/Forensics" title="Forensics">Forensics</a></li>
+<li><a href="/wiki/index.php/Fossils" title="Fossils">Fossils</a></li>
+<li><a href="/wiki/index.php/GeoLogic_Mapping" title="GeoLogic Mapping">GeoLogic Mapping</a></li>
+<li><a class="mw-selflink selflink">Gravity Vehicle</a></li>
+<li><a href="/wiki/index.php/Machines" title="Machines">Machines</a></li>
+<li><a href="/wiki/index.php/Ornithology" title="Ornithology">Ornithology</a></li>
+<li><a href="/wiki/index.php/Ping_Pong_Parachute" title="Ping Pong Parachute">Ping Pong Parachute</a></li>
+<li><a href="/wiki/index.php/Protein_Modeling" title="Protein Modeling">Protein Modeling</a></li>
+<li><a href="/wiki/index.php/Sounds_of_Music" title="Sounds of Music">Sounds of Music</a></li>
+<li><a href="/wiki/index.php/Water_Quality" title="Water Quality">Water Quality</a></li>
+<li><a href="/wiki/index.php/Wright_Stuff" title="Wright Stuff">Wright Stuff</a></li>
+<li><a href="/wiki/index.php/Write_It_Do_It" title="Write It Do It">Write It Do It</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Division B National Trials 2020</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Aerial_Scramble" title="Aerial Scramble">Aerial Scramble</a></li>
+<li><a href="/wiki/index.php/Amazing_Mechatronics" title="Amazing Mechatronics">Amazing Mechatronics</a></li>
+<li><a href="/wiki/index.php/Codebusters" title="Codebusters">Codebusters</a></li>
+<li><a href="/wiki/index.php/Storm_the_Castle" title="Storm the Castle">Storm the Castle</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Division C National Trials 2020</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Aerial_Scramble" title="Aerial Scramble">Aerial Scramble</a></li>
+<li><a href="/wiki/index.php/Amazing_Mechatronics" title="Amazing Mechatronics">Amazing Mechatronics</a></li>
+<li><a href="/wiki/index.php/Environmental_Chemistry" title="Environmental Chemistry">Environmental Chemistry</a></li>
+<li><a href="/wiki/index.php/Trajectory" title="Trajectory">Trajectory</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Division B National Trials 2021</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Aerial_Scramble" title="Aerial Scramble">Aerial Scramble</a></li>
+<li><a href="/wiki/index.php/Awesome_Aquifers" title="Awesome Aquifers">Awesome Aquifers</a></li>
+<li><a href="/wiki/index.php/Botany" title="Botany">Botany</a></li>
+<li><a href="/wiki/index.php/Codebusters" title="Codebusters">Codebusters</a></li>
+<li><a href="/wiki/index.php/Electric_Wright_Stuff" title="Electric Wright Stuff">Electric Wright Stuff</a></li>
+<li><a href="/wiki/index.php/Home_Horticulture" title="Home Horticulture">Home Horticulture</a></li>
+<li><a href="/wiki/index.php/Solar_Power" title="Solar Power">Solar Power</a></li>
+<li><a href="/wiki/index.php/Storm_the_Castle" title="Storm the Castle">Storm the Castle</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Division C National Trials 2021</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Aerial_Scramble" title="Aerial Scramble">Aerial Scramble</a></li>
+<li><a href="/wiki/index.php/Botany" title="Botany">Botany</a></li>
+<li><a href="/wiki/index.php/Electric_Wright_Stuff" title="Electric Wright Stuff">Electric Wright Stuff</a></li>
+<li><a href="/wiki/index.php/Environmental_Chemistry" title="Environmental Chemistry">Environmental Chemistry</a></li>
+<li><a href="/wiki/index.php/Home_Horticulture" title="Home Horticulture">Home Horticulture</a></li>
+<li><a href="/wiki/index.php/Robot_Tour" title="Robot Tour">Robot Tour</a></li>
+<li><a href="/wiki/index.php/Solar_Power" title="Solar Power">Solar Power</a></li>
+<li><a href="/wiki/index.php/Trajectory" title="Trajectory">Trajectory</a></li>
+<li><a href="/wiki/index.php/WiFi_Lab" title="WiFi Lab">WiFi Lab</a></li></ul>
+</div></td></tr></tbody></table></div>
+
+<!-- 
+NewPP limit report
+Cached time: 20200806182843
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.376 seconds
+Real time usage: 0.457 seconds
+Preprocessor visited node count: 513/1000000
+Preprocessor generated node count: 4714/1000000
+Post‐expand include size: 24480/2097152 bytes
+Template argument size: 1472/2097152 bytes
+Highest expansion depth: 10/40
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.040/7.000 seconds
+Lua virtual size: 8.62 MB/50 MB
+Lua estimated memory usage: 0 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  182.299      1 -total
+ 61.88%  112.800      2 Template:Navbox
+ 50.11%   91.348      1 Template:Technology_and_Engineering_Event
+ 26.55%   48.399      1 Template:EventLinksBox
+ 19.77%   36.041      1 Template:2021Events
+  2.49%    4.532      2 Template:Wikipedia
+-->
+</div>
+<!-- Saved in parser cache with key wiki-wikiv2_:pcache:idhash:3086-0!canonical and timestamp 20200806182843 and revision id 106482
+ -->
+</div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://scioly.org/wiki/index.php?title=Gravity_Vehicle&amp;oldid=106482">https://scioly.org/wiki/index.php?title=Gravity_Vehicle&amp;oldid=106482</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/index.php/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/index.php/Category:Technology_and_Engineering_Events" title="Category:Technology and Engineering Events">Technology and Engineering Events</a></li><li><a href="/wiki/index.php/Category:Event_Pages" title="Category:Event Pages">Event Pages</a></li><li><a href="/wiki/index.php/Category:Building_Event_Pages" title="Category:Building Event Pages">Building Event Pages</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-login"><a href="//scioly.org/forums/ucp.php?mode=login&amp;redirect=https%3A%2F%2Fscioly.org%2Fwiki%2Findex.php%2FGravity_Vehicle" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/index.php/Gravity_Vehicle" title="View the content page [c]" accesskey="c">Page</a></span></li><li id="ca-talk" class="new"><span><a href="/wiki/index.php?title=Talk:Gravity_Vehicle&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/index.php/Gravity_Vehicle">Read</a></span></li><li id="ca-viewsource" class="collapsible"><span><a href="/wiki/index.php?title=Gravity_Vehicle&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li><li id="ca-history" class="collapsible"><span><a href="/wiki/index.php?title=Gravity_Vehicle&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/wiki/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Scioly.org" title="Search Scioly.org [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/index.php/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage"><a href="/wiki/index.php/Main_Page" title="Visit the main page [z]" accesskey="z">Main Page</a></li><li id="n-recentchanges"><a href="/wiki/index.php/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/wiki/index.php/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-MediaWiki-Help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">MediaWiki Help</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/index.php/Special:WhatLinksHere/Gravity_Vehicle" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/index.php/Special:RecentChangesLinked/Gravity_Vehicle" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/wiki/index.php/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="/wiki/index.php?title=Gravity_Vehicle&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/wiki/index.php?title=Gravity_Vehicle&amp;oldid=106482" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/wiki/index.php?title=Gravity_Vehicle&amp;action=info" title="More information about this page">Page information</a></li>				</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 6 August 2020, at 06:20.</li>
+								<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution</a> unless otherwise noted.</li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="http://creativecommons.org/licenses/by/3.0/"><img src="/wiki/resources/assets/licenses/cc-by.png" alt="Creative Commons Attribution" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<style>.MathJax_Display{display:inline !important;}
+.mathjax-wrapper{font-size:120%;}</style>
+<script type='text/x-mathjax-config'>MathJax.Hub.Config({displayAlign:'left',tex2jax:{displayMath:[['[math]','[/math]']]}})</script>
+<script src='//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.376","walltime":"0.457","ppvisitednodes":{"value":513,"limit":1000000},"ppgeneratednodes":{"value":4714,"limit":1000000},"postexpandincludesize":{"value":24480,"limit":2097152},"templateargumentsize":{"value":1472,"limit":2097152},"expansiondepth":{"value":10,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%  182.299      1 -total"," 61.88%  112.800      2 Template:Navbox"," 50.11%   91.348      1 Template:Technology_and_Engineering_Event"," 26.55%   48.399      1 Template:EventLinksBox"," 19.77%   36.041      1 Template:2021Events","  2.49%    4.532      2 Template:Wikipedia"]},"scribunto":{"limitreport-timeusage":{"value":"0.040","limit":"7.000"},"limitreport-virtmemusage":{"value":9039872,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20200806182843","ttl":86400,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":164});});</script>
+	</body>
+</html>

@@ -1,0 +1,1190 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Nebraska - Scioly.org</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Nebraska","wgTitle":"Nebraska","wgCurRevisionId":105520,"wgRevisionId":105520,"wgArticleId":266,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["State Pages"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Nebraska","wgRelevantArticleId":266,"wgRequestId":"2a26b90e7dad2f1452eb441c","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":[]});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","site":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@1ltrs49",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","jquery.tablesorter","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/wiki/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/wiki/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/wiki/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.8"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/wiki/opensearch_desc.php" title="Scioly.org (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://scioly.org/wiki/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Scioly.org Atom feed" href="/wiki/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/wiki/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Nebraska rootpage-Nebraska skin-vector action-view"><meta property="og:title" content="Science Olympiad Student Center"/>
+<meta property="og:type" content="website"/>
+<meta property="og:url" content="https://scioly.org/"/>
+
+<meta property="og:image" content="http://scioly.org/src/img/logo/logo_square.png"/>
+<meta property="og:image:secure_url" content="https://scioly.org/src/img/logo/logo_square.png"/> 
+<meta property="og:image:type" content="image/png"/> 
+<meta property="og:image:width" content="500"/> 
+<meta property="og:image:height" content="500"/>
+
+<meta property="og:description" content="A resource by and for Science Olympiad students, coaches, and alumni nationwide."/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script type="text/javascript" src="/src/js/jquery.min.js"></script>
+<script type="text/javascript" src="/src/js/main.js"></script>
+
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+<link rel="stylesheet" type="text/css" href="/src/css/main.css">
+
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<link rel="icon" href="/favicon.ico" type="image/x-icon"><div class="site-nav">
+	<a href="/">
+		<img src="/src/img/logo/logo.png">
+	</a>
+	<div class="hamburger" onclick="hamburger(this)">
+		<div>
+			<div></div>
+			<div></div>
+			<div></div>
+		</div>
+	</div>
+	<ul>
+		<li><a href="/forums">Forums</a></li>
+		<li><a href="/wiki">Wiki</a></li>
+		<li><a href="/tests">Test Exchange</a></li>
+		<!-- <li><a href="/gallery">Image Gallery</a></li> -->
+		<!-- <li><a href="/invitational">Invites</a></li> -->
+		<li><a href="/chat">Chat</a></li>
+		<li><a href="/login" class="button">Login</a></li>
+	</ul>
+</div>
+<img class="print-only" src="/src/img/logo/logo_black.png" style="max-width: 150px;"><link rel="stylesheet" type="text/css" href="/src/css/wiki.css">
+<div id="wrap-me-up">
+
+
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Nebraska</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Scioly.org</div>				<div id="contentSub"></div>
+								<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table align="right" class="infobox">
+
+<tbody><tr>
+<th colspan="2" style="font-size: larger; text-align: center;"><b>Nebraska</b>
+</th></tr>
+<tr>
+<td colspan="2"><center><a href="/wiki/index.php/File:Nebraska.svg" class="image"><img alt="Nebraska.svg" src="/wiki/images/thumb/f/f2/Nebraska.svg/200px-Nebraska.svg.png" width="200" height="130" srcset="/wiki/images/thumb/f/f2/Nebraska.svg/300px-Nebraska.svg.png 1.5x, /wiki/images/thumb/f/f2/Nebraska.svg/400px-Nebraska.svg.png 2x" /></a></center>
+</td></tr>
+<tr>
+<td colspan="2" style="margin: 5px; background-color: lavender; text-align: center;"><b>General Information</b>
+</td></tr>
+<tr>
+<td style="width: 100px;"><b>Member of SO since</b>
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="width: 100px;"><b>Total teams</b>
+</td>
+<td>126
+</td></tr>
+<tr>
+<td style="width: 100px;"><b><a href="/wiki/index.php/Division_B" title="Division B">Division B</a> Champion</b>
+</td>
+<td><a href="/wiki/index.php/Mission_Middle_School" class="mw-redirect" title="Mission Middle School">Mission Middle School</a>
+</td></tr>
+<tr>
+<td style="width: 100px;"><b><a href="/wiki/index.php/Division_C" title="Division C">Division C</a> Champion</b>
+</td>
+<td><a href="/wiki/index.php/Lincoln_Southwest_High_School" title="Lincoln Southwest High School">Lincoln Southwest High School</a>
+</td></tr>
+<tr>
+<td style="width: 100px;"><b>State Tournament Location</b>
+</td>
+<td>University of Nebraska-Lincoln (East Campus)
+</td></tr>
+<tr>
+<td style="width: 100px;"><b>Date</b>
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="width: 100px;"><b>Website</b>
+</td>
+<td><a rel="nofollow" class="external free" href="https://nebraskaacademyofsciences.wildapricot.org/ScienceOlympiad/">https://nebraskaacademyofsciences.wildapricot.org/ScienceOlympiad/</a>
+</td></tr>
+</tbody></table>
+<p><br />
+</p><p><br />
+</p>
+<div id="toc" class="toc"><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Past_State_Champions"><span class="tocnumber">1.1</span> <span class="toctext">Past State Champions</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Competitions"><span class="tocnumber">2</span> <span class="toctext">Competitions</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Invitationals"><span class="tocnumber">2.1</span> <span class="toctext">Invitationals</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Regionals"><span class="tocnumber">2.2</span> <span class="toctext">Regionals</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#State_Competition"><span class="tocnumber">2.3</span> <span class="toctext">State Competition</span></a>
+<ul>
+<li class="toclevel-3 tocsection-7"><a href="#State_Competition_Results"><span class="tocnumber">2.3.1</span> <span class="toctext">State Competition Results</span></a>
+<ul>
+<li class="toclevel-4 tocsection-8"><a href="#Division_B"><span class="tocnumber">2.3.1.1</span> <span class="toctext">Division B</span></a></li>
+<li class="toclevel-4 tocsection-9"><a href="#Division_C"><span class="tocnumber">2.3.1.2</span> <span class="toctext">Division C</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#Teams"><span class="tocnumber">3</span> <span class="toctext">Teams</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#External_Links"><span class="tocnumber">4</span> <span class="toctext">External Links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span></h2>
+<h3><span class="mw-headline" id="Past_State_Champions">Past State Champions</span></h3>
+<p>This is a record of the past state champions and runners up, and their respective places at the national competition, if applicable.  Scores at the state competition may be shown in parentheses.
+</p>
+<table class="wikitable sortable" style="text-align:center">
+
+<tbody><tr>
+<th rowspan="3"><big>Season</big></th>
+<th colspan="5"><big>Division B</big></th>
+<th colspan="5"><big>Division C</big>
+</th></tr>
+<tr>
+<th colspan="2"><big>Champion</big></th>
+<th colspan="2"><big>Runner-Up</big></th>
+<th><big>Third Place</big></th>
+<th colspan="2"><big>Champion</big></th>
+<th colspan="2"><big>Runner-Up</big></th>
+<th><big>Third Place</big>
+</th></tr>
+<tr>
+<th><big>Team</big></th>
+<th><big>Nats Place</big></th>
+<th><big>Team</big></th>
+<th><big>Nats Place</big></th>
+<th><big>Team</big></th>
+<th><big>Team</big></th>
+<th><big>Nats Place</big></th>
+<th><big>Team</big></th>
+<th><big>Nats Place</big></th>
+<th><big>Team</big>
+</th></tr>
+
+
+
+
+
+
+<tr>
+<td><b><a href="/wiki/index.php?title=1988_Nebraska_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="1988 Nebraska State Tournament (page does not exist)">1988</a> </b></td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>Papillion LaVista High School
+</td>
+<td>43rd
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=1989_Nebraska_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="1989 Nebraska State Tournament (page does not exist)">1989</a> </b></td>
+<td>Irving Middle School
+</td>
+<td>38th
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>Lincoln East High School
+</td>
+<td>32nd
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=1990_Nebraska_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="1990 Nebraska State Tournament (page does not exist)">1990</a> </b></td>
+<td>Pound Junior High School
+</td>
+<td>25th
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>Lincoln East High School
+</td>
+<td>30th
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=1991_Nebraska_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="1991 Nebraska State Tournament (page does not exist)">1991</a> </b></td>
+<td>Pound Junior High School
+</td>
+<td>31st
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>Lincoln East High School
+</td>
+<td>41st
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=1992_Nebraska_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="1992 Nebraska State Tournament (page does not exist)">1992</a> </b></td>
+<td>Irving Middle School
+</td>
+<td>41st
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>Lincoln Southeast High School
+</td>
+<td>38th
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=1993_Nebraska_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="1993 Nebraska State Tournament (page does not exist)">1993</a> </b></td>
+<td>Andersen Middle School
+</td>
+<td>14th
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>Lincoln High School
+</td>
+<td>38th
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=1994_Nebraska_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="1994 Nebraska State Tournament (page does not exist)">1994</a> </b></td>
+<td>Andersen Middle School
+</td>
+<td>23rd
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>Lincoln Southeast High School
+</td>
+<td>36th
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=1995_Nebraska_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="1995 Nebraska State Tournament (page does not exist)">1995</a> </b></td>
+<td>Irving Middle School
+</td>
+<td>38th
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>Lincoln Southeast High School
+</td>
+<td>43rd
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=1996_Nebraska_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="1996 Nebraska State Tournament (page does not exist)">1996</a> </b></td>
+<td>Mission Middle School
+</td>
+<td>41st
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>Lincoln Southeast High School
+</td>
+<td>24th
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=1997_Nebraska_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="1997 Nebraska State Tournament (page does not exist)">1997</a> </b></td>
+<td>Irving Middle School
+</td>
+<td>35th
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>Lincoln Southeast High School
+</td>
+<td>42nd
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=1998_Nebraska_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="1998 Nebraska State Tournament (page does not exist)">1998</a> </b></td>
+<td>Irving Middle School
+</td>
+<td>30th
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>Lincoln Southeast High School
+</td>
+<td>27th
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=1999_Nebraska_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="1999 Nebraska State Tournament (page does not exist)">1999</a> </b></td>
+<td>Goodrich Middle School
+</td>
+<td>43rd
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td>Lincoln Southeast High School
+</td>
+<td>28th
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=2000_Nebraska_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2000 Nebraska State Tournament (page does not exist)">2000</a> </b></td>
+<td>Mission Middle School
+</td>
+<td>40th
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td>Lincoln Southeast High School
+</td>
+<td>27th
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=2001_Nebraska_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2001 Nebraska State Tournament (page does not exist)">2001</a> </b></td>
+<td>Mission Middle School
+</td>
+<td>43rd
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td>Lincoln Southeast High School
+</td>
+<td>33rd
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=2002_Nebraska_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2002 Nebraska State Tournament (page does not exist)">2002</a> </b></td>
+<td>Irving Middle School
+</td>
+<td>42nd
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td>Lincoln Southeast High School
+</td>
+<td>45th
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=2003_Nebraska_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2003 Nebraska State Tournament (page does not exist)">2003</a> </b></td>
+<td>Lux Middle School
+</td>
+<td>33rd
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td>Bellevue East High School
+</td>
+<td>46th
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=2004_Nebraska_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2004 Nebraska State Tournament (page does not exist)">2004</a> </b></td>
+<td>Lux Middle School
+</td>
+<td>46th
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td>Lincoln East High School
+</td>
+<td>48th
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=2005_Nebraska_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2005 Nebraska State Tournament (page does not exist)">2005</a> </b></td>
+<td>Mission Middle School
+</td>
+<td>39th
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td>Lincoln East High School
+</td>
+<td>54th
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=2006_Nebraska_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2006 Nebraska State Tournament (page does not exist)">2006</a> </b></td>
+<td>Mission Middle School
+</td>
+<td>33rd
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td>Bellevue West High School
+</td>
+<td>48th
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=2007_Nebraska_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2007 Nebraska State Tournament (page does not exist)">2007</a> </b></td>
+<td>Mission Middle School
+</td>
+<td>20th
+</td>
+<td>Logan Fontenelle Middle School
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td>Bellevue West High School
+</td>
+<td>42nd
+</td>
+<td>Lincoln Southeast High School
+</td>
+<td>N/A
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=2008_Nebraska_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2008 Nebraska State Tournament (page does not exist)">2008</a> </b></td>
+<td>Mission Middle School
+</td>
+<td>31st
+</td>
+<td>Logan Fontenelle Middle School
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td>Lincoln Southwest High School
+</td>
+<td>50th
+</td>
+<td>Bellevue East High School
+</td>
+<td>N/A
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=2009_Nebraska_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2009 Nebraska State Tournament (page does not exist)">2009</a> </b></td>
+<td>Mission Middle School
+</td>
+<td>40th
+</td>
+<td>Logan Fontenelle Middle School
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td>Lincoln Southwest High School
+</td>
+<td>41st
+</td>
+<td>Bellevue West High School
+</td>
+<td>N/A
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=2010_Nebraska_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2010 Nebraska State Tournament (page does not exist)">2010</a> </b></td>
+<td>Mission Middle School
+</td>
+<td>27th
+</td>
+<td>Lewis and Clark Middle School
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td>Bellevue East High School
+</td>
+<td>57th
+</td>
+<td>Bellevue West High School
+</td>
+<td>N/A
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=2011_Nebraska_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2011 Nebraska State Tournament (page does not exist)">2011</a> </b></td>
+<td>Mission Middle School
+</td>
+<td>38th
+</td>
+<td>Lewis and Clark Middle School
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td>Lincoln Southwest High School
+</td>
+<td>41st
+</td>
+<td>Bellevue West High School
+</td>
+<td>N/A
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=2012_Nebraska_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2012 Nebraska State Tournament (page does not exist)">2012</a> </b></td>
+<td>Mission Middle School
+</td>
+<td>28th
+</td>
+<td>Lewis and Clark Middle School
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td>Lincoln Southwest High School
+</td>
+<td>40th
+</td>
+<td>Bellevue West High School
+</td>
+<td>N/A
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=2013_Nebraska_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2013 Nebraska State Tournament (page does not exist)">2013</a> </b></td>
+<td>Mission Middle School
+</td>
+<td>27th
+</td>
+<td>Scott Middle School
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td>Lincoln Southwest High School
+</td>
+<td>37th
+</td>
+<td>Bellevue East High School
+</td>
+<td>N/A
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=2014_Nebraska_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2014 Nebraska State Tournament (page does not exist)">2014</a> </b></td>
+<td>Mission Middle School
+</td>
+<td>30th
+</td>
+<td>Logan Fontenelle Middle School
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td>Lincoln Southwest High School
+</td>
+<td>40th
+</td>
+<td>Bellevue West High School
+</td>
+<td>N/A
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=2015_Nebraska_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2015 Nebraska State Tournament (page does not exist)">2015</a> </b></td>
+<td>Mission Middle School
+</td>
+<td>43rd
+</td>
+<td>Logan Fontenelle Middle School
+</td>
+<td>53rd
+</td>
+<td>
+</td>
+<td>Lincoln Southwest High School
+</td>
+<td>23rd
+</td>
+<td><a href="/wiki/index.php?title=Bellevue_West_High_School&amp;action=edit&amp;redlink=1" class="new" title="Bellevue West High School (page does not exist)">Bellevue West High School</a>
+</td>
+<td>N/A
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=2016_Nebraska_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2016 Nebraska State Tournament (page does not exist)">2016</a> </b></td>
+<td>Mission Middle School
+</td>
+<td>46th
+</td>
+<td>Logan Fontenelle Middle School<sup>1</sup>
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td>Lincoln Southwest High School
+</td>
+<td>27th
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=2017_Nebraska_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2017 Nebraska State Tournament (page does not exist)">2017</a> </b></td>
+<td><a href="/wiki/index.php/Mission_Middle_School" class="mw-redirect" title="Mission Middle School">Mission Middle School</a>
+</td>
+<td>46th
+</td>
+<td><a href="/wiki/index.php/Logan_Fontenelle_Middle_School" class="mw-redirect" title="Logan Fontenelle Middle School">Logan Fontenelle Middle School</a>
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td><a href="/wiki/index.php/Lincoln_Southwest_High_School" title="Lincoln Southwest High School">Lincoln Southwest High School</a>
+</td>
+<td>35th
+</td>
+<td><a href="/wiki/index.php?title=Lincoln_East_High_School&amp;action=edit&amp;redlink=1" class="new" title="Lincoln East High School (page does not exist)">Lincoln East High School</a>
+</td>
+<td>N/A
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=2018_Nebraska_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2018 Nebraska State Tournament (page does not exist)">2018</a> </b></td>
+<td><a href="/wiki/index.php/Mission_Middle_School" class="mw-redirect" title="Mission Middle School">Mission Middle School</a>
+</td>
+<td>30th
+</td>
+<td><a href="/wiki/index.php?title=McMillan_Middle_School&amp;action=edit&amp;redlink=1" class="new" title="McMillan Middle School (page does not exist)">McMillan Middle School</a>
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td><a href="/wiki/index.php/Lincoln_Southwest_High_School" title="Lincoln Southwest High School">Lincoln Southwest High School</a>
+</td>
+<td>35th
+</td>
+<td><a href="/wiki/index.php?title=Lincoln_East_High_School&amp;action=edit&amp;redlink=1" class="new" title="Lincoln East High School (page does not exist)">Lincoln East High School</a>
+</td>
+<td>N/A
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=2019_Nebraska_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2019 Nebraska State Tournament (page does not exist)">2019</a> </b></td>
+<td><a href="/wiki/index.php/Mission_Middle_School" class="mw-redirect" title="Mission Middle School">Mission Middle School</a>
+</td>
+<td>50th
+</td>
+<td><a href="/wiki/index.php/Logan_Fontenelle_Middle_School" class="mw-redirect" title="Logan Fontenelle Middle School">Logan Fontenelle Middle School</a>
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td><a href="/wiki/index.php/Lincoln_Southwest_High_School" title="Lincoln Southwest High School">Lincoln Southwest High School</a>
+</td>
+<td>39th
+</td>
+<td><a href="/wiki/index.php?title=Lincoln_East_High_School&amp;action=edit&amp;redlink=1" class="new" title="Lincoln East High School (page does not exist)">Lincoln East High School</a>
+</td>
+<td>N/A
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=2020_Nebraska_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2020 Nebraska State Tournament (page does not exist)">2020</a> </b></td>
+<td colspan="10"><i>Cancelled due to the <a href="/wiki/index.php/2019-20_Coronavirus_outbreak" title="2019-20 Coronavirus outbreak">2019-20 Coronavirus outbreak</a></i>
+</td></tr>
+
+
+
+
+
+</tbody></table>
+<dl><dd></dd>
+<dd></dd>
+<dd></dd>
+<dd></dd>
+<dd></dd>
+<dd></dd>
+<dd></dd>
+<dd></dd>
+<dd></dd>
+<dd></dd></dl>
+<p><br />
+<sup>1</sup> Logan Fontenelle Middle School tied with Mission Middle School. The tiebreaker was broken on second-place medals.
+</p>
+<h2><span class="mw-headline" id="Competitions">Competitions</span></h2>
+<h3><span class="mw-headline" id="Invitationals">Invitationals</span></h3>
+<dl><dd><s><a href="/wiki/index.php/Bellevue_Invitational" title="Bellevue Invitational">Bellevue Invitational</a> (Division B) - March 28th, 2020, at <a href="/wiki/index.php/Bellevue_Logan_Fontenelle_Middle_School" title="Bellevue Logan Fontenelle Middle School">Bellevue Logan Fontenelle Middle School</a></s> Cancelled due to <a href="/wiki/index.php/2019-20_Coronavirus_outbreak" title="2019-20 Coronavirus outbreak">2019-20 Coronavirus outbreak</a></dd>
+<dd><a href="/wiki/index.php/Skutt_Catholic_Invitational" title="Skutt Catholic Invitational">Skutt Catholic Invitational</a> (Division C) - February 29th, 2020, at <a href="/wiki/index.php?title=Skutt_Catholic_High_School&amp;action=edit&amp;redlink=1" class="new" title="Skutt Catholic High School (page does not exist)">Skutt Catholic High School</a></dd>
+<dd><a href="/wiki/index.php/Hastings_Patriot_Invitational" title="Hastings Patriot Invitational">Hastings Patriot Invitational</a> - February 21st, 2020, at <a href="/wiki/index.php?title=Adams_Central_High_School&amp;action=edit&amp;redlink=1" class="new" title="Adams Central High School (page does not exist)">Adams Central High School</a></dd></dl>
+<h3><span class="mw-headline" id="Regionals">Regionals</span></h3>
+<dl><dd><s><a href="/wiki/index.php/Henry_Doorly_Zoo_Regional" title="Henry Doorly Zoo Regional">Henry Doorly Zoo Regional</a> - March 14th, 2020, at Omaha's Henry Doorly Zoo and Aquarium</s> Cancelled due to <a href="/wiki/index.php/2019-20_Coronavirus_outbreak" title="2019-20 Coronavirus outbreak">2019-20 Coronavirus outbreak</a></dd>
+<dd><a href="/wiki/index.php/Kearney_Regional" title="Kearney Regional">Kearney Regional</a> - March 24th, 2020, at University of Nebraska-Kearney</dd>
+<dd><a href="/wiki/index.php/Ogallala_Regional" title="Ogallala Regional">Ogallala Regional</a> - March 31st, 2020, at Keith County Fairgrounds</dd></dl>
+<h3><span class="mw-headline" id="State_Competition">State Competition</span></h3>
+<dl><dd><s>East Campus University of Nebraska-Lincoln - April 18, 2020</s> Cancelled due to <a href="/wiki/index.php/2019-20_Coronavirus_outbreak" title="2019-20 Coronavirus outbreak">2019-20 Coronavirus outbreak</a></dd></dl>
+<h4><span class="mw-headline" id="State_Competition_Results">State Competition Results</span></h4>
+<h5><span class="mw-headline" id="Division_B">Division B</span></h5>
+<dl><dd><a href="/wiki/images/2/25/2012_NE_B_Results.pdf" class="internal" title="2012 NE B Results.pdf">2012</a></dd>
+<dd><a href="/wiki/images/a/a6/2013_NE_B_Results.pdf" class="internal" title="2013 NE B Results.pdf">2013</a></dd>
+<dd><a href="/wiki/images/9/9d/2014_NE_B_Results.pdf" class="internal" title="2014 NE B Results.pdf">2014</a></dd>
+<dd><a href="/wiki/images/e/ee/2015_NE_B%26C_Results.pdf" class="internal" title="2015 NE B&amp;C Results.pdf">2015</a></dd>
+<dd><a href="/wiki/images/b/bf/2017_NE_B_Results.pdf" class="internal" title="2017 NE B Results.pdf">2017</a></dd>
+<dd><a href="/wiki/images/e/ee/2018_NE_B_Results.pdf" class="internal" title="2018 NE B Results.pdf">2018</a></dd>
+<dd><a href="/wiki/images/8/82/2019_NE_B_Results.pdf" class="internal" title="2019 NE B Results.pdf">2019</a></dd></dl>
+<h5><span class="mw-headline" id="Division_C">Division C</span></h5>
+<dl><dd><a href="/wiki/images/6/6e/2012_NE_C_Results.pdf" class="internal" title="2012 NE C Results.pdf">2012</a></dd>
+<dd><a href="/wiki/images/e/ec/2013_NE_C_Results.pdf" class="internal" title="2013 NE C Results.pdf">2013</a></dd>
+<dd><a href="/wiki/images/f/fd/2014_NE_C_Results.pdf" class="internal" title="2014 NE C Results.pdf">2014</a></dd>
+<dd><a href="/wiki/images/e/ee/2015_NE_B%26C_Results.pdf" class="internal" title="2015 NE B&amp;C Results.pdf">2015</a></dd>
+<dd><a href="/wiki/images/e/ee/2017_NE_C_Results.pdf" class="internal" title="2017 NE C Results.pdf">2017</a></dd>
+<dd><a href="/wiki/images/f/f1/2018_NE_C_Results.pdf" class="internal" title="2018 NE C Results.pdf">2018</a></dd>
+<dd><a href="/wiki/images/5/58/2019_NE_C_Results.pdf" class="internal" title="2019 NE C Results.pdf">2019</a></dd></dl>
+<h2><span class="mw-headline" id="Teams">Teams</span></h2>
+<p><b>Division B</b>
+</p>
+<dl><dd><a href="/wiki/index.php?title=Arcadia_Middle_School&amp;action=edit&amp;redlink=1" class="new" title="Arcadia Middle School (page does not exist)">Arcadia Middle School</a></dd>
+<dd><a href="/wiki/index.php?title=Auburn_Middle_School&amp;action=edit&amp;redlink=1" class="new" title="Auburn Middle School (page does not exist)">Auburn Middle School</a></dd>
+<dd><a href="/wiki/index.php?title=Beveridge_Middle_School&amp;action=edit&amp;redlink=1" class="new" title="Beveridge Middle School (page does not exist)">Beveridge Middle School</a></dd>
+<dd><a href="/wiki/index.php?title=Bryan_Middle_School_(Nebraska)&amp;action=edit&amp;redlink=1" class="new" title="Bryan Middle School (Nebraska) (page does not exist)">Bryan Middle School</a></dd>
+<dd><a href="/wiki/index.php?title=Creek_Valley_Middle_School&amp;action=edit&amp;redlink=1" class="new" title="Creek Valley Middle School (page does not exist)">Creek Valley Middle School</a></dd>
+<dd><a href="/wiki/index.php?title=Dorchester_Junior_High_School&amp;action=edit&amp;redlink=1" class="new" title="Dorchester Junior High School (page does not exist)">Dorchester Junior High School</a></dd>
+<dd><a href="/wiki/index.php?title=Elba_Middle_School&amp;action=edit&amp;redlink=1" class="new" title="Elba Middle School (page does not exist)">Elba Middle School</a></dd>
+<dd><a href="/wiki/index.php?title=Elkhorn_Ridge_Middle_School&amp;action=edit&amp;redlink=1" class="new" title="Elkhorn Ridge Middle School (page does not exist)">Elkhorn Ridge Middle School</a></dd>
+<dd><a href="/wiki/index.php?title=Elkhorn_Valley_View_Middle_School&amp;action=edit&amp;redlink=1" class="new" title="Elkhorn Valley View Middle School (page does not exist)">Elkhorn Valley View Middle School</a></dd>
+<dd><a href="/wiki/index.php?title=Elmwood-Murdock_Junior_High_School&amp;action=edit&amp;redlink=1" class="new" title="Elmwood-Murdock Junior High School (page does not exist)">Elmwood-Murdock Junior High School</a></dd>
+<dd><a href="/wiki/index.php?title=Irving_Middle_School&amp;action=edit&amp;redlink=1" class="new" title="Irving Middle School (page does not exist)">Irving Middle School</a></dd>
+<dd><a href="/wiki/index.php?title=Johnson-Brock_Public_School&amp;action=edit&amp;redlink=1" class="new" title="Johnson-Brock Public School (page does not exist)">Johnson-Brock Public School</a></dd>
+<dd><a href="/wiki/index.php?title=King_Science_and_Technology_Magnet_Center&amp;action=edit&amp;redlink=1" class="new" title="King Science and Technology Magnet Center (page does not exist)">King Science and Technology Magnet Center</a></dd>
+<dd><a href="/wiki/index.php/Lewis_and_Clark_Middle_School" class="mw-redirect" title="Lewis and Clark Middle School">Lewis and Clark Middle School</a></dd>
+<dd><a href="/wiki/index.php/Logan_Fontenelle_Middle_School" class="mw-redirect" title="Logan Fontenelle Middle School">Logan Fontenelle Middle School</a></dd>
+<dd><a href="/wiki/index.php?title=Madison_Middle_School_(Nebraska)&amp;action=edit&amp;redlink=1" class="new" title="Madison Middle School (Nebraska) (page does not exist)">Madison Middle School</a></dd>
+<dd><a href="/wiki/index.php/Monroe_Middle_School" title="Monroe Middle School">Monroe Middle School</a></dd>
+<dd><a href="/wiki/index.php?title=McMillan_Middle_School&amp;action=edit&amp;redlink=1" class="new" title="McMillan Middle School (page does not exist)">McMillan Middle School</a></dd>
+<dd><a href="/wiki/index.php/Mission_Middle_School" class="mw-redirect" title="Mission Middle School">Mission Middle School</a></dd>
+<dd><a href="/wiki/index.php?title=Morton_Middle_School&amp;action=edit&amp;redlink=1" class="new" title="Morton Middle School (page does not exist)">Morton Middle School</a></dd>
+<dd><a href="/wiki/index.php?title=Nebraska_City_Middle_School&amp;action=edit&amp;redlink=1" class="new" title="Nebraska City Middle School (page does not exist)">Nebraska City Middle School</a></dd>
+<dd><a href="/wiki/index.php?title=Ord_Junior_High_School&amp;action=edit&amp;redlink=1" class="new" title="Ord Junior High School (page does not exist)">Ord Junior High School</a></dd>
+<dd><a href="/wiki/index.php?title=Park_Middle_School&amp;action=edit&amp;redlink=1" class="new" title="Park Middle School (page does not exist)">Park Middle School</a></dd>
+<dd><a href="/wiki/index.php?title=Paxton_Junior_High_School&amp;action=edit&amp;redlink=1" class="new" title="Paxton Junior High School (page does not exist)">Paxton Junior High School</a></dd>
+<dd><a href="/wiki/index.php?title=Pound_Middle_School&amp;action=edit&amp;redlink=1" class="new" title="Pound Middle School (page does not exist)">Pound Middle School</a></dd>
+<dd><a href="/wiki/index.php?title=Scott_Middle_School&amp;action=edit&amp;redlink=1" class="new" title="Scott Middle School (page does not exist)">Scott Middle School</a></dd>
+<dd><a href="/wiki/index.php?title=Spalding_Middle_School&amp;action=edit&amp;redlink=1" class="new" title="Spalding Middle School (page does not exist)">Spalding Middle School</a></dd>
+<dd><a href="/wiki/index.php?title=St._Paul_Junior_High_School&amp;action=edit&amp;redlink=1" class="new" title="St. Paul Junior High School (page does not exist)">St. Paul Junior High School</a></dd>
+<dd><a href="/wiki/index.php?title=Winnebago_Junior_High_School&amp;action=edit&amp;redlink=1" class="new" title="Winnebago Junior High School (page does not exist)">Winnebago Junior High School</a></dd></dl>
+<p><b>Division C</b>
+</p>
+<dl><dd><a href="/wiki/index.php?title=Arcadia_High_School_(Nebraska)&amp;action=edit&amp;redlink=1" class="new" title="Arcadia High School (Nebraska) (page does not exist)">Arcadia High School</a></dd>
+<dd><a href="/wiki/index.php?title=Bellevue_East_High_School&amp;action=edit&amp;redlink=1" class="new" title="Bellevue East High School (page does not exist)">Bellevue East High School</a></dd>
+<dd><a href="/wiki/index.php?title=Bellevue_West_High_School&amp;action=edit&amp;redlink=1" class="new" title="Bellevue West High School (page does not exist)">Bellevue West High School</a></dd>
+<dd><a href="/wiki/index.php?title=Blair_High_School&amp;action=edit&amp;redlink=1" class="new" title="Blair High School (page does not exist)">Blair High School</a></dd>
+<dd><a href="/wiki/index.php?title=Creek_Valley_High_School&amp;action=edit&amp;redlink=1" class="new" title="Creek Valley High School (page does not exist)">Creek Valley High School</a></dd>
+<dd><a href="/wiki/index.php?title=Dorchester_Senior_High_School&amp;action=edit&amp;redlink=1" class="new" title="Dorchester Senior High School (page does not exist)">Dorchester Senior High School</a></dd>
+<dd><a href="/wiki/index.php?title=Elmwood-Murdock_Senior_High_School&amp;action=edit&amp;redlink=1" class="new" title="Elmwood-Murdock Senior High School (page does not exist)">Elmwood-Murdock Senior High School</a></dd>
+<dd><a href="/wiki/index.php?title=Grand_Island_Northwest_High_School&amp;action=edit&amp;redlink=1" class="new" title="Grand Island Northwest High School (page does not exist)">Grand Island Northwest High School</a></dd>
+<dd><a href="/wiki/index.php?title=Johnson-Brock_Public_School&amp;action=edit&amp;redlink=1" class="new" title="Johnson-Brock Public School (page does not exist)">Johnson-Brock Public School</a></dd>
+<dd><a href="/wiki/index.php?title=Lakeview_Senior_High_School&amp;action=edit&amp;redlink=1" class="new" title="Lakeview Senior High School (page does not exist)">Lakeview Senior High School</a></dd>
+<dd><a href="/wiki/index.php?title=Lincoln_East_High_School&amp;action=edit&amp;redlink=1" class="new" title="Lincoln East High School (page does not exist)">Lincoln East High School</a></dd>
+<dd><a href="/wiki/index.php?title=Lincoln_High_School_(Nebraska)&amp;action=edit&amp;redlink=1" class="new" title="Lincoln High School (Nebraska) (page does not exist)">Lincoln High School</a></dd>
+<dd><a href="/wiki/index.php?title=Lincoln_North_Star_High_School&amp;action=edit&amp;redlink=1" class="new" title="Lincoln North Star High School (page does not exist)">Lincoln North Star High School</a></dd>
+<dd><a href="/wiki/index.php?title=Lincoln_Science_Focus_Program&amp;action=edit&amp;redlink=1" class="new" title="Lincoln Science Focus Program (page does not exist)">Lincoln Science Focus Program</a></dd>
+<dd><a href="/wiki/index.php/Lincoln_Southeast_High_School" title="Lincoln Southeast High School">Lincoln Southeast High School</a></dd>
+<dd><a href="/wiki/index.php/Lincoln_Southwest_High_School" title="Lincoln Southwest High School">Lincoln Southwest High School</a></dd>
+<dd><a href="/wiki/index.php?title=Millard_West_High_School&amp;action=edit&amp;redlink=1" class="new" title="Millard West High School (page does not exist)">Millard West High School</a></dd>
+<dd><a href="/wiki/index.php?title=Ogallala_High_School&amp;action=edit&amp;redlink=1" class="new" title="Ogallala High School (page does not exist)">Ogallala High School</a></dd>
+<dd><a href="/wiki/index.php?title=Omaha_Bryan_High_School&amp;action=edit&amp;redlink=1" class="new" title="Omaha Bryan High School (page does not exist)">Omaha Bryan High School</a></dd>
+<dd><a href="/wiki/index.php?title=Omaha_Burke_High_School&amp;action=edit&amp;redlink=1" class="new" title="Omaha Burke High School (page does not exist)">Omaha Burke High School</a></dd>
+<dd><a href="/wiki/index.php?title=Omaha_Central_High_School&amp;action=edit&amp;redlink=1" class="new" title="Omaha Central High School (page does not exist)">Omaha Central High School</a></dd>
+<dd><a href="/wiki/index.php?title=Omaha_North_High_School&amp;action=edit&amp;redlink=1" class="new" title="Omaha North High School (page does not exist)">Omaha North High School</a></dd>
+<dd><a href="/wiki/index.php?title=Omaha_Northwest_High_School&amp;action=edit&amp;redlink=1" class="new" title="Omaha Northwest High School (page does not exist)">Omaha Northwest High School</a></dd>
+<dd><a href="/wiki/index.php?title=Ord_Senior_High_School&amp;action=edit&amp;redlink=1" class="new" title="Ord Senior High School (page does not exist)">Ord Senior High School</a></dd>
+<dd><a href="/wiki/index.php?title=Papillon-La_Vista_South_High_School&amp;action=edit&amp;redlink=1" class="new" title="Papillon-La Vista South High School (page does not exist)">Papillon-La Vista South High School</a></dd>
+<dd><a href="/wiki/index.php?title=Skutt_Catholic_High_School&amp;action=edit&amp;redlink=1" class="new" title="Skutt Catholic High School (page does not exist)">Skutt Catholic High School</a></dd>
+<dd><a href="/wiki/index.php?title=Thayer_Central_High_School&amp;action=edit&amp;redlink=1" class="new" title="Thayer Central High School (page does not exist)">Thayer Central High School</a></dd></dl>
+<h2><span class="mw-headline" id="External_Links">External Links</span></h2>
+<div role="navigation" class="navbox" aria-labelledby="Tournaments_of_Nebraska" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="3"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/index.php/Template:Tournaments_of_Nebraska" title="Template:Tournaments of Nebraska"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/index.php?title=Template_talk:Tournaments_of_Nebraska&amp;action=edit&amp;redlink=1" class="new" title="Template talk:Tournaments of Nebraska (page does not exist)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a rel="nofollow" class="external text" href="https://scioly.org/wiki/index.php?title=Template:Tournaments_of_Nebraska&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Tournaments_of_Nebraska" style="font-size:114%;margin:0 4em">Tournaments of <a class="mw-selflink selflink">Nebraska</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Invitationals</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Current</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Division B</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Bellevue_Invitational" title="Bellevue Invitational">Bellevue Invitational</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Division C</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Skutt_Catholic_Invitational" title="Skutt Catholic Invitational">Skutt Catholic Invitational</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Both Divisions</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Hastings_Patriot_Invitational" title="Hastings Patriot Invitational">Hastings Patriot Invitational</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Defunct</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th id="Division_C" scope="row" class="navbox-group" style="width:1%">Division C</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Lincoln_East_Invitational" title="Lincoln East Invitational">Lincoln East Invitational</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td><td class="navbox-image" rowspan="4" style="width:1px;padding:0px 0px 0px 2px"><div><a href="/wiki/index.php/Nebraska" title="Nebraska"><img alt="FlagOfNebraska.gif" src="/wiki/images/7/7e/FlagOfNebraska.gif" width="150" height="90" /></a></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/index.php?title=Regions_of_Nebraska&amp;action=edit&amp;redlink=1" class="new" title="Regions of Nebraska (page does not exist)">Regionals</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th id="Current" scope="row" class="navbox-group" style="width:1%">Current</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th id="Both_Divisions" scope="row" class="navbox-group" style="width:1%">Both Divisions</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Henry_Doorly_Zoo_Regional" title="Henry Doorly Zoo Regional">Henry Doorly Zoo Regional</a></li>
+<li><a href="/wiki/index.php/Kearney_Regional" title="Kearney Regional">Kearney Regional</a></li>
+<li><a href="/wiki/index.php/Ogallala_Regional" title="Ogallala Regional">Ogallala Regional</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">States</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php?title=2011_Nebraska_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2011 Nebraska State Tournament (page does not exist)">2011</a></li>
+<li><a href="/wiki/index.php?title=2012_Nebraska_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2012 Nebraska State Tournament (page does not exist)">2012</a></li>
+<li><a href="/wiki/index.php?title=2013_Nebraska_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2013 Nebraska State Tournament (page does not exist)">2013</a></li>
+<li><a href="/wiki/index.php?title=2014_Nebraska_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2014 Nebraska State Tournament (page does not exist)">2014</a></li>
+<li><a href="/wiki/index.php?title=2015_Nebraska_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2015 Nebraska State Tournament (page does not exist)">2015</a></li>
+<li><a href="/wiki/index.php?title=2016_Nebraska_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2016 Nebraska State Tournament (page does not exist)">2016</a></li>
+<li><a href="/wiki/index.php?title=2017_Nebraska_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2017 Nebraska State Tournament (page does not exist)">2017</a></li>
+<li><a href="/wiki/index.php?title=2018_Nebraska_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2018 Nebraska State Tournament (page does not exist)">2018</a></li>
+<li><a href="/wiki/index.php?title=2019_Nebraska_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2019 Nebraska State Tournament (page does not exist)">2019</a></li>
+<li><a href="/wiki/index.php?title=2020_Nebraska_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2020 Nebraska State Tournament (page does not exist)">2020</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Nationals</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/University_of_Nebraska_2015" title="University of Nebraska 2015">University of Nebraska 2015</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="3"><div>State Website: <a rel="nofollow" class="external free" href="https://nebraskaacademyofsciences.wildapricot.org/ScienceOlympiad/">https://nebraskaacademyofsciences.wildapricot.org/ScienceOlympiad/</a></div></td></tr></tbody></table></div>
+
+<!-- 
+NewPP limit report
+Cached time: 20200806223226
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.672 seconds
+Real time usage: 0.838 seconds
+Preprocessor visited node count: 2552/1000000
+Preprocessor generated node count: 10115/1000000
+Post‐expand include size: 50709/2097152 bytes
+Template argument size: 10414/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.100/7.000 seconds
+Lua virtual size: 8.86 MB/50 MB
+Lua estimated memory usage: 0 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  440.664      1 -total
+ 84.32%  371.566      6 Template:Navbox
+ 50.04%  220.511      1 Template:State_tournament_results_box
+ 47.87%  210.954      1 Template:Tournaments_of_Nebraska
+ 29.04%  127.953     33 Template:Strb_row
+  1.82%    8.015      1 Template:SOInfoBox
+-->
+</div>
+<!-- Saved in parser cache with key wiki-wikiv2_:pcache:idhash:266-0!canonical and timestamp 20200806223225 and revision id 105520
+ -->
+</div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://scioly.org/wiki/index.php?title=Nebraska&amp;oldid=105520">https://scioly.org/wiki/index.php?title=Nebraska&amp;oldid=105520</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/index.php/Special:Categories" title="Special:Categories">Category</a>: <ul><li><a href="/wiki/index.php/Category:State_Pages" title="Category:State Pages">State Pages</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-login"><a href="//scioly.org/forums/ucp.php?mode=login&amp;redirect=https%3A%2F%2Fscioly.org%2Fwiki%2Findex.php%2FNebraska" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/index.php/Nebraska" title="View the content page [c]" accesskey="c">Page</a></span></li><li id="ca-talk" class="new"><span><a href="/wiki/index.php?title=Talk:Nebraska&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/index.php/Nebraska">Read</a></span></li><li id="ca-viewsource" class="collapsible"><span><a href="/wiki/index.php?title=Nebraska&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li><li id="ca-history" class="collapsible"><span><a href="/wiki/index.php?title=Nebraska&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/wiki/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Scioly.org" title="Search Scioly.org [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/index.php/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage"><a href="/wiki/index.php/Main_Page" title="Visit the main page [z]" accesskey="z">Main Page</a></li><li id="n-recentchanges"><a href="/wiki/index.php/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/wiki/index.php/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-MediaWiki-Help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">MediaWiki Help</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/index.php/Special:WhatLinksHere/Nebraska" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/index.php/Special:RecentChangesLinked/Nebraska" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/wiki/index.php/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="/wiki/index.php?title=Nebraska&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/wiki/index.php?title=Nebraska&amp;oldid=105520" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/wiki/index.php?title=Nebraska&amp;action=info" title="More information about this page">Page information</a></li>				</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 30 July 2020, at 21:03.</li>
+								<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution</a> unless otherwise noted.</li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="http://creativecommons.org/licenses/by/3.0/"><img src="/wiki/resources/assets/licenses/cc-by.png" alt="Creative Commons Attribution" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<style>.MathJax_Display{display:inline !important;}
+.mathjax-wrapper{font-size:120%;}</style>
+<script type='text/x-mathjax-config'>MathJax.Hub.Config({displayAlign:'left',tex2jax:{displayMath:[['[math]','[/math]']]}})</script>
+<script src='//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.672","walltime":"0.838","ppvisitednodes":{"value":2552,"limit":1000000},"ppgeneratednodes":{"value":10115,"limit":1000000},"postexpandincludesize":{"value":50709,"limit":2097152},"templateargumentsize":{"value":10414,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%  440.664      1 -total"," 84.32%  371.566      6 Template:Navbox"," 50.04%  220.511      1 Template:State_tournament_results_box"," 47.87%  210.954      1 Template:Tournaments_of_Nebraska"," 29.04%  127.953     33 Template:Strb_row","  1.82%    8.015      1 Template:SOInfoBox"]},"scribunto":{"limitreport-timeusage":{"value":"0.100","limit":"7.000"},"limitreport-virtmemusage":{"value":9289728,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20200806223226","ttl":86400,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":151});});</script>
+	</body>
+</html>

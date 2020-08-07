@@ -1,0 +1,817 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Wright Stuff - Scioly.org</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Wright_Stuff","wgTitle":"Wright Stuff","wgCurRevisionId":101884,"wgRevisionId":101884,"wgArticleId":71,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Technology and Engineering Events","Event Pages","Building Event Pages"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Wright_Stuff","wgRelevantArticleId":71,"wgRequestId":"bb51465eb45972964fb11904","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":[]});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","site":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@1ltrs49",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","jquery.tablesorter","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/wiki/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/wiki/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/wiki/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.8"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/wiki/opensearch_desc.php" title="Scioly.org (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://scioly.org/wiki/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Scioly.org Atom feed" href="/wiki/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/wiki/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Wright_Stuff rootpage-Wright_Stuff skin-vector action-view"><meta property="og:title" content="Science Olympiad Student Center"/>
+<meta property="og:type" content="website"/>
+<meta property="og:url" content="https://scioly.org/"/>
+
+<meta property="og:image" content="http://scioly.org/src/img/logo/logo_square.png"/>
+<meta property="og:image:secure_url" content="https://scioly.org/src/img/logo/logo_square.png"/> 
+<meta property="og:image:type" content="image/png"/> 
+<meta property="og:image:width" content="500"/> 
+<meta property="og:image:height" content="500"/>
+
+<meta property="og:description" content="A resource by and for Science Olympiad students, coaches, and alumni nationwide."/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script type="text/javascript" src="/src/js/jquery.min.js"></script>
+<script type="text/javascript" src="/src/js/main.js"></script>
+
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+<link rel="stylesheet" type="text/css" href="/src/css/main.css">
+
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<link rel="icon" href="/favicon.ico" type="image/x-icon"><div class="site-nav">
+	<a href="/">
+		<img src="/src/img/logo/logo.png">
+	</a>
+	<div class="hamburger" onclick="hamburger(this)">
+		<div>
+			<div></div>
+			<div></div>
+			<div></div>
+		</div>
+	</div>
+	<ul>
+		<li><a href="/forums">Forums</a></li>
+		<li><a href="/wiki">Wiki</a></li>
+		<li><a href="/tests">Test Exchange</a></li>
+		<!-- <li><a href="/gallery">Image Gallery</a></li> -->
+		<!-- <li><a href="/invitational">Invites</a></li> -->
+		<li><a href="/chat">Chat</a></li>
+		<li><a href="/login" class="button">Login</a></li>
+	</ul>
+</div>
+<img class="print-only" src="/src/img/logo/logo_black.png" style="max-width: 150px;"><link rel="stylesheet" type="text/css" href="/src/css/wiki.css">
+<div id="wrap-me-up">
+
+
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Wright Stuff</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Scioly.org</div>				<div id="contentSub"></div>
+								<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table align="right" class="infobox">
+
+<tbody><tr>
+<th colspan="2" style="font-size: larger; text-align: center;"><b>Wright Stuff</b>
+</th></tr>
+<tr>
+<td colspan="2"><center><i>This event is an event held in the current season.</i></center>
+</td></tr>
+<tr>
+<td colspan="2"><hr />
+</td></tr>
+<tr>
+<td><b>Type</b>
+</td>
+<td>Engineering
+</td></tr>
+<tr>
+<td><b>Category</b>
+</td>
+<td>Build
+</td></tr>
+<tr>
+<td colspan="2" class="infobox-header"><b>Event Information</b>
+</td></tr>
+
+
+
+
+
+
+
+<tr>
+<td><b>Latest Appearance</b>
+</td>
+<td>2020
+</td></tr>
+<tr>
+<td colspan="2" class="infobox-header"><b>Forum Threads</b>
+</td></tr>
+
+<tr>
+<td colspan="2" style="padding: 0;">
+<table class="infobox-events-link-table">
+
+<tbody><tr>
+<td><a rel="nofollow" class="external text" href="https://scioly.org/forums/viewforum.php?f=321">2020</a>
+</td>
+<td><a rel="nofollow" class="external text" href="https://scioly.org/forums/viewforum.php?f=299">2019</a>
+</td>
+<td><a rel="nofollow" class="external text" href="https://scioly.org/forums/viewforum.php?f=277">2018</a>
+</td>
+<td><a rel="nofollow" class="external text" href="http://scioly.org/phpBB3/viewtopic.php?f=245&amp;t=9271">2017</a>
+</td>
+<td><a rel="nofollow" class="external text" href="http://scioly.org/phpBB3/viewforum.php?f=212">2016</a>
+</td></tr>
+</tbody></table>
+</td></tr>
+<tr>
+<td colspan="2" style="padding: 0;">
+<table class="infobox-events-link-table">
+
+<tbody><tr>
+<td><a rel="nofollow" class="external text" href="http://scioly.org/phpBB3/viewforum.php?f=191">2015</a>
+</td>
+<td><span> </span>
+</td>
+<td><span> </span>
+</td>
+<td><span> </span>
+</td>
+<td><span> </span>
+</td></tr>
+</tbody></table>
+</td></tr>
+<tr>
+<td colspan="2" style="padding: 0;">
+<table class="infobox-events-link-table">
+
+<tbody><tr>
+<td><a rel="nofollow" class="external text" href="http://scioly.org/phpBB3/viewforum.php?f=68">2010</a>
+</td>
+<td><a rel="nofollow" class="external text" href="http://scioly.org/phpBB3/viewtopic.php?f=16&amp;t=48">2009</a>
+</td>
+<td><span> </span>
+</td>
+<td><span> </span>
+</td>
+<td><span> </span>
+</td></tr>
+</tbody></table>
+</td></tr>
+
+
+
+
+
+<tr>
+<td colspan="2" class="infobox-header"><b>Official Resources</b>
+</td></tr>
+<tr>
+<td><b>Website</b>
+</td>
+<td><a rel="nofollow" class="external text" href="https://www.soinc.org/wright-stuff-c">soinc.org</a>
+</td></tr>
+
+
+
+<tr>
+<td colspan="2" class="infobox-header"><b>Division B Results</b>
+</td></tr>
+<tr>
+<td colspan="2" style="padding: 0;">
+<table class="infobox-scoreboard" style="margin: 0; padding: 0; width:100%;">
+
+
+<tbody><tr style="background-color: gold;">
+<td style="width: 10%; text-align: center;"><b>1st</b>
+</td>
+<td style="width: 90%; padding-left: 5px;"><b>Tower Heights Middle School</b>
+</td></tr>
+<tr style="background-color: silver;">
+<td style="width: 10%; text-align: center;">2nd
+</td>
+<td style="width: 90%; padding-left: 5px;">Albuquerque Area Home Schoolers
+</td></tr>
+<tr style="background-color: #d1965c;">
+<td style="width: 10%; text-align: center;">3rd
+</td>
+<td style="width: 90%; padding-left: 5px;">Huntington Middle School
+</td></tr>
+</tbody></table>
+</td></tr>
+<tr>
+<td colspan="2" class="infobox-header"><b>Division C Results</b>
+</td></tr>
+<tr>
+<td colspan="2" style="padding: 0;">
+<table class="infobox-scoreboard" style="margin: 0; padding: 0; width:100%;">
+
+
+<tbody><tr style="background-color: gold;">
+<td style="width: 10%; text-align: center;"><b>1st</b>
+</td>
+<td style="width: 90%; padding-left: 5px;"><b>Albuquerque Area Home Schoolers</b>
+</td></tr>
+<tr style="background-color: silver;">
+<td style="width: 10%; text-align: center;">2nd
+</td>
+<td style="width: 90%; padding-left: 5px;">Bayard Rustin High School
+</td></tr>
+<tr style="background-color: #d1965c;">
+<td style="width: 10%; text-align: center;">3rd
+</td>
+<td style="width: 90%; padding-left: 5px;">Northville High School
+</td></tr>
+</tbody></table>
+</td></tr>
+</tbody></table>
+<p><b>Wright Stuff</b> is a <a href="/wiki/index.php/Division_B" title="Division B">Division B</a> event for the <a href="/wiki/index.php/2017" title="2017">2017</a> and <a href="/wiki/index.php/2018" title="2018">2018</a> seasons and a <a href="/wiki/index.php/Division_C" title="Division C">Division C</a> event for the <a href="/wiki/index.php/2019" title="2019">2019</a>, <a href="/wiki/index.php/2020" title="2020">2020</a> and <a href="/wiki/index.php/2021" title="2021">2021</a> seasons. The event involves making, testing, and flying an airplane powered by a twisted rubber band, with the goal of achieving the longest flight duration. The airplane can be of any design, though it must conform to rules regarding maximum wing and stabilizer dimensions, as well as a minimum mass limit (of the entire airplane, not including the rubber loop). However, there is no longer a mass requirement for the rubber motor. 
+</p>
+<div id="toc" class="toc"><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Basic_Plane_Design"><span class="tocnumber">1</span> <span class="toctext">Basic Plane Design</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Using_a_Kit"><span class="tocnumber">2</span> <span class="toctext">Using a Kit</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Trimming_a_Plane"><span class="tocnumber">3</span> <span class="toctext">Trimming a Plane</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Turning"><span class="tocnumber">3.1</span> <span class="toctext">Turning</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Propeller_Pitch"><span class="tocnumber">3.2</span> <span class="toctext">Propeller Pitch</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Rubber"><span class="tocnumber">3.3</span> <span class="toctext">Rubber</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Making_Flights"><span class="tocnumber">4</span> <span class="toctext">Making Flights</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Finding_a_Flying_Spot"><span class="tocnumber">4.1</span> <span class="toctext">Finding a Flying Spot</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Transporting_Planes"><span class="tocnumber">4.2</span> <span class="toctext">Transporting Planes</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Winding_Rubber"><span class="tocnumber">4.3</span> <span class="toctext">Winding Rubber</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Launching"><span class="tocnumber">4.4</span> <span class="toctext">Launching</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Logs"><span class="tocnumber">4.5</span> <span class="toctext">Logs</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="#A_List_of_Supplies"><span class="tocnumber">5</span> <span class="toctext">A List of Supplies</span></a>
+<ul>
+<li class="toclevel-2 tocsection-14"><a href="#Alternatives"><span class="tocnumber">5.1</span> <span class="toctext">Alternatives</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-15"><a href="#List_of_Supply_Sources"><span class="tocnumber">6</span> <span class="toctext">List of Supply Sources</span></a>
+<ul>
+<li class="toclevel-2 tocsection-16"><a href="#Ready_Made"><span class="tocnumber">6.1</span> <span class="toctext">Ready Made</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#Build_Your_Own"><span class="tocnumber">6.2</span> <span class="toctext">Build Your Own</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-18"><a href="#Past_Results"><span class="tocnumber">7</span> <span class="toctext">Past Results</span></a></li>
+<li class="toclevel-1 tocsection-19"><a href="#Resources"><span class="tocnumber">8</span> <span class="toctext">Resources</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Basic_Plane_Design">Basic Plane Design</span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/wiki/index.php/File:Gh0607WrightStuff.jpg" class="image"><img alt="" src="/wiki/images/e/e0/Gh0607WrightStuff.jpg" width="300" height="225" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/index.php/File:Gh0607WrightStuff.jpg" class="internal" title="Enlarge"></a></div>An example device for Wright Stuff showing these six major parts</div></div></div>
+<p>A typical Wright Stuff airplane contains six major parts:
+</p>
+<dl><dd><dl><dt>Wing assembly</dt>
+<dd>A frame made of sticks of low-density balsa wood glued together, covered and glued with a thin covering made of paper or plastic. One or two sets of these are glued to tougher (higher-density balsa or basswood) sticks, and inserted into paper tubes on the fuselage of the airplane (so that the wings can be disassembled from the fuselage for storage/transportation). There are also other ways of mounting the wings on the motorstick besides the tubes. The sticks running perpendicular to the motorstick are called spars. The front spar is called the Leading edge and the back spar is the Trailing edge. The ones running parallel to the motorstick are called ribs, and are usually curved (cambered) to increase the lift of the wing. Ribs are usually created using a simplex foil. The higher the simplex, the harder it is for the plane to climb. The wing usually has a slightly higher simplex than the stab as well.</dd>
+<dt>Motorstick ("MS" or "stick")</dt>
+<dd>The fuselage or "body" of the plane. This is a length of fairly thick balsa wood. It is often mistaken that balsa needs to be dense, but actually, it happens to be sturdier if made of the least dense (but with the biggest cross-section) piece. Or it can be made of a thin, dense, long sheet of light balsa rolled along its length and glued so that it becomes a thin-walled balsa tube. Either way, the motorstick serves to hold the twisted rubber between the propeller assembly (at the front) and the motor hook (at the back of the MS) and to hold the wing tubes. A single stick fuselage can have advantages as well such as being flexible.</dd>
+<dt>Tailboom ("TB" or "boom")</dt>
+<dd>The "tail" of the plane. This is another length of solid balsa, usually lighter than the MS and sometimes tapered to save weight, or a thinner, lighter balsa tube, which can be tapered as well, but usually not worth the effort. The boom serves to support the vertical and horizontal stabilizers. Since it doesn't have to support the rubber, it is usually lighter and weaker than the motorstick.</dd>
+<dt>Propeller assembly ("prop")</dt>
+<dd>The propeller, the thrust bearing, and the wire propeller shaft.</dd>
+<dt>Horizontal stabilizer</dt>
+<dd>The horizontal stab has a similar structure to the wing with the exception that it's smaller. It is the second lifting surface and is usually located in the rear of the plane, except in canards.</dd>
+<dt>Vertical stabilizer</dt>
+<dd>Usually located near the horizontal stab, the vertical stab controls the yaw of a plane. It can act as a rudder to induce turn.</dd></dl></dd></dl>
+<h2><span class="mw-headline" id="Using_a_Kit">Using a Kit</span></h2>
+<p>Using a kit is often the best course of action for inexperienced fliers. Kits are often easy to assemble and trim, and make Wright Stuff a much less intimidating event. However, certain kits are more complicated than others. Laser Cut Planes has very simple, affordable kits that are easy to put together. However, they may not be as optimized as a higher quality kit. Freedom Flight kits are great planes, but are very delicate and more expensive. It is important to consider the risk versus reward when looking at kits - investing in an expensive kit might return better times, but if something happens to the plane it would mean spending more money. Buying multiple kits is usually recommended, as planes are very fragile and can be broken easily. Having multiple planes is also a great way to test what works and what doesn't, and provides a back-up in case one plane is lost or broken. However, some kits (such as Freedom Flight) come with enough materials to build two planes already. Investigate a kit thoroughly before buying it. Many manufacturers publish details online, and this can aid in the decision of what kit to purchase. 
+</p><p>While kits typically come with instructions, the way the plane flies depends on how accurately it's put together. Being precise and taking the time to align pieces will ensure that the plane flies properly and gets the best time possible. Kits also typically have advice for aligning pieces, such as what angle to put the horizontal stabilizer at or how to adjust wings for trimming. Be sure to read the instructions carefully, as putting something together wrong can be a costly mistake. Using the proper glue is also important - thinner glue soaks into the wood more, adding weight but ultimately strengthening the bond. However, it does not fill gaps and pieces must fit together tightly in order to use thin glue effectively. A medium or thick glue is good for this purpose, but as it does not soak into the wood it may only bond to the surface. Accelerator should also be used sparingly on joints, as it can make joints brittle. However, it can be useful for repairs while testing. 
+</p><p>Many competitors post their results with certain kits on the Science Olympiad forums, so comparing times to other people with the same planes can provide an idea of how to better improve the plane. Kits are easy to build, but they aren't always the most optimal planes. Testing them rigorously and making a practice log can help in the trimming process to get the best time out of a kit plane. Once a competitor has experience with building, designing a plane from scratch can be a good way to get a better time for the season's rules.
+</p>
+<h2><span class="mw-headline" id="Trimming_a_Plane">Trimming a Plane</span></h2>
+<p>For inexperienced fliers, focus on building a working airplane to weight and trimming (adjusting) it until it flies around in circles before worrying too much about advanced techniques or bonuses. A simple, well-trimmed plane with lots of practice flights will do better than a poorly trimmed pusher canard with a torque burner, ribbon drop, and other bells and whistles.
+</p><p>On a well trimmed plane, the wing has a positive incidence and stab has a small negative angle of incidence. Raising the leading edge of the wing or lowering the trailing edge can cause the plane to climb. Raising the trailing edge of the stab, or lowering the leading edge can also do the same. If your plane tends to stall, do the reverse of the above. Some modelers have a small amount of down thrust and left thrust in their propeller by angling the thrust bearing.
+</p><p>The whole point of trimming is to set the moments of the plane to 0. This means having the (wing lift)*(distance from Center of gravity) = (lift of stab)*(distance from CoG)
+</p>
+<h3><span class="mw-headline" id="Turning">Turning</span></h3>
+<p>There are, in general, two methods for controlling turn:
+</p>
+<ul><li>Setting the wing's angle relative to the horizontal stabilizer so they they are skewed, causing the plane to roll. This works because the lift vectors are directly perpendicular to the surfaces that generate them. So, since the wing and stab are slanting in opposite directions, their lift vectors have components in opposite directions. Since they are on opposite ends of the fuselage, this causes the plane to turn.</li>
+<li>Turning the rudder/vertical stabilizer so that the entire plane yaws. The plane is now moving forward, but pointing slightly to the side. One tip of the wing is now pointing more forwards than it was before. Because of dihedral, this causes that end of the wing to rise, and thus causing the plane to roll. This is known as slipping and sliding because the plane is never pointed in the same direction that it is traveling in, so it is always skidding a little.</li></ul>
+<p>Dihedral vs. Tip plates
+Dihedral is angling both ends of the wing upward. This causes the plane to have more stability from rolling. It has to do with the plane sliding when one side of the wing goes lower than the other. When the plane slides, there is a horizontal force on the lower wing that corrects it until both sides are balanced again. 
+Tip plates accomplish the same goal, however I believe there is less sliding during flight with tip plates. 
+</p>
+<h3><span class="mw-headline" id="Propeller_Pitch">Propeller Pitch</span></h3>
+<p>Usually propeller (prop) pitch can be measured in degrees using a protractor or a pitch meter. The pitch angle refers to the angle of the prop blades as they rotate. At steeper pitch angle the prop will revolve at a slower rpm, and at a lower pitch angle the prop will speed up. Some broad blade props are designed to be natural flexing props, meaning that at high torque the blades will flex to a steeper pitch angle slowing the climb, yet they flex to a lower pitch angle later in flight.
+</p>
+<h3><span class="mw-headline" id="Rubber">Rubber</span></h3>
+<p>Rubber is the source of potential energy that is transferred into thrust. Rubber is often measured with its cross section. A band with a bigger cross section will take less winds than a smaller band before it breaks. However, the bigger cross section will spin the prop faster, considering prop pitch is constant in both cases. Matching propeller pitch with cross section to make the longest endurance can take much testing. Lubricating the rubber with Armor-All or something similar can also increase the longevity of the motor and make it less likely to snap the more winds are put in.
+</p>
+<h2><span class="mw-headline" id="Making_Flights">Making Flights</span></h2>
+<p>When making flights, follow the directions in this wiki for finding a flying spot, transporting your plane, winding, launching, and trimming. Always have a toolkit for making minor repairs, so if something goes wrong your entire day won't go to waste.
+Also, regardless of how well your plane flies, keep a log. This is not only for competition purposes but also to help you decide what adjustments to make (winds, torque, rubber size) when flying in a new ceiling height at competition.
+</p>
+<h3><span class="mw-headline" id="Finding_a_Flying_Spot">Finding a Flying Spot</span></h3>
+<p>Obviously, you would want to find a place where you can keep the doors from opening unnecessarily, and a place with little or no air condition. Most people only have access to your school's gym, which will do if the competition is in a similar ceiling height. For state (and maybe nationals) if you live in the area and it is easy to get to the site of the competition, they will probably let you fly your plane if nothing else is going on in the building. (For example, the University of Tennessee allows access to Neyland-Thompson Sports Center, their indoor football facility where the event is held at state, and you can make flights there over the weekend.) Check with the site owner/manager, and if you are nice and explain your love for science, they can be nice and allow you in. Once inside, stay away from wires, hanging scoreboards (ouch, those are plane-killers), basketball hoops, and places where the rafters extend downward. Don't wind your plane up too much the first time you fly it, because if it gets stuck, you are out of luck. You also should see the radius in which your plane turns. Use this to determine where to launch from. (If your plane gets stuck, wet paper towel balls can dislodge it from a low ceiling such as a gym, but anywhere else will require a balloon and a stick taped to it to dislodge it. Caution: these methods, especially the paper towel balls, may injure your airplane, however you may find it worth the risk to get it back.) Also, you may want to try to find a model airplane group in your area. Often, they will get gym time from colleges or other places, and if you explain what you're doing, chances are they will let you join them.
+</p>
+<h3><span class="mw-headline" id="Transporting_Planes">Transporting Planes</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/wiki/index.php/File:Transportingplane.jpg" class="image"><img alt="Transportingplane.jpg" src="/wiki/images/1/1c/Transportingplane.jpg" width="300" height="198" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/index.php/File:Transportingplane.jpg" class="internal" title="Enlarge"></a></div></div></div></div>
+<p>After spending effort building, being able to safely transport your plane(s) to practice sites and competitions is crucial. A cardboard box works, but be careful if it's open flapped. There's been cases where people using cardboard boxes had their plane ruined because they left the box lying around and their cat got to it. A plastic sweater box with a lid would be safer. Place a few plastic grocery bags inside the box, surrounding the plane. This avoids the need to make jigs and supports so the parts of the plane hold in place, and the bags will prevent the model from sliding around and getting damaged.
+</p>
+<h3><span class="mw-headline" id="Winding_Rubber">Winding Rubber</span></h3>
+<p>A rubber winder is important to a free flight modeler. Winding an Ikara prop 1500 times can be both damaging to the prop and time consuming. When winding rubber, first stretch the rubber 4-8 times its original/relaxed length. After entering around half the desired winds, slowly move in, decreasing the length of the stretched rubber, while still putting in some more winds. The key to winding is to place as many winds as possible without the band breaking. It takes a true feel to know when you are on the edge and when you can still put in a few more winds, so practice helps.
+After one gets the desired number of winds, dewinding might be useful. Dewinding decreases the launch torque so you can avoid hitting the hazardous ceiling.
+</p>
+<h3><span class="mw-headline" id="Launching">Launching</span></h3>
+<p>Indoor flight planes are not meant to be thrown, just released. Simply walk with the plane to its normal flight speed, and release. In small ceilings, launch your plane with a smaller torque than in high ceilings. Also, in small ceilings, it may prove beneficial to launch your plane while laying or kneeling on the floor. That way, you may be able to add 3-5 feet to the ceiling height and prevent your plane from colliding with the ceiling. This technique isn't as useful in very high ceiling areas.
+</p>
+<h3><span class="mw-headline" id="Logs">Logs</span></h3>
+<p>Serious indoor fliers keep very accurate logs so they can test and record what makes their plane most efficient. A log is also required by the 2018-2019 rules. Logs must include the motor size, number of winds, and the flight time, in addition to three more data parameters. Some suggested data are rubber weight, number of dewinds, launch torque, circle radius, max height, number of winds left, prop diameter/pitch/width, duration time, etc.
+</p>
+<h2><span class="mw-headline" id="A_List_of_Supplies">A List of Supplies</span></h2>
+<p>Here is a list of supplies you might need:
+</p>
+<ul><li>Balsa
+<ul><li>(1) 18" sheet A grain, thickness between .045" and .050", density not more than 5.5 pcf (for wing and stab spars)</li>
+<li>(1) 18" sheet C grain, thickness between .020" and .030", density not more than 5.5 pcf (for rolled motor stick if used)</li>
+<li>(1) 18" sheet any grain, any density around .030" thick (for ribs)</li></ul></li>
+<li>Winder: yellow plastic 15:1</li>
+<li>Torque meter: the torque meter must have a range to at least 1.0 in-oz. You can make this if you'd rather do it that way.</li>
+<li>Covering plastic
+<ul><li>Covering: Indoor Mylar, clear. .000059 x 12" 35 ft roll</li></ul></li>
+<li>Propeller assembly
+<ul><li>Plastic Prop or Ikara SO model propeller</li>
+<li>Ray Harlan Penny Plane bearing (NOT the SO model bearing) .019 or .020" or the bearing included with ikara props.</li></ul></li>
+<li>Music wire and Teflon washers</li>
+<li>Glue; Ambroid, Duco, or cyanoacrylate (super glue)</li>
+<li>Glue Thinner; Acetone from hardware or home improvement store</li>
+<li>Glue Bottle: with steel needle nose and cap</li>
+<li>Glue for wing covering Super 77 spray glue</li>
+<li>Rubber for motors</li>
+<li>Tool Box: fishing tackle boxes are nice esp. the 747 model.</li>
+<li>Table: folding but get one big enough to have some weight when winding</li>
+<li>Building Board: cork or 3 inch or more thick styrofoam from home improvement store</li>
+<li>Wax Paper: to cover building board with plans in between from food store</li>
+<li>Pins: to hold wood on building board in place to glue. Regular straight pins or T shape are better from</li>
+<li>X-acto Type/Hobby Knife: for general purpose cutting</li>
+<li>Single Edge Razor Blades: for striping wood, and general purpose cutting</li>
+<li>Metal Ruler: for a straight edge to cut wood</li>
+<li>Scale: the best bet is to borrow the school's or get a digital scale with 0.01 gram accuracy.</li></ul>
+<h3><span class="mw-headline" id="Alternatives">Alternatives</span></h3>
+<ul><li>Balsa Cutting: Master Airscrew balsa stripper</li>
+<li>Thrust Bearing: music wire pigtail bearing</li>
+<li>Winders: (You really probably don't want anything other than the 10:1 or 15:1 yellow plastic type)</li>
+<li>Pitch Gauge: for pitching the prop blades</li>
+<li>Scale: not digital but more accurate than most. You need to measure to 0.01 grams. You can also build your own, look under the "build your own" section</li>
+<li>Knife: thin bladed Surgeon's type for cutting (human) ribs</li>
+<li>Sand Paper: very fine grain for smoothing wood; usually 220-320+</li></ul>
+<h2><span class="mw-headline" id="List_of_Supply_Sources">List of Supply Sources</span></h2>
+<h3><span class="mw-headline" id="Ready_Made">Ready Made</span></h3>
+<ul><li><a rel="nofollow" class="external text" href="http://www.modelresearchlabs.com">Model Research Labs</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.faimodelsupply.com/">FAI Model Supply</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.indoorspecialties.com/">Ray Harlan</a></li>
+<li><a rel="nofollow" class="external text" href="http://midwestproducts.com/">Midwest</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.turnertoys.com/SO">TurnerToys</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.freedomflightmodels.com/">Freedom Flight Models</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.lasercutplanes.com/">Laser-Cut Planes</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.guruengineeringtech.com/">Guru Engineering Tech</a></li>
+<li><a rel="nofollow" class="external text" href="http://jhaerospace.com/">J&amp;H Aerospace</a></li></ul>
+<h3><span class="mw-headline" id="Build_Your_Own">Build Your Own</span></h3>
+<ul><li>Torque Meter: <a rel="nofollow" class="external text" href="http://indoorduration-gbr.co.uk/#/manage-rubber/4572563487">www.indoorduration-gbr.co.uk/#/manage-rubber/4572563487</a></li>
+<li>Thrust Bearing: Pigtail bearing out of music wire.</li>
+<li>Pitch Gauge: <a rel="nofollow" class="external text" href="http://www.indoorduration.com/ftp/LaurieBarrPitchGauge.pdf">www.indoorduration.com/ftp/LaurieBarrPitchGauge.pdf</a></li>
+<li>Scale: build it yourself from <a rel="nofollow" class="external text" href="http://www.gryffinaero.com/models/ffpages/tools/scales/balance.html">Here</a>. It is a simple scale. [<a rel="nofollow" class="external text" href="http://www.gryffinaero.com/models/ffpages/tools/scales/wirescale.html">Here</a>] is another type of scale, it is also simple (know weight) scale or add a graduation points for how much the music wire bends.</li></ul>
+<h2><span class="mw-headline" id="Past_Results">Past Results</span></h2>
+<table class="wikitable sortable" style="text-align:center">
+<caption>2008 Nationals Results
+</caption>
+<tbody><tr>
+<th><big>Place</big></th>
+<th><big>School</big></th>
+<th><big>Time</big>
+</th></tr>
+<tr>
+<td>1st</td>
+<td>Valparaiso High School</td>
+<td>3:27
+</td></tr>
+<tr>
+<td>2nd</td>
+<td>Newton North High School</td>
+<td>3:09
+</td></tr>
+<tr>
+<td>3rd</td>
+<td>Grand Haven High School</td>
+<td>3:03
+</td></tr>
+<tr>
+<td>4th</td>
+<td>Brookwood High School</td>
+<td>2:59
+</td></tr>
+<tr>
+<td>5th</td>
+<td>West Windsor-Plainsboro High School North</td>
+<td>2:55
+</td></tr>
+<tr>
+<td>6th</td>
+<td>Yankton High School</td>
+<td>2:52
+</td></tr></tbody></table>
+<table class="wikitable sortable" style="text-align:center">
+<caption>2009 Nationals Results
+</caption>
+<tbody><tr>
+<th><big>Place</big></th>
+<th><big>School</big></th>
+<th><big>Time</big>
+</th></tr>
+<tr>
+<td>1st</td>
+<td>JC Booth Middle School</td>
+<td>3:04
+</td></tr>
+<tr>
+<td>2nd</td>
+<td>Thomas Jefferson Middle School</td>
+<td>3:03
+</td></tr>
+<tr>
+<td>3rd</td>
+<td>Bearden Middle School</td>
+<td>2:58
+</td></tr>
+<tr>
+<td>4th</td>
+<td>Teeland Middle School</td>
+<td>2:47
+</td></tr>
+<tr>
+<td>5th</td>
+<td>South Middle School</td>
+<td>2:40
+</td></tr>
+<tr>
+<td>6th</td>
+<td>Arden Middle School</td>
+<td>2:39
+</td></tr></tbody></table>
+<table class="wikitable sortable" style="text-align:center">
+<caption>2010 Nationals Results
+</caption>
+<tbody><tr>
+<th><big>Place</big></th>
+<th><big>School</big></th>
+<th><big>Time</big>
+</th></tr>
+<tr>
+<td>1st</td>
+<td>JC Booth Middle School</td>
+<td>5:18
+</td></tr>
+<tr>
+<td>2nd</td>
+<td>Marie Murphy School</td>
+<td>5:04
+</td></tr>
+<tr>
+<td>3rd</td>
+<td>Strath Haven Middle School</td>
+<td>4:41
+</td></tr>
+<tr>
+<td>4th</td>
+<td>Arendell Parrott Academy</td>
+<td>4:23
+</td></tr>
+<tr>
+<td>5th</td>
+<td>Bearden Middle School</td>
+<td>4:16
+</td></tr>
+<tr>
+<td>6th</td>
+<td>Kenwood Trail Middle School</td>
+<td>4:12
+</td></tr></tbody></table>
+<table class="wikitable sortable" style="text-align:center">
+<caption>2017 Nationals Results
+</caption>
+<tbody><tr>
+<th><big>Place</big></th>
+<th><big>School</big></th>
+<th><big>Time</big>
+</th></tr>
+<tr>
+<td>1st</td>
+<td>Huntington Middle School</td>
+<td>2:17
+</td></tr>
+<tr>
+<td>2nd</td>
+<td>Winston Churchill Middle School</td>
+<td>2:10
+</td></tr>
+<tr>
+<td>3rd</td>
+<td>Daniel Wright Junior High School</td>
+<td>5:18
+</td></tr>
+<tr>
+<td>4th</td>
+<td>Shady Side Academy</td>
+<td>1:57.69
+</td></tr>
+<tr>
+<td>5th</td>
+<td>Marie Murphy Middle School</td>
+<td>1:57.09
+</td></tr>
+<tr>
+<td>6th</td>
+<td>Preston Middle School</td>
+<td>1:56
+</td></tr></tbody></table>
+<table class="wikitable sortable" style="text-align:center">
+<caption>2019 Nationals Results
+</caption>
+<tbody><tr>
+<th><big>Place</big></th>
+<th><big>School</big></th>
+<th><big>Time</big>
+</th></tr>
+<tr>
+<td>1st</td>
+<td>Albuquerque Area Home Schoolers</td>
+<td>5:08
+</td></tr>
+<tr>
+<td>2nd</td>
+<td>Bayard Rustin High School</td>
+<td>4:25
+</td></tr>
+<tr>
+<td>3rd</td>
+<td>Northville High School</td>
+<td>3:55
+</td></tr>
+<tr>
+<td>4th</td>
+<td>Mira Loma High School</td>
+<td>3:40
+</td></tr>
+<tr>
+<td>5th</td>
+<td>Columbia High School</td>
+<td>3:32
+</td></tr>
+<tr>
+<td>6th</td>
+<td>Ann Arbor Pioneer High School</td>
+<td>3:28
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Resources">Resources</span></h2>
+<ul><li><a href="/wiki/images/0/0b/DoctaDave_Wright_Stuff_Torque_Meters.pdf" class="internal" title="DoctaDave Wright Stuff Torque Meters.pdf">Constructing a torque meter by DoctaDave</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.soinc.org/sites/default/files/uploaded_files/ScienceOlympiad5.0.pdf">Construction Tips from Chuck Markos</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Technology_and_Engineering_Events" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/index.php/Template:Technology_and_Engineering_Event" title="Template:Technology and Engineering Event"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/index.php?title=Template_talk:Technology_and_Engineering_Event&amp;action=edit&amp;redlink=1" class="new" title="Template talk:Technology and Engineering Event (page does not exist)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a rel="nofollow" class="external text" href="https://scioly.org/wiki/index.php?title=Template:Technology_and_Engineering_Event&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Technology_and_Engineering_Events" style="font-size:114%;margin:0 4em">Technology and Engineering Events</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">National Events</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Balloon_Launch_Glider" title="Balloon Launch Glider">Balloon Launch Glider</a></li>
+<li><a href="/wiki/index.php/Battery_Buggy" title="Battery Buggy">Battery Buggy</a></li>
+<li><a href="/wiki/index.php/Boomilever" title="Boomilever">Boomilever</a></li>
+<li><a href="/wiki/index.php/Bridge_Building" title="Bridge Building">Bridge Building</a></li>
+<li><a href="/wiki/index.php/Detector_Building" title="Detector Building">Detector Building</a></li>
+<li><a href="/wiki/index.php/Egg-O-Naut" title="Egg-O-Naut">Egg-O-Naut</a></li>
+<li><a href="/wiki/index.php/Elastic_Launched_Glider" title="Elastic Launched Glider">Elastic Launched Glider</a></li>
+<li><a href="/wiki/index.php/Electric_Vehicle" title="Electric Vehicle">Electric Vehicle</a></li>
+<li><a href="/wiki/index.php/Elevated_Bridge" title="Elevated Bridge">Elevated Bridge</a></li>
+<li><a href="/wiki/index.php/Gravity_Vehicle" title="Gravity Vehicle">Gravity Vehicle</a></li>
+<li><a href="/wiki/index.php/Helicopters" title="Helicopters">Helicopters</a></li>
+<li><a href="/wiki/index.php/Junkyard_Challenge" title="Junkyard Challenge">Junkyard Challenge</a></li>
+<li><a href="/wiki/index.php/Mission_Possible" title="Mission Possible">Mission Possible</a></li>
+<li><a href="/wiki/index.php/Mousetrap_Vehicle" title="Mousetrap Vehicle">Mousetrap Vehicle</a></li>
+<li><a href="/wiki/index.php/Robo-Cross" title="Robo-Cross">Robo-Cross</a></li>
+<li><a href="/wiki/index.php/Robot_Arm" title="Robot Arm">Robot Arm</a></li>
+<li><a href="/wiki/index.php/Robot_Ramble" title="Robot Ramble">Robot Ramble</a></li>
+<li><a href="/wiki/index.php/Roller_Coaster" title="Roller Coaster">Roller Coaster</a></li>
+<li><a href="/wiki/index.php/Scrambler" title="Scrambler">Scrambler</a></li>
+<li><a href="/wiki/index.php/Towers" title="Towers">Towers</a></li>
+<li><a href="/wiki/index.php/Wheeled_Vehicle" title="Wheeled Vehicle">Wheeled Vehicle</a></li>
+<li><a class="mw-selflink selflink">Wright Stuff</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Trial Events</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Aerial_Scramble" title="Aerial Scramble">Aerial Scramble</a></li>
+<li><a href="/wiki/index.php/Amazing_Mechatronics" title="Amazing Mechatronics">Amazing Mechatronics</a></li>
+<li><a href="/wiki/index.php/Electric_Wright_Stuff" title="Electric Wright Stuff">Electric Wright Stuff</a></li>
+<li><a href="/wiki/index.php/Flying_Bird" title="Flying Bird">Flying Bird</a></li>
+<li><a href="/wiki/index.php/Robot_Tour" title="Robot Tour">Robot Tour</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Event Resources</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/MPC_Index" title="MPC Index">Mission Possible Series</a></li>
+<li><a href="/wiki/index.php/Zero_Cost_Scrambler" title="Zero Cost Scrambler">Zero Cost Scrambler</a></li>
+<li><a href="/wiki/index.php/Aia%27s_Boomilever_Guide" title="Aia&#39;s Boomilever Guide">Aia's Boomilever Guide</a></li>
+<li><a href="/wiki/index.php/Mousetrap_Vehicle_2010_Design" title="Mousetrap Vehicle 2010 Design">Mousetrap Vehicle 2010 Design</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="2020.2F2021_Events" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/index.php/Template:2021Events" title="Template:2021Events"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/index.php?title=Template_talk:2021Events&amp;action=edit&amp;redlink=1" class="new" title="Template talk:2021Events (page does not exist)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a rel="nofollow" class="external text" href="https://scioly.org/wiki/index.php?title=Template:2021Events&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="2020.2F2021_Events" style="font-size:114%;margin:0 4em">2020/2021 Events</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Division B Events</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Anatomy_and_Physiology" title="Anatomy and Physiology">Anatomy and Physiology</a></li>
+<li><a href="/wiki/index.php/Boomilever" title="Boomilever">Boomilever</a></li>
+<li><a href="/wiki/index.php/Circuit_Lab" title="Circuit Lab">Circuit Lab</a></li>
+<li><a href="/wiki/index.php/Crime_Busters" title="Crime Busters">Crime Busters</a></li>
+<li><a href="/wiki/index.php/Density_Lab" title="Density Lab">Density Lab</a></li>
+<li><a href="/wiki/index.php/Disease_Detectives" title="Disease Detectives">Disease Detectives</a></li>
+<li><a href="/wiki/index.php/Dynamic_Planet_Topics" title="Dynamic Planet Topics">Dynamic Planet</a></li>
+<li><a href="/wiki/index.php/Elastic_Launched_Glider" title="Elastic Launched Glider">Elastic Launched Glider</a></li>
+<li><a href="/wiki/index.php/Experimental_Design" title="Experimental Design">Experimental Design</a></li>
+<li><a href="/wiki/index.php/Food_Science" title="Food Science">Food Science</a></li>
+<li><a href="/wiki/index.php/Fossils" title="Fossils">Fossils</a></li>
+<li><a href="/wiki/index.php/Game_On" title="Game On">Game On</a></li>
+<li><a href="/wiki/index.php/Heredity" title="Heredity">Heredity</a></li>
+<li><a href="/wiki/index.php/Machines" title="Machines">Machines</a></li>
+<li><a href="/wiki/index.php/Meteorology" title="Meteorology">Meteorology</a></li>
+<li><a href="/wiki/index.php/Mission_Possible" title="Mission Possible">Mission Possible</a></li>
+<li><a href="/wiki/index.php/Mousetrap_Vehicle" title="Mousetrap Vehicle">Mousetrap Vehicle</a></li>
+<li><a href="/wiki/index.php/Ornithology" title="Ornithology">Ornithology</a></li>
+<li><a href="/wiki/index.php/Ping_Pong_Parachute" title="Ping Pong Parachute">Ping Pong Parachute</a></li>
+<li><a href="/wiki/index.php/Reach_for_the_Stars" title="Reach for the Stars">Reach for the Stars</a></li>
+<li><a href="/wiki/index.php/Road_Scholar" title="Road Scholar">Road Scholar</a></li>
+<li><a href="/wiki/index.php/Water_Quality" title="Water Quality">Water Quality</a></li>
+<li><a href="/wiki/index.php/Write_It_Do_It" title="Write It Do It">Write It Do It</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Division C Events</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Anatomy_and_Physiology" title="Anatomy and Physiology">Anatomy and Physiology</a></li>
+<li><a href="/wiki/index.php/Astronomy" title="Astronomy">Astronomy</a></li>
+<li><a href="/wiki/index.php/Boomilever" title="Boomilever">Boomilever</a></li>
+<li><a href="/wiki/index.php/Chemistry_Lab" title="Chemistry Lab">Chemistry Lab</a></li>
+<li><a href="/wiki/index.php/Circuit_Lab" title="Circuit Lab">Circuit Lab</a></li>
+<li><a href="/wiki/index.php/Codebusters" title="Codebusters">Codebusters</a></li>
+<li><a href="/wiki/index.php/Designer_Genes" title="Designer Genes">Designer Genes</a></li>
+<li><a href="/wiki/index.php/Detector_Building" title="Detector Building">Detector Building</a></li>
+<li><a href="/wiki/index.php/Disease_Detectives" title="Disease Detectives">Disease Detectives</a></li>
+<li><a href="/wiki/index.php/Dynamic_Planet_Topics" title="Dynamic Planet Topics">Dynamic Planet</a></li>
+<li><a href="/wiki/index.php/Experimental_Design" title="Experimental Design">Experimental Design</a></li>
+<li><a href="/wiki/index.php/Forensics" title="Forensics">Forensics</a></li>
+<li><a href="/wiki/index.php/Fossils" title="Fossils">Fossils</a></li>
+<li><a href="/wiki/index.php/GeoLogic_Mapping" title="GeoLogic Mapping">GeoLogic Mapping</a></li>
+<li><a href="/wiki/index.php/Gravity_Vehicle" title="Gravity Vehicle">Gravity Vehicle</a></li>
+<li><a href="/wiki/index.php/Machines" title="Machines">Machines</a></li>
+<li><a href="/wiki/index.php/Ornithology" title="Ornithology">Ornithology</a></li>
+<li><a href="/wiki/index.php/Ping_Pong_Parachute" title="Ping Pong Parachute">Ping Pong Parachute</a></li>
+<li><a href="/wiki/index.php/Protein_Modeling" title="Protein Modeling">Protein Modeling</a></li>
+<li><a href="/wiki/index.php/Sounds_of_Music" title="Sounds of Music">Sounds of Music</a></li>
+<li><a href="/wiki/index.php/Water_Quality" title="Water Quality">Water Quality</a></li>
+<li><a class="mw-selflink selflink">Wright Stuff</a></li>
+<li><a href="/wiki/index.php/Write_It_Do_It" title="Write It Do It">Write It Do It</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Division B National Trials 2020</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Aerial_Scramble" title="Aerial Scramble">Aerial Scramble</a></li>
+<li><a href="/wiki/index.php/Amazing_Mechatronics" title="Amazing Mechatronics">Amazing Mechatronics</a></li>
+<li><a href="/wiki/index.php/Codebusters" title="Codebusters">Codebusters</a></li>
+<li><a href="/wiki/index.php/Storm_the_Castle" title="Storm the Castle">Storm the Castle</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Division C National Trials 2020</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Aerial_Scramble" title="Aerial Scramble">Aerial Scramble</a></li>
+<li><a href="/wiki/index.php/Amazing_Mechatronics" title="Amazing Mechatronics">Amazing Mechatronics</a></li>
+<li><a href="/wiki/index.php/Environmental_Chemistry" title="Environmental Chemistry">Environmental Chemistry</a></li>
+<li><a href="/wiki/index.php/Trajectory" title="Trajectory">Trajectory</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Division B National Trials 2021</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Aerial_Scramble" title="Aerial Scramble">Aerial Scramble</a></li>
+<li><a href="/wiki/index.php/Awesome_Aquifers" title="Awesome Aquifers">Awesome Aquifers</a></li>
+<li><a href="/wiki/index.php/Botany" title="Botany">Botany</a></li>
+<li><a href="/wiki/index.php/Codebusters" title="Codebusters">Codebusters</a></li>
+<li><a href="/wiki/index.php/Electric_Wright_Stuff" title="Electric Wright Stuff">Electric Wright Stuff</a></li>
+<li><a href="/wiki/index.php/Home_Horticulture" title="Home Horticulture">Home Horticulture</a></li>
+<li><a href="/wiki/index.php/Solar_Power" title="Solar Power">Solar Power</a></li>
+<li><a href="/wiki/index.php/Storm_the_Castle" title="Storm the Castle">Storm the Castle</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Division C National Trials 2021</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Aerial_Scramble" title="Aerial Scramble">Aerial Scramble</a></li>
+<li><a href="/wiki/index.php/Botany" title="Botany">Botany</a></li>
+<li><a href="/wiki/index.php/Electric_Wright_Stuff" title="Electric Wright Stuff">Electric Wright Stuff</a></li>
+<li><a href="/wiki/index.php/Environmental_Chemistry" title="Environmental Chemistry">Environmental Chemistry</a></li>
+<li><a href="/wiki/index.php/Home_Horticulture" title="Home Horticulture">Home Horticulture</a></li>
+<li><a href="/wiki/index.php/Robot_Tour" title="Robot Tour">Robot Tour</a></li>
+<li><a href="/wiki/index.php/Solar_Power" title="Solar Power">Solar Power</a></li>
+<li><a href="/wiki/index.php/Trajectory" title="Trajectory">Trajectory</a></li>
+<li><a href="/wiki/index.php/WiFi_Lab" title="WiFi Lab">WiFi Lab</a></li></ul>
+</div></td></tr></tbody></table></div>
+
+<!-- 
+NewPP limit report
+Cached time: 20200806191252
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.412 seconds
+Real time usage: 0.500 seconds
+Preprocessor visited node count: 592/1000000
+Preprocessor generated node count: 4738/1000000
+Post‐expand include size: 26720/2097152 bytes
+Template argument size: 2885/2097152 bytes
+Highest expansion depth: 10/40
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.040/7.000 seconds
+Lua virtual size: 8.62 MB/50 MB
+Lua estimated memory usage: 0 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  196.969      1 -total
+ 51.08%  100.616      2 Template:Navbox
+ 42.21%   83.144      1 Template:Technology_and_Engineering_Event
+ 41.24%   81.234      1 Template:EventLinksBox
+ 15.60%   30.737      1 Template:2021Events
+-->
+</div>
+<!-- Saved in parser cache with key wiki-wikiv2_:pcache:idhash:71-0!canonical and timestamp 20200806191251 and revision id 101884
+ -->
+</div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://scioly.org/wiki/index.php?title=Wright_Stuff&amp;oldid=101884">https://scioly.org/wiki/index.php?title=Wright_Stuff&amp;oldid=101884</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/index.php/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/index.php/Category:Technology_and_Engineering_Events" title="Category:Technology and Engineering Events">Technology and Engineering Events</a></li><li><a href="/wiki/index.php/Category:Event_Pages" title="Category:Event Pages">Event Pages</a></li><li><a href="/wiki/index.php/Category:Building_Event_Pages" title="Category:Building Event Pages">Building Event Pages</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-login"><a href="//scioly.org/forums/ucp.php?mode=login&amp;redirect=https%3A%2F%2Fscioly.org%2Fwiki%2Findex.php%2FWright_Stuff" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/index.php/Wright_Stuff" title="View the content page [c]" accesskey="c">Page</a></span></li><li id="ca-talk" class="new"><span><a href="/wiki/index.php?title=Talk:Wright_Stuff&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/index.php/Wright_Stuff">Read</a></span></li><li id="ca-viewsource" class="collapsible"><span><a href="/wiki/index.php?title=Wright_Stuff&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li><li id="ca-history" class="collapsible"><span><a href="/wiki/index.php?title=Wright_Stuff&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/wiki/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Scioly.org" title="Search Scioly.org [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/index.php/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage"><a href="/wiki/index.php/Main_Page" title="Visit the main page [z]" accesskey="z">Main Page</a></li><li id="n-recentchanges"><a href="/wiki/index.php/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/wiki/index.php/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-MediaWiki-Help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">MediaWiki Help</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/index.php/Special:WhatLinksHere/Wright_Stuff" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/index.php/Special:RecentChangesLinked/Wright_Stuff" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/wiki/index.php/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="/wiki/index.php?title=Wright_Stuff&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/wiki/index.php?title=Wright_Stuff&amp;oldid=101884" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/wiki/index.php?title=Wright_Stuff&amp;action=info" title="More information about this page">Page information</a></li>				</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 29 June 2020, at 23:35.</li>
+								<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution</a> unless otherwise noted.</li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="http://creativecommons.org/licenses/by/3.0/"><img src="/wiki/resources/assets/licenses/cc-by.png" alt="Creative Commons Attribution" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<style>.MathJax_Display{display:inline !important;}
+.mathjax-wrapper{font-size:120%;}</style>
+<script type='text/x-mathjax-config'>MathJax.Hub.Config({displayAlign:'left',tex2jax:{displayMath:[['[math]','[/math]']]}})</script>
+<script src='//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.412","walltime":"0.500","ppvisitednodes":{"value":592,"limit":1000000},"ppgeneratednodes":{"value":4738,"limit":1000000},"postexpandincludesize":{"value":26720,"limit":2097152},"templateargumentsize":{"value":2885,"limit":2097152},"expansiondepth":{"value":10,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%  196.969      1 -total"," 51.08%  100.616      2 Template:Navbox"," 42.21%   83.144      1 Template:Technology_and_Engineering_Event"," 41.24%   81.234      1 Template:EventLinksBox"," 15.60%   30.737      1 Template:2021Events"]},"scribunto":{"limitreport-timeusage":{"value":"0.040","limit":"7.000"},"limitreport-virtmemusage":{"value":9039872,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20200806191252","ttl":86400,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":128});});</script>
+	</body>
+</html>

@@ -1,0 +1,61 @@
+version: "3.8"
+services:
+    php:
+        build: 
+            context: './php/'
+            args:
+                PHP_VERSION: ${PHP_VERSION}
+        networks:
+            - backend
+        volumes:
+            - ${PROJECT_ROOT}/:/var/www/html/
+        container_name: php
+    apache:
+        build:
+            context: './apache/'
+            args:
+                APACHE_VERSION: ${APACHE_VERSION}
+        depends_on:
+            - php
+            - db
+        networks:
+            - frontend
+            - backend
+        ports:
+            - "8080:80"
+        volumes:
+            - ${PROJECT_ROOT}/:/var/www/html/
+        container_name: apache
+    db:
+        image: mysql:5.7
+        restart: always
+        container_name: db
+        ports:
+            - "3306:3306"
+        volumes:
+            - db_data:/var/lib/mysql
+        networks:
+            - frontend
+            - backend
+        restart: always
+        environment:
+            MYSQL_ROOT_PASSWORD: somephpbb
+            MYSQL_DATABASE: phpbb
+            MYSQL_USER: phpbb
+            MYSQL_PASSWORD: phpbb
+    phpmyadmin:
+        image: phpmyadmin/phpmyadmin
+        ports:
+            - 8181:80
+        networks:
+            - frontend
+            - backend
+        environment:
+            PMA_ARBITRARY: 1
+            # PMA_USER: root
+            # PMA_PASSWORD: somephpbb
+networks:
+    frontend:
+    backend:
+volumes:
+    db_data: {}

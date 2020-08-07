@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Rules Manual - Scioly.org</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Rules_Manual","wgTitle":"Rules Manual","wgCurRevisionId":93360,"wgRevisionId":93360,"wgArticleId":8408,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["General Competition"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Rules_Manual","wgRelevantArticleId":8408,"wgRequestId":"beb70d036ce2c576eb5e8369","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":[]});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","site":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@1ltrs49",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/wiki/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/wiki/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/wiki/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.8"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/wiki/opensearch_desc.php" title="Scioly.org (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://scioly.org/wiki/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Scioly.org Atom feed" href="/wiki/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/wiki/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Rules_Manual rootpage-Rules_Manual skin-vector action-view"><meta property="og:title" content="Science Olympiad Student Center"/>
+<meta property="og:type" content="website"/>
+<meta property="og:url" content="https://scioly.org/"/>
+
+<meta property="og:image" content="http://scioly.org/src/img/logo/logo_square.png"/>
+<meta property="og:image:secure_url" content="https://scioly.org/src/img/logo/logo_square.png"/> 
+<meta property="og:image:type" content="image/png"/> 
+<meta property="og:image:width" content="500"/> 
+<meta property="og:image:height" content="500"/>
+
+<meta property="og:description" content="A resource by and for Science Olympiad students, coaches, and alumni nationwide."/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script type="text/javascript" src="/src/js/jquery.min.js"></script>
+<script type="text/javascript" src="/src/js/main.js"></script>
+
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+<link rel="stylesheet" type="text/css" href="/src/css/main.css">
+
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<link rel="icon" href="/favicon.ico" type="image/x-icon"><div class="site-nav">
+	<a href="/">
+		<img src="/src/img/logo/logo.png">
+	</a>
+	<div class="hamburger" onclick="hamburger(this)">
+		<div>
+			<div></div>
+			<div></div>
+			<div></div>
+		</div>
+	</div>
+	<ul>
+		<li><a href="/forums">Forums</a></li>
+		<li><a href="/wiki">Wiki</a></li>
+		<li><a href="/tests">Test Exchange</a></li>
+		<!-- <li><a href="/gallery">Image Gallery</a></li> -->
+		<!-- <li><a href="/invitational">Invites</a></li> -->
+		<li><a href="/chat">Chat</a></li>
+		<li><a href="/login" class="button">Login</a></li>
+	</ul>
+</div>
+<img class="print-only" src="/src/img/logo/logo_black.png" style="max-width: 150px;"><link rel="stylesheet" type="text/css" href="/src/css/wiki.css">
+<div id="wrap-me-up">
+
+
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Rules Manual</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Scioly.org</div>				<div id="contentSub"></div>
+								<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p>Each year, the Science Olympiad national organization publishes a <b>Rules Manual</b> for each secondary school division (<a href="/wiki/index.php/Division_B" title="Division B">B</a> and <a href="/wiki/index.php/Division_C" title="Division C">C</a>) which contains the official rules for each of the 23 national events.
+</p>
+<div id="toc" class="toc"><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Copyright"><span class="tocnumber">1</span> <span class="toctext">Copyright</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Formats"><span class="tocnumber">2</span> <span class="toctext">Formats</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Rules_Clarifications_and_FAQs"><span class="tocnumber">3</span> <span class="toctext">Rules Clarifications and FAQs</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Local_Variation"><span class="tocnumber">4</span> <span class="toctext">Local Variation</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Trial_Events"><span class="tocnumber">4.1</span> <span class="toctext">Trial Events</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Event_Slate_Modification"><span class="tocnumber">4.2</span> <span class="toctext">Event Slate Modification</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Rules_Modifications"><span class="tocnumber">4.3</span> <span class="toctext">Rules Modifications</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Copyright">Copyright</span></h2>
+<p>Since the rules manuals are copyrighted by Science Olympiad, Inc. and may not be posted online, this website will never host copies of the rules manuals. See <a rel="nofollow" class="external text" href="https://scioly.org/forums/viewtopic.php?f=24&amp;t=13">here</a> for more information.
+</p>
+<h2><span class="mw-headline" id="Formats">Formats</span></h2>
+<p>Each rules manual contains the rules for the events in one division (B or C) in a specific season.
+</p><p>As of the <a href="/wiki/index.php/2018" title="2018">2018</a> season, rules manuals will be published digitally at the <a rel="nofollow" class="external text" href="http://store.soinc.org">National Science Olympiad Store</a>. Physical manuals will continue to be available.
+</p><p>Through the <a href="/wiki/index.php/2017" title="2017">2017</a> season, the primary method of publication for the rules manuals was a physical booklet of around 35-40 pages. These were distributed to state organizations in late August, who mailed them to registered teams starting in early September. In addition, the rules manuals could be <a rel="nofollow" class="external text" href="http://store.soinc.org/">ordered directly online</a> - typically they are released the day after Labor Day (although the national organization store website often updates a few hours before midnight on Labor Day). Ordering the rules manuals directly is almost always faster than waiting for them to be mailed by the state organization, however it involves additional cost (historically $8 plus shipping).
+</p><p>Since 2015, the rules manuals have also been released as mobile apps on the iTunes store and Google Play store. These are typically half the price of the printed rules, but are usually released in early October.
+</p>
+<h2><span class="mw-headline" id="Rules_Clarifications_and_FAQs">Rules Clarifications and FAQs</span></h2>
+<p>The national organization <a rel="nofollow" class="external text" href="https://www.soinc.org/events/rules-clarifications">rules clarifications</a> page is used to correct errors in the rules (for example, in 2016 the distance increments for <a href="/wiki/index.php/Air_Trajectory" title="Air Trajectory">Air Trajectory</a> for the national level was 0.1 cm when it was actually supposed to be 0.1 m), or to make other changes to the rules that directly affect the text (for example, in 2016 the rules were amended to allow a <a href="/wiki/index.php/Note_Sheet" class="mw-redirect" title="Note Sheet">Note Sheet</a> to be used in <a href="/wiki/index.php/Hydrogeology" title="Hydrogeology">Hydrogeology</a>). Rules Clarifications are uncommon, with generally no more than 5-10 each year, and only a few that significantly change an event. Rules clarifications are rarely posted later than November.
+</p><p>The national organization operates a <a rel="nofollow" class="external text" href="https://www.soinc.org/events/frequently-asked-questions">Frequently Asked Questions</a> page, where individuals may submit questions about ambiguities in the rules. Typically only a small percentage of questions are answered on the FAQs page, usually if they are common or reflect legitimate ambiguity. There are usually in the range of 30-50 FAQs answered each year, though the exact number varies greatly. Usually a majority of the FAQ answers are for a small number of events, especially build events. FAQs typically stop being posted a few weeks prior to the national tournament.
+</p><p>While the majority of FAQs are minor, some can cause significant shifts in an event. For example, a series of FAQs posted during the <a href="/wiki/index.php/2015" title="2015">2015</a> season relating to <a href="/wiki/index.php/Mission_Possible_C" title="Mission Possible C">Mission Possible</a> repeatedly modified the definition of a jug, which meant that competitors had to change their device numerous times in order to comply with the prevailing definition.
+</p><p>Although rules clarifications and FAQs are sometimes considered binding at local tournaments unless otherwise specified, frequently event supervisors, and sometimes tournament directors, are unaware of their existence. In addition, many tournaments have a time-dependent policy for rules clarifications and FAQs, where only those posted at prior to a certain date are valid. For example, <a href="/wiki/index.php/New_York" title="New York">New York</a> regional tournaments only honor those posted prior to a certain date, which is the same for all regionals. Invitational tournaments frequently set their own cutoff dates, usually 1-2 weeks before the tournament.
+</p>
+<h2><span class="mw-headline" id="Local_Variation">Local Variation</span></h2>
+<p>It is common for either the event slate or the rules for specific events to vary between different parts of the nation - most commonly different states, but also individual tournaments. State organizations have substantial leeway in how the operate, both with regard to events and other matters, and may make significant changes to the rules or event slate.
+</p>
+<h3><span class="mw-headline" id="Trial_Events">Trial Events</span></h3>
+<p>Frequently, state tournaments - and sometimes <a href="/wiki/index.php/Category:Regional_Pages" title="Category:Regional Pages">regional</a> and <a href="/wiki/index.php/Invitational" title="Invitational">invitational</a> tournaments - run trial events. These are events not counted toward the team score. Usually these are events that are being tested in hopes/preparation of eventually being run as national events (see the national organization's <a rel="nofollow" class="external text" href="https://www.soinc.org/learn/trial-events">trial events page</a>), although sometimes they are just run for fun. In many cases alternates are allowed to compete in trial events.
+</p><p>Typically, trial event rules are posted online or sent directly to teams by the tournament organizers/state directors.
+</p>
+<h3><span class="mw-headline" id="Event_Slate_Modification">Event Slate Modification</span></h3>
+<p>Several states and tournaments run a modified slate of events. The following is a list of such modifications. Note that this is likely not a comprehensive list.
+</p>
+<ul><li><a href="/wiki/index.php/North_Carolina" title="North Carolina">North Carolina</a> has historically replaced several  events in each division, with the state-specific events typically being nonexistent outside of North Carolina. In recent years the number of events being replaced has decreased, especially in <a href="/wiki/index.php/Division_B" title="Division B">Division B</a>.</li>
+<li><a href="/wiki/index.php/Texas" title="Texas">Texas</a> runs a modified slate of 28 events - the 23 national events plus 5 other events - in which each individual team chooses 23 of the events to count toward their team score. The 5 added events are typically a mix of past national events (such as <a href="/wiki/index.php/Fermi_Questions" title="Fermi Questions">Fermi Questions</a>), up and coming trial events (such as <a href="/wiki/index.php/Roller_Coaster" title="Roller Coaster">Roller Coaster</a>), and events typically not run outside of Texas (such as <a rel="nofollow" class="external text" href="http://outreach.science.tamu.edu/tso/2017/WeveGotNumber-B.pdf">We've Got Your Number</a>). Most regional tournaments in Texas do not run all 28 events.</li>
+<li><a href="/wiki/index.php/New_York" title="New York">New York</a> typically runs two additional events as well as the 23 national events. Note that although these are commonly referred to as trial events, they do count toward the team score at the state tournament. Several of New York's state-specific events have gone on to become national events - examples include <a href="/wiki/index.php/Geologic_Mapping" class="mw-redirect" title="Geologic Mapping">Geologic Mapping</a>, <a href="/wiki/index.php/Invasive_Species" title="Invasive Species">Invasive Species</a>, <a href="/wiki/index.php/Green_Generation" title="Green Generation">Green Generation</a>, and <a href="/wiki/index.php/Hovercraft" title="Hovercraft">Hovercraft</a> - and New York is considered an important testing ground for new events that are likely to become national events. Very few New York regional tournaments run all 25 events, and most of them also exclude teams' lowest-placing events when calculating the team score - the exact numbers vary between regionals.</li>
+<li><a href="/wiki/index.php/Wisconsin" title="Wisconsin">Wisconsin</a> Division C runs a modified slate of 28 events similar to Texas - however, the added events include one for each of the 5 content areas of Science Olympiad (<a href="/wiki/images/d/d4/2018_Event_Chart_3-27.pdf" class="internal" title="2018 Event Chart 3-27.pdf">example</a> - each column is a content area), and the events that each team drops must include one from each of those content areas.</li>
+<li>Rarely, a state organization will make a specific modification to the national event slate due to local issues. For example, in 2017 <a href="/wiki/index.php/Southern_California" class="mw-redirect" title="Southern California">Southern California</a> replaced <a href="/wiki/index.php/Game_On" title="Game On">Game On</a> with <a href="/wiki/index.php/Fermi_Questions" title="Fermi Questions">Fermi Questions</a> in Division C.</li>
+<li>Many smaller states do not run all 23 national events at their state tournament.</li>
+<li>Regional tournaments in some areas do not run all of the events being run at their state tournament (e.g. <a href="/wiki/index.php/Texas" title="Texas">Texas</a> and <a href="/wiki/index.php/New_York" title="New York">New York</a>), whereas in other areas they do (e.g. <a href="/wiki/index.php/Illinois" title="Illinois">Illinois</a> and <a href="/wiki/index.php/Georgia" title="Georgia">Georgia</a>)</li>
+<li>In some areas, invitational tournaments do not run all of the events being run at the state tournament (e.g. <a href="/wiki/index.php/Arizona" title="Arizona">Arizona</a> and <a href="/wiki/index.php/Oklahoma" title="Oklahoma">Oklahoma</a>) whereas in other areas they almost always do (e.g. <a href="/wiki/index.php/Ohio" title="Ohio">Ohio</a> and <a href="/wiki/index.php/Pennsylvania" title="Pennsylvania">Pennsylvania</a>). This is typically a result of the local Science Olympiad culture - for example, Ohio is a large state which is well known for having many nationally-competitive teams as well as a large number of high-quality invitationals, whereas <a href="/wiki/index.php/Oklahoma" title="Oklahoma">Oklahoma</a> is a very small state with recently-started invitationals, though it has a disproportionately large number of them.</li>
+<li>Most often, tournaments do not run all of the events either because of a site rule (for example, <a href="/wiki/index.php/Yale_Invitational" title="Yale Invitational">Yale Invitational</a> does not run the lab portions of several chemistry events because of the university's lab usage policy barring minors), or because they are unable to find enough event supervisors.</li></ul>
+<h3><span class="mw-headline" id="Rules_Modifications">Rules Modifications</span></h3>
+<p>Many states and individual tournaments make modifications to the rules for specific events based on local conditions. The following is an illustrative list. Since these modifications are very common and change frequently, this list may never be complete.
+</p>
+<ul><li>Several events, typically those involving a list of objects/specimens/etc. that competitors must identify during competition, explicitly allow states to modify the list (e.g. <a href="/wiki/index.php/Invasive_Species" title="Invasive Species">Invasive Species</a>) or add new specimens (e.g. <a href="/wiki/index.php/Rocks_and_Minerals" title="Rocks and Minerals">Rocks and Minerals</a>). Although state organizations and individual tournaments can do this regardless, the explicit note in the rules means that it is a rather common occurrence.</li>
+<li>Several states maintain formalized rules clarifications systems, such as <a href="/wiki/index.php/Southern_California" class="mw-redirect" title="Southern California">Southern California</a>. Some states, such as <a href="/wiki/index.php/Virginia" title="Virginia">Virginia</a>, do not honor national organization rules clarifications and FAQs, instead using their own clarifications system.</li>
+<li>In 2015, <a href="/wiki/index.php/Georgia" title="Georgia">Georgia</a> enacted a state-level rules change prohibiting the use of laptops in <a href="/wiki/index.php/Astronomy" title="Astronomy">Astronomy</a>. This has been sporadically enforced in recent years, and was explicitly not enforced at the 2017 state tournament.</li></ul>
+<div role="navigation" class="navbox" aria-labelledby="General_Competition_Resources" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/index.php/Template:Competition_Navbox" title="Template:Competition Navbox"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/index.php/Template_talk:Competition_Navbox" title="Template talk:Competition Navbox"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a rel="nofollow" class="external text" href="https://scioly.org/wiki/index.php?title=Template:Competition_Navbox&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="General_Competition_Resources" style="font-size:114%;margin:0 4em">General Competition Resources</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">About Scioly.org</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Forums</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Scioly.org:BBCode" title="Scioly.org:BBCode">BBCode</a></li>
+<li><a href="/wiki/index.php/Scioly.org:Scioly_Summer_Study_Session" title="Scioly.org:Scioly Summer Study Session">Scioly Summer Study Session</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Wiki</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Help:Editing" title="Help:Editing">Help:Editing</a></li>
+<li><a href="/wiki/index.php/How_to_Write_a_Practice_Test" title="How to Write a Practice Test">How to Write a Practice Test</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">General</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Scioly.org:IRC" title="Scioly.org:IRC">IRC</a></li>
+<li><a href="/wiki/index.php/Scioly.org:History" title="Scioly.org:History">History</a></li>
+<li><a href="/wiki/index.php/Scioly.org:FAQ" title="Scioly.org:FAQ">FAQ</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Event Tools</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Binders" title="Binders">Binders</a></li>
+<li><a href="/wiki/index.php/Calculators" title="Calculators">Calculators</a></li>
+<li><a href="/wiki/index.php/Field_Guides" title="Field Guides">Field Guides</a></li>
+<li><a href="/wiki/index.php/Microscope" title="Microscope">Microscope</a></li>
+<li><a href="/wiki/index.php/Note_Sheets" title="Note Sheets">Note Sheets</a></li>
+<li><a href="/wiki/index.php/Safety_Glasses" title="Safety Glasses">Safety Glasses</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Competition Help</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Preparing_for_Competition" title="Preparing for Competition">Preparing for Competition</a></li>
+<li><a class="mw-selflink selflink">Rules Manual</a></li>
+<li><a href="/wiki/index.php/Scoring" title="Scoring">Scoring</a></li>
+<li><a href="/wiki/index.php/Significant_Figures" title="Significant Figures">Significant Figures</a></li>
+<li><a href="/wiki/index.php/Starting_A_Science_Olympiad_Team" title="Starting A Science Olympiad Team">Starting A Science Olympiad Team</a></li>
+<li><a href="/wiki/index.php/Test_Taking_Skills" title="Test Taking Skills">Test Taking Skills</a></li></ul>
+</div></td></tr></tbody></table></div>
+
+<!-- 
+NewPP limit report
+Cached time: 20200806194535
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.176 seconds
+Real time usage: 0.585 seconds
+Preprocessor visited node count: 98/1000000
+Preprocessor generated node count: 224/1000000
+Post‐expand include size: 12163/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.040/7.000 seconds
+Lua virtual size: 8.73 MB/50 MB
+Lua estimated memory usage: 0 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+114.49%  286.681      2 Template:Navbox
+100.00%  250.396      1 Template:Competition_Navbox
+100.00%  250.396      1 -total
+-->
+</div>
+<!-- Saved in parser cache with key wiki-wikiv2_:pcache:idhash:8408-0!canonical and timestamp 20200806194534 and revision id 93360
+ -->
+</div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://scioly.org/wiki/index.php?title=Rules_Manual&amp;oldid=93360">https://scioly.org/wiki/index.php?title=Rules_Manual&amp;oldid=93360</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/index.php/Special:Categories" title="Special:Categories">Category</a>: <ul><li><a href="/wiki/index.php/Category:General_Competition" title="Category:General Competition">General Competition</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-login"><a href="//scioly.org/forums/ucp.php?mode=login&amp;redirect=https%3A%2F%2Fscioly.org%2Fwiki%2Findex.php%2FRules_Manual" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/index.php/Rules_Manual" title="View the content page [c]" accesskey="c">Page</a></span></li><li id="ca-talk" class="new"><span><a href="/wiki/index.php?title=Talk:Rules_Manual&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/index.php/Rules_Manual">Read</a></span></li><li id="ca-viewsource" class="collapsible"><span><a href="/wiki/index.php?title=Rules_Manual&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li><li id="ca-history" class="collapsible"><span><a href="/wiki/index.php?title=Rules_Manual&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/wiki/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Scioly.org" title="Search Scioly.org [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/index.php/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage"><a href="/wiki/index.php/Main_Page" title="Visit the main page [z]" accesskey="z">Main Page</a></li><li id="n-recentchanges"><a href="/wiki/index.php/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/wiki/index.php/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-MediaWiki-Help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">MediaWiki Help</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/index.php/Special:WhatLinksHere/Rules_Manual" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/index.php/Special:RecentChangesLinked/Rules_Manual" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/wiki/index.php/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="/wiki/index.php?title=Rules_Manual&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/wiki/index.php?title=Rules_Manual&amp;oldid=93360" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/wiki/index.php?title=Rules_Manual&amp;action=info" title="More information about this page">Page information</a></li>				</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 18 May 2020, at 15:02.</li>
+								<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution</a> unless otherwise noted.</li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="http://creativecommons.org/licenses/by/3.0/"><img src="/wiki/resources/assets/licenses/cc-by.png" alt="Creative Commons Attribution" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<style>.MathJax_Display{display:inline !important;}
+.mathjax-wrapper{font-size:120%;}</style>
+<script type='text/x-mathjax-config'>MathJax.Hub.Config({displayAlign:'left',tex2jax:{displayMath:[['[math]','[/math]']]}})</script>
+<script src='//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.176","walltime":"0.585","ppvisitednodes":{"value":98,"limit":1000000},"ppgeneratednodes":{"value":224,"limit":1000000},"postexpandincludesize":{"value":12163,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["114.49%  286.681      2 Template:Navbox","100.00%  250.396      1 Template:Competition_Navbox","100.00%  250.396      1 -total"]},"scribunto":{"limitreport-timeusage":{"value":"0.040","limit":"7.000"},"limitreport-virtmemusage":{"value":9158656,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20200806194535","ttl":86400,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":142});});</script>
+	</body>
+</html>

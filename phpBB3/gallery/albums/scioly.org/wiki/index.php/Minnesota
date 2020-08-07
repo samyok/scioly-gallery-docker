@@ -1,0 +1,1294 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Minnesota - Scioly.org</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Minnesota","wgTitle":"Minnesota","wgCurRevisionId":105515,"wgRevisionId":105515,"wgArticleId":262,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["State Pages"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Minnesota","wgRelevantArticleId":262,"wgRequestId":"729b0207671ae92f5acd5e25","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":[]});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","site":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@1ltrs49",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","jquery.tablesorter","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/wiki/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/wiki/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/wiki/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.8"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/wiki/opensearch_desc.php" title="Scioly.org (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://scioly.org/wiki/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Scioly.org Atom feed" href="/wiki/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/wiki/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Minnesota rootpage-Minnesota skin-vector action-view"><meta property="og:title" content="Science Olympiad Student Center"/>
+<meta property="og:type" content="website"/>
+<meta property="og:url" content="https://scioly.org/"/>
+
+<meta property="og:image" content="http://scioly.org/src/img/logo/logo_square.png"/>
+<meta property="og:image:secure_url" content="https://scioly.org/src/img/logo/logo_square.png"/> 
+<meta property="og:image:type" content="image/png"/> 
+<meta property="og:image:width" content="500"/> 
+<meta property="og:image:height" content="500"/>
+
+<meta property="og:description" content="A resource by and for Science Olympiad students, coaches, and alumni nationwide."/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script type="text/javascript" src="/src/js/jquery.min.js"></script>
+<script type="text/javascript" src="/src/js/main.js"></script>
+
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+<link rel="stylesheet" type="text/css" href="/src/css/main.css">
+
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<link rel="icon" href="/favicon.ico" type="image/x-icon"><div class="site-nav">
+	<a href="/">
+		<img src="/src/img/logo/logo.png">
+	</a>
+	<div class="hamburger" onclick="hamburger(this)">
+		<div>
+			<div></div>
+			<div></div>
+			<div></div>
+		</div>
+	</div>
+	<ul>
+		<li><a href="/forums">Forums</a></li>
+		<li><a href="/wiki">Wiki</a></li>
+		<li><a href="/tests">Test Exchange</a></li>
+		<!-- <li><a href="/gallery">Image Gallery</a></li> -->
+		<!-- <li><a href="/invitational">Invites</a></li> -->
+		<li><a href="/chat">Chat</a></li>
+		<li><a href="/login" class="button">Login</a></li>
+	</ul>
+</div>
+<img class="print-only" src="/src/img/logo/logo_black.png" style="max-width: 150px;"><link rel="stylesheet" type="text/css" href="/src/css/wiki.css">
+<div id="wrap-me-up">
+
+
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Minnesota</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Scioly.org</div>				<div id="contentSub"></div>
+								<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table align="right" class="infobox">
+
+<tbody><tr>
+<th colspan="2" style="font-size: larger; text-align: center;"><b>Minnesota</b>
+</th></tr>
+<tr>
+<td colspan="2"><center><a href="/wiki/index.php/File:Minnesota.svg" class="image"><img alt="Minnesota.svg" src="/wiki/images/thumb/1/17/Minnesota.svg/200px-Minnesota.svg.png" width="200" height="233" srcset="/wiki/images/thumb/1/17/Minnesota.svg/300px-Minnesota.svg.png 1.5x, /wiki/images/thumb/1/17/Minnesota.svg/400px-Minnesota.svg.png 2x" /></a></center>
+</td></tr>
+<tr>
+<td colspan="2" style="margin: 5px; background-color: lavender; text-align: center;"><b>General Information</b>
+</td></tr>
+<tr>
+<td style="width: 100px;"><b>Member of SO since</b>
+</td>
+<td>1984
+</td></tr>
+<tr>
+<td style="width: 100px;"><b>Total teams</b>
+</td>
+<td>112
+</td></tr>
+<tr>
+<td style="width: 100px;"><b><a href="/wiki/index.php/Division_B" title="Division B">Division B</a> Champion</b>
+</td>
+<td><a href="/wiki/index.php/Chippewa_Middle_School_(Minnesota)" title="Chippewa Middle School (Minnesota)">Chippewa Middle School</a>
+</td></tr>
+<tr>
+<td style="width: 100px;"><b><a href="/wiki/index.php/Division_C" title="Division C">Division C</a> Champion</b>
+</td>
+<td><a href="/wiki/index.php/Wayzata_High_School" title="Wayzata High School">Wayzata High School</a>
+</td></tr>
+<tr>
+<td style="width: 100px;"><b>State Tournament Location</b>
+</td>
+<td>Division B: Chippewa Middle School
+<p>Division C: Bethel University
+</p>
+</td></tr>
+<tr>
+<td style="width: 100px;"><b>Date</b>
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="width: 100px;"><b>Website</b>
+</td>
+<td><a rel="nofollow" class="external free" href="http://www.minnesotaso.org/">http://www.minnesotaso.org/</a>
+</td></tr>
+</tbody></table>
+<p><br />
+</p><p><br />
+</p>
+<div id="toc" class="toc"><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Past_State_Champions"><span class="tocnumber">1.1</span> <span class="toctext">Past State Champions</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Competitions"><span class="tocnumber">2</span> <span class="toctext">Competitions</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Invitationals"><span class="tocnumber">2.1</span> <span class="toctext">Invitationals</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Regionals"><span class="tocnumber">2.2</span> <span class="toctext">Regionals</span></a>
+<ul>
+<li class="toclevel-3 tocsection-6"><a href="#Division_B"><span class="tocnumber">2.2.1</span> <span class="toctext">Division B</span></a></li>
+<li class="toclevel-3 tocsection-7"><a href="#Division_C"><span class="tocnumber">2.2.2</span> <span class="toctext">Division C</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-8"><a href="#State"><span class="tocnumber">2.3</span> <span class="toctext">State</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Division_B_Teams_2020"><span class="tocnumber">3</span> <span class="toctext">Division B Teams 2020</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Division_C_Teams_.282020.29"><span class="tocnumber">4</span> <span class="toctext">Division C Teams (2020)</span></a>
+<ul>
+<li class="toclevel-2 tocsection-11"><a href="#Eastview_HS_Regional"><span class="tocnumber">4.1</span> <span class="toctext">Eastview HS Regional</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Minnetonka_HS_Regional"><span class="tocnumber">4.2</span> <span class="toctext">Minnetonka HS Regional</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Moorhead_State_University_Regional"><span class="tocnumber">4.3</span> <span class="toctext">Moorhead State University Regional</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Mounds_View_HS_Regional"><span class="tocnumber">4.4</span> <span class="toctext">Mounds View HS Regional</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Century_HS_Regional"><span class="tocnumber">4.5</span> <span class="toctext">Century HS Regional</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-16"><a href="#External_Links"><span class="tocnumber">5</span> <span class="toctext">External Links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span></h2>
+<p>Minnesota Science Olympiad was founded in 1985 and joined the <a rel="nofollow" class="external text" href="http://mnmas.org/">Minnesota Academy of Science</a> in 1995. Minnesota Science Olympiad has a strong history of its teams doing well at the national level. Mounds View High School had a long run of representing the state at Nationals, but that streak broke in 2020 when Wayzata High School beat them at the state competition. However, Wayzata never got the chance to represent Minnesota as Nationals got cancelled.
+</p>
+<h3><span class="mw-headline" id="Past_State_Champions">Past State Champions</span></h3>
+<table class="wikitable sortable" style="text-align:center">
+
+<tbody><tr>
+<th rowspan="3"><big>Season</big></th>
+<th colspan="5"><big>Division B</big></th>
+<th colspan="5"><big>Division C</big>
+</th></tr>
+<tr>
+<th colspan="2"><big>Champion</big></th>
+<th colspan="2"><big>Runner-Up</big></th>
+<th><big>Third Place</big></th>
+<th colspan="2"><big>Champion</big></th>
+<th colspan="2"><big>Runner-Up</big></th>
+<th><big>Third Place</big>
+</th></tr>
+<tr>
+<th><big>Team</big></th>
+<th><big>Nats Place</big></th>
+<th><big>Team</big></th>
+<th><big>Nats Place</big></th>
+<th><big>Team</big></th>
+<th><big>Team</big></th>
+<th><big>Nats Place</big></th>
+<th><big>Team</big></th>
+<th><big>Nats Place</big></th>
+<th><big>Team</big>
+</th></tr>
+
+
+
+<tr>
+<td><b><a href="/wiki/index.php?title=1985_Minnesota_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="1985 Minnesota State Tournament (page does not exist)">1985</a> </b></td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td>Forest Lake High School
+</td>
+<td>12th
+</td>
+<td>Apple Valley High School
+</td>
+<td>15th
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=1986_Minnesota_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="1986 Minnesota State Tournament (page does not exist)">1986</a> </b></td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td>Apple Valley High School
+</td>
+<td>8th
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=1987_Minnesota_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="1987 Minnesota State Tournament (page does not exist)">1987</a> </b></td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td>Totino-Grace High School
+</td>
+<td>32nd
+</td>
+<td>Red Wing Central High School
+</td>
+<td>23rd
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=1988_Minnesota_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="1988 Minnesota State Tournament (page does not exist)">1988</a> </b></td>
+<td>Scott Highlands Middle School
+</td>
+<td>39th
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td>White Bear Lake High School
+</td>
+<td>29th
+</td>
+<td>Red Wing Central High School
+</td>
+<td>24th
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=1989_Minnesota_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="1989 Minnesota State Tournament (page does not exist)">1989</a> </b></td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td>Apple Valley High School
+</td>
+<td>38th
+</td>
+<td>White Bear Lake High School
+</td>
+<td>20th
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=1990_Minnesota_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="1990 Minnesota State Tournament (page does not exist)">1990</a> </b></td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>Apple Valley High School
+</td>
+<td>34th
+</td>
+<td>White Bear Lake High School
+</td>
+<td>31st
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=1991_Minnesota_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="1991 Minnesota State Tournament (page does not exist)">1991</a> </b></td>
+<td>Woodbury Middle School
+</td>
+<td>32nd
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td>White Bear Lake High School
+</td>
+<td>31st
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=1992_Minnesota_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="1992 Minnesota State Tournament (page does not exist)">1992</a> </b></td>
+<td>Twin Bluff Middle School
+</td>
+<td>35th
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td>Apple Valley High School
+</td>
+<td>37th
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=1993_Minnesota_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="1993 Minnesota State Tournament (page does not exist)">1993</a> </b></td>
+<td>Twin Bluff Middle School
+</td>
+<td>12th
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td>White Bear Lake High School
+</td>
+<td>24th
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=1994_Minnesota_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="1994 Minnesota State Tournament (page does not exist)">1994</a> </b></td>
+<td>Twin Bluff Middle School
+</td>
+<td>4th
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td>Stillwater High School
+</td>
+<td>38th
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=1995_Minnesota_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="1995 Minnesota State Tournament (page does not exist)">1995</a> </b></td>
+<td>Twin Bluff Middle School
+</td>
+<td>19th
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td>Lakeville High School
+</td>
+<td>37th
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=1996_Minnesota_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="1996 Minnesota State Tournament (page does not exist)">1996</a> </b></td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td>Lakeville High School
+</td>
+<td>23rd
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=1997_Minnesota_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="1997 Minnesota State Tournament (page does not exist)">1997</a> </b></td>
+<td>Twin Bluff Middle School
+</td>
+<td>27th
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td>Lakeville High School
+</td>
+<td>19th
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=1998_Minnesota_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="1998 Minnesota State Tournament (page does not exist)">1998</a> </b></td>
+<td>Kenwood Trail Middle School
+</td>
+<td>21st
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td>Lakeville High School
+</td>
+<td>10th
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=1999_Minnesota_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="1999 Minnesota State Tournament (page does not exist)">1999</a> </b></td>
+<td>Twin Bluff Middle School
+</td>
+<td>36th
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td>Lakeville High School
+</td>
+<td>5th
+</td>
+<td>Apple Valley High School
+</td>
+<td>N/A
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=2000_Minnesota_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2000 Minnesota State Tournament (page does not exist)">2000</a> </b></td>
+<td>Kenwood Trail Middle School
+</td>
+<td>11th
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td>Lakeville High School
+</td>
+<td>3rd
+</td>
+<td>Apple Valley High School
+</td>
+<td>N/A
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=2001_Minnesota_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2001 Minnesota State Tournament (page does not exist)">2001</a> </b></td>
+<td>Twin Bluff Middle School
+</td>
+<td>34th
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td>Apple Valley High School
+</td>
+<td>29th
+</td>
+<td>Lakeville High School
+</td>
+<td>N/A
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=2002_Minnesota_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2002 Minnesota State Tournament (page does not exist)">2002</a> </b></td>
+<td>Delano Middle School
+</td>
+<td>38th
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td>Apple Valley High School
+</td>
+<td>31st
+</td>
+<td>Waseca High School
+</td>
+<td>30th
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=2003_Minnesota_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2003 Minnesota State Tournament (page does not exist)">2003</a> </b></td>
+<td>Kenwood Trail Middle School
+</td>
+<td>31st
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td>Chaska High School
+</td>
+<td>36th
+</td>
+<td>Mounds View High School
+</td>
+<td>N/A
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=2004_Minnesota_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2004 Minnesota State Tournament (page does not exist)">2004</a> </b></td>
+<td>Delano Middle School
+</td>
+<td>29th
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td>Mounds View High School
+</td>
+<td>42nd
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=2005_Minnesota_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2005 Minnesota State Tournament (page does not exist)">2005</a> </b></td>
+<td>Delano Middle School
+</td>
+<td>41st
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td>Mounds View High School
+</td>
+<td>29th
+</td>
+<td>Century High School
+</td>
+<td>N/A
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=2006_Minnesota_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2006 Minnesota State Tournament (page does not exist)">2006</a> </b></td>
+<td>Delano Middle School
+</td>
+<td>32nd
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td>Mounds View High School
+</td>
+<td>38th
+</td>
+<td>St. Paul Academy
+</td>
+<td>N/A
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=2007_Minnesota_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2007 Minnesota State Tournament (page does not exist)">2007</a> </b></td>
+<td>Delano Middle School
+</td>
+<td>50th
+</td>
+<td>Northfield Middle School
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td>St. Paul Academy
+</td>
+<td>45th
+</td>
+<td>St. Paul Central High School
+</td>
+<td>N/A
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=2008_Minnesota_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2008 Minnesota State Tournament (page does not exist)">2008</a> </b></td>
+<td>Kenwood Trail Middle School
+</td>
+<td>43rd
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td>Mounds View High School
+</td>
+<td>28th
+</td>
+<td>St. Paul Central High School
+</td>
+<td>N/A
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=2009_Minnesota_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2009 Minnesota State Tournament (page does not exist)">2009</a> </b></td>
+<td>Kenwood Trail Middle School
+</td>
+<td>43rd
+</td>
+<td>Lake Junior High School
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td>Eastview High School
+</td>
+<td>29th
+</td>
+<td>Wayzata High School
+</td>
+<td>N/A
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=2010_Minnesota_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2010 Minnesota State Tournament (page does not exist)">2010</a> </b></td>
+<td>Kenwood Trail Middle School
+</td>
+<td>41st
+</td>
+<td>Delano Middle School
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td>Eastview High School
+</td>
+<td>20th
+</td>
+<td>Wayzata High School
+</td>
+<td>N/A
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=2011_Minnesota_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2011 Minnesota State Tournament (page does not exist)">2011</a> </b></td>
+<td>Kenwood Trail Middle School
+</td>
+<td>43rd
+</td>
+<td>Delano Middle School
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td>Mounds View High School
+</td>
+<td>15th
+</td>
+<td>Eastview High School
+</td>
+<td>19th
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=2012_Minnesota_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2012 Minnesota State Tournament (page does not exist)">2012</a> </b></td>
+<td>Delano Middle School
+</td>
+<td>55th
+</td>
+<td>Friedell Middle School
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td>Mounds View High School
+</td>
+<td>22nd
+</td>
+<td>Eastview High School
+</td>
+<td>N/A
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=2013_Minnesota_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2013 Minnesota State Tournament (page does not exist)">2013</a> </b></td>
+<td>Friedell Middle School
+</td>
+<td>40th
+</td>
+<td>Sauk Rapids-Rice Middle School
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td>Mounds View High School
+</td>
+<td>7th
+</td>
+<td>Eastview High School
+</td>
+<td>N/A
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=2014_Minnesota_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2014 Minnesota State Tournament (page does not exist)">2014</a> </b></td>
+<td>Chippewa Middle School
+</td>
+<td>29th
+</td>
+<td>Highview Middle School
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td>Mounds View High School
+</td>
+<td>2nd
+</td>
+<td>Wayzata High School
+</td>
+<td>N/A
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=2015_Minnesota_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2015 Minnesota State Tournament (page does not exist)">2015</a> </b></td>
+<td><a href="/wiki/index.php/Chippewa_Middle_School_(Minnesota)" title="Chippewa Middle School (Minnesota)">Chippewa Middle School</a>
+</td>
+<td>17th
+</td>
+<td><a href="/wiki/index.php/Friedell_Middle_School" title="Friedell Middle School">Friedell Middle School</a>
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td><a href="/wiki/index.php/Mounds_View_High_School" title="Mounds View High School">Mounds View High School</a>
+</td>
+<td>5th
+</td>
+<td><a href="/wiki/index.php/Wayzata_High_School" title="Wayzata High School">Wayzata High School</a>
+</td>
+<td>N/A
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=2016_Minnesota_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2016 Minnesota State Tournament (page does not exist)">2016</a> </b></td>
+<td><a href="/wiki/index.php/Chippewa_Middle_School_(Minnesota)" title="Chippewa Middle School (Minnesota)">Chippewa Middle School</a>
+</td>
+<td>21st
+</td>
+<td><a href="/wiki/index.php/Friedell_Middle_School" title="Friedell Middle School">Friedell Middle School</a>
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td><a href="/wiki/index.php/Mounds_View_High_School" title="Mounds View High School">Mounds View High School</a>
+</td>
+<td>10th
+</td>
+<td><a href="/wiki/index.php/Wayzata_High_School" title="Wayzata High School">Wayzata High School</a>
+</td>
+<td>N/A
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=2017_Minnesota_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2017 Minnesota State Tournament (page does not exist)">2017</a> </b></td>
+<td><a href="/wiki/index.php/Chippewa_Middle_School_(Minnesota)" title="Chippewa Middle School (Minnesota)">Chippewa Middle School</a>
+</td>
+<td>24th
+</td>
+<td><a href="/wiki/index.php/Friedell_Middle_School" title="Friedell Middle School">Friedell Middle School</a>
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td><a href="/wiki/index.php/Mounds_View_High_School" title="Mounds View High School">Mounds View High School</a>
+</td>
+<td>7th
+</td>
+<td><a href="/wiki/index.php/Wayzata_High_School" title="Wayzata High School">Wayzata High School</a>
+</td>
+<td>N/A
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=2018_Minnesota_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2018 Minnesota State Tournament (page does not exist)">2018</a> </b></td>
+<td><a href="/wiki/index.php/Chippewa_Middle_School_(Minnesota)" title="Chippewa Middle School (Minnesota)">Chippewa Middle School</a>
+</td>
+<td>23rd
+</td>
+<td><a href="/wiki/index.php/Friedell_Middle_School" title="Friedell Middle School">Friedell Middle School</a>
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td><a href="/wiki/index.php/Mounds_View_High_School" title="Mounds View High School">Mounds View High School</a>
+</td>
+<td>5th
+</td>
+<td><a href="/wiki/index.php/Wayzata_High_School" title="Wayzata High School">Wayzata High School</a>
+</td>
+<td>N/A
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=2019_Minnesota_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2019 Minnesota State Tournament (page does not exist)">2019</a> </b></td>
+<td><a href="/wiki/index.php/Chippewa_Middle_School_(Minnesota)" title="Chippewa Middle School (Minnesota)">Chippewa Middle School</a>
+</td>
+<td>30th
+</td>
+<td><a href="/wiki/index.php/Friedell_Middle_School" title="Friedell Middle School">Friedell Middle School</a>
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td><a href="/wiki/index.php/Mounds_View_High_School" title="Mounds View High School">Mounds View High School</a>
+</td>
+<td>17th
+</td>
+<td><a href="/wiki/index.php/Wayzata_High_School" title="Wayzata High School">Wayzata High School</a>
+</td>
+<td>N/A
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=2020_Minnesota_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2020 Minnesota State Tournament (page does not exist)">2020</a> </b></td>
+<td colspan="5"><i>Cancelled due to the <a href="/wiki/index.php/2019-20_Coronavirus_outbreak" title="2019-20 Coronavirus outbreak">2019-20 Coronavirus outbreak</a></i>
+</td>
+<td><a href="/wiki/index.php/Wayzata_High_School" title="Wayzata High School">Wayzata High School</a>
+</td>
+<td>N/A
+</td>
+<td><a href="/wiki/index.php/Mounds_View_High_School" title="Mounds View High School">Mounds View High School</a>
+</td>
+<td>N/A
+</td>
+<td>
+</td></tr>
+
+
+
+
+
+</tbody></table>
+<dl><dd></dd>
+<dd></dd>
+<dd></dd>
+<dd></dd>
+<dd></dd>
+<dd></dd>
+<dd></dd>
+<dd></dd>
+<dd></dd>
+<dd></dd></dl>
+<p><br />
+</p>
+<h2><span class="mw-headline" id="Competitions">Competitions</span></h2>
+<h3><span class="mw-headline" id="Invitationals">Invitationals</span></h3>
+<dl><dd><a href="/wiki/index.php/University_of_Minnesota_Invitational" title="University of Minnesota Invitational">University of Minnesota Invitational</a> (Division B) - January 4th, 2020 at the <a href="http://en.wikipedia.org/wiki/University_of_Minnesota" class="extiw" title="wikipedia:University of Minnesota">University of Minnesota</a></dd></dl>
+<h3><span class="mw-headline" id="Regionals">Regionals</span></h3>
+<h4><span class="mw-headline" id="Division_B">Division B</span></h4>
+<dl><dd><a href="/wiki/index.php/Chippewa_Regional" title="Chippewa Regional">Chippewa Regional</a> - February 1st, 2020 at <a href="/wiki/index.php/Chippewa_Middle_School_(Minnesota)" title="Chippewa Middle School (Minnesota)">Chippewa Middle School</a></dd>
+<dd><a href="/wiki/index.php/Kenwood_Trail_Regional" title="Kenwood Trail Regional">Kenwood Trail Regional</a> - February 8th, 2020 at <a href="/wiki/index.php/Kenwood_Trail_Middle_School" title="Kenwood Trail Middle School">Kenwood Trail Middle School</a></dd></dl>
+<h4><span class="mw-headline" id="Division_C">Division C</span></h4>
+<dl><dd><a href="/wiki/index.php/Century_Regional" title="Century Regional">Century Regional</a> - February 1st, 2020 at <a href="/wiki/index.php/Century_High_School_(Minnesota)" title="Century High School (Minnesota)">Century High School</a></dd>
+<dd><a href="/wiki/index.php/Eastview_Regional" title="Eastview Regional">Eastview Regional</a> - February 1st, 2020 at <a href="/wiki/index.php/Eastview_High_School" title="Eastview High School">Eastview High School</a></dd>
+<dd><a href="/wiki/index.php/Minnetonka_Regional" title="Minnetonka Regional">Minnetonka Regional</a> - February 1st, 2020 at <a href="/wiki/index.php/Minnetonka_High_School" title="Minnetonka High School">Minnetonka High School</a></dd>
+<dd><a href="/wiki/index.php/Moorhead_Regional" title="Moorhead Regional">Moorhead Regional</a> - February 1st, 2020 at <a href="http://en.wikipedia.org/wiki/Minnesota_State_University-Moorhead" class="extiw" title="wikipedia:Minnesota State University-Moorhead">Minnesota State University-Moorhead</a></dd>
+<dd><a href="/wiki/index.php/Mounds_View_Regional" title="Mounds View Regional">Mounds View Regional</a> - February 1st, 2020 at <a href="/wiki/index.php/Mounds_View_High_School" title="Mounds View High School">Mounds View High School</a></dd></dl>
+<h3><span class="mw-headline" id="State">State</span></h3>
+<dl><dd><s>Division B: April 4th, 2020 at <a href="/wiki/index.php/Chippewa_Middle_School_(Minnesota)" title="Chippewa Middle School (Minnesota)">Chippewa Middle School</a></s> Cancelled due to <a href="/wiki/index.php/2019-20_Coronavirus_outbreak" title="2019-20 Coronavirus outbreak">2019-20 Coronavirus outbreak</a></dd>
+<dd>Division C: March 7th, 2020 at <a href="http://en.wikipedia.org/wiki/Bethel_University" class="extiw" title="wikipedia:Bethel University">Bethel University</a></dd></dl>
+<h2><span class="mw-headline" id="Division_B_Teams_2020">Division B Teams 2020</span></h2>
+<p>(All teams qualify for state)
+Note: Every school which doesn't have a number of teams has 1 team.
+</p>
+<dl><dd><a href="/wiki/index.php?title=Century_Middle_School&amp;action=edit&amp;redlink=1" class="new" title="Century Middle School (page does not exist)">Century Middle School</a></dd>
+<dd><a href="/wiki/index.php/Chippewa_Middle_School_(Minnesota)" title="Chippewa Middle School (Minnesota)">Chippewa Middle School</a> (4 teams)</dd>
+<dd><a href="/wiki/index.php/Delano_Middle_School" title="Delano Middle School">Delano Middle School</a></dd>
+<dd><a href="/wiki/index.php?title=Ellis_Middle_School&amp;action=edit&amp;redlink=1" class="new" title="Ellis Middle School (page does not exist)">Ellis Middle School</a></dd>
+<dd><a href="/wiki/index.php/Friedell_Middle_School" title="Friedell Middle School">Friedell Middle School</a> (3 teams)</dd>
+<dd><a href="/wiki/index.php?title=Hastings_Middle_School&amp;action=edit&amp;redlink=1" class="new" title="Hastings Middle School (page does not exist)">Hastings Middle School</a></dd>
+<dd><a href="/wiki/index.php/Highview_Middle_School" title="Highview Middle School">Highview Middle School</a> (2 teams)</dd>
+<dd><a href="/wiki/index.php?title=Horizon_Middle_School_(Minnesota)&amp;action=edit&amp;redlink=1" class="new" title="Horizon Middle School (Minnesota) (page does not exist)">Horizon Middle School</a></dd>
+<dd><a href="/wiki/index.php/Kenwood_Trail_Middle_School" title="Kenwood Trail Middle School">Kenwood Trail Middle School</a> (3 teams)</dd>
+<dd><a href="/wiki/index.php?title=Lighthouse_Middle_School&amp;action=edit&amp;redlink=1" class="new" title="Lighthouse Middle School (page does not exist)">Lighthouse Middle School</a></dd>
+<dd><a href="/wiki/index.php?title=Minnetonka_East_Middle_School&amp;action=edit&amp;redlink=1" class="new" title="Minnetonka East Middle School (page does not exist)">Minnetonka East Middle School</a> (2 teams)</dd>
+<dd><a href="/wiki/index.php?title=Minnetonka_West_Middle_School&amp;action=edit&amp;redlink=1" class="new" title="Minnetonka West Middle School (page does not exist)">Minnetonka West Middle School</a> (2 teams)</dd>
+<dd><a href="/wiki/index.php/Olson_Middle_School" title="Olson Middle School">Olson Middle School</a></dd>
+<dd><a href="/wiki/index.php?title=Providence_Academy&amp;action=edit&amp;redlink=1" class="new" title="Providence Academy (page does not exist)">Providence Academy</a> (4 teams)</dd>
+<dd><a href="/wiki/index.php?title=Pine_Island_Middle_School&amp;action=edit&amp;redlink=1" class="new" title="Pine Island Middle School (page does not exist)">Pine Island Middle School</a></dd>
+<dd><a href="/wiki/index.php?title=Paideia_Middle_School&amp;action=edit&amp;redlink=1" class="new" title="Paideia Middle School (page does not exist)">Paideia Middle School</a></dd>
+<dd><a href="/wiki/index.php?title=Northfield_Middle_School&amp;action=edit&amp;redlink=1" class="new" title="Northfield Middle School (page does not exist)">Northfield Middle School</a></dd>
+<dd><a href="/wiki/index.php/Randolph_Middle_School" title="Randolph Middle School">Randolph Middle School</a></dd>
+<dd><a href="/wiki/index.php?title=St._Thomas_Academy_Middle_School&amp;action=edit&amp;redlink=1" class="new" title="St. Thomas Academy Middle School (page does not exist)">St. Thomas Academy Middle School</a></dd>
+<dd><a href="/wiki/index.php/Sauk_Rapids-Rice_Middle_School" title="Sauk Rapids-Rice Middle School">Sauk Rapids-Rice Middle School</a> (2 teams)</dd>
+<dd><a href="/wiki/index.php?title=Shakopee_East_Middle_School&amp;action=edit&amp;redlink=1" class="new" title="Shakopee East Middle School (page does not exist)">Shakopee East Middle School</a></dd>
+<dd><a href="/wiki/index.php?title=St._Louis_Park_Middle_School&amp;action=edit&amp;redlink=1" class="new" title="St. Louis Park Middle School (page does not exist)">St. Louis Park Middle School</a> (2 teams)</dd>
+<dd><a href="/wiki/index.php?title=St._Ambrose_Middle_School&amp;action=edit&amp;redlink=1" class="new" title="St. Ambrose Middle School (page does not exist)">St. Ambrose Middle School</a></dd>
+<dd><a href="/wiki/index.php?title=Triton_Middle_School&amp;action=edit&amp;redlink=1" class="new" title="Triton Middle School (page does not exist)">Triton Middle School</a></dd></dl>
+<h2><span id="Division_C_Teams_(2020)"></span><span class="mw-headline" id="Division_C_Teams_.282020.29">Division C Teams (2020)</span></h2>
+<p>Note: Every school which doesn't have a number of teams has 1 team.
+</p>
+<h3><span class="mw-headline" id="Eastview_HS_Regional">Eastview HS Regional</span></h3>
+<dl><dd><a href="/wiki/index.php/Apple_Valley_High_School" title="Apple Valley High School">Apple Valley High School</a></dd>
+<dd><a href="/wiki/index.php?title=Eagan_High_School&amp;action=edit&amp;redlink=1" class="new" title="Eagan High School (page does not exist)">Eagan High School</a> (2 teams)</dd>
+<dd><a href="/wiki/index.php?title=East_Ridge_High_School&amp;action=edit&amp;redlink=1" class="new" title="East Ridge High School (page does not exist)">East Ridge High School</a> (2 teams)</dd>
+<dd><a href="/wiki/index.php/Eastview_High_School" title="Eastview High School">Eastview High School</a> (3 teams)</dd>
+<dd><a href="/wiki/index.php?title=Lakeville_North_High_School&amp;action=edit&amp;redlink=1" class="new" title="Lakeville North High School (page does not exist)">Lakeville North High School</a></dd>
+<dd><a href="/wiki/index.php?title=Lakeville_South_High_School&amp;action=edit&amp;redlink=1" class="new" title="Lakeville South High School (page does not exist)">Lakeville South High School</a></dd>
+<dd><a href="/wiki/index.php?title=Rosemount_High_School&amp;action=edit&amp;redlink=1" class="new" title="Rosemount High School (page does not exist)">Rosemount High School</a></dd>
+<dd><a href="/wiki/index.php?title=St._Paul_Academy&amp;action=edit&amp;redlink=1" class="new" title="St. Paul Academy (page does not exist)">St. Paul Academy</a> (2 teams)</dd>
+<dd><a href="/wiki/index.php?title=Stillwater_Area_High_School&amp;action=edit&amp;redlink=1" class="new" title="Stillwater Area High School (page does not exist)">Stillwater Area High School</a></dd>
+<dd><a href="/wiki/index.php?title=Thomas_Jefferson_High_School_(Minnesota)&amp;action=edit&amp;redlink=1" class="new" title="Thomas Jefferson High School (Minnesota) (page does not exist)">Thomas Jefferson High School</a> (3 teams)</dd></dl>
+<h3><span class="mw-headline" id="Minnetonka_HS_Regional">Minnetonka HS Regional</span></h3>
+<dl><dd><a href="/wiki/index.php/Delano_High_School" title="Delano High School">Delano High School</a> (2 teams)</dd>
+<dd><a href="/wiki/index.php?title=Eden_Prarie_High_School&amp;action=edit&amp;redlink=1" class="new" title="Eden Prarie High School (page does not exist)">Eden Prarie High School</a> (4 teams)</dd>
+<dd><a href="/wiki/index.php?title=Bloomington_Kennedy_High_School&amp;action=edit&amp;redlink=1" class="new" title="Bloomington Kennedy High School (page does not exist)">Bloomington Kennedy High School</a> (2 teams)</dd>
+<dd><a href="/wiki/index.php/Minnetonka_High_School" title="Minnetonka High School">Minnetonka High School</a> (3 teams)</dd>
+<dd><a href="/wiki/index.php?title=The_Blake_School&amp;action=edit&amp;redlink=1" class="new" title="The Blake School (page does not exist)">The Blake School</a> (4 teams)</dd>
+<dd><a href="/wiki/index.php/Wayzata_High_School" title="Wayzata High School">Wayzata High School</a> (3 teams)</dd></dl>
+<h3><span class="mw-headline" id="Moorhead_State_University_Regional">Moorhead State University Regional</span></h3>
+<dl><dd><a href="/wiki/index.php?title=Bemidji_High_School&amp;action=edit&amp;redlink=1" class="new" title="Bemidji High School (page does not exist)">Bemidji High School</a></dd>
+<dd><a href="/wiki/index.php?title=Hawley_High_School&amp;action=edit&amp;redlink=1" class="new" title="Hawley High School (page does not exist)">Hawley High School</a> (2 teams)</dd>
+<dd><a href="/wiki/index.php?title=Moorhead_High_School&amp;action=edit&amp;redlink=1" class="new" title="Moorhead High School (page does not exist)">Moorhead High School</a></dd>
+<dd><a href="/wiki/index.php?title=Osakis_High_School&amp;action=edit&amp;redlink=1" class="new" title="Osakis High School (page does not exist)">Osakis High School</a></dd>
+<dd><a href="/wiki/index.php?title=Sacred_Heart&amp;action=edit&amp;redlink=1" class="new" title="Sacred Heart (page does not exist)">Sacred Heart</a> (2 teams)</dd></dl>
+<h3><span class="mw-headline" id="Mounds_View_HS_Regional">Mounds View HS Regional</span></h3>
+<dl><dd><a href="/wiki/index.php?title=Centennial_High_School_(Minnesota)&amp;action=edit&amp;redlink=1" class="new" title="Centennial High School (Minnesota) (page does not exist)">Centennial High School</a></dd>
+<dd><a href="/wiki/index.php?title=Cretin-Derham_Hall_High_School&amp;action=edit&amp;redlink=1" class="new" title="Cretin-Derham Hall High School (page does not exist)">Cretin-Derham Hall High School</a></dd>
+<dd><a href="/wiki/index.php/Irondale_High_School" title="Irondale High School">Irondale High School</a> (2 teams)</dd>
+<dd><a href="/wiki/index.php?title=Mound_Westonka_High_School&amp;action=edit&amp;redlink=1" class="new" title="Mound Westonka High School (page does not exist)">Mound Westonka High School</a></dd>
+<dd><a href="/wiki/index.php/Mounds_View_High_School" title="Mounds View High School">Mounds View High School</a> (4 teams)</dd>
+<dd><a href="/wiki/index.php/Orono_High_School" title="Orono High School">Orono High School</a> (2 teams)</dd>
+<dd><a href="/wiki/index.php?title=Spring_Lake_Park_High_School&amp;action=edit&amp;redlink=1" class="new" title="Spring Lake Park High School (page does not exist)">Spring Lake Park High School</a></dd>
+<dd><a href="/wiki/index.php?title=St._Anthony_Village_High_School&amp;action=edit&amp;redlink=1" class="new" title="St. Anthony Village High School (page does not exist)">St. Anthony Village High School</a></dd>
+<dd><a href="/wiki/index.php?title=St._Michael-Albertsville_High_School&amp;action=edit&amp;redlink=1" class="new" title="St. Michael-Albertsville High School (page does not exist)">St. Michael-Albertsville High School</a></dd>
+<dd><a href="/wiki/index.php?title=Totino-Grace_High_School&amp;action=edit&amp;redlink=1" class="new" title="Totino-Grace High School (page does not exist)">Totino-Grace High School</a></dd>
+<dd><a href="/wiki/index.php?title=Woodbury_High_School&amp;action=edit&amp;redlink=1" class="new" title="Woodbury High School (page does not exist)">Woodbury High School</a> (2 teams)</dd></dl>
+<h3><span class="mw-headline" id="Century_HS_Regional">Century HS Regional</span></h3>
+<dl><dd><a href="/wiki/index.php?title=Austin_High_School&amp;action=edit&amp;redlink=1" class="new" title="Austin High School (page does not exist)">Austin High School</a></dd>
+<dd><a href="/wiki/index.php?title=Bethlehem_Academy&amp;action=edit&amp;redlink=1" class="new" title="Bethlehem Academy (page does not exist)">Bethlehem Academy</a></dd>
+<dd><a href="/wiki/index.php/Century_High_School_(Minnesota)" title="Century High School (Minnesota)">Century High School</a> (2 teams)</dd>
+<dd><a href="/wiki/index.php?title=Faribault_High_School&amp;action=edit&amp;redlink=1" class="new" title="Faribault High School (page does not exist)">Faribault High School</a> (2 teams)</dd>
+<dd><a href="/wiki/index.php?title=Farmington_High_School_(Minnesota)&amp;action=edit&amp;redlink=1" class="new" title="Farmington High School (Minnesota) (page does not exist)">Farmington High School</a></dd>
+<dd><a href="/wiki/index.php?title=John_Marshall_High_School&amp;action=edit&amp;redlink=1" class="new" title="John Marshall High School (page does not exist)">John Marshall High School</a></dd>
+<dd><a href="/wiki/index.php/Mayo_High_School" title="Mayo High School">Mayo High School</a></dd>
+<dd><a href="/wiki/index.php?title=Northfield_High_School&amp;action=edit&amp;redlink=1" class="new" title="Northfield High School (page does not exist)">Northfield High School</a></dd>
+<dd><a href="/wiki/index.php?title=Owatonna_High_School&amp;action=edit&amp;redlink=1" class="new" title="Owatonna High School (page does not exist)">Owatonna High School</a></dd>
+<dd><a href="/wiki/index.php?title=Stewartville_High_School&amp;action=edit&amp;redlink=1" class="new" title="Stewartville High School (page does not exist)">Stewartville High School</a></dd>
+<dd><a href="/wiki/index.php?title=Waseca_High_School&amp;action=edit&amp;redlink=1" class="new" title="Waseca High School (page does not exist)">Waseca High School</a> (2 teams)</dd></dl>
+<h2><span class="mw-headline" id="External_Links">External Links</span></h2>
+<div role="navigation" class="navbox" aria-labelledby="Tournaments_of_Minnesota" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="3"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/index.php/Template:Tournaments_of_Minnesota" title="Template:Tournaments of Minnesota"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/index.php?title=Template_talk:Tournaments_of_Minnesota&amp;action=edit&amp;redlink=1" class="new" title="Template talk:Tournaments of Minnesota (page does not exist)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a rel="nofollow" class="external text" href="https://scioly.org/wiki/index.php?title=Template:Tournaments_of_Minnesota&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Tournaments_of_Minnesota" style="font-size:114%;margin:0 4em">Tournaments of <a class="mw-selflink selflink">Minnesota</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Invitationals</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Current</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Division B</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/University_of_Minnesota_Invitational" title="University of Minnesota Invitational">University of Minnesota Invitational</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Defunct</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Division C</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Wayzata_Invitational" title="Wayzata Invitational">Wayzata Invitational</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td><td class="navbox-image" rowspan="3" style="width:1px;padding:0px 0px 0px 2px"><div><a href="/wiki/index.php/Minnesota" title="Minnesota"><img alt="FlagOfMinnesota.png" src="/wiki/images/9/9b/FlagOfMinnesota.png" width="150" height="95" /></a></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/index.php?title=Regions_of_Minnesota&amp;action=edit&amp;redlink=1" class="new" title="Regions of Minnesota (page does not exist)">Regionals</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Current</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Division B</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Chippewa_Regional" title="Chippewa Regional">Chippewa Regional</a></li>
+<li><a href="/wiki/index.php/Kenwood_Trail_Regional" title="Kenwood Trail Regional">Kenwood Trail Regional</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Division C</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Century_Regional" title="Century Regional">Century Regional</a></li>
+<li><a href="/wiki/index.php/Eastview_Regional" title="Eastview Regional">Eastview Regional</a></li>
+<li><a href="/wiki/index.php/Minnetonka_Regional" title="Minnetonka Regional">Minnetonka Regional</a></li>
+<li><a href="/wiki/index.php/Moorhead_Regional" title="Moorhead Regional">Moorhead Regional</a></li>
+<li><a href="/wiki/index.php/Mounds_View_Regional" title="Mounds View Regional">Mounds View Regional</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Defunct</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Division B</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Byron_Regional" title="Byron Regional">Byron Regional</a></li>
+<li><a href="/wiki/index.php/Ellis_Regional" title="Ellis Regional">Ellis Regional</a></li>
+<li><a href="/wiki/index.php/Lakeville_Regional" title="Lakeville Regional">Lakeville Regional</a></li>
+<li><a href="/wiki/index.php/Moorhead_Regional" title="Moorhead Regional">Moorhead Regional</a></li>
+<li><a href="/wiki/index.php/Minnetonka_East_Regional" title="Minnetonka East Regional">Minnetonka East Regional</a></li>
+<li><a href="/wiki/index.php/Providence_Academy_Regional" title="Providence Academy Regional">Providence Academy Regional</a></li>
+<li><a href="/wiki/index.php/Pine_Island_Regional" title="Pine Island Regional">Pine Island Regional</a></li>
+<li><a href="/wiki/index.php/University_of_Minnesota_Regional" title="University of Minnesota Regional">University of Minnesota Regional</a></li>
+<li><a href="/wiki/index.php/Minnesota_Conference_Meets" title="Minnesota Conference Meets">Minnesota Conference Meets</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Division C</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Bethel_Regional" title="Bethel Regional">Bethel Regional</a></li>
+<li><a href="/wiki/index.php/Inver_Hill_Regional" title="Inver Hill Regional">Inver Hill Regional</a></li>
+<li><a href="/wiki/index.php/Rochester_Regional" title="Rochester Regional">Rochester Regional</a></li>
+<li><a href="/wiki/index.php/University_of_Minnesota_Regional" title="University of Minnesota Regional">University of Minnesota Regional</a></li>
+<li><a href="/wiki/index.php/Minnesota_Conference_Meets" title="Minnesota Conference Meets">Minnesota Conference Meets</a></li>
+<li><a href="/wiki/index.php/Wayzata_Regional" title="Wayzata Regional">Wayzata Regional</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">States</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php?title=2015_Minnesota_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2015 Minnesota State Tournament (page does not exist)">2015</a></li>
+<li><a href="/wiki/index.php?title=2016_Minnesota_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2016 Minnesota State Tournament (page does not exist)">2016</a></li>
+<li><a href="/wiki/index.php?title=2017_Minnesota_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2017 Minnesota State Tournament (page does not exist)">2017</a></li>
+<li><a href="/wiki/index.php?title=2018_Minnesota_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2018 Minnesota State Tournament (page does not exist)">2018</a></li>
+<li><a href="/wiki/index.php?title=2019_Minnesota_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2019 Minnesota State Tournament (page does not exist)">2019</a></li>
+<li><a href="/wiki/index.php?title=2020_Minnesota_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2020 Minnesota State Tournament (page does not exist)">2020</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="3"><div>State Website: <a rel="nofollow" class="external free" href="http://www.minnesotaso.org/">http://www.minnesotaso.org/</a></div></td></tr></tbody></table></div>
+<p><br />
+</p><p><a rel="nofollow" class="external text" href="http://www.minnesotaso.org/">Minnesota Science Olympiad Website</a>
+</p><p><a rel="nofollow" class="external text" href="https://sites.google.com/a/isd194.org/minnesota-science-olympiad-division-b/">Minnesota Division B Website</a>
+</p>
+<!-- 
+NewPP limit report
+Cached time: 20200806214716
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.744 seconds
+Real time usage: 0.884 seconds
+Preprocessor visited node count: 2861/1000000
+Preprocessor generated node count: 10788/1000000
+Post‐expand include size: 59402/2097152 bytes
+Template argument size: 12120/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.110/7.000 seconds
+Lua virtual size: 8.86 MB/50 MB
+Lua estimated memory usage: 0 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  492.651      1 -total
+ 88.74%  437.171      7 Template:Navbox
+ 48.56%  239.211      1 Template:State_tournament_results_box
+ 47.11%  232.091      1 Template:Tournaments_of_Minnesota
+ 27.02%  133.097     36 Template:Strb_row
+  2.32%   11.406      1 Template:SOInfoBox
+  1.41%    6.966      3 Template:Wikipedia
+-->
+</div>
+<!-- Saved in parser cache with key wiki-wikiv2_:pcache:idhash:262-0!canonical and timestamp 20200806214715 and revision id 105515
+ -->
+</div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://scioly.org/wiki/index.php?title=Minnesota&amp;oldid=105515">https://scioly.org/wiki/index.php?title=Minnesota&amp;oldid=105515</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/index.php/Special:Categories" title="Special:Categories">Category</a>: <ul><li><a href="/wiki/index.php/Category:State_Pages" title="Category:State Pages">State Pages</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-login"><a href="//scioly.org/forums/ucp.php?mode=login&amp;redirect=https%3A%2F%2Fscioly.org%2Fwiki%2Findex.php%2FMinnesota" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/index.php/Minnesota" title="View the content page [c]" accesskey="c">Page</a></span></li><li id="ca-talk" class="new"><span><a href="/wiki/index.php?title=Talk:Minnesota&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/index.php/Minnesota">Read</a></span></li><li id="ca-viewsource" class="collapsible"><span><a href="/wiki/index.php?title=Minnesota&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li><li id="ca-history" class="collapsible"><span><a href="/wiki/index.php?title=Minnesota&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/wiki/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Scioly.org" title="Search Scioly.org [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/index.php/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage"><a href="/wiki/index.php/Main_Page" title="Visit the main page [z]" accesskey="z">Main Page</a></li><li id="n-recentchanges"><a href="/wiki/index.php/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/wiki/index.php/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-MediaWiki-Help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">MediaWiki Help</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/index.php/Special:WhatLinksHere/Minnesota" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/index.php/Special:RecentChangesLinked/Minnesota" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/wiki/index.php/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="/wiki/index.php?title=Minnesota&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/wiki/index.php?title=Minnesota&amp;oldid=105515" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/wiki/index.php?title=Minnesota&amp;action=info" title="More information about this page">Page information</a></li>				</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 30 July 2020, at 20:52.</li>
+								<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution</a> unless otherwise noted.</li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="http://creativecommons.org/licenses/by/3.0/"><img src="/wiki/resources/assets/licenses/cc-by.png" alt="Creative Commons Attribution" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<style>.MathJax_Display{display:inline !important;}
+.mathjax-wrapper{font-size:120%;}</style>
+<script type='text/x-mathjax-config'>MathJax.Hub.Config({displayAlign:'left',tex2jax:{displayMath:[['[math]','[/math]']]}})</script>
+<script src='//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.744","walltime":"0.884","ppvisitednodes":{"value":2861,"limit":1000000},"ppgeneratednodes":{"value":10788,"limit":1000000},"postexpandincludesize":{"value":59402,"limit":2097152},"templateargumentsize":{"value":12120,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%  492.651      1 -total"," 88.74%  437.171      7 Template:Navbox"," 48.56%  239.211      1 Template:State_tournament_results_box"," 47.11%  232.091      1 Template:Tournaments_of_Minnesota"," 27.02%  133.097     36 Template:Strb_row","  2.32%   11.406      1 Template:SOInfoBox","  1.41%    6.966      3 Template:Wikipedia"]},"scribunto":{"limitreport-timeusage":{"value":"0.110","limit":"7.000"},"limitreport-virtmemusage":{"value":9289728,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20200806214716","ttl":86400,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":123});});</script>
+	</body>
+</html>

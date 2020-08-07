@@ -1,0 +1,729 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Food Science - Scioly.org</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Food_Science","wgTitle":"Food Science","wgCurRevisionId":101866,"wgRevisionId":101866,"wgArticleId":2903,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Physical Science and Chemistry Events","Event Pages","Lab Event Pages"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Food_Science","wgRelevantArticleId":2903,"wgRequestId":"9524f5142e3c91f243e10bef","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":[]});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","site":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@1ltrs49",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/wiki/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/wiki/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/wiki/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.8"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/wiki/opensearch_desc.php" title="Scioly.org (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://scioly.org/wiki/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Scioly.org Atom feed" href="/wiki/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/wiki/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Food_Science rootpage-Food_Science skin-vector action-view"><meta property="og:title" content="Science Olympiad Student Center"/>
+<meta property="og:type" content="website"/>
+<meta property="og:url" content="https://scioly.org/"/>
+
+<meta property="og:image" content="http://scioly.org/src/img/logo/logo_square.png"/>
+<meta property="og:image:secure_url" content="https://scioly.org/src/img/logo/logo_square.png"/> 
+<meta property="og:image:type" content="image/png"/> 
+<meta property="og:image:width" content="500"/> 
+<meta property="og:image:height" content="500"/>
+
+<meta property="og:description" content="A resource by and for Science Olympiad students, coaches, and alumni nationwide."/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script type="text/javascript" src="/src/js/jquery.min.js"></script>
+<script type="text/javascript" src="/src/js/main.js"></script>
+
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+<link rel="stylesheet" type="text/css" href="/src/css/main.css">
+
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<link rel="icon" href="/favicon.ico" type="image/x-icon"><div class="site-nav">
+	<a href="/">
+		<img src="/src/img/logo/logo.png">
+	</a>
+	<div class="hamburger" onclick="hamburger(this)">
+		<div>
+			<div></div>
+			<div></div>
+			<div></div>
+		</div>
+	</div>
+	<ul>
+		<li><a href="/forums">Forums</a></li>
+		<li><a href="/wiki">Wiki</a></li>
+		<li><a href="/tests">Test Exchange</a></li>
+		<!-- <li><a href="/gallery">Image Gallery</a></li> -->
+		<!-- <li><a href="/invitational">Invites</a></li> -->
+		<li><a href="/chat">Chat</a></li>
+		<li><a href="/login" class="button">Login</a></li>
+	</ul>
+</div>
+<img class="print-only" src="/src/img/logo/logo_black.png" style="max-width: 150px;"><link rel="stylesheet" type="text/css" href="/src/css/wiki.css">
+<div id="wrap-me-up">
+
+
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Food Science</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Scioly.org</div>				<div id="contentSub"></div>
+								<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table align="right" class="infobox">
+
+<tbody><tr>
+<th colspan="2" style="font-size: larger; text-align: center;"><b>Food Science</b>
+</th></tr>
+<tr>
+<td colspan="2"><center><i>This event is an event held in the current season.</i></center>
+</td></tr>
+<tr>
+<td colspan="2"><hr />
+</td></tr>
+<tr>
+<td><b>Type</b>
+</td>
+<td>Chemistry
+</td></tr>
+<tr>
+<td><b>Category</b>
+</td>
+<td>Lab
+</td></tr>
+<tr>
+<td colspan="2" class="infobox-header"><b>Event Information</b>
+</td></tr>
+
+
+
+
+
+
+
+<tr>
+<td><b>Latest Appearance</b>
+</td>
+<td>2020
+</td></tr>
+<tr>
+<td colspan="2" class="infobox-header"><b>Forum Threads</b>
+</td></tr>
+
+<tr>
+<td colspan="2" style="padding: 0;">
+<table class="infobox-events-link-table">
+
+<tbody><tr>
+<td><a rel="nofollow" class="external text" href="https://scioly.org/forums/viewtopic.php?f=284&amp;t=15362">2020</a>
+</td>
+<td><span> </span>
+</td>
+<td><span> </span>
+</td>
+<td><a rel="nofollow" class="external text" href="http://scioly.org/phpBB3/viewtopic.php?f=226&amp;t=9290">2017</a>
+</td>
+<td><a rel="nofollow" class="external text" href="http://scioly.org/phpBB3/viewtopic.php?f=207&amp;t=7695">2016</a>
+</td></tr>
+</tbody></table>
+</td></tr>
+<tr>
+<td colspan="2" style="padding: 0;">
+<table class="infobox-events-link-table">
+
+<tbody><tr>
+<td><span> </span>
+</td>
+<td><span> </span>
+</td>
+<td><a rel="nofollow" class="external text" href="http://www.scioly.org/phpBB3/viewtopic.php?f=142&amp;t=3713">2013</a>
+</td>
+<td><a rel="nofollow" class="external text" href="http://www.scioly.org/phpBB3/viewtopic.php?f=127&amp;t=2963">2012</a>
+</td>
+<td><a rel="nofollow" class="external text" href="http://scioly.org/phpBB3/viewtopic.php?f=92&amp;t=2332">2011 Trial</a>
+</td></tr>
+</tbody></table>
+</td></tr>
+
+<tr>
+<td colspan="2" class="infobox-header"><b>Forum Question Threads</b>
+</td></tr>
+
+<tr>
+<td colspan="2" style="padding: 0;">
+<table class="infobox-events-link-table">
+
+<tbody><tr>
+<td><a rel="nofollow" class="external text" href="https://scioly.org/forums/viewtopic.php?f=297&amp;t=16355">2020</a>
+</td>
+<td><span> </span>
+</td>
+<td><span> </span>
+</td>
+<td><a rel="nofollow" class="external text" href="http://scioly.org/phpBB3/viewtopic.php?f=228&amp;t=9638">2017</a>
+</td>
+<td><a rel="nofollow" class="external text" href="http://www.scioly.org/phpBB3/viewtopic.php?f=217&amp;p=280333#p280333">2016</a>
+</td></tr>
+</tbody></table>
+</td></tr>
+
+
+<tr>
+<td colspan="2" class="infobox-header"><b>Official Resources</b>
+</td></tr>
+<tr>
+<td><b>Website</b>
+</td>
+<td><a rel="nofollow" class="external text" href="https://www.soinc.org/food-science-b">soinc.org</a>
+</td></tr>
+
+
+
+<tr>
+<td colspan="2" class="infobox-header"><b>Division B Results</b>
+</td></tr>
+<tr>
+<td colspan="2" style="padding: 0;">
+<table class="infobox-scoreboard" style="margin: 0; padding: 0; width:100%;">
+
+
+<tbody><tr style="background-color: gold;">
+<td style="width: 10%; text-align: center;"><b>1st</b>
+</td>
+<td style="width: 90%; padding-left: 5px;"><b>Daniel Wright Junior High School</b>
+</td></tr>
+<tr style="background-color: silver;">
+<td style="width: 10%; text-align: center;">2nd
+</td>
+<td style="width: 90%; padding-left: 5px;">Piedmont IB Middle School
+</td></tr>
+<tr style="background-color: #d1965c;">
+<td style="width: 10%; text-align: center;">3rd
+</td>
+<td style="width: 90%; padding-left: 5px;">Eagle Hill Middle School
+</td></tr>
+</tbody></table>
+</td></tr>
+
+</tbody></table>
+<p><b>Food Science</b> is a <a href="/wiki/index.php/Division_B" title="Division B">Division B</a> event for the <a href="/wiki/index.php/2020" title="2020">2020</a> and <a href="/wiki/index.php/2021" title="2021">2021</a> seasons that focuses on fermentation and pickles. The competition includes a test portion on the chemistry of food, with a focus on pickles and fermentation, and a lab portion where competitors must use a pre-constructed salinometer to measure the salinity content of a sample. Food Science was originally a trial event in states including <a href="/wiki/index.php/Texas" title="Texas">Texas</a> and <a href="/wiki/index.php/North_Carolina" title="North Carolina">North Carolina</a>. When it was run in Texas as a Trial, it differed from many other states.
+</p><p>The event was named <a href="/wiki/index.php/Calorimeter" class="mw-redirect" title="Calorimeter">Calorimeter</a> as a <a href="/wiki/index.php/Division_C" title="Division C">Division C</a> event in 1988.
+</p>
+<div id="toc" class="toc"><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#The_Event"><span class="tocnumber">1</span> <span class="toctext">The Event</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Types_of_Fermented_Foods"><span class="tocnumber">2</span> <span class="toctext">Types of Fermented Foods</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Macromolecules"><span class="tocnumber">3</span> <span class="toctext">Macromolecules</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Lipids"><span class="tocnumber">3.1</span> <span class="toctext">Lipids</span></a>
+<ul>
+<li class="toclevel-3 tocsection-5"><a href="#Fats"><span class="tocnumber">3.1.1</span> <span class="toctext">Fats</span></a>
+<ul>
+<li class="toclevel-4 tocsection-6"><a href="#Saturated_Fatty_Acids"><span class="tocnumber">3.1.1.1</span> <span class="toctext">Saturated Fatty Acids</span></a></li>
+<li class="toclevel-4 tocsection-7"><a href="#Unsaturated_Fatty_Acids"><span class="tocnumber">3.1.1.2</span> <span class="toctext">Unsaturated Fatty Acids</span></a></li>
+<li class="toclevel-4 tocsection-8"><a href="#Esters"><span class="tocnumber">3.1.1.3</span> <span class="toctext">Esters</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-9"><a href="#Sterols"><span class="tocnumber">3.2</span> <span class="toctext">Sterols</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Carbohydrates"><span class="tocnumber">3.3</span> <span class="toctext">Carbohydrates</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Simple_Sugars"><span class="tocnumber">3.4</span> <span class="toctext">Simple Sugars</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Complex_Sugars"><span class="tocnumber">3.5</span> <span class="toctext">Complex Sugars</span></a>
+<ul>
+<li class="toclevel-3 tocsection-13"><a href="#Storage_Polysaccharides"><span class="tocnumber">3.5.1</span> <span class="toctext">Storage Polysaccharides</span></a></li>
+<li class="toclevel-3 tocsection-14"><a href="#Structure_Polysaccharides"><span class="tocnumber">3.5.2</span> <span class="toctext">Structure Polysaccharides</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-15"><a href="#Proteins"><span class="tocnumber">3.6</span> <span class="toctext">Proteins</span></a>
+<ul>
+<li class="toclevel-3 tocsection-16"><a href="#Protein_Denaturation_and_Coagulation"><span class="tocnumber">3.6.1</span> <span class="toctext">Protein Denaturation and Coagulation</span></a></li>
+<li class="toclevel-3 tocsection-17"><a href="#Enzymes"><span class="tocnumber">3.6.2</span> <span class="toctext">Enzymes</span></a></li>
+<li class="toclevel-3 tocsection-18"><a href="#Amino_Acids"><span class="tocnumber">3.6.3</span> <span class="toctext">Amino Acids</span></a>
+<ul>
+<li class="toclevel-4 tocsection-19"><a href="#Complete_and_Incomplete_Proteins"><span class="tocnumber">3.6.3.1</span> <span class="toctext">Complete and Incomplete Proteins</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-20"><a href="#Emulsification"><span class="tocnumber">3.7</span> <span class="toctext">Emulsification</span></a></li>
+<li class="toclevel-2 tocsection-21"><a href="#Hydrogenation"><span class="tocnumber">3.8</span> <span class="toctext">Hydrogenation</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-22"><a href="#Food_Testing"><span class="tocnumber">4</span> <span class="toctext">Food Testing</span></a>
+<ul>
+<li class="toclevel-2 tocsection-23"><a href="#Calorimetry"><span class="tocnumber">4.1</span> <span class="toctext">Calorimetry</span></a>
+<ul>
+<li class="toclevel-3 tocsection-24"><a href="#Making_a_Calorimeter"><span class="tocnumber">4.1.1</span> <span class="toctext">Making a Calorimeter</span></a></li>
+<li class="toclevel-3 tocsection-25"><a href="#Calorimeter_Equation"><span class="tocnumber">4.1.2</span> <span class="toctext">Calorimeter Equation</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-26"><a href="#Molecule_Detection_Tests"><span class="tocnumber">4.2</span> <span class="toctext">Molecule Detection Tests</span></a>
+<ul>
+<li class="toclevel-3 tocsection-27"><a href="#Benedict.27s"><span class="tocnumber">4.2.1</span> <span class="toctext">Benedict's</span></a></li>
+<li class="toclevel-3 tocsection-28"><a href="#Biuret.27s"><span class="tocnumber">4.2.2</span> <span class="toctext">Biuret's</span></a></li>
+<li class="toclevel-3 tocsection-29"><a href="#Iodine"><span class="tocnumber">4.2.3</span> <span class="toctext">Iodine</span></a></li>
+<li class="toclevel-3 tocsection-30"><a href="#Brown_Bag"><span class="tocnumber">4.2.4</span> <span class="toctext">Brown Bag</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-31"><a href="#Density"><span class="tocnumber">4.3</span> <span class="toctext">Density</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-32"><a href="#Competition_Tips"><span class="tocnumber">5</span> <span class="toctext">Competition Tips</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="The_Event">The Event</span></h2>
+<p>The event (2017-2018) consisted of a written test and a lab portion where students must use a homemade calorimeter. The competition often required competitors to run chemical detection tests such as Benedict's test or a Buiret test. The event (2019-2020) is focused on fermentation and pickling. It consists of a lab portion, where you can have anywhere form 1 to all of the following labs: using a student-made salinometer to find the salt content (0-10%) of an unknown solution, find the pH of a pickle, and find the water content of a pickle.
+To be allowed to participate, you <b>must</b> bring:
+</p>
+<ul>
+<li>ANSI Z87 goggles (eye protection #4)</li>
+<li>Lab coats or lab aprons that reach the knees. If aprons are used, then sleeves must reach the wrists.</li>
+<li>Closed-toe shoes (no sandals)</li>
+<li>Pants or skirts that cover the legs to the ankles (leggings don't count)</li>
+<li>1 page (front and back) <i>per competitor</i>, containing notes in any form from any source</li>
+<li>Plastic bags,cups, and spoons</li>
+<li>Graduated cylinders and beakers</li>
+<li>pH paper</li>
+<li>A homemade salinometer</li>
+</ul>
+<h2><span class="mw-headline" id="Types_of_Fermented_Foods">Types of Fermented Foods</span></h2>
+<p>-Chocolate is made from cocoa beans through alcohol and acetic acetic fermentation.
+</p>
+<h2><span class="mw-headline" id="Macromolecules">Macromolecules</span></h2>
+<p>Macromolecules are very large molecules. There are conventionally four different biopolymers: lipids, carbohydrates, proteins, and nucleic acids. The last does not apply to Food Science; therefore, the first three should be focused on. In each of these categories of macromolecules, some subcategories exist.
+</p>
+<h3><span class="mw-headline" id="Lipids">Lipids</span></h3>
+<p>Lipids have many subcategories including fats, waxes, and sterols. The main ones you need to worry about are the triglycerides: fats and oils.
+</p>
+<h4><span class="mw-headline" id="Fats">Fats</span></h4>
+<p>Fats are a good source of energy, giving 9 kcal/g of fat. 
+</p>
+<ul><li>The daily recommended amount of fat intake is limited to 65g. These contribute to a large amount of the obesity problem in the U.S.</li></ul>
+<p>Fats are most commonly found as triglycerides. Triglycerides are made up of a glycerol "backbone" with three fatty acids attached. Fatty acids are long chains of carbon molecules with an <a href="/wiki/index.php/Food_Science#Esters" title="Food Science">ester</a> group on the end.
+</p>
+<div class="floatright"><a href="/wiki/index.php/File:Triglyceride.gif" class="image" title="A triglyceride"><img alt="A triglyceride" src="/wiki/images/7/74/Triglyceride.gif" width="300" height="200" /></a></div>
+<p>The fatty acids may be saturated, unsaturated, or trans. Triglycerides can use any combination of these different fatty acids.
+</p>
+<h5><span class="mw-headline" id="Saturated_Fatty_Acids">Saturated Fatty Acids</span></h5>
+<p>Saturated fatty acids are one long chain of carbon atoms meaning no double bonds and no fancy stuff. Saturated fats are generally unhealthy since they clog arteries, increasing the risk of heart attack and stroke. Since the carbon atoms in a saturated fatty acid are packed closely together, saturated fats are usually solid at room temperature. Saturated fats are generally found in animals.
+</p>
+<h5><span class="mw-headline" id="Unsaturated_Fatty_Acids">Unsaturated Fatty Acids</span></h5>
+<p>Unsaturated fatty acids are also a long chain of carbon atoms, this time with one or more double bonds. Unsaturated fatty acids with one double bond are <i>monounsaturated</i>, and those with two or more double bonds are <i>polyunsaturated</i>. Unsaturated fats are generally healthier when not overeaten because they may help lower blood cholesterol level. Since double bonds exist, these fatty acids are much more wobbly and, therefore, are usually liquid at room temperature. Unsaturated fats are generally found in plants such as nuts and seeds. They are also found in fish as omega-3 unsaturated fatty acids.
+</p><p><b>Omega-3 Essential Fatty Acids</b>
+</p><p>Omega-3 essential fatty acids are found in fish and plants. The name means there exists a double bond three carbon atoms from the non-ester end of the chain. Omega is the last letter in the Greek alphabet (lowercase omega is used). These fatty acids are "essential" because the body cannot produce them on its own, and they are vital for normal metabolism.
+</p><p><b>Trans Fats</b>
+</p><p>Trans fats are not found in nature, although recent studies suggest that there may be small amounts. Trans fats are unsaturated fatty acids heated up then made so "dizzy" that it changes from cis to trans configuration.
+</p>
+<div class="floatleft"><a href="/wiki/index.php/File:CisvsTrans.jpg" class="image"><img alt="CisvsTrans.jpg" src="/wiki/images/c/cc/CisvsTrans.jpg" width="108" height="73" /></a></div>
+<p>Trans fats are unhealthy since they lower high-density lipoproteins (HDLs or "good" cholesterol) and raise low-density lipoproteins (LDLs or "bad" cholesterol). The recommended daily intake should be limited to 2g per day.
+</p>
+<h5><span class="mw-headline" id="Esters">Esters</span></h5>
+<p>Esters are found on the end of all fatty acids.
+</p><p>Esters are a group of organic molecules that contain -C=O-O- as part of the molecule. More specifically, esters are only one part of the molecules in this group, but any molecule that contains an ester is classified as an "ester". 
+</p><p>Esters are derived from carboxylic acids. When a carboxylic acid reacts with alcohol, an ester will form. For example, acetic acid will react with ethanol to make ethyl acetate.
+</p><p>Common esters include ethyl acetate and ethyl ethanoate.
+</p>
+<h3><span class="mw-headline" id="Sterols">Sterols</span></h3>
+<p>The one sterol you'll want to know about is cholesterol. Cholesterol, like all sterols, come in this form:
+</p><p><a href="/wiki/index.php/File:Sterol.png" class="image"><img alt="Sterol.png" src="/wiki/images/8/8c/Sterol.png" width="300" height="160" /></a>
+(picture credit Wikipedia)
+</p><p>Cholesterol comes in high-density lipoproteins (HDLs or "good" cholesterol) and low-density lipoproteins (LDLs or "bad" cholesterol. HDLs are made by your liver, while LDLs are generally consumed. Some types of foods, such as trans fats, are thought to raise LDL levels and lower HDL ones.
+</p><p>If a body has too much LDL,  arteries will clog and result in a heart attack. This is cardiovascular disease, the leading cause of death in America.
+</p>
+<h3><span class="mw-headline" id="Carbohydrates">Carbohydrates</span></h3>
+<p>Carbohydrates are, as suggested by the name, hydrates of carbon. They consist of carbon, oxygen, and hydrogen atoms. The formula for a carbohydrate can be expressed as [math]C_m(H_2 O)_n[/math], where, most commonly, [math]m[/math] and [math]n[/math] are the same.
+</p><p>Carbohydrates include simple sugars (carbohydrates made of one or two molecules of sugar), monosaccharides (any of the class of sugars, e.g., glucose, that cannot be hydrolyzed to give a simpler sugar) and disaccharides (a sugar [i.e. carbohydrate] composed of two monosaccharides), complex sugars (carbohydrates made of three or more molecules of sugar attached together), and polysaccharides (a carbohydrate (e.g., starch, cellulose, or glycogen) whose molecules consist of a number of sugar molecules bonded together).
+</p>
+<h3><span class="mw-headline" id="Simple_Sugars">Simple Sugars</span></h3>
+<p>Simple sugars consist of single sugar units (monosaccharides) and disaccharides (which are made up of two monosaccharides). The names of sugars often end in the suffix -ose.
+Common monosaccharides include:
+</p>
+<ul>
+<li>Glucose (also dextrose)</li>
+<li>Fructose (also levulose)</li>
+<li>Galactose</li>
+<li>Mannose</li>
+</ul>
+<p>Common disaccharides include:
+</p>
+<ul>
+<li>Sucrose (glucose+fructose)</li>
+<li>Lactose (glucose+galactose)</li>
+<li>Maltose (only found as a byproduct of hydrolysis of starch; glucose+glucose)</li>
+</ul>
+<p>Simple sugars are small, easy to break down, and, therefore, give energy quite soon after consumption. However, they run out quickly, leaving one tired.  Think about crashing after a sugar high.
+</p><p>The "Sugars" on food labels consist of mono- and di-saccharides. That's why you see sugar in milk; that's lactose, not added by the manufacturer.
+</p>
+<h3><span class="mw-headline" id="Complex_Sugars">Complex Sugars</span></h3>
+<p>Complex sugars are mainly polysaccharides. Polysaccharides are chains of many monosaccharides, most commonly glucose.
+</p><p>Polysaccharides are divided into two main groups, storage polysaccharides and structure polysaccharides.
+</p>
+<h4><span class="mw-headline" id="Storage_Polysaccharides">Storage Polysaccharides</span></h4>
+<p>Storage polysaccharides are our main source of energy. There are two main storage polysaccharides: glycogen and starch.
+</p>
+<ul><li><b>Glycogen</b> is the storage polysaccharide found in animals.</li>
+<li><b>Starch</b> is the storage polysaccharide found in plants. We humans consume a lot of it from foods like pasta or potatoes.</li></ul>
+<p>Starch comes in two forms: amylose and amylopectin. Amylose is a straight chain of glucose molecules which coils up. Amylopectin is branched. Since there are more ends to be broken down in amylopectin, it is more quickly digested.
+</p><p>When looking at a food label, the Dietary Fiber and Sugars don't quite add up to the Total Carbohydrate; the remainder is starch.
+</p>
+<h4><span class="mw-headline" id="Structure_Polysaccharides">Structure Polysaccharides</span></h4>
+<p>Structure polysaccharides are polysaccharides meant to give structure. Two common structure polysaccharides are celluose and chitin.
+</p><p>Celluose is better known as (dietary) fiber. It is insoluble, which means it is indigestible by our bodies, so it cleans out our insides and comes out as feces.
+</p>
+<h3><span class="mw-headline" id="Proteins">Proteins</span></h3>
+<p>Proteins are polymers of amino acids. Proteins are essential to human life because they carry out orders from the genes in cells.
+</p><p>Proteins can be converted to energy by the liver when there is a lack of carbohydrate or fat; therefore, they provide 4 kcal/g.
+</p>
+<h4><span class="mw-headline" id="Protein_Denaturation_and_Coagulation">Protein Denaturation and Coagulation</span></h4>
+<p>Protein denaturation is the undoing of natural structure by chemical or physical means. Denaturation doesn’t change the composition of the protein, only the structure. Protein denaturation can happen because of heat (140-180 degrees Fahrenheit/ 60-80 degrees Celsius), high acidity, air bubbles, or any combination of the three. Since denaturation changes the folds of the proteins, there are more open bonds, so they form new bonds. This creates a thickness or density. Coagulation is the process when these new bonds are formed.
+</p>
+<h4><span class="mw-headline" id="Enzymes">Enzymes</span></h4>
+<p>Enzymes are a type of special proteins that catalyze chemical reactions. The names of enzymes often end in the suffix -ase. Examples are maltase (breaks down maltose), amylase (breaks down amylose and amylopectin), and lactase (breaks down lactose).
+</p><p>Some enzymes cause disease due to the fact that some people do not contain them or possess distorted, non-functional forms. The most common disease is phenylketonuria (PKU), which is a lack of functional phenylalanine hydroxylase, an enzyme. When functional, phenylalanine hydroxylase is supposed to break down phenylalanine, an amino acid found in the artificial sugar aspartame.
+</p>
+<h4><span class="mw-headline" id="Amino_Acids">Amino Acids</span></h4>
+<p>Amino acids are the building blocks of proteins. Amino acids consist of 10-40 atoms each, mainly carbon, hydrogen, sometimes sulfur, and at least one nitrogen in the amino group, -NH2. Proteins are formed by linking the amine nitrogen with a carbon atom on another amino acid, forming a peptide bond.
+</p>
+<h5><span class="mw-headline" id="Complete_and_Incomplete_Proteins">Complete and Incomplete Proteins</span></h5>
+<p>All amino acids are needed to live. There are 9 essential amino acids and 11 non-essential ones. The body does not make the essential ones, therefore they need to be consumed. The body makes the other 12 itself, therefore it is not essential to eat them. For a person with a normal diet, all 9 essential amino acids are normally found in most meats.
+</p><p>This poses a problem for vegetarians, who cannot eat proteins with all the essential amino acids. So they must eat complementary proteins, or two different food ingredients, when, eaten together, make complete protein sets that contain all the proteins that you need to eat. An example of a pair of complementary proteins is rice and beans.
+</p>
+<h3><span class="mw-headline" id="Emulsification">Emulsification</span></h3>
+<p>An emulsion is a mixture of two or more liquids that are normally immiscible (unmixable or unblendable). Emulsions are part of colloids. In an emulsion, one liquid (the dispersed phase) is dispersed in the other (the continuous phase). The word "emulsion" comes from the Latin word for "to milk", as milk is an emulsion of fat and water, among other components. Emulsions, being liquids, do not exhibit a static internal structure. The droplets dispersed in the liquid matrix (called the “dispersion medium”) are usually statistically distributed.
+</p>
+<h3><span class="mw-headline" id="Hydrogenation">Hydrogenation</span></h3>
+<p>Chemical reaction between hydrogen (H2) and another compound or element, usually in the presence of a catalyst (nickel, palladium or platinum). Reduces or saturates organic compounds. Hydrogenation typically constitutes the addition of pairs of hydrogen atoms to a molecule, generally an alkene. Catalysts are required for the reaction to be usable; non-catalytic hydrogenation takes place only at very high temperatures. Hydrogenation reduces double and triple bonds in hydrocarbons, hydrogenation of unsaturated fats produces saturated fats. Partial hydrogenation can produce trans fats.
+</p>
+<h2><span class="mw-headline" id="Food_Testing">Food Testing</span></h2>
+<p>At the competition, teams are expected to be prepared to perform certain experiments on the Approved List of Ingredients. Most tests will include instructions for performing the experiments, but it is good to be familiar with them beforehand.
+</p>
+<h3><span class="mw-headline" id="Calorimetry">Calorimetry</span></h3>
+<p>Calorimetry is the required testing subject of Food Science. Teams need to make their own homemade calorimeters.
+</p>
+<h4><span class="mw-headline" id="Making_a_Calorimeter">Making a Calorimeter</span></h4>
+<p>To make a calorimeter, you will need a small metal can and a large metal can. Puncture four small holes in the small can and slide two thin rods (paperclips also work) between the holes. Fill the small can with water. Place the small can inside the large can, with a space for a sample of food. To use the new calorimeter:
+</p>
+<ol><li>Measure the water in the small can and record.</li>
+<li>Measure the mass of the food sample you will be using.</li>
+<li>Measure the temperature of the water and record.</li>
+<li>Using a match or a lighter, set the food on fire. <i><b>Note</b></i> - Do this near an open window. It will exude smoke.</li>
+<li>Quickly, put the food in the slot <b>or</b> cover it with the calorimeter. <i><b>Note</b></i> - The water temperature will rise.</li>
+<li>When the temperature of the water is done rising, then record the final temperature. You can take the food sample out; it should be done burning.</li>
+<li>Using these measurements, fill out the equation.</li></ol>
+<h4><span class="mw-headline" id="Calorimeter_Equation">Calorimeter Equation</span></h4>
+<p>This equation is [math]Q=m \times c \times \Delta T[/math]
+</p>
+<ul><li><b>Q</b> is total heat generated by food (calories)</li>
+<li><b>m</b> is mass of the water in grams (1 mL=1 gram)</li>
+<li><b>c</b> is the specific heat of water (<b>1 calorie</b>/<b>gram</b>x<b>degree Celsius</b>)</li>
+<li><b>ΔT</b> is the difference in temperature between the start and the end (e.g. if T1 = 32 and T2 = 40, then ΔT = 40-32 = 8). Note that the temperature can be in either units of Celsius or Kelvin when you are taking the difference (since Kelvin is just Celsius + 273.15), as long as your specific heat is given with units of Celsius or Kelvin.</li></ul>
+<ul><li>Substitute all of the measurements that you took before.
+<ul><li><i>Make sure to have all of the units!</i></li></ul></li>
+<li>The units of gram from <b>m</b> and gram from <b>c</b> cancel each other out, as well as degree Celsius from <b>c</b> and <b>T</b>.
+<ul><li><i>This leaves calories as the unit for Q.</i></li></ul></li>
+<li>Now solve the equation! At the end, divide by 100.</li></ul>
+<p><i>Note</i> - The event uses joules/gram as the energy unit. To transfer calories to joules/gram:
+</p>
+<ul><li>Divide the total calories by the mass of the food from before. Then, convert the units using the conversion below.
+<ul><li>1 calorie/gram = 4.1868 joules/gram.</li></ul></li></ul>
+<h3><span class="mw-headline" id="Molecule_Detection_Tests">Molecule Detection Tests</span></h3>
+<p>There are certain tests used to detect macromolecules and other molecules in food. Teams may have to perform some of these at the competition. The most common tests are Benedict's, Biuret's, Iodine, and the Brown Bag test.
+</p>
+<h4><span id="Benedict's"></span><span class="mw-headline" id="Benedict.27s">Benedict's</span></h4>
+<p>Benedict's solution is also known as Fehling's solution. It tests for reducing sugars, or a sugar with a free aldehyde. The reaction between a reducing sugar and Benedict's is between the reducing sugar's aldehyde and the copper sulfate in Benedict's.
+</p><p>To use Benedict's:
+</p>
+<ol>
+<li>Put a small sample of the food into a test tube.
+</li><li>Liquefy the food by adding enough water to make it a liquid, if the food is not already a liquid.</li>
+<li>Add 5-10 drops of Benedict's Solution.</li>
+<li>Carefully heat the test tubes in a hot water bath at 40-50 degrees Celsius (104-122 degrees Fahrenheit) for five minutes.</li>
+</ol>
+<p>To deduce the results:<br />
+The liquid will turn green, yellow, or brick red depending on the amount of sugar present. Green is the least sugar, yellow is more, and red is the most. If negative, it will be blue.
+</p><p>Note that Benedict's will only work with reducing sugars, which are sugars with free aldehydes. (An aldehyde group is of the form R-CH=O where R is something organic). Here's a rule of thumb: all monosaccharides are reducing sugars but not all reducing sugars are monosaccharides. Lactose, for example, is reducing; however, sucrose is not. Make sure to know the reducing sugars, because trick questions often arise on tests on this subject.
+</p><p>Remember that Benedict's needs heating to work when answering test questions about it!
+</p>
+<h4><span id="Biuret's"></span><span class="mw-headline" id="Biuret.27s">Biuret's</span></h4>
+<p>Biuret's Reagent is for detecting the presence of proteins. The active agent in Biuret's is also copper sulfate. The reaction is due to the formation of complex between the cupric ions in copper sulfate and the lone pair of electrons present on the nitrogen and oxygen atoms of peptide bonds of proteins.
+</p><p>To use Biuret's:
+</p>
+<ol>
+<li>Put a small sample of the food into a test tube.
+</li><li>Liquefy the food by adding enough water to make it a liquid, if the food is not already a liquid.</li>
+<li>Add 2-5 drops of Biuret's Solution.</li>
+<li>Swirl gently to mix.</li>
+<li>Let sit for five minutes.</li>
+</ol>
+<p>To deduce the results:<br />
+Biuret's will turn a pink/purple in the presence of proteins. If negative, the solution will have no color.
+</p>
+<h4><span class="mw-headline" id="Iodine">Iodine</span></h4>
+<p>Iodine solution, also Lugol's Iodine, is used to detect starch. It is a mix of the element iodine and potassium iodide. The reaction is the result of formation of polyiodide chains from the reactive starch and iodine.
+</p><p>To use Iodine:
+</p>
+<ol>
+<li>Put a small sample of the food into a test tube.
+</li><li>Liquefy the food by adding enough water to make it a liquid, if the food is not already a liquid.</li>
+<li>Add 2-5 drops of Iodine.</li>
+<li>Swirl gently to mix.</li>
+</ol>
+<p>To deduce results:<br />
+The solution will turn dark blue, almost black, in the presence of starch. It will be brownish-yellow if negative.
+</p><p>Note that amylose (straight chain form of starch) will stain less than amylopectin (branched form of starch).
+</p>
+<h4><span class="mw-headline" id="Brown_Bag">Brown Bag</span></h4>
+<p>The brown bag is the easiest and least formal test. It tests for lipids (fats).
+</p><p>To perform this test, spread, rub, or pour some of the food on a brown bag. Wipe away the excess, and hold the bag to the light. Foods containing more lipids will stain the bag more transparently than ones that have less lipids.
+</p><p>This test can also be done with plain paper, though the paper has to dry before it can be analyzed.
+</p>
+<h3><span class="mw-headline" id="Density">Density</span></h3>
+<p>Teams may have to find the density of certain baked foods made from ingredients on the Approved List of Ingredients such as bread. To do this, you will have to first cut it into a uniform cuboid (a 3-D rectangle). Next, use a ruler to measure the height, length, and breadth (AKA width) of the object. Record these measurements. Now, weigh the object. The event supervisor must provide a scale. Use the density formula to find the density of the food. Make sure to give the answer in the units wanted. The most common units wanted is [math]\frac{g}{cm^3}[/math].
+</p><p>The density formula is
+[math]\text{Density}=\frac{\text{weight}}{\text{height}\cdot\text{length}\cdot \text{breadth}}[/math]
+</p>
+<h2><span class="mw-headline" id="Competition_Tips">Competition Tips</span></h2>
+<ol>
+<li>Study a lot. This event is one of heaviest in terms of what teams need to know, therefore retention is crucial. </li>
+<li>Ask the event supervisor if tests can be unstapled and then later re-stapled. This strategy may help teams divide work to save valuable time. </li>
+<li>Get a lot of rest before the competition! Self-explanatory. Also, eat a big breakfast. </li>
+<li>Make sure to be able to recognize the structures of basic molecules very quickly (mono and disaccharides, triglycerides, etc)
+</li></ol>
+<div role="navigation" class="navbox" aria-labelledby="Physical_Science_and_Chemistry_Events" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/index.php/Template:Physics_and_Chemistry_Event" title="Template:Physics and Chemistry Event"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/index.php?title=Template_talk:Physics_and_Chemistry_Event&amp;action=edit&amp;redlink=1" class="new" title="Template talk:Physics and Chemistry Event (page does not exist)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a rel="nofollow" class="external text" href="https://scioly.org/wiki/index.php?title=Template:Physics_and_Chemistry_Event&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Physical_Science_and_Chemistry_Events" style="font-size:114%;margin:0 4em">Physical Science and Chemistry Events</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">National Events</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Air_Trajectory" title="Air Trajectory">Air Trajectory</a></li>
+<li><a href="/wiki/index.php/Balloon_Race" title="Balloon Race">Balloon Race</a></li>
+<li><a href="/wiki/index.php/Can%27t_Judge_a_Powder" class="mw-redirect" title="Can&#39;t Judge a Powder">Can't Judge a Powder</a></li>
+<li><a href="/wiki/index.php/Chemistry_Lab" title="Chemistry Lab">Chemistry Lab</a></li>
+<li><a href="/wiki/index.php/Circuit_Lab" title="Circuit Lab">Circuit Lab</a></li>
+<li><a href="/wiki/index.php/Crave_the_Wave" title="Crave the Wave">Crave the Wave</a></li>
+<li><a href="/wiki/index.php/Crime_Busters" title="Crime Busters">Crime Busters</a></li>
+<li><a href="/wiki/index.php/Density_Lab" title="Density Lab">Density Lab</a></li>
+<li><a href="/wiki/index.php/Environmental_Chemistry" title="Environmental Chemistry">Environmental Chemistry</a></li>
+<li><a class="mw-selflink selflink">Food Science</a></li>
+<li><a href="/wiki/index.php/Forensics" title="Forensics">Forensics</a></li>
+<li><a href="/wiki/index.php/Hovercraft" title="Hovercraft">Hovercraft</a></li>
+<li><a href="/wiki/index.php/It%27s_About_Time" title="It&#39;s About Time">It's About Time</a></li>
+<li><a href="/wiki/index.php/Machines" title="Machines">Machines</a></li>
+<li><a href="/wiki/index.php/MagLev" title="MagLev">MagLev</a></li>
+<li><a href="/wiki/index.php/Materials_Science" title="Materials Science">Materials Science</a></li>
+<li><a href="/wiki/index.php/Optics" title="Optics">Optics</a></li>
+<li><a href="/wiki/index.php/Physics_Lab" title="Physics Lab">Physics Lab</a></li>
+<li><a href="/wiki/index.php/Potions_and_Poisons" title="Potions and Poisons">Potions and Poisons</a></li>
+<li><a href="/wiki/index.php/Protein_Modeling" title="Protein Modeling">Protein Modeling</a></li>
+<li><a href="/wiki/index.php/Sounds_of_Music" title="Sounds of Music">Sounds of Music</a></li>
+<li><a href="/wiki/index.php/Storm_the_Castle" title="Storm the Castle">Storm the Castle</a></li>
+<li><a href="/wiki/index.php/Thermodynamics" title="Thermodynamics">Thermodynamics</a></li>
+<li><a href="/wiki/index.php/Wind_Power" title="Wind Power">Wind Power</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Trial Events</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Solar_Power" title="Solar Power">Solar Power</a></li>
+<li><a href="/wiki/index.php/WiFi_Lab" title="WiFi Lab">WiFi Lab</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Event Resources</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Circuit_Lab/Episodes" title="Circuit Lab/Episodes">Circuit Lab Episodes</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="2020.2F2021_Events" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/index.php/Template:2021Events" title="Template:2021Events"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/index.php?title=Template_talk:2021Events&amp;action=edit&amp;redlink=1" class="new" title="Template talk:2021Events (page does not exist)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a rel="nofollow" class="external text" href="https://scioly.org/wiki/index.php?title=Template:2021Events&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="2020.2F2021_Events" style="font-size:114%;margin:0 4em">2020/2021 Events</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Division B Events</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Anatomy_and_Physiology" title="Anatomy and Physiology">Anatomy and Physiology</a></li>
+<li><a href="/wiki/index.php/Boomilever" title="Boomilever">Boomilever</a></li>
+<li><a href="/wiki/index.php/Circuit_Lab" title="Circuit Lab">Circuit Lab</a></li>
+<li><a href="/wiki/index.php/Crime_Busters" title="Crime Busters">Crime Busters</a></li>
+<li><a href="/wiki/index.php/Density_Lab" title="Density Lab">Density Lab</a></li>
+<li><a href="/wiki/index.php/Disease_Detectives" title="Disease Detectives">Disease Detectives</a></li>
+<li><a href="/wiki/index.php/Dynamic_Planet_Topics" title="Dynamic Planet Topics">Dynamic Planet</a></li>
+<li><a href="/wiki/index.php/Elastic_Launched_Glider" title="Elastic Launched Glider">Elastic Launched Glider</a></li>
+<li><a href="/wiki/index.php/Experimental_Design" title="Experimental Design">Experimental Design</a></li>
+<li><a class="mw-selflink selflink">Food Science</a></li>
+<li><a href="/wiki/index.php/Fossils" title="Fossils">Fossils</a></li>
+<li><a href="/wiki/index.php/Game_On" title="Game On">Game On</a></li>
+<li><a href="/wiki/index.php/Heredity" title="Heredity">Heredity</a></li>
+<li><a href="/wiki/index.php/Machines" title="Machines">Machines</a></li>
+<li><a href="/wiki/index.php/Meteorology" title="Meteorology">Meteorology</a></li>
+<li><a href="/wiki/index.php/Mission_Possible" title="Mission Possible">Mission Possible</a></li>
+<li><a href="/wiki/index.php/Mousetrap_Vehicle" title="Mousetrap Vehicle">Mousetrap Vehicle</a></li>
+<li><a href="/wiki/index.php/Ornithology" title="Ornithology">Ornithology</a></li>
+<li><a href="/wiki/index.php/Ping_Pong_Parachute" title="Ping Pong Parachute">Ping Pong Parachute</a></li>
+<li><a href="/wiki/index.php/Reach_for_the_Stars" title="Reach for the Stars">Reach for the Stars</a></li>
+<li><a href="/wiki/index.php/Road_Scholar" title="Road Scholar">Road Scholar</a></li>
+<li><a href="/wiki/index.php/Water_Quality" title="Water Quality">Water Quality</a></li>
+<li><a href="/wiki/index.php/Write_It_Do_It" title="Write It Do It">Write It Do It</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Division C Events</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Anatomy_and_Physiology" title="Anatomy and Physiology">Anatomy and Physiology</a></li>
+<li><a href="/wiki/index.php/Astronomy" title="Astronomy">Astronomy</a></li>
+<li><a href="/wiki/index.php/Boomilever" title="Boomilever">Boomilever</a></li>
+<li><a href="/wiki/index.php/Chemistry_Lab" title="Chemistry Lab">Chemistry Lab</a></li>
+<li><a href="/wiki/index.php/Circuit_Lab" title="Circuit Lab">Circuit Lab</a></li>
+<li><a href="/wiki/index.php/Codebusters" title="Codebusters">Codebusters</a></li>
+<li><a href="/wiki/index.php/Designer_Genes" title="Designer Genes">Designer Genes</a></li>
+<li><a href="/wiki/index.php/Detector_Building" title="Detector Building">Detector Building</a></li>
+<li><a href="/wiki/index.php/Disease_Detectives" title="Disease Detectives">Disease Detectives</a></li>
+<li><a href="/wiki/index.php/Dynamic_Planet_Topics" title="Dynamic Planet Topics">Dynamic Planet</a></li>
+<li><a href="/wiki/index.php/Experimental_Design" title="Experimental Design">Experimental Design</a></li>
+<li><a href="/wiki/index.php/Forensics" title="Forensics">Forensics</a></li>
+<li><a href="/wiki/index.php/Fossils" title="Fossils">Fossils</a></li>
+<li><a href="/wiki/index.php/GeoLogic_Mapping" title="GeoLogic Mapping">GeoLogic Mapping</a></li>
+<li><a href="/wiki/index.php/Gravity_Vehicle" title="Gravity Vehicle">Gravity Vehicle</a></li>
+<li><a href="/wiki/index.php/Machines" title="Machines">Machines</a></li>
+<li><a href="/wiki/index.php/Ornithology" title="Ornithology">Ornithology</a></li>
+<li><a href="/wiki/index.php/Ping_Pong_Parachute" title="Ping Pong Parachute">Ping Pong Parachute</a></li>
+<li><a href="/wiki/index.php/Protein_Modeling" title="Protein Modeling">Protein Modeling</a></li>
+<li><a href="/wiki/index.php/Sounds_of_Music" title="Sounds of Music">Sounds of Music</a></li>
+<li><a href="/wiki/index.php/Water_Quality" title="Water Quality">Water Quality</a></li>
+<li><a href="/wiki/index.php/Wright_Stuff" title="Wright Stuff">Wright Stuff</a></li>
+<li><a href="/wiki/index.php/Write_It_Do_It" title="Write It Do It">Write It Do It</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Division B National Trials 2020</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Aerial_Scramble" title="Aerial Scramble">Aerial Scramble</a></li>
+<li><a href="/wiki/index.php/Amazing_Mechatronics" title="Amazing Mechatronics">Amazing Mechatronics</a></li>
+<li><a href="/wiki/index.php/Codebusters" title="Codebusters">Codebusters</a></li>
+<li><a href="/wiki/index.php/Storm_the_Castle" title="Storm the Castle">Storm the Castle</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Division C National Trials 2020</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Aerial_Scramble" title="Aerial Scramble">Aerial Scramble</a></li>
+<li><a href="/wiki/index.php/Amazing_Mechatronics" title="Amazing Mechatronics">Amazing Mechatronics</a></li>
+<li><a href="/wiki/index.php/Environmental_Chemistry" title="Environmental Chemistry">Environmental Chemistry</a></li>
+<li><a href="/wiki/index.php/Trajectory" title="Trajectory">Trajectory</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Division B National Trials 2021</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Aerial_Scramble" title="Aerial Scramble">Aerial Scramble</a></li>
+<li><a href="/wiki/index.php/Awesome_Aquifers" title="Awesome Aquifers">Awesome Aquifers</a></li>
+<li><a href="/wiki/index.php/Botany" title="Botany">Botany</a></li>
+<li><a href="/wiki/index.php/Codebusters" title="Codebusters">Codebusters</a></li>
+<li><a href="/wiki/index.php/Electric_Wright_Stuff" title="Electric Wright Stuff">Electric Wright Stuff</a></li>
+<li><a href="/wiki/index.php/Home_Horticulture" title="Home Horticulture">Home Horticulture</a></li>
+<li><a href="/wiki/index.php/Solar_Power" title="Solar Power">Solar Power</a></li>
+<li><a href="/wiki/index.php/Storm_the_Castle" title="Storm the Castle">Storm the Castle</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Division C National Trials 2021</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Aerial_Scramble" title="Aerial Scramble">Aerial Scramble</a></li>
+<li><a href="/wiki/index.php/Botany" title="Botany">Botany</a></li>
+<li><a href="/wiki/index.php/Electric_Wright_Stuff" title="Electric Wright Stuff">Electric Wright Stuff</a></li>
+<li><a href="/wiki/index.php/Environmental_Chemistry" title="Environmental Chemistry">Environmental Chemistry</a></li>
+<li><a href="/wiki/index.php/Home_Horticulture" title="Home Horticulture">Home Horticulture</a></li>
+<li><a href="/wiki/index.php/Robot_Tour" title="Robot Tour">Robot Tour</a></li>
+<li><a href="/wiki/index.php/Solar_Power" title="Solar Power">Solar Power</a></li>
+<li><a href="/wiki/index.php/Trajectory" title="Trajectory">Trajectory</a></li>
+<li><a href="/wiki/index.php/WiFi_Lab" title="WiFi Lab">WiFi Lab</a></li></ul>
+</div></td></tr></tbody></table></div>
+
+<!-- 
+NewPP limit report
+Cached time: 20200806175638
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.352 seconds
+Real time usage: 0.416 seconds
+Preprocessor visited node count: 622/1000000
+Preprocessor generated node count: 4820/1000000
+Post‐expand include size: 25472/2097152 bytes
+Template argument size: 3235/2097152 bytes
+Highest expansion depth: 10/40
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.040/7.000 seconds
+Lua virtual size: 8.62 MB/50 MB
+Lua estimated memory usage: 0 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  158.468      1 -total
+ 60.11%   95.254      2 Template:Navbox
+ 51.08%   80.943      1 Template:Physics_and_Chemistry_Event
+ 31.67%   50.186      1 Template:EventLinksBox
+ 16.02%   25.387      1 Template:2021Events
+-->
+</div>
+<!-- Saved in parser cache with key wiki-wikiv2_:pcache:idhash:2903-0!canonical and timestamp 20200806175638 and revision id 101866
+ -->
+</div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://scioly.org/wiki/index.php?title=Food_Science&amp;oldid=101866">https://scioly.org/wiki/index.php?title=Food_Science&amp;oldid=101866</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/index.php/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/index.php/Category:Physical_Science_and_Chemistry_Events" title="Category:Physical Science and Chemistry Events">Physical Science and Chemistry Events</a></li><li><a href="/wiki/index.php/Category:Event_Pages" title="Category:Event Pages">Event Pages</a></li><li><a href="/wiki/index.php/Category:Lab_Event_Pages" title="Category:Lab Event Pages">Lab Event Pages</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-login"><a href="//scioly.org/forums/ucp.php?mode=login&amp;redirect=https%3A%2F%2Fscioly.org%2Fwiki%2Findex.php%2FFood_Science" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/index.php/Food_Science" title="View the content page [c]" accesskey="c">Page</a></span></li><li id="ca-talk"><span><a href="/wiki/index.php/Talk:Food_Science" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discussion</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/index.php/Food_Science">Read</a></span></li><li id="ca-viewsource" class="collapsible"><span><a href="/wiki/index.php?title=Food_Science&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li><li id="ca-history" class="collapsible"><span><a href="/wiki/index.php?title=Food_Science&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/wiki/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Scioly.org" title="Search Scioly.org [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/index.php/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage"><a href="/wiki/index.php/Main_Page" title="Visit the main page [z]" accesskey="z">Main Page</a></li><li id="n-recentchanges"><a href="/wiki/index.php/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/wiki/index.php/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-MediaWiki-Help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">MediaWiki Help</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/index.php/Special:WhatLinksHere/Food_Science" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/index.php/Special:RecentChangesLinked/Food_Science" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/wiki/index.php/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="/wiki/index.php?title=Food_Science&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/wiki/index.php?title=Food_Science&amp;oldid=101866" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/wiki/index.php?title=Food_Science&amp;action=info" title="More information about this page">Page information</a></li>				</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 29 June 2020, at 22:56.</li>
+								<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution</a> unless otherwise noted.</li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="http://creativecommons.org/licenses/by/3.0/"><img src="/wiki/resources/assets/licenses/cc-by.png" alt="Creative Commons Attribution" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<style>.MathJax_Display{display:inline !important;}
+.mathjax-wrapper{font-size:120%;}</style>
+<script type='text/x-mathjax-config'>MathJax.Hub.Config({displayAlign:'left',tex2jax:{displayMath:[['[math]','[/math]']]}})</script>
+<script src='//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.352","walltime":"0.416","ppvisitednodes":{"value":622,"limit":1000000},"ppgeneratednodes":{"value":4820,"limit":1000000},"postexpandincludesize":{"value":25472,"limit":2097152},"templateargumentsize":{"value":3235,"limit":2097152},"expansiondepth":{"value":10,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%  158.468      1 -total"," 60.11%   95.254      2 Template:Navbox"," 51.08%   80.943      1 Template:Physics_and_Chemistry_Event"," 31.67%   50.186      1 Template:EventLinksBox"," 16.02%   25.387      1 Template:2021Events"]},"scribunto":{"limitreport-timeusage":{"value":"0.040","limit":"7.000"},"limitreport-virtmemusage":{"value":9035776,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20200806175638","ttl":86400,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":122});});</script>
+	</body>
+</html>

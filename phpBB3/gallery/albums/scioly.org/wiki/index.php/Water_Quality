@@ -1,0 +1,818 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Water Quality - Scioly.org</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Water_Quality","wgTitle":"Water Quality","wgCurRevisionId":106477,"wgRevisionId":106477,"wgArticleId":1262,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Life and Social Science Events","Event Pages","Study Event Pages"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Water_Quality","wgRelevantArticleId":1262,"wgRequestId":"75b5892278bfbec79c083061","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":[]});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","site":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@1ltrs49",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/wiki/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/wiki/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/wiki/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.8"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/wiki/opensearch_desc.php" title="Scioly.org (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://scioly.org/wiki/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Scioly.org Atom feed" href="/wiki/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/wiki/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Water_Quality rootpage-Water_Quality skin-vector action-view"><meta property="og:title" content="Science Olympiad Student Center"/>
+<meta property="og:type" content="website"/>
+<meta property="og:url" content="https://scioly.org/"/>
+
+<meta property="og:image" content="http://scioly.org/src/img/logo/logo_square.png"/>
+<meta property="og:image:secure_url" content="https://scioly.org/src/img/logo/logo_square.png"/> 
+<meta property="og:image:type" content="image/png"/> 
+<meta property="og:image:width" content="500"/> 
+<meta property="og:image:height" content="500"/>
+
+<meta property="og:description" content="A resource by and for Science Olympiad students, coaches, and alumni nationwide."/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script type="text/javascript" src="/src/js/jquery.min.js"></script>
+<script type="text/javascript" src="/src/js/main.js"></script>
+
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+<link rel="stylesheet" type="text/css" href="/src/css/main.css">
+
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<link rel="icon" href="/favicon.ico" type="image/x-icon"><div class="site-nav">
+	<a href="/">
+		<img src="/src/img/logo/logo.png">
+	</a>
+	<div class="hamburger" onclick="hamburger(this)">
+		<div>
+			<div></div>
+			<div></div>
+			<div></div>
+		</div>
+	</div>
+	<ul>
+		<li><a href="/forums">Forums</a></li>
+		<li><a href="/wiki">Wiki</a></li>
+		<li><a href="/tests">Test Exchange</a></li>
+		<!-- <li><a href="/gallery">Image Gallery</a></li> -->
+		<!-- <li><a href="/invitational">Invites</a></li> -->
+		<li><a href="/chat">Chat</a></li>
+		<li><a href="/login" class="button">Login</a></li>
+	</ul>
+</div>
+<img class="print-only" src="/src/img/logo/logo_black.png" style="max-width: 150px;"><link rel="stylesheet" type="text/css" href="/src/css/wiki.css">
+<div id="wrap-me-up">
+
+
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Water Quality</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Scioly.org</div>				<div id="contentSub"></div>
+								<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table align="right" class="infobox">
+
+<tbody><tr>
+<th colspan="2" style="font-size: larger; text-align: center;"><b>Water Quality</b>
+</th></tr>
+<tr>
+<td colspan="2"><center><i>This event is an event held in the current season.</i></center>
+</td></tr>
+<tr>
+<td colspan="2"><hr />
+</td></tr>
+<tr>
+<td><b>Type</b>
+</td>
+<td>Life Science
+</td></tr>
+<tr>
+<td><b>Category</b>
+</td>
+<td>Study
+</td></tr>
+<tr>
+<td colspan="2" class="infobox-header"><b>Event Information</b>
+</td></tr>
+
+
+
+
+
+
+
+<tr>
+<td><b>Latest Appearance</b>
+</td>
+<td>2020
+</td></tr>
+<tr>
+<td colspan="2" class="infobox-header"><b>Forum Threads</b>
+</td></tr>
+
+<tr>
+<td colspan="2" style="padding: 0;">
+<table class="infobox-events-link-table">
+
+<tbody><tr>
+<td><a rel="nofollow" class="external text" href="https://scioly.org/forums/viewtopic.php?f=285&amp;t=15392">2020</a>
+</td>
+<td><a rel="nofollow" class="external text" href="https://scioly.org/forums/viewtopic.php?f=285&amp;t=12168">2019</a>
+</td>
+<td><span> </span>
+</td>
+<td><span> </span>
+</td>
+<td><span> </span>
+</td></tr>
+</tbody></table>
+</td></tr>
+<tr>
+<td colspan="2" style="padding: 0;">
+<table class="infobox-events-link-table">
+
+<tbody><tr>
+<td><span> </span>
+</td>
+<td><a rel="nofollow" class="external text" href="http://scioly.org/phpBB3/viewtopic.php?f=167&amp;t=5005">2014</a>
+</td>
+<td><a rel="nofollow" class="external text" href="http://scioly.org/phpBB3/viewtopic.php?f=144&amp;t=3706">2013</a>
+</td>
+<td><a rel="nofollow" class="external text" href="http://scioly.org/phpBB3/viewtopic.php?f=121&amp;t=2970">2012</a>
+</td>
+<td><a rel="nofollow" class="external text" href="http://scioly.org/phpBB3/viewtopic.php?f=93&amp;t=2841">2011 (Prelim)</a>
+</td></tr>
+</tbody></table>
+</td></tr>
+
+<tr>
+<td colspan="2" class="infobox-header"><b>Forum Question Threads</b>
+</td></tr>
+
+<tr>
+<td colspan="2" style="padding: 0;">
+<table class="infobox-events-link-table">
+
+<tbody><tr>
+<td><a rel="nofollow" class="external text" href="https://scioly.org/forums/viewtopic.php?f=297&amp;t=16423">2020</a>
+</td>
+<td><a rel="nofollow" class="external text" href="https://scioly.org/forums/viewtopic.php?f=297&amp;t=12435">2019</a>
+</td>
+<td><span> </span>
+</td>
+<td><span> </span>
+</td>
+<td><span> </span>
+</td></tr>
+</tbody></table>
+</td></tr>
+<tr>
+<td colspan="2" style="padding: 0;">
+<table class="infobox-events-link-table">
+
+<tbody><tr>
+<td><span> </span>
+</td>
+<td><a rel="nofollow" class="external text" href="http://www.scioly.org/phpBB3/viewtopic.php?f=173&amp;t=5034">2014</a>
+</td>
+<td><a rel="nofollow" class="external text" href="http://www.scioly.org/phpBB3/viewtopic.php?f=144&amp;t=3860">2013</a>
+</td>
+<td><a rel="nofollow" class="external text" href="http://www.scioly.org/phpBB3/viewtopic.php?f=121&amp;t=3421">2012</a>
+</td>
+<td><span> </span>
+</td></tr>
+</tbody></table>
+</td></tr>
+
+
+
+<tr>
+<td colspan="2" class="infobox-header"><b>Official Resources</b>
+</td></tr>
+<tr>
+<td><b>Division B Website</b>
+</td>
+<td><a rel="nofollow" class="external text" href="https://www.soinc.org/water-quality-b">soinc.org</a>
+</td></tr>
+<tr>
+<td><b>Division C Website</b>
+</td>
+<td><a rel="nofollow" class="external text" href="https://www.soinc.org/water-quality-c">soinc.org</a>
+</td></tr>
+<tr>
+<td colspan="2" class="infobox-header"><b>Division B Results</b>
+</td></tr>
+<tr>
+<td colspan="2" style="padding: 0;">
+<table class="infobox-scoreboard" style="margin: 0; padding: 0; width:100%;">
+
+
+<tbody><tr style="background-color: gold;">
+<td style="width: 10%; text-align: center;"><b>1st</b>
+</td>
+<td style="width: 90%; padding-left: 5px;"><b>Beckendorff Junior High School</b>
+</td></tr>
+<tr style="background-color: silver;">
+<td style="width: 10%; text-align: center;">2nd
+</td>
+<td style="width: 90%; padding-left: 5px;">Community Middle School
+</td></tr>
+<tr style="background-color: #d1965c;">
+<td style="width: 10%; text-align: center;">3rd
+</td>
+<td style="width: 90%; padding-left: 5px;">Solon Middle School
+</td></tr>
+</tbody></table>
+</td></tr>
+<tr>
+<td colspan="2" class="infobox-header"><b>Division C Results</b>
+</td></tr>
+<tr>
+<td colspan="2" style="padding: 0;">
+<table class="infobox-scoreboard" style="margin: 0; padding: 0; width:100%;">
+
+
+<tbody><tr style="background-color: gold;">
+<td style="width: 10%; text-align: center;"><b>1st</b>
+</td>
+<td style="width: 90%; padding-left: 5px;"><b>Columbia High School</b>
+</td></tr>
+<tr style="background-color: silver;">
+<td style="width: 10%; text-align: center;">2nd
+</td>
+<td style="width: 90%; padding-left: 5px;">Enloe High School
+</td></tr>
+<tr style="background-color: #d1965c;">
+<td style="width: 10%; text-align: center;">3rd
+</td>
+<td style="width: 90%; padding-left: 5px;">Troy High School
+</td></tr>
+</tbody></table>
+</td></tr>
+</tbody></table>
+<p><b>Water Quality</b> is a current <a href="/wiki/index.php/Division_B" title="Division B">Division B</a> and <a href="/wiki/index.php/Division_C" title="Division C">Division C</a> event which tests students' ability to identify marine coral reef indicator organisms and their knowledge on indicators affecting estuarine and marine water quality. Topics that may be included in the testing are aquatic ecology, the water cycle, nutrient cycling, aquatic chemistry, potable water treatment, waste water treatment, aquatic food chains and webs, community interactions, population dynamics, watershed resource management issues, sedimentation pollution,  harmful species, marine biology and ecology, coral reef flora and fauna (as well as general ecology) and estuary ecology. The event returned for the <a href="/wiki/index.php/2020" title="2020">2020</a> season with a focus on marine and estuary aquatic environments.
+</p><p>The event was named <b>Water, Water Everywhere</b> from 1985 to 1990.
+</p>
+<div id="toc" class="toc"><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#The_Basics"><span class="tocnumber">1</span> <span class="toctext">The Basics</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#The_Water_Cycle"><span class="tocnumber">1.1</span> <span class="toctext">The Water Cycle</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Macroinvertebrates"><span class="tocnumber">1.2</span> <span class="toctext">Macroinvertebrates</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Marine_Indicator_Species"><span class="tocnumber">1.3</span> <span class="toctext">Marine Indicator Species</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Human_Impact"><span class="tocnumber">2</span> <span class="toctext">Human Impact</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Wastewater_Treatment"><span class="tocnumber">2.1</span> <span class="toctext">Wastewater Treatment</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Potable_Water_Treatment"><span class="tocnumber">2.2</span> <span class="toctext">Potable Water Treatment</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Nutrient_Cycles.2FBiogeochemical_Cycles"><span class="tocnumber">3</span> <span class="toctext">Nutrient Cycles/Biogeochemical Cycles</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Analysis"><span class="tocnumber">4</span> <span class="toctext">Analysis</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#Salinity"><span class="tocnumber">4.1</span> <span class="toctext">Salinity</span></a>
+<ul>
+<li class="toclevel-3 tocsection-11"><a href="#Constructing_a_Salinometer"><span class="tocnumber">4.1.1</span> <span class="toctext">Constructing a Salinometer</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-12"><a href="#Aragonite"><span class="tocnumber">4.2</span> <span class="toctext">Aragonite</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#pH"><span class="tocnumber">4.3</span> <span class="toctext">pH</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Alkalinity"><span class="tocnumber">4.4</span> <span class="toctext">Alkalinity</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Phosphates"><span class="tocnumber">4.5</span> <span class="toctext">Phosphates</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#Nitrates"><span class="tocnumber">4.6</span> <span class="toctext">Nitrates</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#Turbidity"><span class="tocnumber">4.7</span> <span class="toctext">Turbidity</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#Dissolved_Oxygen"><span class="tocnumber">4.8</span> <span class="toctext">Dissolved Oxygen</span></a></li>
+<li class="toclevel-2 tocsection-19"><a href="#Biochemical_Oxygen_Demand"><span class="tocnumber">4.9</span> <span class="toctext">Biochemical Oxygen Demand</span></a></li>
+<li class="toclevel-2 tocsection-20"><a href="#Temperature"><span class="tocnumber">4.10</span> <span class="toctext">Temperature</span></a></li>
+<li class="toclevel-2 tocsection-21"><a href="#Fecal_Coliform"><span class="tocnumber">4.11</span> <span class="toctext">Fecal Coliform</span></a></li>
+<li class="toclevel-2 tocsection-22"><a href="#Total_Solids"><span class="tocnumber">4.12</span> <span class="toctext">Total Solids</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-23"><a href="#Competing"><span class="tocnumber">5</span> <span class="toctext">Competing</span></a></li>
+<li class="toclevel-1 tocsection-24"><a href="#Resources"><span class="tocnumber">6</span> <span class="toctext">Resources</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="The_Basics">The Basics</span></h2>
+<p>Water Quality includes the physical, chemical and biological characteristics of water. In countries around the world, especially in the U.S., standards are set to determine whether or not water is potable, or safe to drink. The 2019 Water Quality event deals with freshwater ecology, replacing the estuary and coral reef ecology of past years.
+</p>
+<h3><span class="mw-headline" id="The_Water_Cycle">The Water Cycle</span></h3>
+<p><i>For more information on the Hydrologic Cycle (water cycle), please see the <a href="/wiki/index.php/Hydrologic_Cycle" title="Hydrologic Cycle">Hydrologic Cycle</a> main page.</i> 
+The water cycle begins with evaporation, then condenses in the air to become clouds, then finally falls back down as a form of precipitation. Forms of precipitation include rain, hail, and snow.
+</p>
+<h3><span class="mw-headline" id="Macroinvertebrates">Macroinvertebrates</span></h3>
+<p><i>For more information on macroinvertebrates see <a href="/wiki/index.php/Water_Quality/Macroorganism_List" title="Water Quality/Macroorganism List">Water Quality/Macroorganism List</a></i>
+</p><p>Teams must be able to identify the following macroinvertebrates(both larvae and adult).
+</p><p>Class 1 – Pollution Sensitive: Caddisfly, Dobsonfly, Gilled Snails, Mayfly, Riffle Beetle, Stonefly,
+Water Penny, Water Scorpion
+</p><p>Class 2 – Moderately Sensitive: Aquatic Sowbug, Crane Fly, Damselfly, Dragonfly, Scuds
+</p><p>Class 3 – Moderately Tolerant: Blackfly, Flatworm, Leeches, Midge, Water Mite
+</p><p>Class 4 – Pollution Tolerant: Air Breathing Snail, Midge Fly Bloodworm, Deer/Horse Fly, Tubifex
+</p><p>Class 5 – Air Breathing: Back Swimmer, Giant Water Bug, Mosquito, Predacious Diving Beetle,
+</p><p>Water Boatman, Water Strider, Whirligig Beetle
+Aquatic Nuisance Plants: Purple Loosestrife, Eurasian Water Milfoil, and Water Hyacinth
+</p><p>Aquatic Nuisance Animals: Zebra Mussel, Spiny Water Flea, Asian Tiger Mosquito, &amp; Asian Carp
+</p>
+<h3><span class="mw-headline" id="Marine_Indicator_Species">Marine Indicator Species</span></h3>
+<p><i>For a list of indicator species from years prior to 2014, please see <a href="/wiki/index.php/Water_Quality/Macroorganism_List" title="Water Quality/Macroorganism List">Water Quality/Macroorganism List</a>.</i>
+</p><p>The teams must be able to identify several marine coral reef health indicator species.  These species have been grouped into categories based on where they indicate unstable coral reefs (Global, Indo-Pacific, and Atlantic) as well as what factor has caused this organism to disappear (overfishing, blast fishing, poison fishing, aquarium fish collecting, nutrient pollution and curio collection).  Teams should be able to identify the organisms by sight and also by some of the organisms' characteristics.
+</p>
+<center>
+<table class="wikitable">
+<caption>Coral Reef Indicator Species
+</caption>
+<tbody><tr>
+<th>Global
+</th>
+<th>Indo-Pacific
+</th>
+<th>Atlantic
+</th></tr>
+<tr>
+<td>Banded Coral Shrimp (Stenopus hispidus)-AF
+</td>
+<td>Barramundi Cod (Cromileptes altivelis)-OF, BF, PF, AF
+</td>
+<td>Gorgonia-NP
+</td></tr>
+<tr>
+<td>Butterfly Fish (Chaetodon spp.)-OF, PF, AF
+</td>
+<td>Bumphead Parrotfish (Bolbometopon muricatum)-OF, BF, PF, AF
+</td>
+<td>Flamingo Tongue Snail (Cyphoma gibbosum)-CC
+</td></tr>
+<tr>
+<td>Crown of Thorns Starfish (Acanthanser planci)-OF
+</td>
+<td>Giant Clam (Tridacna)-OF,CC
+</td>
+<td>Nassau Grouper (Epinephelus striatus)-OF
+</td></tr>
+<tr>
+<td>Fleshy Algae-NP
+</td>
+<td>Humphead Wrasse (Cheilinus undulatus)-OF, BF, PF, AF
+</td>
+<td>
+</td></tr>
+<tr>
+<td>Grouper &gt;30 cm (Serranidae)-OF, BF, PF
+</td>
+<td>Sea Cucumber (Thelenota ananas, Stichopus chloronotus)-OF
+</td>
+<td>
+</td></tr>
+<tr>
+<td>Hard Coral-BF, PF, NP
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>Lobster-OF
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>Long-Spined Black Sea Urchin (Diadema spp.)-OF, NP
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>Moray Eel (Muraenidae)-OF, AF
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>Parrotfish &gt;20cm (Scaridae)-OF, BF, PF, AF
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>Pencil Urchin-CC
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>Recently Killed Coral-BF, PF, NP
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>Snapper (Lutjanidae)-OF, BF
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>Sponge-NP
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>Sweetlips (Haemulidae)-OF, BF, PF, AF
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>Triton (Charonia spp.)-OF, CC
+</td>
+<td>
+</td>
+<td>
+</td></tr></tbody></table>
+</center>
+<h2><span class="mw-headline" id="Human_Impact">Human Impact</span></h2>
+<h3><span class="mw-headline" id="Wastewater_Treatment">Wastewater Treatment</span></h3>
+<p>Wastewater treatment is a process used to convert wastewater into an effluent that can be returned to the natural water cycle without a significant impact on the environment. Sometimes, the water is also directly reused (called water reclamation).
+</p><p>Treatment in the US costs $12 billion a year and is expected to double in 10 years.
+</p><p><i>Septic-Tank Disposal Systems:</i> This is the conventional method for treatment. A sewer line from the house leads to an underground septic tank in the yard. This tank is designed to separate solids from liquid, digest and store organic matter, and allow the treated sewage to seep into the surrounding soil. As the wastewater moves through the soil, it is further treated by the natural processes of oxidation and filtering.
+</p><p>This method can fail if the tank isn't pumped out when it's full of solids or if there is poor drainage in the surrounding soil.
+</p><p><a href="/wiki/index.php/File:Septic_tank_system.jpg" class="image"><img alt="Septic tank system.jpg" src="/wiki/images/5/5e/Septic_tank_system.jpg" width="350" height="250" /></a>
+</p><p><i>Wastewater Treatment Plants:</i> Raw sewage is delivered to the plant through a network of sewer pipes. Following treatment, the wastewater is discharged into rivers, lakes, or the ocean.
+</p><p><a href="/wiki/index.php/File:Wastewater_treatment.jpg" class="image"><img alt="Wastewater treatment.jpg" src="/wiki/images/3/35/Wastewater_treatment.jpg" width="550" height="249" /></a>
+</p><p>Wastewater treatment is divided into three categories: primary, secondary, and advanced. Primary and secondary treatment is required by law for all municipal plants in the US. When secondary treatment isn't enough to clean water, advanced (tertiary) treatment is used.
+</p>
+<h3><span class="mw-headline" id="Potable_Water_Treatment">Potable Water Treatment</span></h3>
+<p>Potable water treatment is the process by which lake or river water is made drinkable by humans.  There are six steps: Coagulation, Flocculation, Sedimentation, Filtration, Disinfection, and Distribution. These processes are both physical and chemical in order to remove as many waterborne germs as possible.
+</p><p>Coagulation and flocculation are the first steps to water treatment. Chemicals such as aluminum sulfate with positive charges are added to the water in order to neutralize the negative charge of dissolved particles in the water. These particles bind with the chemicals, forming metal hydroxides called floc. These waters then enter a sedimentation basin or a settling basin that allow the floc to settle to the bottom of the tank. Once the floc has settled, the clean water at the top moves through various filters in order to remove sand and gravel that did not get removed during flocculation. The remaining sludge must be disposed of, impacting the operating cost of a water treatment plant. Once the water is filtered, a disinfectant like chlorine may be added in order to kill any remaining bacteria or parasites. Water may also be disinfected with a UV treatment. If fluoride is added to water, it will be added after disinfection. After the water is disinfected, it will be distributed to houses or businesses.
+</p>
+<h2><span id="Nutrient_Cycles/Biogeochemical_Cycles"></span><span class="mw-headline" id="Nutrient_Cycles.2FBiogeochemical_Cycles">Nutrient Cycles/Biogeochemical Cycles</span></h2>
+<p>This event covers nutrient cycles such as the carbon, nitrogen and phosphorous cycle for land and marine ecosystems.
+</p>
+<center>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Cycle
+</th>
+<th>Description
+</th>
+<th>Picture
+</th></tr>
+<tr>
+<th>Carbon Cycle
+</th>
+<td>The cyclic movement of carbon in different chemical forms from the environment to organisms then back to the environment.
+</td>
+<td><a href="/wiki/index.php/File:Ccycle.jpg" class="image"><img alt="Ccycle.jpg" src="/wiki/images/e/e7/Ccycle.jpg" width="350" height="238" /></a>
+</td></tr>
+<tr>
+<th>Nitrogen Cycle
+</th>
+<td>The cyclic movement of nitrogen in different chemical forms from the environment to organisms and then back to the environment.
+</td>
+<td><a href="/wiki/index.php/File:Ncycle.jpg" class="image"><img alt="Ncycle.jpg" src="/wiki/images/9/9f/Ncycle.jpg" width="350" height="241" /></a>
+</td></tr>
+<tr>
+<th>Phosphorus Cycle
+</th>
+<td>The cycle that involves the uptake of phosphorus by organisms. Phosphorus in the environment is mainly found in rocks, but natural weathering processes can make it available to biological systems. Phosphorus is an essential nutrient for plants and animals in the form of the ions PO<sub>4</sub><sup>3-</sup> and HPO<sub>4</sub><sup>2-</sup>. (phosphate ion, hydrogen phosphate ion, respectively) It is a constituent of fats of cell membranes (lipids) and DNA/RNA-molecules, which store energy in the form of ATP and ADP.
+</td>
+<td><a href="/wiki/index.php/File:Pcycle.jpg" class="image"><img alt="Pcycle.jpg" src="/wiki/images/2/27/Pcycle.jpg" width="350" height="211" /></a>
+</td></tr>
+<tr>
+<th>Sulfur Cycle
+</th>
+<td>The cyclic movement of sulfur from organisms to the environment and back. It is especially important for minerals, which are affected by sulfur chemically.
+</td>
+<td><a href="/wiki/index.php/File:Scycle.gif" class="image"><img alt="Scycle.gif" src="/wiki/images/0/00/Scycle.gif" width="350" height="359" /></a>
+</td></tr></tbody></table>
+</center>
+<h2><span class="mw-headline" id="Analysis">Analysis</span></h2>
+<p>A major part of Water Quality deals with the analysis of a particular body of water, such as a stream, for different properties. These properties include salinity, pH, alkalinity, phosphates, nitrates, turbidity, dissolved oxygen (DO), temperature, fecal coliform, total solids, and biological oxygen demand (BOD). Students should know acceptable levels of each of these factors for estuary ecosystems and how each of these factors rise and fall based on the characteristics of the body of water and what is entering the water.  The Water Quality Index used to determine the overall quality of a certain body of water based on the above factors should not be used.
+</p>
+<h3><span class="mw-headline" id="Salinity">Salinity</span></h3>
+<p>Salinity is a property of water, which describes its salt concentration. Salinity is measured by dissolved salts in parts per thousand (ppt) or grams of salt per kilogram of water. These two quantities are equivalent. The category of salts include compounds such as sodium chloride, magnesium sulfate, potassium nitrate, sodium bicarbonate, and others, all of which dissolve into ions. Salinity governs the physical properties of water, such as density, heat capacity, and electrical conductivity. As such, salinity is often measured by water density or conductivity, especially the latter. Water with constant salinity is called homoiohaline. Environments in which salinity varies over time are called poikilohaline. Poikilohaline salinities may range as much as from 0.5 to greater than 300. 
+</p><p>Bodies of water can be classified by salinity in the following manner. Hyperhaline waters are waters with a very high salinity. Metahaline waters have a salinity between 45 and 65 ppt. Euhaline waters (typical oceans) are waters with a salinity between 30 and 35 ppt. Polyhaline waters have a salinity between 18 and 30 ppt. Mesohaline waters have a salinity between 5 and 18 ppt. Oligohaline waters have a salinity between 0.5 and 5 ppt. However, depending upon the type of body of water, different classification systems with different terms or the same terms meaning different things are sometimes used.
+</p><p>Water can be classified by its salinity as such: fresh water has a ppt of &lt;0.5, which means that there are 0.5 molecules of dissolved salt for every 1000 molecules of solution or 1 molecule of salt per every 2000 molecules of solution. Brackish water has a ppt between 0.5 and 30, saline water has a ppt between 30 to 50, and brine has a ppt of &gt;50. The only water safe for human consumption is fresh water, and drinking water often achieves salinity levels as low as 0.1 ppt. In ocean water, total salt content makes up 3.5% (35 ppt) of ocean water, the other 96.5% being water. Of the dissolved salts in ocean water, 85% of the salts are sodium chloride (3% of all the water, 30 ppt). The other 15% of the total salts are other salt ions such as Magnesium, Strontium etc. (.5&#160;% of total ocean water, 5 ppt). 
+</p><p>Salinity is an important water quality factor. It influences the type of organisms that live in bodies of water, and high salinity will kill organisms not adapted to withstand those conditions. Salinity in rivers and lakes of the US has recently been increasing due to road salt and other salt de-icers in runoff. It is very expensive to remove salt from water, and thus it is expensive to create drinking water from saline water or to reduce the salinity of hyperhaline waters. Ocean salinity helps cause the circulation of the oceans due to the density changes of the water. Changes in the salinity of the oceans are thought to influence global carbon dioxide levels due to changes in the solubility of the water, which also influences climate change.
+</p>
+<center>
+<table class="wikitable">
+<caption>Water salinity
+</caption>
+<tbody><tr>
+<th>Fresh water
+</th>
+<th>Brackish water
+</th>
+<th>Saline water
+</th>
+<th>Brine
+</th></tr>
+<tr>
+<td>&lt;0.5 ppt
+</td>
+<td>0.5-30 ppt
+</td>
+<td>30-50 ppt
+</td>
+<td>&gt;50 ppt
+</td></tr></tbody></table>
+</center>
+<h4><span class="mw-headline" id="Constructing_a_Salinometer">Constructing a Salinometer</span></h4>
+<p>In order to test salinity, your team must construct a homemade salinometer/hydrometer capable of measuring saltwater concentrations from 1-10%. Typically, this section will be worth about 5% of the test. The vast majority of salinometers are based on the principles of density and buoyancy.  Since saline solutions contain dissolved NaCl, their densities are higher than that of distilled water.  Due to the elevated density, the solution exerts a higher buoyant force, causing the hydrometer to float higher than in distilled water.  There is a direct relationship between salinity and and buoyant force - the more saline the water, the higher your hydrometer will float. 
+</p><p>To make a rudimentary salinometer, get a drinking straw and some clay. Place a ball of clay on one end of the salinometer, completely covering the opening of the straw. Then make some solutions of water and salt, with the salt concentration being between 0% and 10%, and mark the meniscus of the water solution on the straw with a permanent marker, Sharpie, etc. Repeat for any number of solutions for a more accurate calibration. The amount of clay and the length and diameter of the straw affect the distance between marks on the salinometer.
+</p><p>Note that this is not the only way in which to make a salinometer, and you may create and invent ways to do it yourself.
+</p>
+<h3><span class="mw-headline" id="Aragonite">Aragonite</span></h3>
+<p>Is a mineral / nutrient necessary for coral reef growth. Aragonite itself is the mineralized form of calcium carbonate. Under normal conditions, aragonite saturation cannot exceed 1 Ω (the omega is used for the amount of aragonite saturation), but under special conditions such as where the temperature is higher, the water can become supersaturated with aragonite. The amount of aragonite saturation optimal for coral reef growth is 4 Ω, which is found near the equator because the water is warmer and can therefore hold more aragonite.
+</p>
+<h3><span class="mw-headline" id="pH">pH</span></h3>
+<p>pH is a measurement of the hydrogen ion concentration in a substance or the acidity or basicity of a substance. It is a logarithmic scale, meaning that a given pH level has 10 times the concentration of hydrogen ions as the pH level that is one greater than the given. A pH less than 7 is acidic and a pH of greater than 7 is basic. A pH of 7 is neutral. Extremely strong acids or bases can have pH levels below 0 or above 14. pH can be calculated as the negative base-10 logarithm of the molarity of hydrogen ions, measured in moles per liter.
+</p>
+<div align="center">
+<p>[math]pH=-\log [H^+][/math]
+</p>
+</div>
+<p>pH is an important water quality indicator because organisms can only tolerate water that is not too acidic nor too basic. The normal pH of rivers in the United States is 6.5 to 8.5, and values between 6.0 and 9.0 can support life for fish and invertebrates. This makes acid rain an important factor in water quality, since it will make water more acidic, and once the pH value approaches 6.0, negative effects begin to appear. 
+</p><p>pH values can be influenced by several factors. Human processes like automobile/fossil fuel power plant emissions release nitrogen oxides and sulfur dioxide, which form acid once mixed with water. The natural environment of an area can also affect pH. Limestone is a base when dissolved in water, so it can neutralize the effects of acids and increase the pH of the water. Volcanoes, geysers, and hot springs will make water more acidic, as well as the presence of sulfur in nearby minerals. Another factor that affects pH is the dumping of chemicals into water by humans, usually for industries like coal mines. Coal mine drainage can lead to iron sulfide mixing with water and forming sulfuric acid.
+</p>
+<h3><span class="mw-headline" id="Alkalinity">Alkalinity</span></h3>
+<p>Alkalinity is the ability of a solution to neutralize an acid without changing the overall pH of the solution. Alkalinity arises from the presence of buffers in solutions, which have the properties to neutralize acids without changing the pH of a solution. Buffers consist of a solution of a weak base and its conjugate acid or a weak acid and its conjugate base. In the case of a weak acid and its conjugate base, when a strong acid is added to the system, the hydrogen ions cause the equilibrium of the system to shift left, away from the hydrogen ion, in accordance with Le Chatelier’s Principle. Thus, the pH of the solution would not increase as expected from the introduction of the acid. In the case of a weak base and its conjugate acid, the hydrogen ion reacts with the hydroxide ion formed from the water in the system and the weak base, creating more water and leaving behind the ions from both the strong acid and the weak base, which do not affect pH. There are several ions that contribute to alkalinity, including bicarbonate, carbonate, hydroxide, and phosphate. Thus, limestone contributes to alkalinity, since its formula is calcium carbonate, and carbonate is one of the ions listed above.
+</p><p>Alkalinity is very important to water quality. Alkalinity in aquatic ecosystems needs to be within a certain range, depending upon the ecosystem. If alkalinity is too low, the ecosystem has low stability as it is susceptible to sudden pH changes from devices such as acid rain or other pollution, which can be harmful to the flora and fauna of the ecosystem. If alkalinity is too high, the buffer acids and bases in the buffer solution can render the ecosystem uninhabitable.
+</p>
+<h3><span class="mw-headline" id="Phosphates">Phosphates</span></h3>
+<p>Phosphates are very important biological resources for life, as they are integral parts of DNA and the Kreb’s Cycle. As such, they can become a limiting nutrient in many systems, usually freshwater systems. Phosphates do not have too many ecological consequences. Generally, the only negative effect of an overabundance of phosphates is eutrophication. Phosphates can contribute to total dissolved solids. Extremely high levels of phosphates in drinking water can cause digestive issues. Phosphates are able to enter waterways in a variety of natural ways such as rocks or normal animal and plant waste in the water. Human sources such as fertilizers, pesticides, industrial and cleaning compounds, septic tanks and wastewater from sewage treatment can increase the amount of phosphates in the water. Phosphates are often released from mining and can enter waterways through mine runoffs. Erosion also significantly contributes to phosphate levels in bodies of water, as phosphates are abundantly found within soil and rock (see Phosphorous Cycle). The phosphates of a river or stream are usually measured in Parts Per Million (ppm).
+</p>
+<h3><span class="mw-headline" id="Nitrates">Nitrates</span></h3>
+<p>Nitrates are also very important to the survival of living organisms. Nitrates can also be a limiting nutrient, usually in marine systems rather than freshwater systems. However, high levels of nitrates in aquatic ecosystems can be detrimental to ecosystem health, inhibit the growth of some organisms, cause stress, and contribute to eutrophication. Nitrates do contribute to total dissolved solids and can be used as a water quality indicator. Nitrates are toxic to humans in even moderate concentrations, as they inhibit the oxygen flow through the body. Some human sources that can add to the total amount of nitrate in the water are fertilizers, poorly functioning septic tanks, inadequately treated wastewater from sewage treatment plants, manure from farm livestock, animal wastes including fish and birds, storm drains, runoff from crop fields, parks, lawns, feedlots, and car exhausts. Most nitrates come from dead organisms and waste which releases ammonia, which is then oxidized to form nitrates. Nitrates, like phosphates, are measured in Parts Per Million (ppm).
+</p>
+<h3><span class="mw-headline" id="Turbidity">Turbidity</span></h3>
+<p>Turbidity is a measure of the cloudiness or haziness in a fluid caused by large numbers of individual particles. It can be measured in Formazin Turbidity Units (FTU), sometimes referred to as Formazin Nephelometric Units or FNU. This is measured through the ISO 7027 method, which determines the concentration of suspended particles by measuring the incident light scattered at right angles from the sample. The light is captured by a photodiode, which then produces an electronic signal that is converted to a turbidity measurement. Jackson Turbidity Units (JTU) are also used. These are measured through the Jackson Candle Method, in which a candle is shined through a column of water and the length of water needed to completely obscure the light source is measured. The longer the column, the lower the turbidity of the sample. Nephelometric Turbidity Units (NTU) are also used. These are a measure of the tendency of particles to scatter a light beam that is focused on them. A nephelometer includes a light source shining at a column of water and a detector surrounding the column to the sides. The more light that reaches the detector, the more particles are in the water. To test the turbidity of the water, people also use a Secchi Disk. A marine Secchi disk is a plain white disk 30 cm in diameter and a freshwater Secchi disk is divided into fourths, two of which are white and two of which are black, and is 20 cm in diameter. The Secchi disk is mounted on a pole or line and lowered slowly into the water. The depth at which the disk is no longer visible is the measure of the turbidity of the water. When measuring, this depth is usually reported in feet to the nearest tenth of a foot or meters to the nearest tenth of a meter. Light can penetrate to a depth of about 2-3 times the Secchi Disk depth. The Secchi disk is not always accurate because of differences in eyesight and the sun’s glare, among other factors.
+</p><p>Seasonal variations can change the turbidity of a lake and lake turnover can also change it because of nutrients being released. Other sources of turbidity include gasoline or oil from roads, benthic organisms stirring up sediments, industrial wastes, and urban runoff. Effects of turbidity include an increase in water temperature, decrease of photosynthetic rate, decreased growth, and more aesthetically displeasing water. Turbidity can also reduce the ability of fish gills to absorb dissolved oxygen. However, in some areas, high turbidity is necessary for ecosystem health and high levels of turbidity in drinking water correspond to the increased risk of development of gastrointestinal diseases. Turbidity can also shield bacteria from certain types of sterilization of water.
+</p><p>The standard of turbidity for drinking water in the United States for systems using conventional or direct filtration methods less than 1 NTU at the plant outlet. All samples for turbidity must be less than or equal to 0.3 NTU for at least 95 percent of the samples in any month. Other systems must follow state limits, in which turbidity must never exceed 5 NTU. Many drinking water utilities strive to reach levels of turbidity as low as 0.1 NTU. The World Health Organization establishes that the turbidity of drinking water should not be more than 5 NTU and should ideally be below 1 NTU. The US Environmental Protection Agency has also published water quality criteria for turbidity. These criteria are scientific assessments of the effects of turbidity, which are used by states to develop their own water quality standards.
+</p>
+<h3><span class="mw-headline" id="Dissolved_Oxygen">Dissolved Oxygen</span></h3>
+<p>Dissolved Oxygen (DO) is the amount of oxygen that is dissolved in a substance. DO is an important water quality indicator, as fish and other aerobic organisms require it for life. DO is usually measured in mg/L or ppm. These two quantities are equal. Percent dissolved oxygen is dependent upon many factors besides these, such as salinity and temperature. Most surface waters contain between 5 and 15 ppm of dissolved oxygen. If a stream or river has below 5 ppm of dissolved oxygen, then that can put aquatic life under stress, and below 1-2 ppm for a few hours can kill large fish living in the river. Should anoxic conditions continue for too long, the population of anaerobic organisms will increase relative to the population of aerobic organisms. Supersaturation of oxygen (levels of DO over 100%) can occur naturally through photosynthetically active species. Supersaturation can also occur through rapid changes in the environment that occur too quickly for the system to reach equilibrium, giving rise to DO levels over 100% temporarily. Supersaturation can also be harmful to organisms and can cause decompression sickness. Two very important factors are temperature and atmospheric pressure. Lower temperatures and higher atmospheric pressure will result in higher levels of dissolved oxygen. When dissolved or suspended solids are present in the water, this can reduce the effectiveness of dissolving of oxygen in water and can be problematic for organisms living in the water. Dry periods can lower stream discharge and raise water temperatures. From night to day, DO will fluctuate dramatically. When algal blooms are present, they can cause large fluctuations in DO through the night especially in areas where there is not much current for aeration. DO fluctuation can be caused by humans in a number of ways. These ways include sewage discharges or other dumping, agricultural run-off, or over-baiting a fishing lake. DO enters the water by means of diffusion from the atmosphere, aeration from wind, waves, and as water moves over rocks and debris, and photosynthesis of aquatic plants. In areas with low levels of DO, some method of water aeration can be crucial to the stability and success of the environment. To achieve this, air can be infused into the bottom of the body of water or the surface can be agitated to allow oxygen exchange at the surface and the release of other unwanted gases in the water. An increase in dissolved oxygen can contribute to increased amounts of fish and other aquatic organisms and generally increase the health of the ecosystem.
+</p>
+<h3><span class="mw-headline" id="Biochemical_Oxygen_Demand">Biochemical Oxygen Demand</span></h3>
+<p>The biochemical oxygen demand (BOD) measures how fast organisms use up the oxygen in the water. Aerobic microbes use oxygen to oxidize the organic matter in the water, using the energy that is released in the process for growth and reproduction and creating a demand for DO. This is usually proportional to the amount of organic compounds available for oxidation as the microbe population is usually proportional to the amount of organic compounds.  BOD is tested using the means for testing dissolved oxygen, but the test is done over a period of time to determine the rate of oxygen being used. When doing this, water aeration and other methods of increasing DO must be accounted for. Oxygen used for decomposition processes robs other organisms of oxygen needed to live. Organisms with low tolerance may die off and be replaced by organisms with more tolerance for low oxygen levels. In some cases, microbes in an environment use oxygen faster than it can enter the water. In these cases those organisms are threatened, as the DO content of the water will eventually become too low for those organisms to live, also resulting in the deaths of fish and other organisms. Despite the population limits imposed by this demand, this can result in long term DO shortages. BOD can be considered a measure of the pollution in rivers and other bodies of water in some cases. Most pristine rivers should have a 5-day BOD below 1 mg/L. Moderately polluted rivers may have a BOD between 2 and 8 mg/L. Municipal sewage that is treated with a three-stage process would have a BOD of about 20 mg/L. Untreated sewage has varying BOD but averages about 200 mg/L in the US. This is much lower than the world average, because of the greater water use per capita than in other parts of the world.
+</p>
+<h3><span class="mw-headline" id="Temperature">Temperature</span></h3>
+<p>The water temperature in aquatic ecosystems is a very important quality indicator, as temperature affects other factors such as the dissolved oxygen level in the water, as well as photosynthesis of aquatic plants, metabolic rates of aquatic organisms, and more. Increases in the temperature of the water are called thermal pollution. Thermal pollution increases the sensitivity of organisms to disease, parasites, and pollution. When small changes in temperature occur in the stream, these can adversely affect the reproductive systems of aquatic organisms such as macroinvertebrates or fish. Temperature change can be caused by many things such as natural seasonal changes, anthropogenic activities, industrial thermal pollution as discharge of cooling water, or storm water runoff from heated surfaces like streets. The amount of total solids in the water also affects the temperature of the water, so things such as soil erosion which affect total solids will also affect temperature. This is because the solids at the surface of the water will absorb more sunlight rather than reflecting it, increasing the temperature. The removal of trees and brush from the side of the river will not only increase erosion, but it will also increase the amount of sunlight that hits a river or stream, further increasing temperature and the effects of the thermal pollution. High temperature also decreases the ability of the water to hold DO, which has even more of an effect because temperature also increases the metabolic rates of aquatic organisms and their biochemical oxygen demand. This also causes resources to be used faster and may cause an increase in the amount of anaerobic bacteria relative to the amount of aerobic bacteria. Thermal pollution can also cause overpopulation of plants, as it increases plant growth rates. In some cases, thermal pollution can include cold water being released as well. This is usually from a reservoir in which the water was released from the bottom of the reservoir, where it is cold, rather than the top. This can also be detrimental to the health of the ecosystem. This can alter the fauna of the body of water and decrease the productivity of the ecosystem. Abrupt changes water temperature in any direction can be very detrimental to ecosystem health and can kill fish or other organisms quickly through thermal shock.
+</p><p>In very limited cases, thermal pollution will have no effect or may even increase the ecosystem health. These cases are called thermal enrichment. An example of this is the manatee, which often uses power plant discharge sites during the winter. It is likely that manatee populations would decline if these sites were removed.
+</p>
+<h3><span class="mw-headline" id="Fecal_Coliform">Fecal Coliform</span></h3>
+<p>Fecal Coliform bacteria are living organism entering streams. The presence of high levels of fecal coliform bacteria can be an indication of a failure in water treatment, a breach in the distribution system, or possible contamination. If a stream has a high number of fecal coliform bacteria, then the water has had an increase in the input of fecal matter. Fecal Coliform concentrations are reported in the following format: Number of bacterial colonies/100 mL of sample water. When Fecal Coliform counts are over 200 colonies/100 mL of sample water, there is a greater chance of pathogenic organisms being present. Water with high levels of fecal coliform bacteria is associated with the following diseases: Dysentery, Typhoid Fever, Gastroenteritis, and Hepatitis. Fecal coliform bacteria can also be harmful to the environment. Aerobic decomposition of organic matter containing fecal coliform bacteria can reduce DO levels, causing any of the effects of insufficient DO levels. Treatment of fecal coliform requires one of three things: boiling the water, treatment with chlorine, or UV disinfection, all of which will also kill bacteria essential to the proper balance of the aquatic ecosystem and endangering animals dependent upon those bacteria. The primary sources of Fecal Coliform bacteria are from failing/leaking septic systems, animal waste, and the discharge from a water treatment plant. Urbanization can also cause problems with fecal coliform bacteria levels because plant and animal wastes can be washed away by a storm into sewers and contaminate water. When the temperature of water is high and the total levels of nutrients are high, this promotes bacteria growth. Fecal coliform bacteria levels are tested by filtering the water and depositing the bacteria caught in the filter in a medium which encourages the growth of the bacteria. Each cell then develops into a separate colony, which can be counted directly. The sample volume for testing is usually 100 mL.
+</p>
+<h3><span class="mw-headline" id="Total_Solids">Total Solids</span></h3>
+<p>The total solids of the water measure the suspended and dissolved solids in the body of water and are subdivided into those two categories: total suspended solids (TSS) and total dissolved solids (TDS). Sources of elevated levels of total solids may result as a result of runoff from agricultural activities, dredging, mining, salt from streets in winter, fertilizers from lawns, water treatment plants, plant materials, soil particles, and soil erosion, and decaying organic matter. 
+</p><p>Dissolved solids, being in molecular, ionized, or micro-granular form, pass through a water filter and include calcium, bicarbonate, nitrogen, phosphorus, iron, and sulfur and other ions in the water. Dissolved solids are generally only applicable to freshwater systems, as salinity can affect TDS. TDS can be measured through gravimetric analysis and conductivity, the former being the more accurate method. The gravimetric method involves evaporating the liquid and measuring the mass of solids left behind and should be used if inorganic salts comprise most of TDS. Measuring the electrical conductivity of the water can also help determine TDS, as TDS is directly related to the electrical conductivity. Drinking water in the US may not have TDS above 500 mg/L, whereas most aquatic systems can tolerate TDS levels of 1000 mg/L. TDS is not considered a pollutant, yet it can be an indication of chemical contaminants in some cases. Concentration of dissolved solids in stream water is important because it determines the flow of water in and out of the cells of aquatic organisms. Many of the dissolved solids (nitrogen, phosphorus, and sulfur) are essential nutrients for aquatic life. Low concentrations of total solids can limit the growth of aquatic organisms, while elevated levels can lead to accelerated eutrophication of the water system and increase the turbidity of the water. Both of these consequences decrease the overall water quality of the water. Water is classified in the following manner according to the level of TDS: freshwater has TDS less than 500 ppm, brackish water has TDS between 500 and 30000 ppm, Saline water has TDS between 30000 and 40000 ppm, and hypersaline water has TDS greater than 40000 ppm.
+</p><p>Suspended solids will be caught by a water filter and include silt, clay, plankton, organic wastes, and inorganic precipitates. TSS is measured by taking a known volume of water and filtering it, measuring the mass of solids captured by the filter. TSS is considered a conventional pollutant and can be used as a water quality indicator of a body of water. TSS measurements serve approximately the same purpose as turbidity measurements but are more useful because turbidity depends on other factors such as particle color, size, and ambient light. High concentrations of suspended solids can reduce water clarity, increase turbidity, reduce photosynthesis levels by reducing the sunlight that reaches plants, increase water temperature due to increased absorption of light at the water surface, and bind with toxic chemicals or heavy metals.
+</p>
+<h2><span class="mw-headline" id="Competing">Competing</span></h2>
+<p>You may bring in one two-sided page of resource notes and 2 non-programmable/graphing calculators. You must bring <a href="/wiki/index.php/Safety_Glasses#Category_C" title="Safety Glasses">Category C</a> eye protection. You must also bring a salinometer as well to measure saline solutions between 0 and 10% salinity within a range of 1% at regionals and .5% at states and nationals.
+</p>
+<h2><span class="mw-headline" id="Resources">Resources</span></h2>
+<ul><li><a href="/wiki/index.php/Water_Quality/Macroorganism_List" title="Water Quality/Macroorganism List">Water Quality/Macroorganism List</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.soinc.org/sites/default/files/uploaded_files/19_WATER_QUALITY_FRESH_INTERNET_Resources.pdf">Resources from SOINC</a></li>
+<li><a rel="nofollow" class="external text" href="https://quizlet.com/363496522/water-quality-macroinvertebrate-identification-flash-cards/">Macroinvertebrate Identification Quizlet Set</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Life.2C_Personal_and_Social_Science_Events" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/index.php/Template:Life_Science_Event" title="Template:Life Science Event"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/index.php?title=Template_talk:Life_Science_Event&amp;action=edit&amp;redlink=1" class="new" title="Template talk:Life Science Event (page does not exist)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a rel="nofollow" class="external text" href="https://scioly.org/wiki/index.php?title=Template:Life_Science_Event&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Life.2C_Personal_and_Social_Science_Events" style="font-size:114%;margin:0 4em">Life, Personal and Social Science Events</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">National Events</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Anatomy_and_Physiology" title="Anatomy and Physiology">Anatomy and Physiology</a></li>
+<li><a href="/wiki/index.php/Bio-Process_Lab" title="Bio-Process Lab">Bio-Process Lab</a></li>
+<li><a href="/wiki/index.php/Cell_Biology" title="Cell Biology">Cell Biology</a></li>
+<li><a href="/wiki/index.php/Designer_Genes" title="Designer Genes">Designer Genes</a></li>
+<li><a href="/wiki/index.php/Disease_Detectives" title="Disease Detectives">Disease Detectives</a></li>
+<li><a href="/wiki/index.php/Ecology" title="Ecology">Ecology</a></li>
+<li><a href="/wiki/index.php/Entomology" title="Entomology">Entomology</a></li>
+<li><a href="/wiki/index.php/Forestry" title="Forestry">Forestry</a></li>
+<li><a href="/wiki/index.php/Green_Generation" title="Green Generation">Green Generation</a></li>
+<li><a href="/wiki/index.php/Heredity" title="Heredity">Heredity</a></li>
+<li><a href="/wiki/index.php/Herpetology" title="Herpetology">Herpetology</a></li>
+<li><a href="/wiki/index.php/Invasive_Species" title="Invasive Species">Invasive Species</a></li>
+<li><a href="/wiki/index.php/Microbe_Mission" title="Microbe Mission">Microbe Mission</a></li>
+<li><a href="/wiki/index.php/Ornithology" title="Ornithology">Ornithology</a></li>
+<li><a class="mw-selflink selflink">Water Quality</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Trial Events</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Botany" title="Botany">Botany</a></li>
+<li><a href="/wiki/index.php/Endangered,_Extinct,_and_Exotic_Animals" title="Endangered, Extinct, and Exotic Animals">Endangered, Extinct, and Exotic Animals</a></li>
+<li><a href="/wiki/index.php/Home_Horticulture" title="Home Horticulture">Home Horticulture</a></li>
+<li><a href="/wiki/index.php/Parasitology" title="Parasitology">Parasitology</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="2020.2F2021_Events" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/index.php/Template:2021Events" title="Template:2021Events"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/index.php?title=Template_talk:2021Events&amp;action=edit&amp;redlink=1" class="new" title="Template talk:2021Events (page does not exist)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a rel="nofollow" class="external text" href="https://scioly.org/wiki/index.php?title=Template:2021Events&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="2020.2F2021_Events" style="font-size:114%;margin:0 4em">2020/2021 Events</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Division B Events</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Anatomy_and_Physiology" title="Anatomy and Physiology">Anatomy and Physiology</a></li>
+<li><a href="/wiki/index.php/Boomilever" title="Boomilever">Boomilever</a></li>
+<li><a href="/wiki/index.php/Circuit_Lab" title="Circuit Lab">Circuit Lab</a></li>
+<li><a href="/wiki/index.php/Crime_Busters" title="Crime Busters">Crime Busters</a></li>
+<li><a href="/wiki/index.php/Density_Lab" title="Density Lab">Density Lab</a></li>
+<li><a href="/wiki/index.php/Disease_Detectives" title="Disease Detectives">Disease Detectives</a></li>
+<li><a href="/wiki/index.php/Dynamic_Planet_Topics" title="Dynamic Planet Topics">Dynamic Planet</a></li>
+<li><a href="/wiki/index.php/Elastic_Launched_Glider" title="Elastic Launched Glider">Elastic Launched Glider</a></li>
+<li><a href="/wiki/index.php/Experimental_Design" title="Experimental Design">Experimental Design</a></li>
+<li><a href="/wiki/index.php/Food_Science" title="Food Science">Food Science</a></li>
+<li><a href="/wiki/index.php/Fossils" title="Fossils">Fossils</a></li>
+<li><a href="/wiki/index.php/Game_On" title="Game On">Game On</a></li>
+<li><a href="/wiki/index.php/Heredity" title="Heredity">Heredity</a></li>
+<li><a href="/wiki/index.php/Machines" title="Machines">Machines</a></li>
+<li><a href="/wiki/index.php/Meteorology" title="Meteorology">Meteorology</a></li>
+<li><a href="/wiki/index.php/Mission_Possible" title="Mission Possible">Mission Possible</a></li>
+<li><a href="/wiki/index.php/Mousetrap_Vehicle" title="Mousetrap Vehicle">Mousetrap Vehicle</a></li>
+<li><a href="/wiki/index.php/Ornithology" title="Ornithology">Ornithology</a></li>
+<li><a href="/wiki/index.php/Ping_Pong_Parachute" title="Ping Pong Parachute">Ping Pong Parachute</a></li>
+<li><a href="/wiki/index.php/Reach_for_the_Stars" title="Reach for the Stars">Reach for the Stars</a></li>
+<li><a href="/wiki/index.php/Road_Scholar" title="Road Scholar">Road Scholar</a></li>
+<li><a class="mw-selflink selflink">Water Quality</a></li>
+<li><a href="/wiki/index.php/Write_It_Do_It" title="Write It Do It">Write It Do It</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Division C Events</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Anatomy_and_Physiology" title="Anatomy and Physiology">Anatomy and Physiology</a></li>
+<li><a href="/wiki/index.php/Astronomy" title="Astronomy">Astronomy</a></li>
+<li><a href="/wiki/index.php/Boomilever" title="Boomilever">Boomilever</a></li>
+<li><a href="/wiki/index.php/Chemistry_Lab" title="Chemistry Lab">Chemistry Lab</a></li>
+<li><a href="/wiki/index.php/Circuit_Lab" title="Circuit Lab">Circuit Lab</a></li>
+<li><a href="/wiki/index.php/Codebusters" title="Codebusters">Codebusters</a></li>
+<li><a href="/wiki/index.php/Designer_Genes" title="Designer Genes">Designer Genes</a></li>
+<li><a href="/wiki/index.php/Detector_Building" title="Detector Building">Detector Building</a></li>
+<li><a href="/wiki/index.php/Disease_Detectives" title="Disease Detectives">Disease Detectives</a></li>
+<li><a href="/wiki/index.php/Dynamic_Planet_Topics" title="Dynamic Planet Topics">Dynamic Planet</a></li>
+<li><a href="/wiki/index.php/Experimental_Design" title="Experimental Design">Experimental Design</a></li>
+<li><a href="/wiki/index.php/Forensics" title="Forensics">Forensics</a></li>
+<li><a href="/wiki/index.php/Fossils" title="Fossils">Fossils</a></li>
+<li><a href="/wiki/index.php/GeoLogic_Mapping" title="GeoLogic Mapping">GeoLogic Mapping</a></li>
+<li><a href="/wiki/index.php/Gravity_Vehicle" title="Gravity Vehicle">Gravity Vehicle</a></li>
+<li><a href="/wiki/index.php/Machines" title="Machines">Machines</a></li>
+<li><a href="/wiki/index.php/Ornithology" title="Ornithology">Ornithology</a></li>
+<li><a href="/wiki/index.php/Ping_Pong_Parachute" title="Ping Pong Parachute">Ping Pong Parachute</a></li>
+<li><a href="/wiki/index.php/Protein_Modeling" title="Protein Modeling">Protein Modeling</a></li>
+<li><a href="/wiki/index.php/Sounds_of_Music" title="Sounds of Music">Sounds of Music</a></li>
+<li><a class="mw-selflink selflink">Water Quality</a></li>
+<li><a href="/wiki/index.php/Wright_Stuff" title="Wright Stuff">Wright Stuff</a></li>
+<li><a href="/wiki/index.php/Write_It_Do_It" title="Write It Do It">Write It Do It</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Division B National Trials 2020</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Aerial_Scramble" title="Aerial Scramble">Aerial Scramble</a></li>
+<li><a href="/wiki/index.php/Amazing_Mechatronics" title="Amazing Mechatronics">Amazing Mechatronics</a></li>
+<li><a href="/wiki/index.php/Codebusters" title="Codebusters">Codebusters</a></li>
+<li><a href="/wiki/index.php/Storm_the_Castle" title="Storm the Castle">Storm the Castle</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Division C National Trials 2020</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Aerial_Scramble" title="Aerial Scramble">Aerial Scramble</a></li>
+<li><a href="/wiki/index.php/Amazing_Mechatronics" title="Amazing Mechatronics">Amazing Mechatronics</a></li>
+<li><a href="/wiki/index.php/Environmental_Chemistry" title="Environmental Chemistry">Environmental Chemistry</a></li>
+<li><a href="/wiki/index.php/Trajectory" title="Trajectory">Trajectory</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Division B National Trials 2021</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Aerial_Scramble" title="Aerial Scramble">Aerial Scramble</a></li>
+<li><a href="/wiki/index.php/Awesome_Aquifers" title="Awesome Aquifers">Awesome Aquifers</a></li>
+<li><a href="/wiki/index.php/Botany" title="Botany">Botany</a></li>
+<li><a href="/wiki/index.php/Codebusters" title="Codebusters">Codebusters</a></li>
+<li><a href="/wiki/index.php/Electric_Wright_Stuff" title="Electric Wright Stuff">Electric Wright Stuff</a></li>
+<li><a href="/wiki/index.php/Home_Horticulture" title="Home Horticulture">Home Horticulture</a></li>
+<li><a href="/wiki/index.php/Solar_Power" title="Solar Power">Solar Power</a></li>
+<li><a href="/wiki/index.php/Storm_the_Castle" title="Storm the Castle">Storm the Castle</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Division C National Trials 2021</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Aerial_Scramble" title="Aerial Scramble">Aerial Scramble</a></li>
+<li><a href="/wiki/index.php/Botany" title="Botany">Botany</a></li>
+<li><a href="/wiki/index.php/Electric_Wright_Stuff" title="Electric Wright Stuff">Electric Wright Stuff</a></li>
+<li><a href="/wiki/index.php/Environmental_Chemistry" title="Environmental Chemistry">Environmental Chemistry</a></li>
+<li><a href="/wiki/index.php/Home_Horticulture" title="Home Horticulture">Home Horticulture</a></li>
+<li><a href="/wiki/index.php/Robot_Tour" title="Robot Tour">Robot Tour</a></li>
+<li><a href="/wiki/index.php/Solar_Power" title="Solar Power">Solar Power</a></li>
+<li><a href="/wiki/index.php/Trajectory" title="Trajectory">Trajectory</a></li>
+<li><a href="/wiki/index.php/WiFi_Lab" title="WiFi Lab">WiFi Lab</a></li></ul>
+</div></td></tr></tbody></table></div>
+
+<!-- 
+NewPP limit report
+Cached time: 20200806182543
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.408 seconds
+Real time usage: 0.518 seconds
+Preprocessor visited node count: 663/1000000
+Preprocessor generated node count: 4862/1000000
+Post‐expand include size: 26331/2097152 bytes
+Template argument size: 3783/2097152 bytes
+Highest expansion depth: 10/40
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.040/7.000 seconds
+Lua virtual size: 8.62 MB/50 MB
+Lua estimated memory usage: 0 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  199.073      1 -total
+ 65.40%  130.191      2 Template:Navbox
+ 57.15%  113.769      1 Template:Life_Science_Event
+ 28.29%   56.313      1 Template:EventLinksBox
+ 13.73%   27.339      1 Template:2021Events
+-->
+</div>
+<!-- Saved in parser cache with key wiki-wikiv2_:pcache:idhash:1262-0!canonical and timestamp 20200806182542 and revision id 106477
+ -->
+</div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://scioly.org/wiki/index.php?title=Water_Quality&amp;oldid=106477">https://scioly.org/wiki/index.php?title=Water_Quality&amp;oldid=106477</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/index.php/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/index.php/Category:Life_and_Social_Science_Events" title="Category:Life and Social Science Events">Life and Social Science Events</a></li><li><a href="/wiki/index.php/Category:Event_Pages" title="Category:Event Pages">Event Pages</a></li><li><a href="/wiki/index.php/Category:Study_Event_Pages" title="Category:Study Event Pages">Study Event Pages</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-login"><a href="//scioly.org/forums/ucp.php?mode=login&amp;redirect=https%3A%2F%2Fscioly.org%2Fwiki%2Findex.php%2FWater_Quality" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/index.php/Water_Quality" title="View the content page [c]" accesskey="c">Page</a></span></li><li id="ca-talk" class="new"><span><a href="/wiki/index.php?title=Talk:Water_Quality&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/index.php/Water_Quality">Read</a></span></li><li id="ca-viewsource" class="collapsible"><span><a href="/wiki/index.php?title=Water_Quality&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li><li id="ca-history" class="collapsible"><span><a href="/wiki/index.php?title=Water_Quality&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/wiki/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Scioly.org" title="Search Scioly.org [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/index.php/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage"><a href="/wiki/index.php/Main_Page" title="Visit the main page [z]" accesskey="z">Main Page</a></li><li id="n-recentchanges"><a href="/wiki/index.php/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/wiki/index.php/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-MediaWiki-Help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">MediaWiki Help</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/index.php/Special:WhatLinksHere/Water_Quality" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/index.php/Special:RecentChangesLinked/Water_Quality" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/wiki/index.php/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="/wiki/index.php?title=Water_Quality&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/wiki/index.php?title=Water_Quality&amp;oldid=106477" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/wiki/index.php?title=Water_Quality&amp;action=info" title="More information about this page">Page information</a></li>				</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 6 August 2020, at 06:19.</li>
+								<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution</a> unless otherwise noted.</li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="http://creativecommons.org/licenses/by/3.0/"><img src="/wiki/resources/assets/licenses/cc-by.png" alt="Creative Commons Attribution" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<style>.MathJax_Display{display:inline !important;}
+.mathjax-wrapper{font-size:120%;}</style>
+<script type='text/x-mathjax-config'>MathJax.Hub.Config({displayAlign:'left',tex2jax:{displayMath:[['[math]','[/math]']]}})</script>
+<script src='//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.408","walltime":"0.518","ppvisitednodes":{"value":663,"limit":1000000},"ppgeneratednodes":{"value":4862,"limit":1000000},"postexpandincludesize":{"value":26331,"limit":2097152},"templateargumentsize":{"value":3783,"limit":2097152},"expansiondepth":{"value":10,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%  199.073      1 -total"," 65.40%  130.191      2 Template:Navbox"," 57.15%  113.769      1 Template:Life_Science_Event"," 28.29%   56.313      1 Template:EventLinksBox"," 13.73%   27.339      1 Template:2021Events"]},"scribunto":{"limitreport-timeusage":{"value":"0.040","limit":"7.000"},"limitreport-virtmemusage":{"value":9035776,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20200806182543","ttl":86400,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":127});});</script>
+	</body>
+</html>

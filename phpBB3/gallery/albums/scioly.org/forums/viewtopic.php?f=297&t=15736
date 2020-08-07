@@ -1,0 +1,1896 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-gb">
+<head>
+<meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+<title>Codebusters C - Scioly.org</title>
+
+	<link rel="alternate" type="application/atom+xml" title="Feed - Scioly.org" href="/forums/app.php/feed">	<link rel="alternate" type="application/atom+xml" title="Feed - News" href="/forums/app.php/feed/news">	<link rel="alternate" type="application/atom+xml" title="Feed - All forums" href="/forums/app.php/feed/forums">	<link rel="alternate" type="application/atom+xml" title="Feed - New Topics" href="/forums/app.php/feed/topics">	<link rel="alternate" type="application/atom+xml" title="Feed - Active Topics" href="/forums/app.php/feed/topics_active">	<link rel="alternate" type="application/atom+xml" title="Feed - Forum - Question Marathons" href="/forums/app.php/feed/forum/297">	<link rel="alternate" type="application/atom+xml" title="Feed - Topic - Codebusters C" href="/forums/app.php/feed/topic/15736">	
+	<link rel="canonical" href="https://scioly.org/forums/viewtopic.php?t=15736">
+
+<!--
+	phpBB style name: prosilver
+	Based on style:   prosilver (this is the default phpBB3 style)
+	Original author:  Tom Beddard ( http://www.subBlue.com/ )
+	Modified by:
+-->
+
+<link href="./assets/css/font-awesome.min.css?assets_version=50" rel="stylesheet">
+<link href="./styles/scioly/theme/stylesheet.css?assets_version=50" rel="stylesheet">
+<link href="./styles/scioly/theme/en/stylesheet.css?assets_version=50" rel="stylesheet">
+
+
+
+
+<!--[if lte IE 9]>
+	<link href="./styles/scioly/theme/tweaks.css?assets_version=50" rel="stylesheet">
+<![endif]-->
+
+
+<link href="./ext/gfksx/ThanksForPosts/styles/prosilver/theme/thanks.css?assets_version=50" rel="stylesheet" media="screen" />
+
+
+
+</head>
+<body id="phpbb" class="nojs notouch section-viewtopic ltr ">
+
+
+<!-- <script type="text/javascript" src="/src/js/snowstorm.js"></script> -->
+<!-- <script type="text/javascript" src="/src/js/fireworks.js"></script> -->
+<script type="text/javascript" src="/src/js/jquery.min.js"></script>
+<script type="text/javascript" src="/src/js/forums.js"></script>
+<link rel="stylesheet" type="text/css" href="/src/css/forums.css">
+
+<script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');ga('create', 'UA-340310-1', 'auto');ga('send', 'pageview');</script>
+
+<div class="banner" style="background-color: #f4f4f4; color: #555555;"><span class="close" onclick="this.parentElement.style.display='none'; close_banner();">&times;</span><span class="message"><a href="https://scioly.org/chat.php" style="color: #555555;">This is a test announcement! We're redoing how banners appear on this site.</a></span></div><script type="text/javascript">
+	var banner_id = "banner_" + 15;
+	var banner_boolean = localStorage.getItem(banner_id);
+
+	$(document).ready(function() {
+		if (banner_boolean == "false") {
+			$('.banner').hide();
+		}
+	});
+
+	function close_banner() {
+		localStorage.setItem(banner_id, "false");
+	}
+</script>
+<style>
+	.banner > .close {
+		margin-left: 15px;
+		float: right;
+		font-size: 20px;
+		line-height: 16px;
+		cursor: pointer;
+		transition: 0.3s;
+	}
+	.banner > .message {
+		display: block;
+		margin-right: 30px;
+	}
+</style>
+
+<div class="navbar navbar-default navbar-fixed-top" role="navigation" style="top: auto;">
+	<div class="site-nav">
+		<a href="https://scioly.org/">
+				<img src="https://scioly.org/src/img/logo/logo.png">
+		</a>
+		<div class="hamburger" onclick="hamburger(this)">
+			<div>
+				<div></div>
+				<div></div>
+				<div></div>
+			</div>
+		</div>
+		<ul>
+			<li><a href="https://scioly.org/forums">Forums</a></li>
+			<li><a href="https://scioly.org/wiki">Wiki</a></li>
+			<li><a href="https://scioly.org/tests">Test Exchange</a></li>
+			<!-- <li><a href="https://scioly.org/gallery">Image Gallery</a></li> -->
+			<!-- <li><a href="https://scioly.org/invitational">Invites</a></li> -->
+			<li><a href="https://scioly.org/chat">Chat</a></li>
+			<li><a href="/login" class="insert-button">Login</a></li>		</ul>
+	</div>
+	<img class="print-only" src="https://scioly.org/src/img/logo/logo_black.png" style="max-width: 150px;">
+</div>
+
+
+
+<div id="wrap" class="wrap">
+	<a id="top" class="top-anchor" accesskey="t"></a>
+	<div id="page-header">
+		<div class="headerbar" role="banner">
+					<div class="inner">
+
+			<div id="site-description" class="site-description">
+				<a id="logo" class="logo" href="https://scioly.org" title="Scioly.org"><span class="site_logo"></span></a>
+				<h1>Scioly.org</h1>
+				<p>Science Olympiad Student Center</p>
+				<p class="skiplink"><a href="#start_here">Skip to content</a></p>
+			</div>
+
+									<div id="search-box" class="search-box search-header" role="search">
+				<form action="./search.php" method="get" id="search">
+				<fieldset>
+					<input name="keywords" id="keywords" type="search" maxlength="128" title="Search for keywords" class="inputbox search tiny" size="20" value="" placeholder="Search…" />
+					<button class="button button-search" type="submit" title="Search">
+						<i class="icon fa-search fa-fw" aria-hidden="true"></i><span class="sr-only">Search</span>
+					</button>
+					<a href="./search.php" class="button button-search-end" title="Advanced search">
+						<i class="icon fa-cog fa-fw" aria-hidden="true"></i><span class="sr-only">Advanced search</span>
+					</a>
+					
+				</fieldset>
+				</form>
+			</div>
+						
+			</div>
+					</div>
+				<div class="navbar" role="navigation">
+	<div class="inner">
+
+	<ul id="nav-main" class="nav-main linklist" role="menubar">
+
+		<li id="quick-links" class="quick-links dropdown-container responsive-menu" data-skip-responsive="true">
+			<a href="#" class="dropdown-trigger">
+				<i class="icon fa-bars fa-fw" aria-hidden="true"></i><span>Quick links</span>
+			</a>
+			<div class="dropdown">
+				<div class="pointer"><div class="pointer-inner"></div></div>
+				<ul class="dropdown-contents" role="menu">
+					
+											<li class="separator"></li>
+																									<li>
+								<a href="./search.php?search_id=unanswered" role="menuitem">
+									<i class="icon fa-file-o fa-fw icon-gray" aria-hidden="true"></i><span>Unanswered topics</span>
+								</a>
+							</li>
+							<li>
+								<a href="./search.php?search_id=active_topics" role="menuitem">
+									<i class="icon fa-file-o fa-fw icon-blue" aria-hidden="true"></i><span>Active topics</span>
+								</a>
+							</li>
+							<li class="separator"></li>
+							<li>
+								<a href="./search.php" role="menuitem">
+									<i class="icon fa-search fa-fw" aria-hidden="true"></i><span>Search</span>
+								</a>
+							</li>
+					
+											<li class="separator"></li>
+													<li>
+								<a href="./memberlist.php" role="menuitem">
+									<i class="icon fa-group fa-fw" aria-hidden="true"></i><span>Members</span>
+								</a>
+							</li>
+																			<li>
+								<a href="./memberlist.php?mode=team" role="menuitem">
+									<i class="icon fa-shield fa-fw" aria-hidden="true"></i><span>The team</span>
+								</a>
+							</li>
+																<li class="separator"></li>
+
+									</ul>
+			</div>
+		</li>
+
+				<li data-skip-responsive="true">
+			<a href="/forums/app.php/help/faq" rel="help" title="Frequently Asked Questions" role="menuitem">
+				<i class="icon fa-question-circle fa-fw" aria-hidden="true"></i><span>FAQ</span>
+			</a>
+		</li>
+						
+			<li class="rightside"  data-skip-responsive="true">
+			<a href="./ucp.php?mode=login" title="Login" accesskey="x" role="menuitem">
+				<i class="icon fa-power-off fa-fw" aria-hidden="true"></i><span>Login</span>
+			</a>
+		</li>
+					<li class="rightside" data-skip-responsive="true">
+				<a href="./ucp.php?mode=register" role="menuitem">
+					<i class="icon fa-pencil-square-o  fa-fw" aria-hidden="true"></i><span>Register</span>
+				</a>
+			</li>
+						</ul>
+
+	<ul id="nav-breadcrumbs" class="nav-breadcrumbs linklist navlinks" role="menubar">
+								<li class="breadcrumbs" itemscope itemtype="http://schema.org/BreadcrumbList">
+							<span class="crumb"  itemtype="http://schema.org/ListItem" itemprop="itemListElement" itemscope><a href="https://scioly.org" itemtype="https://schema.org/Thing" itemprop="item" data-navbar-reference="home"><i class="icon fa-home fa-fw" aria-hidden="true"></i><span itemprop="name">Scioly.org</span></a><meta itemprop="position" content="1" /></span>
+										<span class="crumb"  itemtype="http://schema.org/ListItem" itemprop="itemListElement" itemscope><a href="./index.php" itemtype="https://schema.org/Thing" itemprop="item" accesskey="h" data-navbar-reference="index"><span itemprop="name">Forums</span></a><meta itemprop="position" content="2" /></span>
+
+											<span class="crumb"  itemtype="http://schema.org/ListItem" itemprop="itemListElement" itemscope data-forum-id="1"><a href="./viewforum.php?f=1" itemtype="https://schema.org/Thing" itemprop="item"><span itemprop="name">Event Forums</span></a><meta itemprop="position" content="3" /></span>
+															<span class="crumb"  itemtype="http://schema.org/ListItem" itemprop="itemListElement" itemscope data-forum-id="297"><a href="./viewforum.php?f=297" itemtype="https://schema.org/Thing" itemprop="item"><span itemprop="name">Question Marathons</span></a><meta itemprop="position" content="4" /></span>
+												</li>
+		
+					<li class="rightside responsive-search">
+				<a href="./search.php" title="View the advanced search options" role="menuitem">
+					<i class="icon fa-search fa-fw" aria-hidden="true"></i><span class="sr-only">Search</span>
+				</a>
+			</li>
+			</ul>
+
+	</div>
+</div>
+	</div>
+
+	
+	<a id="start_here" class="anchor"></a>
+	<div id="page-body" class="page-body" role="main">
+		
+		
+<h2 class="topic-title"><a href="./viewtopic.php?f=297&amp;t=15736">Codebusters C</a></h2>
+<!-- NOTE: remove the style="display: none" when you want to have the forum description on the topic body -->
+<div style="display: none !important;">Test your knowledge of various Science Olympiad events.<br /></div>
+
+
+<div class="action-bar bar-top">
+	
+			<a href="./posting.php?mode=reply&amp;f=297&amp;t=15736" class="button" title="Post a reply">
+							<span>Post Reply</span> <i class="icon fa-reply fa-fw" aria-hidden="true"></i>
+					</a>
+	
+			<div class="dropdown-container dropdown-button-control topic-tools">
+		<span title="Topic tools" class="button button-secondary dropdown-trigger dropdown-select">
+			<i class="icon fa-wrench fa-fw" aria-hidden="true"></i>
+			<span class="caret"><i class="icon fa-sort-down fa-fw" aria-hidden="true"></i></span>
+		</span>
+		<div class="dropdown">
+			<div class="pointer"><div class="pointer-inner"></div></div>
+			<ul class="dropdown-contents">
+																												<li>
+					<a href="./viewtopic.php?f=297&amp;t=15736&amp;view=print" title="Print view" accesskey="p">
+						<i class="icon fa-print fa-fw" aria-hidden="true"></i><span>Print view</span>
+					</a>
+				</li>
+											</ul>
+		</div>
+	</div>
+	
+			<div class="search-box" role="search">
+			<form method="get" id="topic-search" action="./search.php">
+			<fieldset>
+				<input class="inputbox search tiny"  type="search" name="keywords" id="search_keywords" size="20" placeholder="Search this topic…" />
+				<button class="button button-search" type="submit" title="Search">
+					<i class="icon fa-search fa-fw" aria-hidden="true"></i><span class="sr-only">Search</span>
+				</button>
+				<a href="./search.php" class="button button-search-end" title="Advanced search">
+					<i class="icon fa-cog fa-fw" aria-hidden="true"></i><span class="sr-only">Advanced search</span>
+				</a>
+				<input type="hidden" name="t" value="15736" />
+<input type="hidden" name="sf" value="msgonly" />
+
+			</fieldset>
+			</form>
+		</div>
+	
+			<div class="pagination">
+			51 posts
+							<ul>
+		<li class="active"><span>1</span></li>
+				<li><a class="button" href="./viewtopic.php?f=297&amp;t=15736&amp;start=10" role="button">2</a></li>
+				<li><a class="button" href="./viewtopic.php?f=297&amp;t=15736&amp;start=20" role="button">3</a></li>
+				<li><a class="button" href="./viewtopic.php?f=297&amp;t=15736&amp;start=30" role="button">4</a></li>
+				<li><a class="button" href="./viewtopic.php?f=297&amp;t=15736&amp;start=40" role="button">5</a></li>
+				<li><a class="button" href="./viewtopic.php?f=297&amp;t=15736&amp;start=50" role="button">6</a></li>
+				<li class="arrow next"><a class="button button-icon-only" href="./viewtopic.php?f=297&amp;t=15736&amp;start=10" rel="next" role="button"><i class="icon fa-chevron-right fa-fw" aria-hidden="true"></i><span class="sr-only">Next</span></a></li>
+	</ul>
+					</div>
+		</div>
+
+
+
+
+			<div id="p397712" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile397712">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=44614" class="avatar"><img class="avatar" src="./download/file.php?avatar=44614_1594079564.png" width="69" height="54" alt="User avatar" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=44614" style="color: #000077;" class="username-coloured">pepperonipi</a>							</dt>
+
+						<dd class="profile-rank">Wiki Moderator<br /><img src="./images/ranks/stars5.gif" alt="Wiki Moderator" title="Wiki Moderator" /></dd>			
+		<dd class="profile-posts"><strong>Posts:</strong> <a href="./search.php?author_id=44614&amp;sr=posts">159</a></dd>		<dd class="profile-joined"><strong>Joined:</strong> January 21st, 2019, 11:38 am</dd>		
+		
+											<dd class="profile-custom-field profile-division"><strong>Division:</strong> C</dd>
+												<dd class="profile-custom-field profile-state"><strong>State:</strong> FL</dd>
+												<dd class="profile-custom-field profile-phpbb_location"><strong>Location:</strong> adding wiki templates lol</dd>
+							<dd class="profile-posts" data-user-give-id="44614">
+    <strong>Has thanked:</strong>
+    <a href="/forums/app.php/thankslist/givens/44614/true">117 times</a>
+</dd>
+<dd class="profile-posts" data-user-receive-id="44614">
+    <strong>Been&nbsp;thanked:</strong>
+    <a href="/forums/app.php/thankslist/givens/44614/false">154 times</a>
+</dd>
+
+						
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content397712">
+
+						<h3 class="first"><a href="#p397712">Codebusters C</a></h3>
+
+													<ul class="post-buttons">
+																																									<li>
+							<a href="./posting.php?mode=quote&amp;f=297&amp;p=397712" title="Reply with quote" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Quote</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="./viewtopic.php?p=397712#p397712" title="Post">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Post</span>
+					</a>
+								<span class="responsive-hide">by <strong><a href="./memberlist.php?mode=viewprofile&amp;u=44614" style="color: #000077;" class="username-coloured">pepperonipi</a></strong> &raquo; </span>September 6th, 2019, 10:29 pm
+			</p>
+			
+			
+			
+			<div class="content">Welcome back to the 2020 season!<br>
+<br>
+Let's start off with an easy question.<br>
+<br>
+Decode "Kyr'p ptky e zhuppw ueyw qguypkir?" using the Affine cipher with keys a = 17, b = 4.</div>
+
+			
+			
+									
+						<div id='list_thanks397712'>
+	</div>
+<div id='div_post_reput397712'>
+	</div>
+			<div id="sig397712" class="signature">i eat a lot of pizza!!<br>
+<span style="font-size:70%;line-height:116%">no seriously help me</span><br>
+<br>
+<strong class="text-strong"><span style="color:#00BF00">Boca Raton Community High School</span></strong><br>
+<strong class="text-strong"><a href="https://scioly.org/wiki/index.php/User:Pepperonipi" class="postlink">My Wiki Page</a></strong> | <strong class="text-strong"><a href="https://scioly.org/wiki/index.php/Boca_Raton_Community_High_School" class="postlink">School Wiki Page</a></strong> | <strong class="text-strong"><a href="https://scioly.org/wiki/index.php/WikiProject_Tournament_of_States" class="postlink">WikiProject Tournaments of States</a></strong> | <strong class="text-strong"><a href="https://scioly.org/wiki/index.php/User:Pi-Bot" class="postlink">Pi-Bot</a></strong><br>
+<br>
+<span style="color:#bf0fe7">2</span><span style="color:#c213df">0</span><span style="color:#c517d7">1</span><span style="color:#c81ace">9</span><span style="color:#ca1ec6">:</span> <span style="color:#d026b6">C</span><span style="color:#d32aae">o</span><span style="color:#d62da5">d</span><span style="color:#d9319d">e</span><span style="color:#dc3595">,</span> <span style="color:#e13d85">F</span><span style="color:#e4407c">e</span><span style="color:#e74474">r</span><span style="color:#ea486c">m</span><span style="color:#e85272">i</span><span style="color:#e75c77">,</span> <span style="color:#e47183">T</span><span style="color:#e27b88">h</span><span style="color:#e0858e">e</span><span style="color:#df8f93">r</span><span style="color:#dd9999">m</span><span style="color:#dba39f">o</span><br>
+<span style="color:#bf0fe7">2</span><span style="color:#c213df">0</span><span style="color:#c517d7">1</span><span style="color:#c81ace">9</span> <span style="color:#cd22be">T</span><span style="color:#d026b6">r</span><span style="color:#d32aae">i</span><span style="color:#d62da5">a</span><span style="color:#d9319d">l</span><span style="color:#dc3595">s</span><span style="color:#df398d">:</span> <span style="color:#e4407c">W</span><span style="color:#e74474">T</span><span style="color:#ea486c">F</span> <span style="color:#e75c77">(</span><span style="color:#e5667d">M</span><span style="color:#e47183">I</span><span style="color:#e27b88">T</span><span style="color:#e0858e">)</span><span style="color:#df8f93">,</span> <span style="color:#dba39f">D</span><span style="color:#daada4">e</span><span style="color:#d8b7aa">t</span><span style="color:#d7c2b0">e</span><span style="color:#d5ccb5">c</span><span style="color:#d3d6bb">t</span><span style="color:#d2e0c0">o</span><span style="color:#d0eac6">r</span> <span style="color:#bbe3bf">(</span><span style="color:#b0dfbb">N</span><span style="color:#a5dcb7">a</span><span style="color:#9ad8b3">t</span><span style="color:#90d5b0">i</span><span style="color:#85d1ac">o</span><span style="color:#7acea8">n</span><span style="color:#6fcaa4">a</span><span style="color:#65c7a1">l</span><span style="color:#5ac39d">s</span><span style="color:#4fc099">)</span><br>
+<span style="color:#bf0fe7">2</span><span style="color:#c213df">0</span><span style="color:#c517d7">2</span><span style="color:#c81ace">0</span><span style="color:#ca1ec6">:</span> <span style="color:#d026b6">D</span><span style="color:#d32aae">e</span><span style="color:#d62da5">t</span><span style="color:#d9319d">e</span><span style="color:#dc3595">c</span><span style="color:#df398d">t</span><span style="color:#e13d85">o</span><span style="color:#e4407c">r</span><span style="color:#e74474">,</span> <span style="color:#e85272">O</span><span style="color:#e75c77">r</span><span style="color:#e5667d">n</span><span style="color:#e47183">i</span><span style="color:#e27b88">,</span> <span style="color:#df8f93">C</span><span style="color:#dd9999">o</span><span style="color:#dba39f">d</span><span style="color:#daada4">e</span> <span style="color:#d7c2b0">(</span><span style="color:#d5ccb5">S</span><span style="color:#d3d6bb">u</span><span style="color:#d2e0c0">b</span><span style="color:#d0eac6">s</span><span style="color:#c5e6c2">t</span><span style="color:#bbe3bf">i</span><span style="color:#b0dfbb">t</span><span style="color:#a5dcb7">u</span><span style="color:#9ad8b3">t</span><span style="color:#90d5b0">i</span><span style="color:#85d1ac">o</span><span style="color:#7acea8">n</span><span style="color:#6fcaa4">:</span> <span style="color:#5ac39d">P</span><span style="color:#4fc099">e</span><span style="color:#44bc95">n</span><span style="color:#3ab992">n</span><span style="color:#2fb58e">)</span><br>
+<span style="color:#bf0fe7">2</span><span style="color:#c213df">0</span><span style="color:#c517d7">2</span><span style="color:#c81ace">0</span> <span style="color:#cd22be">T</span><span style="color:#d026b6">r</span><span style="color:#d32aae">i</span><span style="color:#d62da5">a</span><span style="color:#d9319d">l</span><span style="color:#dc3595">s</span><span style="color:#df398d">:</span> <span style="color:#e4407c">D</span><span style="color:#e74474">a</span><span style="color:#ea486c">t</span><span style="color:#e85272">a</span> <span style="color:#e5667d">S</span><span style="color:#e47183">c</span><span style="color:#e27b88">i</span> <span style="color:#df8f93">(</span><span style="color:#dd9999">P</span><span style="color:#dba39f">r</span><span style="color:#daada4">i</span><span style="color:#d8b7aa">n</span><span style="color:#d7c2b0">c</span><span style="color:#d5ccb5">e</span><span style="color:#d3d6bb">t</span><span style="color:#d2e0c0">o</span><span style="color:#d0eac6">n</span><span style="color:#c5e6c2">)</span></div>
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Top">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Top</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+	<hr class="divider" />
+				<div id="p397715" class="post has-profile bg1">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile397715">
+			<dt class="has-profile-rank no-avatar">
+				<div class="avatar-container">
+																			</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=45683" class="username">will0416</a>							</dt>
+
+						<dd class="profile-rank">Member<br /><img src="./images/ranks/stars3.gif" alt="Member" title="Member" /></dd>			
+		<dd class="profile-posts"><strong>Posts:</strong> <a href="./search.php?author_id=45683&amp;sr=posts">54</a></dd>		<dd class="profile-joined"><strong>Joined:</strong> February 18th, 2019, 7:43 am</dd>		
+		
+											<dd class="profile-custom-field profile-division"><strong>Division:</strong> C</dd>
+												<dd class="profile-custom-field profile-state"><strong>State:</strong> OH</dd>
+							<dd class="profile-posts" data-user-give-id="45683">
+    <strong>Has thanked:</strong>
+    <a href="/forums/app.php/thankslist/givens/45683/true">0</a>
+</dd>
+<dd class="profile-posts" data-user-receive-id="45683">
+    <strong>Been&nbsp;thanked:</strong>
+    <a href="/forums/app.php/thankslist/givens/45683/false">0</a>
+</dd>
+
+						
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content397715">
+
+						<h3 ><a href="#p397715">Re: Codebusters C</a></h3>
+
+													<ul class="post-buttons">
+																																									<li>
+							<a href="./posting.php?mode=quote&amp;f=297&amp;p=397715" title="Reply with quote" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Quote</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="./viewtopic.php?p=397715#p397715" title="Post">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Post</span>
+					</a>
+								<span class="responsive-hide">by <strong><a href="./memberlist.php?mode=viewprofile&amp;u=45683" class="username">will0416</a></strong> &raquo; </span>September 7th, 2019, 5:35 am
+			</p>
+			
+			
+			
+			<div class="content"><blockquote><div><cite><a href="./memberlist.php?mode=viewprofile&amp;u=44614">pepperonipi</a> wrote: <a href="./viewtopic.php?p=397712#p397712" data-post-id="397712" onclick="if(document.getElementById(hash.substr(1)))href=hash">↑</a><div class="responsive-hide">September 6th, 2019, 10:29 pm</div></cite>
+Welcome back to the 2020 season!<br>
+<br>
+Let's start off with an easy question.<br>
+<br>
+Decode "Kyr'p ptky e zhuppw ueyw qguypkir?" using the Affine cipher with keys a = 17, b = 4.
+</div></blockquote>
+<div class="bbcode-hide codebox"><label><span style="font-weight:bold"> Answer </span> <span style="color:#555">(Click to Show Hidden Text)</span></label><pre> Isn't this a pretty easy question? lol yep i just solved it as an aristocrat</pre></div><style type="text/css">
+div.bbcode-hide {
+	padding: 3px;
+}
+.bbcode-hide label {
+	display: block;
+	font-size: 0.8em !important;
+	text-transform: uppercase;
+	width: 100%;
+}
+.bbcode-hide pre {
+	display: none;
+	font-family: 'Avenir', Arial, sans-serif;
+	white-space: pre-wrap;
+}
+@media print {
+	.bbcode-hide pre {
+		display: block !important;
+	}
+}
+</style><script type="text/javascript">
+$(document).ready(()=>{
+	$(".bbcode-hide").each((_, tag) => {
+		tag = $(tag);
+		tag.find("label").off("click").on("click", ()=>{
+			tag.find("pre").toggle();
+		})
+	})
+})
+</script>
+Hopefully that hide function worked.<br>
+<br>
+<br>
+Decrypt WFLLJ, VDWVTQX QD RRZVR ER JIGP OZDPD with key DRILL</div>
+
+			
+			
+									
+						<div id='list_thanks397715'>
+	</div>
+<div id='div_post_reput397715'>
+	</div>
+			<div id="sig397715" class="signature"><strong class="text-strong">Mason ‘22</strong><br>
+2019 Nats: <br>
+Code - 4<br>
+Mission - 4<br>
+2020 States:<br>
+rip</div>
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Top">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Top</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+	<hr class="divider" />
+				<div id="p397716" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile397716">
+			<dt class="has-profile-rank no-avatar">
+				<div class="avatar-container">
+																			</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=45683" class="username">will0416</a>							</dt>
+
+						<dd class="profile-rank">Member<br /><img src="./images/ranks/stars3.gif" alt="Member" title="Member" /></dd>			
+		<dd class="profile-posts"><strong>Posts:</strong> <a href="./search.php?author_id=45683&amp;sr=posts">54</a></dd>		<dd class="profile-joined"><strong>Joined:</strong> February 18th, 2019, 7:43 am</dd>		
+		
+											<dd class="profile-custom-field profile-division"><strong>Division:</strong> C</dd>
+												<dd class="profile-custom-field profile-state"><strong>State:</strong> OH</dd>
+							<dd class="profile-posts" data-user-give-id="45683">
+    <strong>Has thanked:</strong>
+    <a href="/forums/app.php/thankslist/givens/45683/true">0</a>
+</dd>
+<dd class="profile-posts" data-user-receive-id="45683">
+    <strong>Been&nbsp;thanked:</strong>
+    <a href="/forums/app.php/thankslist/givens/45683/false">0</a>
+</dd>
+
+						
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content397716">
+
+						<h3 ><a href="#p397716">Re: Codebusters C</a></h3>
+
+													<ul class="post-buttons">
+																																									<li>
+							<a href="./posting.php?mode=quote&amp;f=297&amp;p=397716" title="Reply with quote" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Quote</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="./viewtopic.php?p=397716#p397716" title="Post">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Post</span>
+					</a>
+								<span class="responsive-hide">by <strong><a href="./memberlist.php?mode=viewprofile&amp;u=45683" class="username">will0416</a></strong> &raquo; </span>September 7th, 2019, 5:38 am
+			</p>
+			
+			
+			
+			<div class="content">Don't look if you don't want to see the answer <br>
+<br>
+looks like it didn't work, so i'll just type it out: Isn't this a pretty easy question?</div>
+
+			
+			
+									
+						<div id='list_thanks397716'>
+	</div>
+<div id='div_post_reput397716'>
+	</div>
+			<div id="sig397716" class="signature"><strong class="text-strong">Mason ‘22</strong><br>
+2019 Nats: <br>
+Code - 4<br>
+Mission - 4<br>
+2020 States:<br>
+rip</div>
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Top">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Top</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+	<hr class="divider" />
+				<div id="p397754" class="post has-profile bg1">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile397754">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=35723" class="avatar"><img class="avatar" src="./download/file.php?avatar=35723_1550028022.jpg" width="50" height="50" alt="User avatar" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=35723" class="username">Name</a>							</dt>
+
+						<dd class="profile-rank">Member<br /><img src="./images/ranks/stars4.gif" alt="Member" title="Member" /></dd>			
+		<dd class="profile-posts"><strong>Posts:</strong> <a href="./search.php?author_id=35723&amp;sr=posts">407</a></dd>		<dd class="profile-joined"><strong>Joined:</strong> January 21st, 2018, 4:41 pm</dd>		
+		
+											<dd class="profile-custom-field profile-division"><strong>Division:</strong> C</dd>
+												<dd class="profile-custom-field profile-state"><strong>State:</strong> NY</dd>
+												<dd class="profile-custom-field profile-pronouns"><strong>Pronouns:</strong> He/Him/His</dd>
+												<dd class="profile-custom-field profile-phpbb_location"><strong>Location:</strong> Syosset</dd>
+							<dd class="profile-posts" data-user-give-id="35723">
+    <strong>Has thanked:</strong>
+    <a href="/forums/app.php/thankslist/givens/35723/true">15 times</a>
+</dd>
+<dd class="profile-posts" data-user-receive-id="35723">
+    <strong>Been&nbsp;thanked:</strong>
+    <a href="/forums/app.php/thankslist/givens/35723/false">10 times</a>
+</dd>
+
+						
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content397754">
+
+						<h3 ><a href="#p397754">Re: Codebusters C</a></h3>
+
+													<ul class="post-buttons">
+																																									<li>
+							<a href="./posting.php?mode=quote&amp;f=297&amp;p=397754" title="Reply with quote" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Quote</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="./viewtopic.php?p=397754#p397754" title="Post">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Post</span>
+					</a>
+								<span class="responsive-hide">by <strong><a href="./memberlist.php?mode=viewprofile&amp;u=35723" class="username">Name</a></strong> &raquo; </span>September 7th, 2019, 4:06 pm
+			</p>
+			
+			
+			
+			<div class="content"><blockquote><div><cite><a href="./memberlist.php?mode=viewprofile&amp;u=45683">will0416</a> wrote: <a href="./viewtopic.php?p=397715#p397715" data-post-id="397715" onclick="if(document.getElementById(hash.substr(1)))href=hash">↑</a><div class="responsive-hide">September 7th, 2019, 5:35 am</div></cite>
+<blockquote><div><cite><a href="./memberlist.php?mode=viewprofile&amp;u=44614">pepperonipi</a> wrote: <a href="./viewtopic.php?p=397712#p397712" data-post-id="397712" onclick="if(document.getElementById(hash.substr(1)))href=hash">↑</a><div class="responsive-hide">September 6th, 2019, 10:29 pm</div></cite>
+Welcome back to the 2020 season!<br>
+<br>
+Let's start off with an easy question.
+</div></blockquote>
+
+Decode "Kyr'p ptky e zhuppw ueyw qguypkir?" using the Affine cipher with keys a = 17, b = 4.
+<div class="bbcode-hide codebox"><label><span style="font-weight:bold"> Answer </span> <span style="color:#555">(Click to Show Hidden Text)</span></label><pre> Isn't this a pretty easy question? lol yep i just solved it as an aristocrat</pre></div><style type="text/css">
+div.bbcode-hide {
+	padding: 3px;
+}
+.bbcode-hide label {
+	display: block;
+	font-size: 0.8em !important;
+	text-transform: uppercase;
+	width: 100%;
+}
+.bbcode-hide pre {
+	display: none;
+	font-family: 'Avenir', Arial, sans-serif;
+	white-space: pre-wrap;
+}
+@media print {
+	.bbcode-hide pre {
+		display: block !important;
+	}
+}
+</style><script type="text/javascript">
+$(document).ready(()=>{
+	$(".bbcode-hide").each((_, tag) => {
+		tag = $(tag);
+		tag.find("label").off("click").on("click", ()=>{
+			tag.find("pre").toggle();
+		})
+	})
+})
+</script>
+Hopefully that hide function worked.<br>
+<br>
+<br>
+Decrypt WFLLJ, VDWVTQX QD RRZVR ER JIGP OZDPD with key DRILL
+</div></blockquote>
+<span class="bbcode-spoiler">today, smoking is going to save lives</span><style type="text/css">
+span.bbcode-spoiler {
+	color: #000000;
+	background: #000000;
+	border-radius: 3px;
+	padding: 0 3px;
+	transition: 0.3s;
+}
+span.bbcode-spoiler a {
+	border-bottom: none !important;
+	color: #000000 !important;
+}
+span.bbcode-spoiler a:hover {
+	background-color: transparent !important;
+}
+span.bbcode-spoiler:hover {
+	color: #ffffff;
+}
+span.bbcode-spoiler:hover a {
+	border-bottom: #2e66b6 !important;
+	color: #2e66b6 !important;
+}
+@media print {
+	span.bbcode-spoiler {
+		background-color: #cccccc !important;
+		color: #000000 !important;
+	}
+}
+</style>
+
+Encode CODEBUSTER with <br>
+|2   1|<br>
+|5 16|</div>
+
+			
+			
+									
+						<div id='list_thanks397754'>
+	</div>
+<div id='div_post_reput397754'>
+	</div>
+			<div id="sig397754" class="signature"><span style="text-decoration:underline"><strong class="text-strong">South Woods MS, Syosset HS '21<br>
+</strong></span>Favorite Past Events: Microbe, Invasive, Matsci, Fermi  <img class="smilies" src="./images/smilies/icon_heart.gif" width="17" height="17" alt="&lt;3" title="Heart"> <br>
+Events!: Astro  <img class="smilies" src="./images/smilies/icon_question.gif" width="17" height="17" alt=":?:" title="Question"> , Code  <img class="smilies" src="./images/smilies/icon_heart.gif" width="17" height="17" alt="&lt;3" title="Heart"> , Fossils  <img class="smilies" src="./images/smilies/icon_cry.gif" width="17" height="17" alt=":cry:" title="Crying or Very Sad"> <br>
+<br>
+2019-2020 Season<br>
+Cornell/LISO/Duke/MIT/Regionals/Brown/SOUP<br>
+Astro: <span style="color:#FF0000">2</span>/<span style="color:#FFBF00">4</span>/<span style="color:#FF0000">2</span>/10/<span style="color:#FF0000">2</span>/<span style="color:#FF0000">2</span>/<span style="color:#FFBF00">3</span><br>
+Code: 9/<span style="color:#0000FF">1</span>/<span style="color:#FF0000">2</span>/<span style="color:#0000FF">1</span>/<span style="color:#0000FF">1</span>/<span style="color:#0000FF">1</span>/<span style="color:#0000FF">1</span><br>
+Fossils: 16/13/6/9/<span style="color:#FF0000">2</span>/<span style="color:#FFBF40">3</span>/8<br>
+<br>
+Success is not an option, it is an obligation.</div>
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Top">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Top</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+	<hr class="divider" />
+				<div id="p398395" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile398395">
+			<dt class="has-profile-rank no-avatar">
+				<div class="avatar-container">
+																			</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=37053" class="username">linzhiyan</a>							</dt>
+
+						<dd class="profile-rank">Member<br /><img src="./images/ranks/stars3.gif" alt="Member" title="Member" /></dd>			
+		<dd class="profile-posts"><strong>Posts:</strong> <a href="./search.php?author_id=37053&amp;sr=posts">66</a></dd>		<dd class="profile-joined"><strong>Joined:</strong> April 26th, 2018, 6:56 pm</dd>		
+		
+											<dd class="profile-custom-field profile-division"><strong>Division:</strong> C</dd>
+												<dd class="profile-custom-field profile-state"><strong>State:</strong> MO</dd>
+							<dd class="profile-posts" data-user-give-id="37053">
+    <strong>Has thanked:</strong>
+    <a href="/forums/app.php/thankslist/givens/37053/true">0</a>
+</dd>
+<dd class="profile-posts" data-user-receive-id="37053">
+    <strong>Been&nbsp;thanked:</strong>
+    <a href="/forums/app.php/thankslist/givens/37053/false">0</a>
+</dd>
+
+						
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content398395">
+
+						<h3 ><a href="#p398395">Re: Codebusters C</a></h3>
+
+													<ul class="post-buttons">
+																																									<li>
+							<a href="./posting.php?mode=quote&amp;f=297&amp;p=398395" title="Reply with quote" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Quote</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="./viewtopic.php?p=398395#p398395" title="Post">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Post</span>
+					</a>
+								<span class="responsive-hide">by <strong><a href="./memberlist.php?mode=viewprofile&amp;u=37053" class="username">linzhiyan</a></strong> &raquo; </span>September 17th, 2019, 8:01 pm
+			</p>
+			
+			
+			
+			<div class="content">I haven't done this in a while so it may be wrong, but:
+<span class="bbcode-spoiler">SQKBWNDEZM</span><style type="text/css">
+span.bbcode-spoiler {
+	color: #000000;
+	background: #000000;
+	border-radius: 3px;
+	padding: 0 3px;
+	transition: 0.3s;
+}
+span.bbcode-spoiler a {
+	border-bottom: none !important;
+	color: #000000 !important;
+}
+span.bbcode-spoiler a:hover {
+	background-color: transparent !important;
+}
+span.bbcode-spoiler:hover {
+	color: #ffffff;
+}
+span.bbcode-spoiler:hover a {
+	border-bottom: #2e66b6 !important;
+	color: #2e66b6 !important;
+}
+@media print {
+	span.bbcode-spoiler {
+		background-color: #cccccc !important;
+		color: #000000 !important;
+	}
+}
+</style>
+
+Decode this baconian cipher:<br>
+EHEGP PHIEI GUIRO RIGHJ OHJRO UJHRG RHAJG JRRHG HHGAA OPOAR PHONE GEORA UGRHO HGRAG HUJFH HEOHE BEGIF AHIEG?</div>
+
+			
+			
+									
+						<div id='list_thanks398395'>
+	</div>
+<div id='div_post_reput398395'>
+	</div>
+			<div id="sig398395" class="signature">Unpunctual (and failed) Sassy of game #130...<br>
+<span style="text-decoration:line-through">Clayton High School</span> Dank Memes Area Homeschool</div>
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Top">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Top</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+	<hr class="divider" />
+				<div id="p398414" class="post has-profile bg1">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile398414">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=47584" class="avatar"><img class="avatar" src="./download/file.php?avatar=47584_1569591166.png" width="75" height="75" alt="User avatar" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=47584" style="color: #00AA00;" class="username-coloured">gz839918</a>							</dt>
+
+						<dd class="profile-rank">Moderator<br /><img src="./images/ranks/stars5.gif" alt="Moderator" title="Moderator" /></dd>			
+		<dd class="profile-posts"><strong>Posts:</strong> <a href="./search.php?author_id=47584&amp;sr=posts">110</a></dd>		<dd class="profile-joined"><strong>Joined:</strong> April 27th, 2019, 6:40 pm</dd>		
+		
+											<dd class="profile-custom-field profile-division"><strong>Division:</strong> Grad</dd>
+												<dd class="profile-custom-field profile-state"><strong>State:</strong> NC</dd>
+												<dd class="profile-custom-field profile-pronouns"><strong>Pronouns:</strong> He/Him/His</dd>
+																	<dd class="profile-custom-field profile-phpbb_location"><strong>Location:</strong> in the 317 or the 919 :)</dd>
+												<dd class="profile-posts" data-user-give-id="47584">
+    <strong>Has thanked:</strong>
+    <a href="/forums/app.php/thankslist/givens/47584/true">178 times</a>
+</dd>
+<dd class="profile-posts" data-user-receive-id="47584">
+    <strong>Been&nbsp;thanked:</strong>
+    <a href="/forums/app.php/thankslist/givens/47584/false">128 times</a>
+</dd>
+
+							<dd class="profile-contact">
+				<strong>Contact:</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contact gz839918">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contact gz839918</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="https://scioly.web.unc.edu" title="Website">
+										<span class="contact-icon phpbb_website-icon">Website</span>
+									</a>
+																																																<a href="http://facebook.com/sciolyUNC/" title="Facebook" class="last-cell">
+										<span class="contact-icon phpbb_facebook-icon">Facebook</span>
+									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content398414">
+
+						<h3 ><a href="#p398414">Re: Codebusters C</a></h3>
+
+													<ul class="post-buttons">
+																																									<li>
+							<a href="./posting.php?mode=quote&amp;f=297&amp;p=398414" title="Reply with quote" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Quote</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="./viewtopic.php?p=398414#p398414" title="Post">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Post</span>
+					</a>
+								<span class="responsive-hide">by <strong><a href="./memberlist.php?mode=viewprofile&amp;u=47584" style="color: #00AA00;" class="username-coloured">gz839918</a></strong> &raquo; </span>September 18th, 2019, 7:18 am
+			</p>
+			
+			
+			
+			<div class="content"><blockquote><div><cite><a href="./memberlist.php?mode=viewprofile&amp;u=35723">Name</a> wrote: <a href="./viewtopic.php?p=397754#p397754" data-post-id="397754" onclick="if(document.getElementById(hash.substr(1)))href=hash">↑</a><div class="responsive-hide">September 7th, 2019, 4:06 pm</div></cite>
+<blockquote><div><cite><a href="./memberlist.php?mode=viewprofile&amp;u=45683">will0416</a> wrote: <a href="./viewtopic.php?p=397715#p397715" data-post-id="397715" onclick="if(document.getElementById(hash.substr(1)))href=hash">↑</a><div class="responsive-hide">September 7th, 2019, 5:35 am</div></cite>
+<blockquote><div><cite><a href="./memberlist.php?mode=viewprofile&amp;u=44614">pepperonipi</a> wrote: <a href="./viewtopic.php?p=397712#p397712" data-post-id="397712" onclick="if(document.getElementById(hash.substr(1)))href=hash">↑</a><div class="responsive-hide">September 6th, 2019, 10:29 pm</div></cite>
+Welcome back to the 2020 season!<br>
+<br>
+Let's start off with an easy question.
+</div></blockquote>
+
+Decode "Kyr'p ptky e zhuppw ueyw qguypkir?" using the Affine cipher with keys a = 17, b = 4.
+<div class="bbcode-hide codebox"><label><span style="font-weight:bold"> Answer </span> <span style="color:#555">(Click to Show Hidden Text)</span></label><pre> Isn't this a pretty easy question? lol yep i just solved it as an aristocrat</pre></div><style type="text/css">
+div.bbcode-hide {
+	padding: 3px;
+}
+.bbcode-hide label {
+	display: block;
+	font-size: 0.8em !important;
+	text-transform: uppercase;
+	width: 100%;
+}
+.bbcode-hide pre {
+	display: none;
+	font-family: 'Avenir', Arial, sans-serif;
+	white-space: pre-wrap;
+}
+@media print {
+	.bbcode-hide pre {
+		display: block !important;
+	}
+}
+</style><script type="text/javascript">
+$(document).ready(()=>{
+	$(".bbcode-hide").each((_, tag) => {
+		tag = $(tag);
+		tag.find("label").off("click").on("click", ()=>{
+			tag.find("pre").toggle();
+		})
+	})
+})
+</script>
+Hopefully that hide function worked.<br>
+<br>
+<br>
+Decrypt WFLLJ, VDWVTQX QD RRZVR ER JIGP OZDPD with key DRILL
+</div></blockquote>
+<span class="bbcode-spoiler">today, smoking is going to save lives</span><style type="text/css">
+span.bbcode-spoiler {
+	color: #000000;
+	background: #000000;
+	border-radius: 3px;
+	padding: 0 3px;
+	transition: 0.3s;
+}
+span.bbcode-spoiler a {
+	border-bottom: none !important;
+	color: #000000 !important;
+}
+span.bbcode-spoiler a:hover {
+	background-color: transparent !important;
+}
+span.bbcode-spoiler:hover {
+	color: #ffffff;
+}
+span.bbcode-spoiler:hover a {
+	border-bottom: #2e66b6 !important;
+	color: #2e66b6 !important;
+}
+@media print {
+	span.bbcode-spoiler {
+		background-color: #cccccc !important;
+		color: #000000 !important;
+	}
+}
+</style>
+
+Encode CODEBUSTER with <br>
+|2   1|<br>
+|5 16|
+</div></blockquote>
+
+For reference, you can create matrices on forums posts as <img style="vertical-align:middle" src="http://latex.codecogs.com/png.latex?
+\begin{bmatrix}
+2 &amp; 1 \\
+5 &amp; 16
+\end{bmatrix}
+"><!--&lt;img src="http://www.forkosh.com/mathtex.cgi?{TEXT}" alt="{TEXT}" border=0 align="middle"&gt;--> by using the tags [<span style="font-size:1%;line-height:116%"> </span>math] and [<span style="font-size:1%;line-height:116%"> </span>/math].<br>
+
+<div class="codebox"><p>Code: <a href="#" onclick="selectCode(this); return false;">Select all</a></p><pre><code>[math]
+\begin{bmatrix}
+2 &amp; 1 \\
+5 &amp; 16
+\end{bmatrix}
+[/math]</code></pre></div></div>
+
+			
+			
+									
+						<div id='list_thanks398414'>
+	</div>
+<div id='div_post_reput398414'>
+	</div>
+			<div id="sig398414" class="signature"><strong class="text-strong">I ❤ sounds of music!</strong> <a href="https://scioly.org/wiki/index.php/User:Gz839918" class="postlink">About me</a> • <a href="https://scioly.web.unc.edu/rate-my-tests-gz839918" class="postlink">Rate my tests</a><br>
+<br>
+Carmel High School ’19<br>
+The University of North Carolina at Chapel Hill ’23</div>
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Top">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Top</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+	<hr class="divider" />
+				<div id="p399965" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile399965">
+			<dt class="has-profile-rank no-avatar">
+				<div class="avatar-container">
+																			</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=34717" class="username">smayya337</a>							</dt>
+
+						<dd class="profile-rank">Member<br /><img src="./images/ranks/stars3.gif" alt="Member" title="Member" /></dd>			
+		<dd class="profile-posts"><strong>Posts:</strong> <a href="./search.php?author_id=34717&amp;sr=posts">86</a></dd>		<dd class="profile-joined"><strong>Joined:</strong> November 2nd, 2017, 5:15 pm</dd>		
+		
+											<dd class="profile-custom-field profile-division"><strong>Division:</strong> C</dd>
+												<dd class="profile-custom-field profile-state"><strong>State:</strong> VA</dd>
+												<dd class="profile-custom-field profile-pronouns"><strong>Pronouns:</strong> He/Him/His</dd>
+												<dd class="profile-custom-field profile-phpbb_location"><strong>Location:</strong> in my room because I never leave it</dd>
+							<dd class="profile-posts" data-user-give-id="34717">
+    <strong>Has thanked:</strong>
+    <a href="/forums/app.php/thankslist/givens/34717/true">7 times</a>
+</dd>
+<dd class="profile-posts" data-user-receive-id="34717">
+    <strong>Been&nbsp;thanked:</strong>
+    <a href="/forums/app.php/thankslist/givens/34717/false">1 time</a>
+</dd>
+
+						
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content399965">
+
+						<h3 ><a href="#p399965">Re: Codebusters C</a></h3>
+
+													<ul class="post-buttons">
+																																									<li>
+							<a href="./posting.php?mode=quote&amp;f=297&amp;p=399965" title="Reply with quote" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Quote</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="./viewtopic.php?p=399965#p399965" title="Post">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Post</span>
+					</a>
+								<span class="responsive-hide">by <strong><a href="./memberlist.php?mode=viewprofile&amp;u=34717" class="username">smayya337</a></strong> &raquo; </span>October 12th, 2019, 4:40 pm
+			</p>
+			
+			
+			
+			<div class="content"><blockquote><div><cite><a href="./memberlist.php?mode=viewprofile&amp;u=37053">linzhiyan</a> wrote: <a href="./viewtopic.php?p=398395#p398395" data-post-id="398395" onclick="if(document.getElementById(hash.substr(1)))href=hash">↑</a><div class="responsive-hide">September 17th, 2019, 8:01 pm</div></cite>
+I haven't done this in a while so it may be wrong, but:
+<span class="bbcode-spoiler">SQKBWNDEZM</span><style type="text/css">
+span.bbcode-spoiler {
+	color: #000000;
+	background: #000000;
+	border-radius: 3px;
+	padding: 0 3px;
+	transition: 0.3s;
+}
+span.bbcode-spoiler a {
+	border-bottom: none !important;
+	color: #000000 !important;
+}
+span.bbcode-spoiler a:hover {
+	background-color: transparent !important;
+}
+span.bbcode-spoiler:hover {
+	color: #ffffff;
+}
+span.bbcode-spoiler:hover a {
+	border-bottom: #2e66b6 !important;
+	color: #2e66b6 !important;
+}
+@media print {
+	span.bbcode-spoiler {
+		background-color: #cccccc !important;
+		color: #000000 !important;
+	}
+}
+</style>
+
+Decode this baconian cipher:<br>
+EHEGP PHIEI GUIRO RIGHJ OHJRO UJHRG RHAJG JRRHG HHGAA OPOAR PHONE GEORA UGRHO HGRAG HUJFH HEOHE BEGIF AHIEG?
+</div></blockquote>
+
+<span class="bbcode-spoiler">WHO IS READY FO[R] SCIOLY?</span><style type="text/css">
+span.bbcode-spoiler {
+	color: #000000;
+	background: #000000;
+	border-radius: 3px;
+	padding: 0 3px;
+	transition: 0.3s;
+}
+span.bbcode-spoiler a {
+	border-bottom: none !important;
+	color: #000000 !important;
+}
+span.bbcode-spoiler a:hover {
+	background-color: transparent !important;
+}
+span.bbcode-spoiler:hover {
+	color: #ffffff;
+}
+span.bbcode-spoiler:hover a {
+	border-bottom: #2e66b6 !important;
+	color: #2e66b6 !important;
+}
+@media print {
+	span.bbcode-spoiler {
+		background-color: #cccccc !important;
+		color: #000000 !important;
+	}
+}
+</style></div>
+
+			
+			
+									
+						<div id='list_thanks399965'>
+	</div>
+<div id='div_post_reput399965'>
+	</div>
+			<div id="sig399965" class="signature">TJHSST '22<br>
+2020 Events: Code, Machines, Sounds</div>
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Top">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Top</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+	<hr class="divider" />
+				<div id="p399985" class="post has-profile bg1">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile399985">
+			<dt class="has-profile-rank no-avatar">
+				<div class="avatar-container">
+																			</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=37053" class="username">linzhiyan</a>							</dt>
+
+						<dd class="profile-rank">Member<br /><img src="./images/ranks/stars3.gif" alt="Member" title="Member" /></dd>			
+		<dd class="profile-posts"><strong>Posts:</strong> <a href="./search.php?author_id=37053&amp;sr=posts">66</a></dd>		<dd class="profile-joined"><strong>Joined:</strong> April 26th, 2018, 6:56 pm</dd>		
+		
+											<dd class="profile-custom-field profile-division"><strong>Division:</strong> C</dd>
+												<dd class="profile-custom-field profile-state"><strong>State:</strong> MO</dd>
+							<dd class="profile-posts" data-user-give-id="37053">
+    <strong>Has thanked:</strong>
+    <a href="/forums/app.php/thankslist/givens/37053/true">0</a>
+</dd>
+<dd class="profile-posts" data-user-receive-id="37053">
+    <strong>Been&nbsp;thanked:</strong>
+    <a href="/forums/app.php/thankslist/givens/37053/false">0</a>
+</dd>
+
+						
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content399985">
+
+						<h3 ><a href="#p399985">Re: Codebusters C</a></h3>
+
+													<ul class="post-buttons">
+																																									<li>
+							<a href="./posting.php?mode=quote&amp;f=297&amp;p=399985" title="Reply with quote" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Quote</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="./viewtopic.php?p=399985#p399985" title="Post">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Post</span>
+					</a>
+								<span class="responsive-hide">by <strong><a href="./memberlist.php?mode=viewprofile&amp;u=37053" class="username">linzhiyan</a></strong> &raquo; </span>October 12th, 2019, 11:33 pm
+			</p>
+			
+			
+			
+			<div class="content"><blockquote><div><cite><a href="./memberlist.php?mode=viewprofile&amp;u=34717">smayya337</a> wrote: <a href="./viewtopic.php?p=399965#p399965" data-post-id="399965" onclick="if(document.getElementById(hash.substr(1)))href=hash">↑</a><div class="responsive-hide">October 12th, 2019, 4:40 pm</div></cite>
+<blockquote><div><cite><a href="./memberlist.php?mode=viewprofile&amp;u=37053">linzhiyan</a> wrote: <a href="./viewtopic.php?p=398395#p398395" data-post-id="398395" onclick="if(document.getElementById(hash.substr(1)))href=hash">↑</a><div class="responsive-hide">September 17th, 2019, 8:01 pm</div></cite>
+I haven't done this in a while so it may be wrong, but:
+<span class="bbcode-spoiler">SQKBWNDEZM</span><style type="text/css">
+span.bbcode-spoiler {
+	color: #000000;
+	background: #000000;
+	border-radius: 3px;
+	padding: 0 3px;
+	transition: 0.3s;
+}
+span.bbcode-spoiler a {
+	border-bottom: none !important;
+	color: #000000 !important;
+}
+span.bbcode-spoiler a:hover {
+	background-color: transparent !important;
+}
+span.bbcode-spoiler:hover {
+	color: #ffffff;
+}
+span.bbcode-spoiler:hover a {
+	border-bottom: #2e66b6 !important;
+	color: #2e66b6 !important;
+}
+@media print {
+	span.bbcode-spoiler {
+		background-color: #cccccc !important;
+		color: #000000 !important;
+	}
+}
+</style>
+
+Decode this baconian cipher:<br>
+EHEGP PHIEI GUIRO RIGHJ OHJRO UJHRG RHAJG JRRHG HHGAA OPOAR PHONE GEORA UGRHO HGRAG HUJFH HEOHE BEGIF AHIEG?
+</div></blockquote>
+
+<span class="bbcode-spoiler">WHO IS READY FO[R] SCIOLY?</span><style type="text/css">
+span.bbcode-spoiler {
+	color: #000000;
+	background: #000000;
+	border-radius: 3px;
+	padding: 0 3px;
+	transition: 0.3s;
+}
+span.bbcode-spoiler a {
+	border-bottom: none !important;
+	color: #000000 !important;
+}
+span.bbcode-spoiler a:hover {
+	background-color: transparent !important;
+}
+span.bbcode-spoiler:hover {
+	color: #ffffff;
+}
+span.bbcode-spoiler:hover a {
+	border-bottom: #2e66b6 !important;
+	color: #2e66b6 !important;
+}
+@media print {
+	span.bbcode-spoiler {
+		background-color: #cccccc !important;
+		color: #000000 !important;
+	}
+}
+</style>
+</div></blockquote>
+
+Yep! Your turn! (And yikes, sorry I REALLY messed up the "r" LOL)</div>
+
+			
+			
+									
+						<div id='list_thanks399985'>
+	</div>
+<div id='div_post_reput399985'>
+	</div>
+			<div id="sig399985" class="signature">Unpunctual (and failed) Sassy of game #130...<br>
+<span style="text-decoration:line-through">Clayton High School</span> Dank Memes Area Homeschool</div>
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Top">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Top</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+	<hr class="divider" />
+				<div id="p400369" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile400369">
+			<dt class="has-profile-rank no-avatar">
+				<div class="avatar-container">
+																			</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=34717" class="username">smayya337</a>							</dt>
+
+						<dd class="profile-rank">Member<br /><img src="./images/ranks/stars3.gif" alt="Member" title="Member" /></dd>			
+		<dd class="profile-posts"><strong>Posts:</strong> <a href="./search.php?author_id=34717&amp;sr=posts">86</a></dd>		<dd class="profile-joined"><strong>Joined:</strong> November 2nd, 2017, 5:15 pm</dd>		
+		
+											<dd class="profile-custom-field profile-division"><strong>Division:</strong> C</dd>
+												<dd class="profile-custom-field profile-state"><strong>State:</strong> VA</dd>
+												<dd class="profile-custom-field profile-pronouns"><strong>Pronouns:</strong> He/Him/His</dd>
+												<dd class="profile-custom-field profile-phpbb_location"><strong>Location:</strong> in my room because I never leave it</dd>
+							<dd class="profile-posts" data-user-give-id="34717">
+    <strong>Has thanked:</strong>
+    <a href="/forums/app.php/thankslist/givens/34717/true">7 times</a>
+</dd>
+<dd class="profile-posts" data-user-receive-id="34717">
+    <strong>Been&nbsp;thanked:</strong>
+    <a href="/forums/app.php/thankslist/givens/34717/false">1 time</a>
+</dd>
+
+						
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content400369">
+
+						<h3 ><a href="#p400369">Re: Codebusters C</a></h3>
+
+													<ul class="post-buttons">
+																																									<li>
+							<a href="./posting.php?mode=quote&amp;f=297&amp;p=400369" title="Reply with quote" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Quote</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="./viewtopic.php?p=400369#p400369" title="Post">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Post</span>
+					</a>
+								<span class="responsive-hide">by <strong><a href="./memberlist.php?mode=viewprofile&amp;u=34717" class="username">smayya337</a></strong> &raquo; </span>October 16th, 2019, 4:39 pm
+			</p>
+			
+			
+			
+			<div class="content">Decipher this Aristocrat encoded with a K1 alphabet.<br>
+JXL OYDW PREHQ BEIU JXUD LEH SEHBT OYDW PREHQ REBB JUUFYBO?<br>
+(This is my first time making an Aristocrat, so if something seems wrong, let me know!)</div>
+
+			
+			
+									
+						<div id='list_thanks400369'>
+	</div>
+<div id='div_post_reput400369'>
+	</div>
+			<div id="sig400369" class="signature">TJHSST '22<br>
+2020 Events: Code, Machines, Sounds</div>
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Top">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Top</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+	<hr class="divider" />
+				<div id="p400538" class="post has-profile bg1">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile400538">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=35723" class="avatar"><img class="avatar" src="./download/file.php?avatar=35723_1550028022.jpg" width="50" height="50" alt="User avatar" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=35723" class="username">Name</a>							</dt>
+
+						<dd class="profile-rank">Member<br /><img src="./images/ranks/stars4.gif" alt="Member" title="Member" /></dd>			
+		<dd class="profile-posts"><strong>Posts:</strong> <a href="./search.php?author_id=35723&amp;sr=posts">407</a></dd>		<dd class="profile-joined"><strong>Joined:</strong> January 21st, 2018, 4:41 pm</dd>		
+		
+											<dd class="profile-custom-field profile-division"><strong>Division:</strong> C</dd>
+												<dd class="profile-custom-field profile-state"><strong>State:</strong> NY</dd>
+												<dd class="profile-custom-field profile-pronouns"><strong>Pronouns:</strong> He/Him/His</dd>
+												<dd class="profile-custom-field profile-phpbb_location"><strong>Location:</strong> Syosset</dd>
+							<dd class="profile-posts" data-user-give-id="35723">
+    <strong>Has thanked:</strong>
+    <a href="/forums/app.php/thankslist/givens/35723/true">15 times</a>
+</dd>
+<dd class="profile-posts" data-user-receive-id="35723">
+    <strong>Been&nbsp;thanked:</strong>
+    <a href="/forums/app.php/thankslist/givens/35723/false">10 times</a>
+</dd>
+
+						
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content400538">
+
+						<h3 ><a href="#p400538">Re: Codebusters C</a></h3>
+
+													<ul class="post-buttons">
+																																									<li>
+							<a href="./posting.php?mode=quote&amp;f=297&amp;p=400538" title="Reply with quote" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Quote</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="./viewtopic.php?p=400538#p400538" title="Post">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Post</span>
+					</a>
+								<span class="responsive-hide">by <strong><a href="./memberlist.php?mode=viewprofile&amp;u=35723" class="username">Name</a></strong> &raquo; </span>October 19th, 2019, 7:40 pm
+			</p>
+			
+			
+			
+			<div class="content"><blockquote><div><cite><a href="./memberlist.php?mode=viewprofile&amp;u=34717">smayya337</a> wrote: <a href="./viewtopic.php?p=400369#p400369" data-post-id="400369" onclick="if(document.getElementById(hash.substr(1)))href=hash">↑</a><div class="responsive-hide">October 16th, 2019, 4:39 pm</div></cite>
+Decipher this Aristocrat encoded with a K1 alphabet.<br>
+JXL OYDW PREHQ BEIU JXUD LEH SEHBT OYDW PREHQ REBB JUUFYBO?<br>
+(This is my first time making an Aristocrat, so if something seems wrong, let me know!)
+</div></blockquote>
+
+<span class="bbcode-spoiler">why sing about love when you could sing about bull weevils?
+</span><style type="text/css">
+span.bbcode-spoiler {
+	color: #000000;
+	background: #000000;
+	border-radius: 3px;
+	padding: 0 3px;
+	transition: 0.3s;
+}
+span.bbcode-spoiler a {
+	border-bottom: none !important;
+	color: #000000 !important;
+}
+span.bbcode-spoiler a:hover {
+	background-color: transparent !important;
+}
+span.bbcode-spoiler:hover {
+	color: #ffffff;
+}
+span.bbcode-spoiler:hover a {
+	border-bottom: #2e66b6 !important;
+	color: #2e66b6 !important;
+}
+@media print {
+	span.bbcode-spoiler {
+		background-color: #cccccc !important;
+		color: #000000 !important;
+	}
+}
+</style>
+ngl that was pretty hard<br>
+<br>
+Here's a slightly easier one<br>
+MRKO LDX GJK IDDB GU PDVKURCOI LDX MCFF UKFF KZKJLDOK, MRKO LDX GJK IJKGU KZKJLDOK MCFF UKFF LDX</div>
+
+			
+			
+									
+						<div id='list_thanks400538'>
+	</div>
+<div id='div_post_reput400538'>
+	</div>
+			<div id="sig400538" class="signature"><span style="text-decoration:underline"><strong class="text-strong">South Woods MS, Syosset HS '21<br>
+</strong></span>Favorite Past Events: Microbe, Invasive, Matsci, Fermi  <img class="smilies" src="./images/smilies/icon_heart.gif" width="17" height="17" alt="&lt;3" title="Heart"> <br>
+Events!: Astro  <img class="smilies" src="./images/smilies/icon_question.gif" width="17" height="17" alt=":?:" title="Question"> , Code  <img class="smilies" src="./images/smilies/icon_heart.gif" width="17" height="17" alt="&lt;3" title="Heart"> , Fossils  <img class="smilies" src="./images/smilies/icon_cry.gif" width="17" height="17" alt=":cry:" title="Crying or Very Sad"> <br>
+<br>
+2019-2020 Season<br>
+Cornell/LISO/Duke/MIT/Regionals/Brown/SOUP<br>
+Astro: <span style="color:#FF0000">2</span>/<span style="color:#FFBF00">4</span>/<span style="color:#FF0000">2</span>/10/<span style="color:#FF0000">2</span>/<span style="color:#FF0000">2</span>/<span style="color:#FFBF00">3</span><br>
+Code: 9/<span style="color:#0000FF">1</span>/<span style="color:#FF0000">2</span>/<span style="color:#0000FF">1</span>/<span style="color:#0000FF">1</span>/<span style="color:#0000FF">1</span>/<span style="color:#0000FF">1</span><br>
+Fossils: 16/13/6/9/<span style="color:#FF0000">2</span>/<span style="color:#FFBF40">3</span>/8<br>
+<br>
+Success is not an option, it is an obligation.</div>
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Top">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Top</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+	<hr class="divider" />
+	
+
+	<div class="action-bar bar-bottom">
+	
+			<a href="./posting.php?mode=reply&amp;f=297&amp;t=15736" class="button" title="Post a reply">
+							<span>Post Reply</span> <i class="icon fa-reply fa-fw" aria-hidden="true"></i>
+					</a>
+		
+		<div class="dropdown-container dropdown-button-control topic-tools">
+		<span title="Topic tools" class="button button-secondary dropdown-trigger dropdown-select">
+			<i class="icon fa-wrench fa-fw" aria-hidden="true"></i>
+			<span class="caret"><i class="icon fa-sort-down fa-fw" aria-hidden="true"></i></span>
+		</span>
+		<div class="dropdown">
+			<div class="pointer"><div class="pointer-inner"></div></div>
+			<ul class="dropdown-contents">
+																												<li>
+					<a href="./viewtopic.php?f=297&amp;t=15736&amp;view=print" title="Print view" accesskey="p">
+						<i class="icon fa-print fa-fw" aria-hidden="true"></i><span>Print view</span>
+					</a>
+				</li>
+											</ul>
+		</div>
+	</div>
+
+			<form method="post" action="./viewtopic.php?f=297&amp;t=15736">
+		<div class="dropdown-container dropdown-container-left dropdown-button-control sort-tools">
+	<span title="Display and sorting options" class="button button-secondary dropdown-trigger dropdown-select">
+		<i class="icon fa-sort-amount-asc fa-fw" aria-hidden="true"></i>
+		<span class="caret"><i class="icon fa-sort-down fa-fw" aria-hidden="true"></i></span>
+	</span>
+	<div class="dropdown hidden">
+		<div class="pointer"><div class="pointer-inner"></div></div>
+		<div class="dropdown-contents">
+			<fieldset class="display-options">
+							<label>Display: <select name="st" id="st"><option value="0" selected="selected">All posts</option><option value="1">1 day</option><option value="7">7 days</option><option value="14">2 weeks</option><option value="30">1 month</option><option value="90">3 months</option><option value="180">6 months</option><option value="365">1 year</option></select></label>
+								<label>Sort by: <select name="sk" id="sk"><option value="a">Author</option><option value="t" selected="selected">Post time</option><option value="s">Subject</option></select></label>
+				<label>Direction: <select name="sd" id="sd"><option value="a" selected="selected">Ascending</option><option value="d">Descending</option></select></label>
+								<hr class="dashed" />
+				<input type="submit" class="button2" name="sort" value="Go" />
+						</fieldset>
+		</div>
+	</div>
+</div>
+		</form>
+	
+	
+	
+			<div class="pagination">
+			51 posts
+							<ul>
+		<li class="active"><span>1</span></li>
+				<li><a class="button" href="./viewtopic.php?f=297&amp;t=15736&amp;start=10" role="button">2</a></li>
+				<li><a class="button" href="./viewtopic.php?f=297&amp;t=15736&amp;start=20" role="button">3</a></li>
+				<li><a class="button" href="./viewtopic.php?f=297&amp;t=15736&amp;start=30" role="button">4</a></li>
+				<li><a class="button" href="./viewtopic.php?f=297&amp;t=15736&amp;start=40" role="button">5</a></li>
+				<li><a class="button" href="./viewtopic.php?f=297&amp;t=15736&amp;start=50" role="button">6</a></li>
+				<li class="arrow next"><a class="button button-icon-only" href="./viewtopic.php?f=297&amp;t=15736&amp;start=10" rel="next" role="button"><i class="icon fa-chevron-right fa-fw" aria-hidden="true"></i><span class="sr-only">Next</span></a></li>
+	</ul>
+					</div>
+	</div>
+
+
+<div class="action-bar actions-jump">
+		<p class="jumpbox-return">
+		<a href="./viewforum.php?f=297" class="left-box arrow-left" accesskey="r">
+			<i class="icon fa-angle-left fa-fw icon-black" aria-hidden="true"></i><span>Return to “Question Marathons”</span>
+		</a>
+	</p>
+	
+		<div class="jumpbox dropdown-container dropdown-container-right dropdown-up dropdown-left dropdown-button-control" id="jumpbox">
+			<span title="Jump to" class="button button-secondary dropdown-trigger dropdown-select">
+				<span>Jump to</span>
+				<span class="caret"><i class="icon fa-sort-down fa-fw" aria-hidden="true"></i></span>
+			</span>
+		<div class="dropdown">
+			<div class="pointer"><div class="pointer-inner"></div></div>
+			<ul class="dropdown-contents">
+																				<li><a href="./viewforum.php?f=278" class="jumpbox-forum-link"> <span> We Stand With The Black Community</span></a></li>
+																<li><a href="./viewforum.php?f=1" class="jumpbox-cat-link"> <span> Event Forums</span></a></li>
+																<li><a href="./viewforum.php?f=283" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Build Events</span></a></li>
+																<li><a href="./viewforum.php?f=316" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Boomilever B/C</span></a></li>
+																<li><a href="./viewforum.php?f=319" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Detector Building C</span></a></li>
+																<li><a href="./viewforum.php?f=320" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Elastic Launched Glider B</span></a></li>
+																<li><a href="./viewforum.php?f=315" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Gravity Vehicle C</span></a></li>
+																<li><a href="./viewforum.php?f=318" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Mission Possible B</span></a></li>
+																<li><a href="./viewforum.php?f=314" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Mousetrap Vehicle B</span></a></li>
+																<li><a href="./viewforum.php?f=317" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Ping Pong Parachute B/C</span></a></li>
+																<li><a href="./viewforum.php?f=321" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; ​W​r​i​g​h​t​ ​S​t​u​f​f​ ​C​</span></a></li>
+																<li><a href="./viewforum.php?f=284" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Lab Events</span></a></li>
+																<li><a href="./viewforum.php?f=322" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Machines B/C</span></a></li>
+																<li><a href="./viewforum.php?f=323" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Protein Modeling C</span></a></li>
+																<li><a href="./viewforum.php?f=285" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Study Events</span></a></li>
+																<li><a href="./viewforum.php?f=251" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Trial Events</span></a></li>
+																<li><a href="./viewforum.php?f=297" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Question Marathons</span></a></li>
+																<li><a href="./viewforum.php?f=252" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Question Marathons Explained</span></a></li>
+																<li><a href="./viewforum.php?f=6" class="jumpbox-cat-link"> <span> Competition Forums</span></a></li>
+																<li><a href="./viewforum.php?f=334" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; General Competition</span></a></li>
+																<li><a href="./viewforum.php?f=294" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Invitationals</span></a></li>
+																<li><a href="./viewforum.php?f=295" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Regionals &amp; States</span></a></li>
+																<li><a href="./viewforum.php?f=296" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Nationals</span></a></li>
+																<li><a href="./viewforum.php?f=333" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Alumni</span></a></li>
+																<li><a href="./viewforum.php?f=4" class="jumpbox-cat-link"> <span> Off-Topic Forums</span></a></li>
+																<li><a href="./viewforum.php?f=335" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; General Chat</span></a></li>
+																<li><a href="./viewforum.php?f=21" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Posting Games</span></a></li>
+																<li><a href="./viewforum.php?f=344" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Assassinator Games</span></a></li>
+																<li><a href="./viewforum.php?f=22" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; The Polling Place</span></a></li>
+																<li><a href="./viewforum.php?f=7" class="jumpbox-cat-link"> <span> Administrative</span></a></li>
+																<li><a href="./viewforum.php?f=24" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Announcements</span></a></li>
+																<li><a href="./viewforum.php?f=25" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Feedback</span></a></li>
+																<li><a href="./viewforum.php?f=8" class="jumpbox-cat-link"> <span> Team Forums</span></a></li>
+																<li><a href="./viewforum.php?f=28" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; How to get an (invisible) team forum</span></a></li>
+																<li><a href="./viewforum.php?f=54" class="jumpbox-cat-link"> <span> Archives</span></a></li>
+																<li><a href="./viewforum.php?f=70" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Old Board - 2001-2008</span></a></li>
+																<li><a href="./viewforum.php?f=88" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; 2009</span></a></li>
+																<li><a href="./viewforum.php?f=16" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2009 Build Events</span></a></li>
+																<li><a href="./viewforum.php?f=18" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2009 Lab Events</span></a></li>
+																<li><a href="./viewforum.php?f=17" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2009 Study Events</span></a></li>
+																<li><a href="./viewforum.php?f=19" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2009 Invitationals, Regionals, and States</span></a></li>
+																<li><a href="./viewforum.php?f=23" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2009 Nationals</span></a></li>
+																<li><a href="./viewforum.php?f=89" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; 2010</span></a></li>
+																<li><a href="./viewforum.php?f=66" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2010 Build Events</span></a></li>
+																<li><a href="./viewforum.php?f=68" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Wright Stuff B</span></a></li>
+																<li><a href="./viewforum.php?f=69" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Mission Possible C</span></a></li>
+																<li><a href="./viewforum.php?f=65" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2010 Lab Events</span></a></li>
+																<li><a href="./viewforum.php?f=67" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2010 Study Events</span></a></li>
+																<li><a href="./viewforum.php?f=72" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2010 Invitationals, Regionals, and States</span></a></li>
+																<li><a href="./viewforum.php?f=73" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2010 Nationals</span></a></li>
+																<li><a href="./viewforum.php?f=90" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; 2011</span></a></li>
+																<li><a href="./viewforum.php?f=91" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2011 Build Events</span></a></li>
+																<li><a href="./viewforum.php?f=94" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Towers B/C</span></a></li>
+																<li><a href="./viewforum.php?f=95" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Mission Possible C</span></a></li>
+																<li><a href="./viewforum.php?f=96" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Helicopters C</span></a></li>
+																<li><a href="./viewforum.php?f=92" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2011 Lab Events</span></a></li>
+																<li><a href="./viewforum.php?f=93" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2011 Study Events</span></a></li>
+																<li><a href="./viewforum.php?f=99" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2011 Invitationals, Regionals, and States</span></a></li>
+																<li><a href="./viewforum.php?f=100" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2011 Nationals</span></a></li>
+																<li><a href="./viewforum.php?f=118" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; 2012</span></a></li>
+																<li><a href="./viewforum.php?f=119" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2012 Build Events</span></a></li>
+																<li><a href="./viewforum.php?f=124" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Helicopters C</span></a></li>
+																<li><a href="./viewforum.php?f=122" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Mission Possible B</span></a></li>
+																<li><a href="./viewforum.php?f=123" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Towers B/C</span></a></li>
+																<li><a href="./viewforum.php?f=127" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2012 Lab Events</span></a></li>
+																<li><a href="./viewforum.php?f=121" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2012 Study Events</span></a></li>
+																<li><a href="./viewforum.php?f=126" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2012 Nationals</span></a></li>
+																<li><a href="./viewforum.php?f=141" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; 2013</span></a></li>
+																<li><a href="./viewforum.php?f=143" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2013 Build Events</span></a></li>
+																<li><a href="./viewforum.php?f=146" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Helicopters B</span></a></li>
+																<li><a href="./viewforum.php?f=147" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Boomilever B/C</span></a></li>
+																<li><a href="./viewforum.php?f=148" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Mission Possible B</span></a></li>
+																<li><a href="./viewforum.php?f=142" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2013 Lab Events</span></a></li>
+																<li><a href="./viewforum.php?f=144" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2013 Study Events</span></a></li>
+																<li><a href="./viewforum.php?f=149" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2013 Invitationals, Regionals, and States</span></a></li>
+																<li><a href="./viewforum.php?f=150" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2013 Nationals</span></a></li>
+																<li><a href="./viewforum.php?f=151" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2013 News</span></a></li>
+																<li><a href="./viewforum.php?f=165" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; 2014</span></a></li>
+																<li><a href="./viewforum.php?f=168" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2014 Build Events</span></a></li>
+																<li><a href="./viewforum.php?f=166" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2014 Lab Events</span></a></li>
+																<li><a href="./viewforum.php?f=167" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2014 Study Events</span></a></li>
+																<li><a href="./viewforum.php?f=173" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2014 Question Marathons</span></a></li>
+																<li><a href="./viewforum.php?f=170" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2014 Invitationals, Regionals, and States</span></a></li>
+																<li><a href="./viewforum.php?f=171" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2014 Nationals</span></a></li>
+																<li><a href="./viewforum.php?f=172" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2014 News</span></a></li>
+																<li><a href="./viewforum.php?f=185" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; 2015</span></a></li>
+																<li><a href="./viewforum.php?f=188" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2015 Build Events</span></a></li>
+																<li><a href="./viewforum.php?f=189" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Bridge Building B/C</span></a></li>
+																<li><a href="./viewforum.php?f=190" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Mission Possible C</span></a></li>
+																<li><a href="./viewforum.php?f=191" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Wright Stuff C</span></a></li>
+																<li><a href="./viewforum.php?f=186" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2015 Lab Events</span></a></li>
+																<li><a href="./viewforum.php?f=187" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2015 Study Events</span></a></li>
+																<li><a href="./viewforum.php?f=193" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2015 Question Marathons</span></a></li>
+																<li><a href="./viewforum.php?f=195" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2015 Invitationals, Regionals, and States</span></a></li>
+																<li><a href="./viewforum.php?f=200" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2015 Competition Advertising</span></a></li>
+																<li><a href="./viewforum.php?f=196" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2015 Nationals</span></a></li>
+																<li><a href="./viewforum.php?f=194" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2015 News</span></a></li>
+																<li><a href="./viewforum.php?f=213" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; 2016</span></a></li>
+																<li><a href="./viewforum.php?f=206" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2016 Build Events</span></a></li>
+																<li><a href="./viewforum.php?f=221" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Air Trajectory B/C</span></a></li>
+																<li><a href="./viewforum.php?f=209" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Bridge Building B/C</span></a></li>
+																<li><a href="./viewforum.php?f=211" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Elastic Launch Glider B</span></a></li>
+																<li><a href="./viewforum.php?f=222" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Electric Vehicle C</span></a></li>
+																<li><a href="./viewforum.php?f=210" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Mission Possible B</span></a></li>
+																<li><a href="./viewforum.php?f=223" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Robot Arm C</span></a></li>
+																<li><a href="./viewforum.php?f=212" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Wright Stuff C</span></a></li>
+																<li><a href="./viewforum.php?f=207" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2016 Lab Events</span></a></li>
+																<li><a href="./viewforum.php?f=219" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Wind Power B/C</span></a></li>
+																<li><a href="./viewforum.php?f=208" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2016 Study Events</span></a></li>
+																<li><a href="./viewforum.php?f=217" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2016 Question Marathons</span></a></li>
+																<li><a href="./viewforum.php?f=214" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2016 Invitationals, Regionals, and States</span></a></li>
+																<li><a href="./viewforum.php?f=218" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2016 Competition Advertising</span></a></li>
+																<li><a href="./viewforum.php?f=215" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2016 Nationals</span></a></li>
+																<li><a href="./viewforum.php?f=216" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2016 News</span></a></li>
+																<li><a href="./viewforum.php?f=224" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; 2017</span></a></li>
+																<li><a href="./viewforum.php?f=225" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2017 Build Events</span></a></li>
+																<li><a href="./viewforum.php?f=249" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Bottle Rocket B</span></a></li>
+																<li><a href="./viewforum.php?f=242" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Electric Vehicle C</span></a></li>
+																<li><a href="./viewforum.php?f=246" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Helicopters C</span></a></li>
+																<li><a href="./viewforum.php?f=247" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Mission Possible B</span></a></li>
+																<li><a href="./viewforum.php?f=244" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Robot Arm C</span></a></li>
+																<li><a href="./viewforum.php?f=248" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Scrambler B</span></a></li>
+																<li><a href="./viewforum.php?f=243" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Towers B/C</span></a></li>
+																<li><a href="./viewforum.php?f=245" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Wright Stuff B</span></a></li>
+																<li><a href="./viewforum.php?f=260" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Hovercraft B/C</span></a></li>
+																<li><a href="./viewforum.php?f=226" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2017 Lab Events</span></a></li>
+																<li><a href="./viewforum.php?f=227" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2017 Study Events</span></a></li>
+																<li><a href="./viewforum.php?f=228" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2017 Question Marathons</span></a></li>
+																<li><a href="./viewforum.php?f=229" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2017 Invitationals, Regionals, and States</span></a></li>
+																<li><a href="./viewforum.php?f=230" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2017 Competition Advertising</span></a></li>
+																<li><a href="./viewforum.php?f=231" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2017 Nationals</span></a></li>
+																<li><a href="./viewforum.php?f=236" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; 2018</span></a></li>
+																<li><a href="./viewforum.php?f=263" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2018 Build Events</span></a></li>
+																<li><a href="./viewforum.php?f=271" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Battery Buggy B</span></a></li>
+																<li><a href="./viewforum.php?f=272" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Helicopters C</span></a></li>
+																<li><a href="./viewforum.php?f=273" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Mission Possible C</span></a></li>
+																<li><a href="./viewforum.php?f=274" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Mousetrap Vehicle C</span></a></li>
+																<li><a href="./viewforum.php?f=275" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Roller Coaster B</span></a></li>
+																<li><a href="./viewforum.php?f=276" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Towers B/C</span></a></li>
+																<li><a href="./viewforum.php?f=277" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Wright Stuff B</span></a></li>
+																<li><a href="./viewforum.php?f=264" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2018 Lab Events</span></a></li>
+																<li><a href="./viewforum.php?f=265" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2018 Study Events</span></a></li>
+																<li><a href="./viewforum.php?f=266" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2018 Question Marathons</span></a></li>
+																<li><a href="./viewforum.php?f=267" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2018 Invitationals</span></a></li>
+																<li><a href="./viewforum.php?f=268" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2018 Regionals &amp; States</span></a></li>
+																<li><a href="./viewforum.php?f=269" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2018 Nationals</span></a></li>
+																<li><a href="./viewforum.php?f=262" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; 2019</span></a></li>
+																<li><a href="./viewforum.php?f=326" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2019 Build Events</span></a></li>
+																<li><a href="./viewforum.php?f=287" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Battery Buggy B</span></a></li>
+																<li><a href="./viewforum.php?f=290" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Boomilever B/C</span></a></li>
+																<li><a href="./viewforum.php?f=288" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Elastic Launched Gliders B</span></a></li>
+																<li><a href="./viewforum.php?f=291" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Mission Possible C</span></a></li>
+																<li><a href="./viewforum.php?f=292" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Mousetrap Vehicle C</span></a></li>
+																<li><a href="./viewforum.php?f=286" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Roller Coaster B</span></a></li>
+																<li><a href="./viewforum.php?f=299" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Wright Stuff C</span></a></li>
+																<li><a href="./viewforum.php?f=327" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2019 Lab Events</span></a></li>
+																<li><a href="./viewforum.php?f=293" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Thermodynamics B/C</span></a></li>
+																<li><a href="./viewforum.php?f=328" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2019 Study Events</span></a></li>
+																<li><a href="./viewforum.php?f=329" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2019 Question Marathons</span></a></li>
+																<li><a href="./viewforum.php?f=330" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2019 Invitationals</span></a></li>
+																<li><a href="./viewforum.php?f=331" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2019 Regionals &amp; States</span></a></li>
+																<li><a href="./viewforum.php?f=332" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; 2019 Nationals</span></a></li>
+																<li><a href="./viewforum.php?f=256" class="jumpbox-cat-link"> <span> Miscellaneous</span></a></li>
+																<li><a href="./viewforum.php?f=238" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Template: Visible, Topics Disabled, Replies Enabled, Increment Enabled</span></a></li>
+																<li><a href="./viewforum.php?f=257" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Template: Visible, Topics/Replies Enabled, Increment Enabled, Attachments</span></a></li>
+																<li><a href="./viewforum.php?f=341" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Template: Visible, Topics/Replies Enabled, Increment Disabled</span></a></li>
+																<li><a href="./viewforum.php?f=342" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Template: Visible, Topics Approval, Replies Disabled, Increment Disabled (Polls)</span></a></li>
+																<li><a href="./viewforum.php?f=253" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Template: Visible, Posting Disabled (Locked)</span></a></li>
+											</ul>
+		</div>
+	</div>
+
+	</div>
+
+	<div class="stat-block online-list">
+		<h3><a href="./viewonline.php">Who is online</a></h3>
+		<p>Users browsing this forum: No registered users and 1 guest</p>
+	</div>
+
+			</div>
+
+
+<div id="page-footer" class="page-footer" role="contentinfo">
+	<div class="navbar" role="navigation">
+	<div class="inner">
+
+	<ul id="nav-footer" class="nav-footer linklist" role="menubar">
+		<li class="breadcrumbs">
+							<span class="crumb"><a href="https://scioly.org" data-navbar-reference="home"><i class="icon fa-home fa-fw" aria-hidden="true"></i><span>Scioly.org</span></a></span>									<span class="crumb"><a href="./index.php" data-navbar-reference="index"><span>Forums</span></a></span>					</li>
+		
+				<li class="rightside">All times are <span title="America/Los Angeles">UTC-07:00</span></li>
+							<li class="rightside">
+				<a href="./ucp.php?mode=delete_cookies" data-ajax="true" data-refresh="true" role="menuitem">
+					<i class="icon fa-trash fa-fw" aria-hidden="true"></i><span>Delete cookies</span>
+				</a>
+			</li>
+							<li class="rightside" data-last-responsive="true">
+					<a href="./memberlist.php" title="View complete list of members" role="menuitem">
+						<i class="icon fa-group fa-fw" aria-hidden="true"></i><span>Members</span>
+					</a>
+				</li>
+												<li class="rightside" data-last-responsive="true">
+				<a href="./memberlist.php?mode=team" role="menuitem">
+					<i class="icon fa-shield fa-fw" aria-hidden="true"></i><span>The team</span>
+				</a>
+			</li>
+									<li class="rightside" data-last-responsive="true">
+				<a href="./memberlist.php?mode=contactadmin" role="menuitem">
+					<i class="icon fa-envelope fa-fw" aria-hidden="true"></i><span>Contact us</span>
+				</a>
+			</li>
+			</ul>
+
+	</div>
+</div>
+
+	<div class="copyright">
+				<p class="footer-row">
+			<span class="footer-copyright">Powered by <a href="https://www.phpbb.com/">phpBB</a>&reg; Forum Software &copy; phpBB Limited</span>
+		</p>
+						<p class="footer-row">
+			<a class="footer-link" href="./ucp.php?mode=privacy" title="Privacy" role="menuitem">
+				<span class="footer-link-text">Privacy</span>
+			</a>
+			|
+			<a class="footer-link" href="./ucp.php?mode=terms" title="Terms" role="menuitem">
+				<span class="footer-link-text">Terms</span>
+			</a>
+		</p>
+					</div>
+
+	<div id="darkenwrapper" class="darkenwrapper" data-ajax-error-title="AJAX error" data-ajax-error-text="Something went wrong when processing your request." data-ajax-error-text-abort="User aborted request." data-ajax-error-text-timeout="Your request timed out; please try again." data-ajax-error-text-parsererror="Something went wrong with the request and the server returned an invalid reply.">
+		<div id="darken" class="darken">&nbsp;</div>
+	</div>
+
+	<div id="phpbb_alert" class="phpbb_alert" data-l-err="Error" data-l-timeout-processing-req="Request timed out.">
+		<a href="#" class="alert_close">
+			<i class="icon fa-times-circle fa-fw" aria-hidden="true"></i>
+		</a>
+		<h3 class="alert_title">&nbsp;</h3><p class="alert_text"></p>
+	</div>
+	<div id="phpbb_confirm" class="phpbb_alert">
+		<a href="#" class="alert_close">
+			<i class="icon fa-times-circle fa-fw" aria-hidden="true"></i>
+		</a>
+		<div class="alert_text"></div>
+	</div>
+</div>
+
+</div>
+
+<div>
+	<a id="bottom" class="anchor" accesskey="z"></a>
+	</div>
+
+<script src="./assets/javascript/jquery.min.js?assets_version=50"></script>
+<script src="./assets/javascript/core.js?assets_version=50"></script>
+
+
+
+</div><!-- closing tag for div#wrap -->
+<div class="site-footer">
+	<div class="tiles">
+		<div>
+			<h4>Connect</h4>
+			<p><a href="https://scioly.org/forums/viewforum.php?f=1">Event Forums</a></p>
+			<p><a href="https://scioly.org/forums/viewforum.php?f=6">Competition Forums</a></p>
+			<p><a href="https://scioly.org/chat">Online Chat</a></p>
+			<!-- <p><a href="https://scioly.org/watch">YouTube Channel</a></p> -->
+		</div>
+		<div>
+			<h4>Learn</h4>
+			<p><a href="https://scioly.org/wiki">Wiki</a></p>
+			<p><a href="https://scioly.org/forums/viewforum.php?f=297">Question Marathons</a></p>
+			<p><a href="https://scioly.org/tests">Test Exchange</a></p>
+			<p><a href="https://scioly.org/wiki/index.php/Test_Exchange_Archive">Test Archive</a></p>
+		</div>
+		<div>
+			<h4>Get Involved</h4>
+			<p><a href="https://scioly.org/wiki/index.php/Starting_A_Science_Olympiad_Team">Starting a Team</a></p>
+			<p><a href="https://scioly.org/wiki/index.php/How_to_Write_a_Practice_Test">Test Writing Guide</a></p>
+			<p><a href="https://scioly.org/wiki/index.php/Category:Needs_Work">Wiki: Needs Work</a></p>
+			<p><a href="https://scioly.org/wiki/index.php/Category:Student_Volunteer_Organizations">Volunteering</a></p>
+		</div>
+		<div>
+			<h4>About</h4>
+			<p><a href="https://scioly.org/about">History</a></p>
+			<p><a href="https://scioly.org/rules">Site Rules</a></p>
+			<p><a href="https://scioly.org/rules">Privacy Policy</a></p>
+			<p><a href="https://www.facebook.com/scioly.org">Facebook Page</a></p>
+		</div>
+		<div>
+			<h4>Disclaimer</h4>
+			<p>Scioly.org is a place to ask questions and share ideas. This site is not the place to get event rules, official rules changes, or official clarifications.</p>
+			<p><a href="https://scioly.org/bernard" style="color: transparent;">Click me! Click me!</a></p>
+		</div>
+	</div>
+</div>
+
+
+
+<script src="./styles/scioly/template/forum_fn.js?assets_version=50"></script>
+<script src="./styles/scioly/template/ajax.js?assets_version=50"></script>
+
+
+
+</body>
+</html>

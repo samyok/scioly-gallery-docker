@@ -1,0 +1,817 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Division B - Scioly.org</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Division_B","wgTitle":"Division B","wgCurRevisionId":86642,"wgRevisionId":86642,"wgArticleId":3018,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Divisions"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Division_B","wgRelevantArticleId":3018,"wgRequestId":"63a43094cf9d239d56526890","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":[]});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","site":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@1ltrs49",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/wiki/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/wiki/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/wiki/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.8"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/wiki/opensearch_desc.php" title="Scioly.org (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://scioly.org/wiki/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Scioly.org Atom feed" href="/wiki/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/wiki/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Division_B rootpage-Division_B skin-vector action-view"><meta property="og:title" content="Science Olympiad Student Center"/>
+<meta property="og:type" content="website"/>
+<meta property="og:url" content="https://scioly.org/"/>
+
+<meta property="og:image" content="http://scioly.org/src/img/logo/logo_square.png"/>
+<meta property="og:image:secure_url" content="https://scioly.org/src/img/logo/logo_square.png"/> 
+<meta property="og:image:type" content="image/png"/> 
+<meta property="og:image:width" content="500"/> 
+<meta property="og:image:height" content="500"/>
+
+<meta property="og:description" content="A resource by and for Science Olympiad students, coaches, and alumni nationwide."/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script type="text/javascript" src="/src/js/jquery.min.js"></script>
+<script type="text/javascript" src="/src/js/main.js"></script>
+
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+<link rel="stylesheet" type="text/css" href="/src/css/main.css">
+
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<link rel="icon" href="/favicon.ico" type="image/x-icon"><div class="site-nav">
+	<a href="/">
+		<img src="/src/img/logo/logo.png">
+	</a>
+	<div class="hamburger" onclick="hamburger(this)">
+		<div>
+			<div></div>
+			<div></div>
+			<div></div>
+		</div>
+	</div>
+	<ul>
+		<li><a href="/forums">Forums</a></li>
+		<li><a href="/wiki">Wiki</a></li>
+		<li><a href="/tests">Test Exchange</a></li>
+		<!-- <li><a href="/gallery">Image Gallery</a></li> -->
+		<!-- <li><a href="/invitational">Invites</a></li> -->
+		<li><a href="/chat">Chat</a></li>
+		<li><a href="/login" class="button">Login</a></li>
+	</ul>
+</div>
+<img class="print-only" src="/src/img/logo/logo_black.png" style="max-width: 150px;"><link rel="stylesheet" type="text/css" href="/src/css/wiki.css">
+<div id="wrap-me-up">
+
+
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Division B</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Scioly.org</div>				<div id="contentSub"></div>
+								<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p><i>For Elementary School events, see <a href="/wiki/index.php/Division_A" title="Division A">Division A</a>. For the High School competition, see <a href="/wiki/index.php/Division_C" title="Division C">Division C</a>.</i>
+</p><p><b>Division B</b> Science Olympiad is for middle school age students, in 6th to 9th grade. Out of the fifteen students on the team, a maximum of five members can be in 9th grade. All students on the team must be from the membership school, with the exception of five members who attended the school the previous year. This is to accommodate for middle schools which may not have 8th or 9th grade students.
+</p>
+<div id="toc" class="toc"><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#2019-2020_Short_Event_Descriptions:"><span class="tocnumber">1</span> <span class="toctext">2019-2020 Short Event Descriptions:</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Anatomy_and_Physiology_.28Skeletal.2C_Muscular.2C_Integumentary.29"><span class="tocnumber">1.1</span> <span class="toctext">Anatomy and Physiology (Skeletal, Muscular, Integumentary)</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Boomilever"><span class="tocnumber">1.2</span> <span class="toctext">Boomilever</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Circuit_Lab"><span class="tocnumber">1.3</span> <span class="toctext">Circuit Lab</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Crime_Busters"><span class="tocnumber">1.4</span> <span class="toctext">Crime Busters</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Density_Lab"><span class="tocnumber">1.5</span> <span class="toctext">Density Lab</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Disease_Detectives"><span class="tocnumber">1.6</span> <span class="toctext">Disease Detectives</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Dynamic_Planet_.28Oceanography.29"><span class="tocnumber">1.7</span> <span class="toctext">Dynamic Planet (Oceanography)</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Elastic_Launched_Glider"><span class="tocnumber">1.8</span> <span class="toctext">Elastic Launched Glider</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Experimental_Design"><span class="tocnumber">1.9</span> <span class="toctext">Experimental Design</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Food_Science"><span class="tocnumber">1.10</span> <span class="toctext">Food Science</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Fossils"><span class="tocnumber">1.11</span> <span class="toctext">Fossils</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Game_On"><span class="tocnumber">1.12</span> <span class="toctext">Game On</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Heredity"><span class="tocnumber">1.13</span> <span class="toctext">Heredity</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Machines"><span class="tocnumber">1.14</span> <span class="toctext">Machines</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#Meteorology_.28Severe_Storms.29"><span class="tocnumber">1.15</span> <span class="toctext">Meteorology (Severe Storms)</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#Mission_Possible"><span class="tocnumber">1.16</span> <span class="toctext">Mission Possible</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#Mousetrap_Vehicle"><span class="tocnumber">1.17</span> <span class="toctext">Mousetrap Vehicle</span></a></li>
+<li class="toclevel-2 tocsection-19"><a href="#Ornithology"><span class="tocnumber">1.18</span> <span class="toctext">Ornithology</span></a></li>
+<li class="toclevel-2 tocsection-20"><a href="#Ping_Pong_Parachute"><span class="tocnumber">1.19</span> <span class="toctext">Ping Pong Parachute</span></a></li>
+<li class="toclevel-2 tocsection-21"><a href="#Reach_for_the_Stars"><span class="tocnumber">1.20</span> <span class="toctext">Reach for the Stars</span></a></li>
+<li class="toclevel-2 tocsection-22"><a href="#Road_Scholar"><span class="tocnumber">1.21</span> <span class="toctext">Road Scholar</span></a></li>
+<li class="toclevel-2 tocsection-23"><a href="#Water_Quality"><span class="tocnumber">1.22</span> <span class="toctext">Water Quality</span></a></li>
+<li class="toclevel-2 tocsection-24"><a href="#Write_It_Do_It"><span class="tocnumber">1.23</span> <span class="toctext">Write It Do It</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-25"><a href="#Past_Years"><span class="tocnumber">2</span> <span class="toctext">Past Years</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="2019-2020_Short_Event_Descriptions:">2019-2020 Short Event Descriptions:</span></h2>
+<dl><dd><i>Copied directly from <a rel="nofollow" class="external text" href="https://www.soinc.org/learn/b-event-short-descriptions">soinc.org</a></i></dd></dl>
+<h3><span id="Anatomy_and_Physiology_(Skeletal,_Muscular,_Integumentary)"></span><span class="mw-headline" id="Anatomy_and_Physiology_.28Skeletal.2C_Muscular.2C_Integumentary.29"><a href="/wiki/index.php/Anatomy_and_Physiology" title="Anatomy and Physiology">Anatomy and Physiology</a> (<a href="/wiki/index.php/Anatomy/Skeletal_System" title="Anatomy/Skeletal System">Skeletal</a>, <a href="/wiki/index.php/Anatomy/Muscular_System" title="Anatomy/Muscular System">Muscular</a>, <a href="/wiki/index.php/Anatomy/Integumentary_System" title="Anatomy/Integumentary System">Integumentary</a>)</span></h3>
+<p>Participants will be assessed on their understanding of the anatomy and physiology for the human Skeletal, Muscular and Integumentary systems.
+</p>
+<h3><span class="mw-headline" id="Boomilever"><a href="/wiki/index.php/Boomilever" title="Boomilever">Boomilever</a></span></h3>
+<p>Teams will design and build a Boomilever meeting requirements specified in the rules to achieve the highest structural efficiency.
+</p>
+<h3><span class="mw-headline" id="Circuit_Lab"><a href="/wiki/index.php/Circuit_Lab" title="Circuit Lab">Circuit Lab</a></span></h3>
+<p>Participants must complete tasks and answer questions about electricity and magnetism.
+</p>
+<h3><span class="mw-headline" id="Crime_Busters"><a href="/wiki/index.php/Crime_Busters" title="Crime Busters">Crime Busters</a></span></h3>
+<p>Given a scenario, a collection of evidence, and possible suspects, students will perform a series of tests that along with other evidence will be used to solve a crime.
+</p>
+<h3><span class="mw-headline" id="Density_Lab"><a href="/wiki/index.php/Density_Lab" title="Density Lab">Density Lab</a></span></h3>
+<p>Participants compete in activities and answer questions about mass, density, number density, area density, concentration, pressure and buoyancy.
+</p>
+<h3><span class="mw-headline" id="Disease_Detectives"><a href="/wiki/index.php/Disease_Detectives" title="Disease Detectives">Disease Detectives</a></span></h3>
+<p>Participants will use investigative skills in the scientific study of disease, injury, health and disability in populations or groups of people.
+</p>
+<h3><span id="Dynamic_Planet_(Oceanography)"></span><span class="mw-headline" id="Dynamic_Planet_.28Oceanography.29"><a href="/wiki/index.php/Dynamic_Planet_Topics" title="Dynamic Planet Topics">Dynamic Planet</a> (<a href="/wiki/index.php/Dynamic_Planet/Oceanography" title="Dynamic Planet/Oceanography">Oceanography</a>)</span></h3>
+<p>Teams will complete tasks related to physical and geological oceanography. 
+</p>
+<h3><span class="mw-headline" id="Elastic_Launched_Glider"><a href="/wiki/index.php/Elastic_Launched_Glider" title="Elastic Launched Glider">Elastic Launched Glider</a></span></h3>
+<p>Prior to the tournament teams design, construct, and test elastic launched gliders to achieve the maximum time aloft.
+</p>
+<h3><span class="mw-headline" id="Experimental_Design"><a href="/wiki/index.php/Experimental_Design" title="Experimental Design">Experimental Design</a></span></h3>
+<p>This event will determine a participant's ability on-site to design, conduct and report the findings of an experiment.
+</p>
+<h3><span class="mw-headline" id="Food_Science"><a href="/wiki/index.php/Food_Science" title="Food Science">Food Science</a></span></h3>
+<p>Students will answer questions on food chemistry with a focus on fermentation and pickling. In addition, participants will build a salinometer/hydrometer capable of measuring salt compositions between 1-10% (mass/volume).
+</p>
+<h3><span class="mw-headline" id="Fossils"><a href="/wiki/index.php/Fossils" title="Fossils">Fossils</a></span></h3>
+<p>Teams identify and classify fossils and demonstrate their knowledge of ancient life by completing tasks related to interpretation of past environments and ecosystems, adaptations and evolutionary relationships, and use of fossils in dating and correlating rock units.
+</p>
+<h3><span class="mw-headline" id="Game_On"><a href="/wiki/index.php/Game_On" title="Game On">Game On</a></span></h3>
+<p>This event will determine a team's ability to design and build an original computer game using the program Scratch incorporating the scientific theme provided to them by the supervisor.
+</p>
+<h3><span class="mw-headline" id="Heredity"><a href="/wiki/index.php/Heredity" title="Heredity">Heredity</a></span></h3>
+<p>Participants will solve problems and analyze data or diagrams using their knowledge of the basic principles of genetics.
+</p>
+<h3><span class="mw-headline" id="Machines"><a href="/wiki/index.php/Machines" title="Machines">Machines</a></span></h3>
+<p>Teams will complete a written test on simple and compound machine concepts and construct a lever-based measuring device prior to the tournament to determine the ratio between two masses.
+</p>
+<h3><span id="Meteorology_(Severe_Storms)"></span><span class="mw-headline" id="Meteorology_.28Severe_Storms.29"><a href="/wiki/index.php/Meteorology" title="Meteorology">Meteorology</a> (<a href="/wiki/index.php/Meteorology/Severe_Storms" title="Meteorology/Severe Storms">Severe Storms</a>)</span></h3>
+<p>This event emphasizes understanding of basic meteorological principles associated with severe weather with emphasis on analysis and interpretation of meteorological data, graphs, charts and images.
+</p>
+<h3><span class="mw-headline" id="Mission_Possible"><a href="/wiki/index.php/Mission_Possible" title="Mission Possible">Mission Possible</a></span></h3>
+<p>Prior to the competition, participants design, build, test and document a Rube Goldberg-like device that completes required Start and Final Actions through a series of specific actions.
+</p>
+<h3><span class="mw-headline" id="Mousetrap_Vehicle"><a href="/wiki/index.php/Mousetrap_Vehicle" title="Mousetrap Vehicle">Mousetrap Vehicle</a></span></h3>
+<p>Teams design, build and test one vehicle using one mousetrap as its sole means of propulsion to reach a target as quickly and accurately as possible.
+</p>
+<h3><span class="mw-headline" id="Ornithology"><a href="/wiki/index.php/Ornithology" title="Ornithology">Ornithology</a></span></h3>
+<p>Participants will be assessed on their knowledge of North American birds.
+</p>
+<h3><span class="mw-headline" id="Ping_Pong_Parachute"><a href="/wiki/index.php/Ping_Pong_Parachute" title="Ping Pong Parachute">Ping Pong Parachute</a></span></h3>
+<p>Prior to the tournament, teams will design, build and bring up to two bottle rockets to the tournament to launch a ping pong ball attached to a parachute to stay aloft for the greatest amount of time.
+</p>
+<h3><span class="mw-headline" id="Reach_for_the_Stars"><a href="/wiki/index.php/Reach_for_the_Stars" title="Reach for the Stars">Reach for the Stars</a></span></h3>
+<p>Students will demonstrate an understanding of the properties and evolution of stars and galaxies as well as their observation using different portions of the electromagnetic spectrum (e.g. Radio, Infrared, Visible, Ultraviolet, X-Ray and Gamma Ray).
+</p>
+<h3><span class="mw-headline" id="Road_Scholar"><a href="/wiki/index.php/Road_Scholar" title="Road Scholar">Road Scholar</a></span></h3>
+<p>Participants will answer interpretive questions that may use one or more state highway maps, USGS topographic maps, Internet-generated maps, a road atlas or satellite/aerial images.
+</p>
+<h3><span class="mw-headline" id="Water_Quality"><a href="/wiki/index.php/Water_Quality" title="Water Quality">Water Quality</a></span></h3>
+<p>Participants will be assessed on their understanding and evaluation of marine and estuary aquatic environments.
+</p>
+<h3><span class="mw-headline" id="Write_It_Do_It"><a href="/wiki/index.php/Write_It_Do_It" title="Write It Do It">Write It Do It</a></span></h3>
+<p>One student will write a description of an object and how to build it, and then the other student will attempt to construct the object from this description.
+</p><p><br />
+</p>
+<h2><span class="mw-headline" id="Past_Years">Past Years</span></h2>
+<table>
+
+<tbody><tr>
+<td><div class="toccolours mw-collapsible mw-collapsed" style="width:auto"><b><a href="/wiki/index.php/2013" title="2013">2012-2013</a> Event Descriptions</b>
+<div class="mw-collapsible-content">
+<p><big><b><a href="/wiki/index.php/Anatomy" class="mw-redirect" title="Anatomy">Anatomy</a> (<a href="/wiki/index.php/Nervous" class="mw-redirect" title="Nervous">Nervous</a>, <a href="/wiki/index.php/Digestive" class="mw-redirect" title="Digestive">Digestive</a>)</b></big>
+</p>
+<dl><dd>Teams will be tested on their knowledge of anatomy and health concepts including nervous and digestive systems.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Boomilever" title="Boomilever">Boomilever</a></b></big>
+</p>
+<dl><dd>Students will build a cantilevered wooden structure.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Crime_Busters" title="Crime Busters">Crime Busters</a></b></big>
+</p>
+<dl><dd>Teams will identify the perpetrators of a crime or crimes by using paper chromatography and analysis of unknown solids, liquids, and plastics found at the scene of a crime.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Disease_Detectives" title="Disease Detectives">Disease Detectives</a>  (Environmental Quality)</b></big>
+</p>
+<dl><dd>This event requires students to apply principles of epidemiology to a published report of a real-life health situation or problem. (Environmental Quality)</dd></dl>
+<p><big><b><a href="/wiki/index.php/Dynamic_Planet" class="mw-redirect" title="Dynamic Planet">Dynamic Planet</a> (<a href="/wiki/index.php/Glaciers" class="mw-redirect" title="Glaciers">Glaciers</a>)</b></big>
+</p>
+<dl><dd>Teams will work at stations that display a variety of earth science materials and related earth science questions, specifically Glaciers.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Experimental_Design" title="Experimental Design">Experimental Design</a></b></big>
+</p>
+<dl><dd>Given a set of unknown objects, teams will design, conduct, analyze and write-up an experiment.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Food_Science" title="Food Science">Food Science</a></b></big>
+</p>
+<dl><dd>Using their understanding of the chemistry and physical properties of baking ingredients, teams will answer questions at a series of stations.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Forestry" title="Forestry">Forestry</a></b></big>
+</p>
+<dl><dd>This event will test student knowledge of North American trees that are on the Official National Tree List.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Helicopters" title="Helicopters">Helicopters</a></b></big>
+</p>
+<dl><dd>Students will construct and test free flight rubber-powered helicopters prior to the tournament to achieve maximum flight times.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Heredity" title="Heredity">Heredity</a></b></big>
+</p>
+<dl><dd>Students will solve problems and analyze data or diagrams using their knowledge of the basic principles of genetics.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Keep_the_Heat" class="mw-redirect" title="Keep the Heat">Keep the Heat</a></b></big>
+</p>
+<dl><dd>Teams must construct an insulated device prior to the tournament that is designed to retain heat. Students must also complete a written test on thermodynamic concepts.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Meteorology" title="Meteorology">Meteorology</a> (<a href="/wiki/index.php/Everyday_Weather" class="mw-redirect" title="Everyday Weather">Everyday Weather</a>)</b></big>
+</p>
+<dl><dd>This event involves the use of process skills as applied to meteorology (Everyday Weather).</dd></dl>
+<p><big><b><a href="/wiki/index.php/Metric_Mastery" title="Metric Mastery">Metric Mastery</a></b></big>
+</p>
+<dl><dd>Students will demonstrate an intuitive feeling for estimating then measuring metric units including mass, volume, area, surface area, force, distance, time and temperature.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Mission_Possible_B" title="Mission Possible B">Mission Possible</a></b></big>
+</p>
+<dl><dd>Prior to the competition, participants will design, build, test and document a "Rube Goldberg-like device" that completes a required Final Task using a sequence of consecutive tasks.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Mousetrap_Vehicle" title="Mousetrap Vehicle">Mousetrap Vehicle</a></b></big>
+</p>
+<dl><dd>Teams will design, build and test a vehicle using one mousetrap as the sole means of propulsion to reach a target as quickly, accurately and close to their predicted time as possible.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Reach_for_the_Stars" title="Reach for the Stars">Reach for the Stars</a></b></big>
+</p>
+<dl><dd>Students will demonstrate an understanding and basic knowledge of the properties and evolution of stars, open clusters and globular clusters, and normal and star-forming galaxies.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Road_Scholar" title="Road Scholar">Road Scholar</a></b></big>
+</p>
+<dl><dd>Requires the accurate interpretation and understanding of various map features using a variety of road and topographic maps.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Rocks_and_Minerals" title="Rocks and Minerals">Rocks and Minerals</a></b></big>
+</p>
+<dl><dd>Teams will demonstrate their knowledge of rocks and minerals.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Rotor_Egg_Drop" title="Rotor Egg Drop">Rotor Egg Drop</a></b></big>
+</p>
+<dl><dd>A team will construct a helicopter device which uses one or more helicopter rotors to safely transport a raw chicken egg from a specified height to the floor.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Shock_Value" class="mw-redirect" title="Shock Value">Shock Value</a></b></big>
+</p>
+<dl><dd>Students will compete in activities involving basic understanding of electricity, magnetism and simple electrical devices.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Sounds_of_Music" title="Sounds of Music">Sounds of Music</a></b></big>
+</p>
+<dl><dd>Prior to the competition, students will build two instruments based on a 12 tone tempered scale, prepare to describe the principles behind their operation and be able to perform a major scale, a required melody and a chosen melody with each.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Water_Quality" title="Water Quality">Water Quality</a> (Freshwater/Estuaries)</b></big>
+</p>
+<dl><dd>The event will focus on evaluating aquatic environments.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Write_It_Do_It" title="Write It Do It">Write It Do It</a></b></big>
+</p>
+<dl><dd>One student will write a description of an object and how to build it, and then the other student will attempt to construct the object from this description.</dd></dl>
+</div></div>
+</td></tr></tbody></table>
+<table>
+
+<tbody><tr>
+<td><div class="toccolours mw-collapsible mw-collapsed" style="width:auto"><b><a href="/wiki/index.php/2014" title="2014">2013-2014</a> Event Descriptions</b>
+<div class="mw-collapsible-content">
+<p><big><b><a href="/wiki/index.php/Anatomy" class="mw-redirect" title="Anatomy">Anatomy</a> (<a href="/wiki/index.php/Anatomy/Integumentary_System" title="Anatomy/Integumentary System">Integumentary</a>, <a href="/wiki/index.php/Anatomy/Immune_System" title="Anatomy/Immune System">Immune</a>)</b></big>
+</p>
+<dl><dd>Teams will be tested on their knowledge of anatomy and health concepts including nervous and integumentary systems.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Boomilever" title="Boomilever">Boomilever</a></b></big>
+</p>
+<dl><dd>Students will build a cantilevered wooden structure.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Can%27t_Judge_A_Powder" title="Can&#39;t Judge A Powder">Can't Judge A Powder</a></b></big>
+</p>
+<dl><dd>Students will characterize a pure substance and then, based only on data they collect, answer a series of questions about that substance.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Crime_Busters" title="Crime Busters">Crime Busters</a></b></big>
+</p>
+<dl><dd>Teams will identify the perpetrators of a crime or crimes by using paper chromatography and analysis of unknown solids, liquids, and plastics found at the scene of a crime.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Disease_Detectives" title="Disease Detectives">Disease Detectives</a>  (Environmental Quality)</b></big>
+</p>
+<dl><dd>This event requires students to apply principles of epidemiology to a published report of a real-life health situation or problem. (Environmental Quality)</dd></dl>
+<p><big><b><a href="/wiki/index.php/Dynamic_Planet" class="mw-redirect" title="Dynamic Planet">Dynamic Planet</a> (<a href="/wiki/index.php/Glaciers" class="mw-redirect" title="Glaciers">Glaciers</a>)</b></big>
+</p>
+<dl><dd>Teams will work at stations that display a variety of earth science materials and related earth science questions, specifically Glaciers.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Entomology" title="Entomology">Entomology</a></b></big>
+</p>
+<dl><dd>Students will be asked to identify insects by order and family, answer questions about insects and use or construct a dichotomous key.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Experimental_Design" title="Experimental Design">Experimental Design</a></b></big>
+</p>
+<dl><dd>Given a set of unknown objects, teams will design, conduct, analyze and write-up an experiment.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Helicopters" title="Helicopters">Helicopters</a></b></big>
+</p>
+<dl><dd>Students will construct and test free flight rubber-powered helicopters prior to the tournament to achieve maximum flight times.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Heredity" title="Heredity">Heredity</a></b></big>
+</p>
+<dl><dd>Students will solve problems and analyze data or diagrams using their knowledge of the basic principles of genetics.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Meteorology" title="Meteorology">Meteorology</a> (<a href="/wiki/index.php/Severe_Storms" class="mw-redirect" title="Severe Storms">Severe Storms</a>)</b></big>
+</p>
+<dl><dd>This event involves the use of process skills as applied to meteorology. (Severe Storms).</dd></dl>
+<p><big><b><a href="/wiki/index.php/Metric_Mastery" title="Metric Mastery">Metric Mastery</a></b></big>
+</p>
+<dl><dd>Students will demonstrate an intuitive feeling for estimating then measuring metric units including mass, volume, area, surface area, force, distance, time and temperature.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Road_Scholar" title="Road Scholar">Road Scholar</a></b></big>
+</p>
+<dl><dd>Requires the accurate interpretation and understanding of various map features using a variety of road and topographic maps.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Robo-Cross" title="Robo-Cross">Robo-Cross</a></b></big>
+</p>
+<dl><dd>Teams will design and build a robot capable of performing certain tasks on a prescribed playing field.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Rocks_and_Minerals" title="Rocks and Minerals">Rocks and Minerals</a></b></big>
+</p>
+<dl><dd>Teams will demonstrate their knowledge of rocks and minerals.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Rotor_Egg_Drop" title="Rotor Egg Drop">Rotor Egg Drop</a></b></big>
+</p>
+<dl><dd>A team will construct a helicopter device which uses one or more helicopter rotor(s) to safely transport a raw chicken egg from a specified height to the floor.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Shock_Value" class="mw-redirect" title="Shock Value">Shock Value</a></b></big>
+</p>
+<dl><dd>Students will compete in activities involving basic understanding of electricity, magnetism and simple electrical devices.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Simple_Machines" class="mw-redirect" title="Simple Machines">Simple Machines</a></b></big>
+</p>
+<dl><dd>Students will perform activities and answer questions related to simple machines.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Solar_System" title="Solar System">Solar System</a></b></big>
+</p>
+<dl><dd>Students will demonstrate an understanding and knowledge of the properties and evolution of extraterrestrial ice and water in the solar system.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Sounds_of_Music" title="Sounds of Music">Sounds of Music</a></b></big>
+</p>
+<dl><dd>Prior to the competition, students will build two instruments based on a 12 tone tempered scale, prepare to describe the principles behind their operation and be able to perform a major scale, a required melody and a chosen melody with each.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Water_Quality" title="Water Quality">Water Quality</a> (Estuaries/Marine)</b></big>
+</p>
+<dl><dd>The event will focus on evaluating aquatic environments.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Write_It_Do_It" title="Write It Do It">Write It Do It</a></b></big>
+</p>
+<dl><dd>One student will write a description of an object and how to build it, and then the other student will attempt to construct the object from this description.</dd></dl>
+</div></div>
+</td></tr></tbody></table>
+<table>
+
+<tbody><tr>
+<td><div class="toccolours mw-collapsible mw-collapsed" style="width:auto"><b><a href="/wiki/index.php/2015" title="2015">2014-2015</a> Event Descriptions</b>
+<div class="mw-collapsible-content">
+<p><big><b><a href="/wiki/index.php/Air_Trajectory" title="Air Trajectory">Air Trajectory</a></b></big>
+</p>
+<dl><dd>Prior to the competition, teams will design, construct and calibrate a single device capable of launching projectiles into a target and collect data regarding device parameters and performance.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Anatomy_%26_Physiology" class="mw-redirect" title="Anatomy &amp; Physiology">Anatomy &amp; Physiology</a> (<a href="/wiki/index.php/Anatomy/Cardiovascular_System" title="Anatomy/Cardiovascular System">Cardiovascular</a>, <a href="/wiki/index.php/Anatomy/Integumentary_System" title="Anatomy/Integumentary System">Integumentary</a>, <a href="/wiki/index.php/Anatomy/Immune_System" title="Anatomy/Immune System">Immune</a>)</b></big>
+</p>
+<dl><dd>Teams will be tested on their knowledge of anatomy and health concepts including cardiovascular, integumentary and immune systems.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Bio-Process_Lab" title="Bio-Process Lab">Bio-Process Lab</a></b></big>
+</p>
+<dl><dd>A lab-oriented competition involving the fundamental science processes of a middle school life science/biology lab program.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Bottle_Rocket" title="Bottle Rocket">Bottle Rocket</a></b></big>
+</p>
+<dl><dd>Prior to the tournament, teams construct two rockets designed to stay aloft for the greatest amount of time.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Bridge_Building" title="Bridge Building">Bridge Building</a></b></big>
+</p>
+<dl><dd>Teams will design and build the lightest bridge with the highest structural efficiency that can span a given opening meeting the requirements given.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Can%27t_Judge_A_Powder" title="Can&#39;t Judge A Powder">Can't Judge A Powder</a></b></big>
+</p>
+<dl><dd>Students will characterize a pure substance and then, based only on data they collect, answer a series of questions about that substance.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Crave_The_Wave" class="mw-redirect" title="Crave The Wave">Crave The Wave</a></b></big>
+</p>
+<dl><dd>Competitors will demonstrate knowledge and process skills needed to solve problems and answer questions regarding all types and areas of waves and wave motion.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Crime_Busters" title="Crime Busters">Crime Busters</a></b></big>
+</p>
+<dl><dd>Teams will identify the perpetrators of a crime or crimes by using paper chromatography and analysis of unknown solids, liquids, and plastics found at the scene of a crime.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Disease_Detectives" title="Disease Detectives">Disease Detectives</a> (Population Growth)</b></big>
+</p>
+<dl><dd>Students will use investigative skills in the scientific study of disease, injury, health and disability in populations or groups of people, especially regarding population growth.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Dynamic_Planet_Topics" title="Dynamic Planet Topics">Dynamic Planet</a> (<a href="/wiki/index.php/Oceanography" class="mw-redirect" title="Oceanography">Oceanography</a>)</b></big>
+</p>
+<dl><dd>Teams will use NGSS science and engineering practices to complete tasks related to physical and geological oceanography.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Elastic_Launch_Glider" class="mw-redirect" title="Elastic Launch Glider">Elastic Launch Glider</a></b></big>
+</p>
+<dl><dd>Students will design, build and test two elastic launched gliders capable of the maximum time aloft.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Entomology" title="Entomology">Entomology</a></b></big>
+</p>
+<dl><dd>Students will be asked to identify insects by order and family, answer questions about insects and use or construct a dichotomous key.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Experimental_Design" title="Experimental Design">Experimental Design</a></b></big>
+</p>
+<dl><dd>Given a set of unknown objects, teams will design, conduct, analyze and write-up an experiment.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Fossils" title="Fossils">Fossils</a></b></big>
+</p>
+<dl><dd>Teams will demonstrate their knowledge of ancient life by identifying fossils and answering questions about classification, habitat, ecologic relationships, behaviors, environmental adaptations and the use of fossils to date and correlate rock units.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Green_Generation" title="Green Generation">Green Generation</a></b></big>
+</p>
+<dl><dd>Students will answer questions involving the history and consequences of human impact on our environment, solutions to reversing trends and sustainability concepts.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Meteorology" title="Meteorology">Meteorology</a> (<a href="/wiki/index.php/Meteorology/Climate" title="Meteorology/Climate">Climate</a>)</b></big>
+</p>
+<dl><dd>This event involves the use of process skills to demonstrate a multidisciplinary understanding of the Earth systems and anthropogenic factors that influence world climate.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Picture_This" title="Picture This">Picture This</a></b></big>
+</p>
+<dl><dd>Team members will take turns drawing representations of a set of scientific terms/concepts while the other team member guesses the term being drawn.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Road_Scholar" title="Road Scholar">Road Scholar</a></b></big>
+</p>
+<dl><dd>Teams will answer interpretive questions that may use one or more state highway maps, USGS topographic maps, Internet-generated maps, a road atlas or satellite/aerial images.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Robo-Cross" title="Robo-Cross">Robo-Cross</a></b></big>
+</p>
+<dl><dd>Teams will design and build a robot capable of performing certain tasks on a prescribed playing field.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Simple_Machines" class="mw-redirect" title="Simple Machines">Simple Machines</a></b></big>
+</p>
+<dl><dd>Students will perform activities and answer questions related to simple machines.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Solar_System" title="Solar System">Solar System</a></b></big>
+</p>
+<dl><dd>Students will demonstrate an understanding and knowledge of the properties and evolution of extraterrestrial ice and water in the solar system.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Wheeled_Vehicle" title="Wheeled Vehicle">Wheeled Vehicle</a></b></big>
+</p>
+<dl><dd>Competitors must design, build and test one vehicle that uses a non-metallic, elastic solid as its sole means of propulsion to travel a specific distance and around an obstacle as quickly as possible and stop as close as possible to a Finish Dot.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Write_It_Do_It" title="Write It Do It">Write It Do It</a></b></big>
+</p>
+<dl><dd>One student will write a description of an object and how to build it, and then the other student will attempt to construct the object from this description.</dd></dl>
+</div></div>
+</td></tr></tbody></table>
+<table>
+
+<tbody><tr>
+<td><div class="toccolours mw-collapsible mw-collapsed" style="width:auto"><b><a href="/wiki/index.php/2016" title="2016">2015-2016</a> Event Descriptions</b>
+<div class="mw-collapsible-content">
+<p><big><b><a href="/wiki/index.php/Air_Trajectory" title="Air Trajectory">Air Trajectory</a></b></big>
+</p>
+<dl><dd>Prior to the competition, teams will design, construct and calibrate a single device capable of launching projectiles into a target and collect data regarding device parameters and performance.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Anatomy_%26_Physiology" class="mw-redirect" title="Anatomy &amp; Physiology">Anatomy &amp; Physiology</a> (<a href="/wiki/index.php/Anatomy/Skeletal_System" title="Anatomy/Skeletal System">Skeletal</a>, <a href="/wiki/index.php/Anatomy/Muscular_System" title="Anatomy/Muscular System">Muscular</a>, <a href="/wiki/index.php/Anatomy/Integumentary_System" title="Anatomy/Integumentary System">Integumentary</a>)</b></big>
+</p>
+<dl><dd>This event encompasses the anatomy and physiology of selected body systems, this year limited to skeletal, muscular and integumentary systems.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Bio-Process_Lab" title="Bio-Process Lab">Bio-Process Lab</a></b></big>
+</p>
+<dl><dd>A lab-oriented competition involving the fundamental science processes of a middle school life science/biology lab program.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Bottle_Rocket" title="Bottle Rocket">Bottle Rocket</a></b></big>
+</p>
+<dl><dd>Prior to the tournament, teams construct two rockets designed to stay aloft for the greatest amount of time.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Bridge_Building" title="Bridge Building">Bridge Building</a></b></big>
+</p>
+<dl><dd>Teams will design and build the lightest bridge with the highest structural efficiency that can span a given opening meeting the requirements given.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Crave_The_Wave" class="mw-redirect" title="Crave The Wave">Crave The Wave</a></b></big>
+</p>
+<dl><dd>Competitors will demonstrate knowledge and process skills needed to solve problems and answer questions regarding all types and areas of waves and wave motion.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Crime_Busters" title="Crime Busters">Crime Busters</a></b></big>
+</p>
+<dl><dd>Teams will identify the perpetrators of a crime or crimes by using paper chromatography and analysis of unknown solids, liquids, and plastics found at the scene of a crime.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Disease_Detectives" title="Disease Detectives">Disease Detectives</a> (Population Growth)</b></big>
+</p>
+<dl><dd>Students will use investigative skills in the scientific study of disease, injury, health and disability in populations or groups of people, especially regarding population growth.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Dynamic_Planet_Topics" title="Dynamic Planet Topics">Dynamic Planet</a> (<a href="/wiki/index.php/Oceanography" class="mw-redirect" title="Oceanography">Oceanography</a>)</b></big>
+</p>
+<dl><dd>Teams will use NGSS science and engineering practices to complete tasks related to physical and geological oceanography.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Elastic_Launch_Glider" class="mw-redirect" title="Elastic Launch Glider">Elastic Launch Glider</a></b></big>
+</p>
+<dl><dd>Students will design, build and test two elastic launched gliders capable of the maximum time aloft.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Experimental_Design" title="Experimental Design">Experimental Design</a></b></big>
+</p>
+<dl><dd>Given a set of unknown objects, teams will design, conduct, analyze and write-up an experiment.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Food_Science" title="Food Science">Food Science</a></b></big>
+</p>
+<dl><dd>Teams will study the science behind milk products and experiment with ingredients and physical parameters to produce and analyze these products.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Fossils" title="Fossils">Fossils</a></b></big>
+</p>
+<dl><dd>Teams will demonstrate their knowledge of ancient life by identifying fossils and answering questions about classification, habitat, ecologic relationships, behaviors, environmental adaptations and the use of fossils to date and correlate rock units.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Green_Generation" title="Green Generation">Green Generation</a></b></big>
+</p>
+<dl><dd>Students will answer questions involving the history and consequences of human impact on our environment, solutions to reversing trends and sustainability concepts.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Invasive_Species" title="Invasive Species">Invasive Species</a></b></big>
+</p>
+<dl><dd>This event will test student knowledge of invasive species in local and national ecosystems.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Meteorology" title="Meteorology">Meteorology</a> (<a href="/wiki/index.php/Meteorology/Everyday_Weather" title="Meteorology/Everyday Weather">Everyday Weather</a>)</b></big>
+</p>
+<dl><dd>This event involves the use of process skills to demonstrate an understanding of atmospheric processes involving everyday weather.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Mission_Possible_B" title="Mission Possible B">Mission Possible</a></b></big>
+</p>
+<dl><dd>Prior to the competition, participants will design, build, test and document a Rube Goldberg-like device that completes a required Final Task through an optional series of simple machines.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Picture_This" title="Picture This">Picture This</a></b></big>
+</p>
+<dl><dd>Team members will take turns drawing representations of a set of scientific terms/concepts while the other team member guesses the term being drawn.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Reach_for_the_Stars" title="Reach for the Stars">Reach for the Stars</a></b></big>
+</p>
+<dl><dd>Students will demonstrate an understanding of the properties and evolution of stars especially star forming regions and supernova remnants and their observation with different portions of the electromagnetic spectrum.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Road_Scholar" title="Road Scholar">Road Scholar</a></b></big>
+</p>
+<dl><dd>Teams will answer interpretive questions that may use one or more state highway maps, USGS topographic maps, Internet-generated maps, a road atlas or satellite/aerial images.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Scrambler" title="Scrambler">Scrambler</a></b></big>
+</p>
+<dl><dd>Competitors must design, build and test a mechanical device which uses the energy from a falling mass to transport an egg along a track as quickly as possible and stop as close to the center of a terminal barrier without breaking the egg.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Wind_Power" title="Wind Power">Wind Power</a></b></big>
+</p>
+<dl><dd>Teams will build a blade assembly that consists of any kind of propeller/pinwheel/rotor attached to a CD which will be used to capture wind power. Students will also be tested on their knowledge relating to alternative energy.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Write_It_Do_It" title="Write It Do It">Write It Do It</a></b></big>
+</p>
+<dl><dd>One student will write a description of an object and how to build it, and then the other student will attempt to construct the object from this description.</dd></dl>
+</div></div>
+</td></tr></tbody></table>
+<table>
+
+<tbody><tr>
+<td><div class="toccolours mw-collapsible mw-collapsed" style="width:auto"><b><a href="/wiki/index.php/2017" title="2017">2016-2017</a> Event Descriptions</b>
+<div class="mw-collapsible-content">
+<p><big><b><a href="/wiki/index.php/Anatomy_%26_Physiology" class="mw-redirect" title="Anatomy &amp; Physiology">Anatomy &amp; Physiology</a> (<a href="/wiki/index.php/Anatomy/Nervous_System" title="Anatomy/Nervous System">Nervous</a>, <a href="/wiki/index.php/Anatomy/Endocrine_System" title="Anatomy/Endocrine System">Endocrine</a>, <a href="/wiki/index.php/Anatomy/Sense_Organs" title="Anatomy/Sense Organs">Sense Organs</a>)</b></big>
+</p>
+<dl><dd>This event encompasses the anatomy and physiology of selected body systems, this year limited to nervous and endocrine systems and sense organs.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Bottle_Rocket" title="Bottle Rocket">Bottle Rocket</a></b></big>
+</p>
+<dl><dd>Prior to the tournament, teams construct up to two rockets designed to stay aloft for the greatest amount of time while carrying a raw Grade A large chicken egg that survives impact.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Crime_Busters" title="Crime Busters">Crime Busters</a></b></big>
+</p>
+<dl><dd>Teams will identify the perpetrators of a crime or crimes by using paper chromatography and analysis of unknown solids, liquids, and plastics found at the scene of a crime.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Disease_Detectives" title="Disease Detectives">Disease Detectives</a> (Foodborne Illness)</b></big>
+</p>
+<dl><dd>Students will use investigative skills in the scientific study of disease, injury, health and disability in populations or groups of people with a focus on Food Borne Illness.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Dynamic_Planet_Topics" title="Dynamic Planet Topics">Dynamic Planet</a> (<a href="/wiki/index.php/Dynamic_Planet/Tectonics" title="Dynamic Planet/Tectonics">Tectonics</a>)</b></big>
+</p>
+<dl><dd>Students will demonstrate an understanding of the large-scale processes affecting the structure of Earth's crust (Tectonics).</dd></dl>
+<p><big><b><a href="/wiki/index.php/Ecology" title="Ecology">Ecology</a></b></big>
+</p>
+<dl><dd>Students will answer questions involving content knowledge and process skills in the area of ecology and adaptations in featured North American biomes.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Experimental_Design" title="Experimental Design">Experimental Design</a></b></big>
+</p>
+<dl><dd>Given a set of unknown objects, teams will design, conduct, analyze and write-up an experiment.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Fast_Facts" title="Fast Facts">Fast Facts</a></b></big>
+</p>
+<dl><dd>Teams will fill in a grid of terms that begin with a given letter to match given science categories.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Food_Science" title="Food Science">Food Science</a></b></big>
+</p>
+<dl><dd>Students will answer questions about the chemistry of food and food grains and build a simple calorimeter to determine the energy content of a solid foodstuff.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Hovercraft" title="Hovercraft">Hovercraft</a></b></big>
+</p>
+<dl><dd>Competitors may construct a self-propelled air-levitated vehicle with up to two battery-powered motors that turn one propeller each to levitate and move the vehicle down a track. Competitors must also be tested on their knowledge of classic mechanics and related topics.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Invasive_Species" title="Invasive Species">Invasive Species</a></b></big>
+</p>
+<dl><dd>This event will test student knowledge of invasive species in local and national ecosystems.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Meteorology" title="Meteorology">Meteorology</a> (<a href="/wiki/index.php/Meteorology/Severe_Storms" title="Meteorology/Severe Storms">Severe Storms</a>)</b></big>
+</p>
+<dl><dd>This event is about the meteorological topic Severe Storms.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Microbe_Mission" title="Microbe Mission">Microbe Mission</a></b></big>
+</p>
+<dl><dd>Teams will answer questions, solve problems and analyze data pertaining to microbes.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Mission_Possible_B" title="Mission Possible B">Mission Possible</a></b></big>
+</p>
+<dl><dd>Prior to the competition, participants will design, build, test and document a Rube Goldberg-like device that completes a required Final Task through an optional series of simple machines.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Optics" title="Optics">Optics</a></b></big>
+</p>
+<dl><dd>Teams must participate in an activity involving positioning mirrors to direct a laser beam towards a target. Teams must also be tested on their knowledge of geometric and physical optics.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Reach_for_the_Stars" title="Reach for the Stars">Reach for the Stars</a></b></big>
+</p>
+<dl><dd>Students will demonstrate an understanding of the properties and evolution of stars especially star forming regions and supernova remnants and their observation with different portions of the electromagnetic spectrum.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Road_Scholar" title="Road Scholar">Road Scholar</a></b></big>
+</p>
+<dl><dd>Teams will answer interpretive questions that may use one or more state highway maps, USGS topographic maps, Internet-generated maps, a road atlas or satellite/aerial images.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Rocks_and_Minerals" title="Rocks and Minerals">Rocks and Minerals</a></b></big>
+</p>
+<dl><dd>Teams will demonstrate their knowledge of rocks and minerals.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Scrambler" title="Scrambler">Scrambler</a></b></big>
+</p>
+<dl><dd>Competitors must design, build and test a mechanical device which uses the energy from a falling mass to transport an egg along a track as quickly as possible and stop as close to the center of a terminal barrier without breaking the egg.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Towers" title="Towers">Towers</a></b></big>
+</p>
+<dl><dd>Prior to the competition, teams will design and build a Tower meeting requirements specified in the rules to achieve the highest structural efficiency.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Wind_Power" title="Wind Power">Wind Power</a></b></big>
+</p>
+<dl><dd>Teams will build a blade assembly that consists of any kind of propeller/pinwheel/rotor attached to a CD which will be used to capture wind power. Students will also be tested on their knowledge relating to alternative energy.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Wright_Stuff" title="Wright Stuff">Wright Stuff</a></b></big>
+</p>
+<dl><dd>Prior to the competition teams design, construct and test free flight rubber-powered monoplanes to achieve maximum time aloft.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Write_It_Do_It" title="Write It Do It">Write It Do It</a></b></big>
+</p>
+<dl><dd>A technical writing exercise where students write a description of a contraption and other students will attempt to recreate it using only the written description.</dd></dl>
+</div></div>
+</td></tr></tbody></table>
+<table>
+
+<tbody><tr>
+<td><div class="toccolours mw-collapsible mw-collapsed" style="width:auto"><b><a href="/wiki/index.php/2018" title="2018">2017-2018</a> Event Descriptions</b>
+<div class="mw-collapsible-content">
+<p><big><b><a href="/wiki/index.php/Anatomy_and_Physiology" title="Anatomy and Physiology">Anatomy and Physiology</a> (<a href="/wiki/index.php/Anatomy/Respiratory_System" title="Anatomy/Respiratory System">Respiratory</a>, <a href="/wiki/index.php/Anatomy/Digestive_System" title="Anatomy/Digestive System">Digestive</a>, <a href="/wiki/index.php/Anatomy/Immune_System" title="Anatomy/Immune System">Immune</a>)</b></big>
+</p>
+<dl><dd>Understand the anatomy of the human body systems: respiratory, digestive and immune.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Battery_Buggy" title="Battery Buggy">Battery Buggy</a></b></big>
+</p>
+<dl><dd>Teams will construct a vehicle that uses electrical energy as its sole means of propulsion, quickly travels a specified distance, and stops as close as possible to the Finish Point.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Crime_Busters" title="Crime Busters">Crime Busters</a></b></big>
+</p>
+<dl><dd>Given a scenario, a collection of evidence, and possible suspects, students will perform a series of tests that along with other evidence will be used to solve a crime.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Disease_Detectives" title="Disease Detectives">Disease Detectives</a> (Foodborne Illness)</b></big>
+</p>
+<dl><dd>Participants will use investigative skills in the scientific study of disease, injury, health and disability in populations or groups of people with a focus on Food Borne Illness.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Dynamic_Planet_Topics" title="Dynamic Planet Topics">Dynamic Planet</a> (<a href="/wiki/index.php/Dynamic_Planet/Tectonics" title="Dynamic Planet/Tectonics">Tectonics</a>)</b></big>
+</p>
+<dl><dd>Participants will demonstrate an understanding of the large-scale processes affecting the structure of Earth's crust (Tectonics).</dd></dl>
+<p><big><b><a href="/wiki/index.php/Ecology" title="Ecology">Ecology</a> (Deserts and Grasslands)</b></big>
+</p>
+<dl><dd>Participants will answer questions involving content knowledge and process skills in the area of ecology and adaptations in featured North American biomes.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Experimental_Design" title="Experimental Design">Experimental Design</a></b></big>
+</p>
+<dl><dd>This event will determine a participant's ability to design, conduct and report the findings of an experiment conducted on site.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Fast_Facts" title="Fast Facts">Fast Facts</a></b></big>
+</p>
+<dl><dd>Teams will provide terms that begin with a given letter and match given science categories to fill in a grid.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Herpetology" title="Herpetology">Herpetology</a></b></big>
+</p>
+<dl><dd>This event will test knowledge of amphibians and reptiles.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Hovercraft" title="Hovercraft">Hovercraft</a></b></big>
+</p>
+<dl><dd>Participants will be tested on their knowledge of classic mechanics and related topics as well as their ability to construct a self-propelled air-levitated vehicle that moves down a track.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Meteorology" title="Meteorology">Meteorology</a> (<a href="/wiki/index.php/Meteorology/Climate" title="Meteorology/Climate">Climate</a>)</b></big>
+</p>
+<dl><dd>Participants will use scientific process skills to demonstrate an understanding of factors that influence world climate and use of models to understand/estimate impacts of different changes.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Microbe_Mission" title="Microbe Mission">Microbe Mission</a></b></big>
+</p>
+<dl><dd>Teams will answer questions, solve problems and analyze data pertaining to microbes.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Mystery_Architecture" title="Mystery Architecture">Mystery Architecture</a></b></big>
+</p>
+<dl><dd>At the beginning of the event, teams will be given a bag of building materials and instructions for designing and building a device that can be tested.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Optics" title="Optics">Optics</a></b></big>
+</p>
+<dl><dd>Teams must participate in an activity involving positioning mirrors to direct a laser beam towards a target and are tested on their knowledge of geometric and physical optics.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Potions_and_Poisons" title="Potions and Poisons">Potions and Poisons</a></b></big>
+</p>
+<dl><dd>This event is about chemical properties and effects of specified toxic and therapeutic chemical substances, with a focus on household and environmental toxins or poisons.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Road_Scholar" title="Road Scholar">Road Scholar</a></b></big>
+</p>
+<dl><dd>Participants will answer interpretive questions that may use one or more state highway maps, USGS topographic maps, Internet-generated maps, a road atlas or satellite/aerial images.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Rocks_and_Minerals" title="Rocks and Minerals">Rocks and Minerals</a></b></big>
+</p>
+<dl><dd>Teams will demonstrate their knowledge of rocks and minerals.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Roller_Coaster" title="Roller Coaster">Roller Coaster</a></b></big>
+</p>
+<dl><dd>Prior to the competition, teams design, build, and test a roller coaster track to guide a vehicle that uses gravitational potential energy as its sole means of propulsion to travel as close as possible to a target time.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Solar_System" title="Solar System">Solar System</a> (<a href="/wiki/index.php/Solar_System/Terrestrial_Bodies" title="Solar System/Terrestrial Bodies">Terrestrial Bodies</a>)</b></big>
+</p>
+<dl><dd>Students will demonstrate an understanding and knowledge of the geologic characteristics and evolution of the Earth's moon and other rocky bodies of the solar system.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Thermodynamics" title="Thermodynamics">Thermodynamics</a></b></big>
+</p>
+<dl><dd>Teams must construct an insulated device prior to the tournament that is designed to retain heat and complete a written test on thermodynamic concepts.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Towers" title="Towers">Towers</a></b></big>
+</p>
+<dl><dd>Prior to the competition, teams will design and build a Tower meeting requirements specified in the rules to achieve the highest structural efficiency.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Wright_Stuff" title="Wright Stuff">Wright Stuff</a></b></big>
+</p>
+<dl><dd>Prior to the competition teams design, construct and test free flight rubber-powered monoplanes to achieve maximum time aloft.</dd></dl>
+<p><big><b><a href="/wiki/index.php/Write_It_Do_It" title="Write It Do It">Write It Do It</a></b></big>
+</p>
+<dl><dd>One student will write a description of an object and how to build it, and then the other student will attempt to construct the object from this description.</dd></dl>
+</div></div>
+</td></tr></tbody></table>
+<table>
+
+<tbody><tr>
+<td><div class="toccolours mw-collapsible mw-collapsed" style="width:auto"><b><a href="/wiki/index.php/2019" title="2019">2018-2019</a> Event Descriptions</b>
+<div class="mw-collapsible-content">
+<p><big><a href="/wiki/index.php/Anatomy_and_Physiology" title="Anatomy and Physiology">Anatomy and Physiology</a> (<a href="/wiki/index.php/Anatomy/Cardiovascular_System" title="Anatomy/Cardiovascular System">Cardiovascular</a>, <a href="/wiki/index.php/Anatomy/Lymphatic_System" title="Anatomy/Lymphatic System">Lymphatic</a>, <a href="/wiki/index.php/Anatomy/Excretory_System" title="Anatomy/Excretory System">Excretory</a>)</big>
+Understand the anatomy of the human body systems: cardiovascular, lymphatic and excretory.
+<big><a href="/wiki/index.php/Battery_Buggy" title="Battery Buggy">Battery Buggy</a></big>
+Teams will construct a vehicle that uses electrical energy as its sole means of propulsion, quickly travels a specified distance, and stops as close as possible to the Target Point.
+<big><a href="/wiki/index.php/Boomilever" title="Boomilever">Boomilever</a></big>
+Teams will design and build a Boomilever meeting requirements specified in the rules supporting a minimum load and to achieve the highest structural efficiency.
+<big><a href="/wiki/index.php/Circuit_Lab" title="Circuit Lab">Circuit Lab</a></big>
+Participants must complete tasks and answer questions about electricity and magnetism.
+<big><a href="/wiki/index.php/Crime_Busters" title="Crime Busters">Crime Busters</a></big>
+Given a scenario, a collection of evidence, and possible suspects, students will perform a series of tests that along with other evidence will be used to solve a crime.
+<big><a href="/wiki/index.php/Density_Lab" title="Density Lab">Density Lab</a></big>
+Participants compete in activities and answer questions about mass, density, number density, area density, concentration, pressure and buoyancy.
+<big><a href="/wiki/index.php/Disease_Detectives" title="Disease Detectives">Disease Detectives</a></big>
+Participants will use investigative skills in the scientific study of disease, injury, health and disability in populations or groups of people.
+<big><a href="/wiki/index.php/Dynamic_Planet_Topics" title="Dynamic Planet Topics">Dynamic Planet</a> (<a href="/wiki/index.php/Dynamic_Planet/Glaciers" title="Dynamic Planet/Glaciers">Glaciers</a>)</big>
+Students will use process skills to complete tasks related to glaciers, glaciation and long-term climate change.
+<big><a href="/wiki/index.php/Elastic_Launched_Glider" title="Elastic Launched Glider">Elastic Launched Glider</a></big>
+Prior to the tournament teams design, construct, and test elastic launched gliders to achieve the maximum time aloft.
+<big><a href="/wiki/index.php/Experimental_Design" title="Experimental Design">Experimental Design</a></big>
+This event will determine a participant's ability to design, conduct and report the findings of an experiment conducted entirely on site.
+<big><a href="/wiki/index.php/Fossils" title="Fossils">Fossils</a></big>
+Teams demonstrate their knowledge of ancient life by completing selected tasks at a series of stations including but not limited to fossil identification, answering questions about classification, habitat, ecologic relationships, behaviors, environmental adaptations and the use of fossils to date and correlate rock units.
+<big><a href="/wiki/index.php/Game_On" title="Game On">Game On</a></big>
+This event will determine a team's ability to design and build an original computer game using the program Scratch incorporating the scientific theme provided to them by the supervisor.
+<big><a href="/wiki/index.php/Heredity" title="Heredity">Heredity</a></big>
+Participants will solve problems and analyze data or diagrams using their knowledge of the basic principles of genetics.
+<big><a href="/wiki/index.php/Herpetology" title="Herpetology">Herpetology</a></big>
+This event will test knowledge of amphibians and reptiles.
+<big><a href="/wiki/index.php/Meteorology" title="Meteorology">Meteorology</a> (<a href="/wiki/index.php/Meteorology/Everyday_Weather" title="Meteorology/Everyday Weather">Everyday Weather</a>)</big>
+This event emphasizes understanding of basic meteorological principles with emphasis on analysis and interpretation of meteorological data, graphs, charts and images.
+<big><a href="/wiki/index.php/Mystery_Architecture" title="Mystery Architecture">Mystery Architecture</a></big>
+At the beginning of the event, teams will be given a bag of building materials and instructions for designing and building a device that can be tested.
+<big><a href="/wiki/index.php/Potions_and_Poisons" title="Potions and Poisons">Potions and Poisons</a></big>
+This event is about chemical properties and effects of specified toxic and therapeutic chemical substances, with a focus on household and environmental toxins or poisons.
+<big><a href="/wiki/index.php/Road_Scholar" title="Road Scholar">Road Scholar</a></big>
+Participants will answer interpretive questions that may use one or more state highway maps, USGS topographic maps, Internet-generated maps, a road atlas or satellite/aerial images.
+<big><a href="/wiki/index.php/Roller_Coaster" title="Roller Coaster">Roller Coaster</a></big>
+Prior to the competition, teams design, build, and test a roller coaster track to guide a ball or sphere that uses gravitational potential energy as its sole means of propulsion to travel as close as possible to a target time.
+<big><a href="/wiki/index.php/Solar_System" title="Solar System">Solar System</a> (<a href="/wiki/index.php/Solar_System/Terrestrial_Bodies" title="Solar System/Terrestrial Bodies">Terrestrial Bodies</a>)</big>
+Students will demonstrate an understanding and knowledge of the geologic characteristics and evolution of the Earth's moon and other rocky bodies of the solar system.
+<big><a href="/wiki/index.php/Thermodynamics" title="Thermodynamics">Thermodynamics</a></big>
+Teams must construct an insulated device prior to the tournament that is designed to retain heat and complete a written test on thermodynamic concepts.
+<big><a href="/wiki/index.php/Water_Quality" title="Water Quality">Water Quality</a></big>
+Participants will be assessed on their understanding and evaluation of aquatic environments.
+<big><a href="/wiki/index.php/Write_It_Do_It" title="Write It Do It">Write It Do It</a></big>
+One student will write a description of an object and how to build it, and then the other student will attempt to construct the object from this description.
+</p>
+</div></div>
+</td></tr></tbody></table>
+<div style="text-align: center;">
+<table style="border: 1px solid #000; font-size:12pt; margin: 0 auto; padding:4pt; line-height:1.25em; width:700px; color:#000;">
+<caption><b>Divisions</b>
+</caption>
+<tbody><tr>
+<td><a href="/wiki/index.php/Division_A" title="Division A">Division A</a> · <a class="mw-selflink selflink">Division B</a> · <a href="/wiki/index.php/Division_C" title="Division C">Division C</a>
+</td></tr></tbody></table>
+</div>
+
+<!-- 
+NewPP limit report
+Cached time: 20200806205448
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.368 seconds
+Real time usage: 0.374 seconds
+Preprocessor visited node count: 118/1000000
+Preprocessor generated node count: 164/1000000
+Post‐expand include size: 241/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 2/40
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    4.148      1 Template:Division
+100.00%    4.148      1 -total
+-->
+</div>
+<!-- Saved in parser cache with key wiki-wikiv2_:pcache:idhash:3018-0!canonical and timestamp 20200806205447 and revision id 86642
+ -->
+</div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://scioly.org/wiki/index.php?title=Division_B&amp;oldid=86642">https://scioly.org/wiki/index.php?title=Division_B&amp;oldid=86642</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/index.php/Special:Categories" title="Special:Categories">Category</a>: <ul><li><a href="/wiki/index.php/Category:Divisions" title="Category:Divisions">Divisions</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-login"><a href="//scioly.org/forums/ucp.php?mode=login&amp;redirect=https%3A%2F%2Fscioly.org%2Fwiki%2Findex.php%2FDivision_B" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/index.php/Division_B" title="View the content page [c]" accesskey="c">Page</a></span></li><li id="ca-talk" class="new"><span><a href="/wiki/index.php?title=Talk:Division_B&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/index.php/Division_B">Read</a></span></li><li id="ca-viewsource" class="collapsible"><span><a href="/wiki/index.php?title=Division_B&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li><li id="ca-history" class="collapsible"><span><a href="/wiki/index.php?title=Division_B&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/wiki/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Scioly.org" title="Search Scioly.org [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/index.php/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage"><a href="/wiki/index.php/Main_Page" title="Visit the main page [z]" accesskey="z">Main Page</a></li><li id="n-recentchanges"><a href="/wiki/index.php/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/wiki/index.php/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-MediaWiki-Help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">MediaWiki Help</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/index.php/Special:WhatLinksHere/Division_B" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/index.php/Special:RecentChangesLinked/Division_B" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/wiki/index.php/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="/wiki/index.php?title=Division_B&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/wiki/index.php?title=Division_B&amp;oldid=86642" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/wiki/index.php?title=Division_B&amp;action=info" title="More information about this page">Page information</a></li>				</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 22 April 2020, at 21:22.</li>
+								<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution</a> unless otherwise noted.</li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="http://creativecommons.org/licenses/by/3.0/"><img src="/wiki/resources/assets/licenses/cc-by.png" alt="Creative Commons Attribution" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<style>.MathJax_Display{display:inline !important;}
+.mathjax-wrapper{font-size:120%;}</style>
+<script type='text/x-mathjax-config'>MathJax.Hub.Config({displayAlign:'left',tex2jax:{displayMath:[['[math]','[/math]']]}})</script>
+<script src='//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.368","walltime":"0.374","ppvisitednodes":{"value":118,"limit":1000000},"ppgeneratednodes":{"value":164,"limit":1000000},"postexpandincludesize":{"value":241,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":2,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%    4.148      1 Template:Division","100.00%    4.148      1 -total"]},"cachereport":{"timestamp":"20200806205448","ttl":86400,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":146});});</script>
+	</body>
+</html>

@@ -1,0 +1,1226 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Maine - Scioly.org</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Maine","wgTitle":"Maine","wgCurRevisionId":102291,"wgRevisionId":102291,"wgArticleId":259,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["State Pages"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Maine","wgRelevantArticleId":259,"wgRequestId":"710a870d64720ba63ef4a035","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":[]});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","site":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@1ltrs49",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","jquery.tablesorter","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/wiki/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/wiki/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/wiki/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.8"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/wiki/opensearch_desc.php" title="Scioly.org (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://scioly.org/wiki/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Scioly.org Atom feed" href="/wiki/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/wiki/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Maine rootpage-Maine skin-vector action-view"><meta property="og:title" content="Science Olympiad Student Center"/>
+<meta property="og:type" content="website"/>
+<meta property="og:url" content="https://scioly.org/"/>
+
+<meta property="og:image" content="http://scioly.org/src/img/logo/logo_square.png"/>
+<meta property="og:image:secure_url" content="https://scioly.org/src/img/logo/logo_square.png"/> 
+<meta property="og:image:type" content="image/png"/> 
+<meta property="og:image:width" content="500"/> 
+<meta property="og:image:height" content="500"/>
+
+<meta property="og:description" content="A resource by and for Science Olympiad students, coaches, and alumni nationwide."/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script type="text/javascript" src="/src/js/jquery.min.js"></script>
+<script type="text/javascript" src="/src/js/main.js"></script>
+
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+<link rel="stylesheet" type="text/css" href="/src/css/main.css">
+
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<link rel="icon" href="/favicon.ico" type="image/x-icon"><div class="site-nav">
+	<a href="/">
+		<img src="/src/img/logo/logo.png">
+	</a>
+	<div class="hamburger" onclick="hamburger(this)">
+		<div>
+			<div></div>
+			<div></div>
+			<div></div>
+		</div>
+	</div>
+	<ul>
+		<li><a href="/forums">Forums</a></li>
+		<li><a href="/wiki">Wiki</a></li>
+		<li><a href="/tests">Test Exchange</a></li>
+		<!-- <li><a href="/gallery">Image Gallery</a></li> -->
+		<!-- <li><a href="/invitational">Invites</a></li> -->
+		<li><a href="/chat">Chat</a></li>
+		<li><a href="/login" class="button">Login</a></li>
+	</ul>
+</div>
+<img class="print-only" src="/src/img/logo/logo_black.png" style="max-width: 150px;"><link rel="stylesheet" type="text/css" href="/src/css/wiki.css">
+<div id="wrap-me-up">
+
+
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Maine</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Scioly.org</div>				<div id="contentSub"></div>
+								<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p>Maine is a state with a long, steady history of participation in Science Olympiad's Division C.  Division B had a long pause from 2002 to around 2008.  Recently, rather than letting Division B end in Maine again, the University of Maine stepped in as site sponsor and organizer of Division B's state tournament in 2011, and site sponsor and organizer of Division C's state tournament in 2014.  The current State Director serves as the registrar for both divisions, and posts information and updates at <a rel="nofollow" class="external free" href="https://sites.google.com/a/waynflete.org/maine-science-olympiad/">https://sites.google.com/a/waynflete.org/maine-science-olympiad/</a>.
+</p>
+<table align="right" class="infobox">
+
+<tbody><tr>
+<th colspan="2" style="font-size: larger; text-align: center;"><b>Maine</b>
+</th></tr>
+<tr>
+<td colspan="2"><center><a href="/wiki/index.php/File:Maine.svg" class="image"><img alt="Maine.svg" src="/wiki/images/thumb/d/dd/Maine.svg/200px-Maine.svg.png" width="200" height="305" srcset="/wiki/images/thumb/d/dd/Maine.svg/300px-Maine.svg.png 1.5x, /wiki/images/thumb/d/dd/Maine.svg/400px-Maine.svg.png 2x" /></a></center>
+</td></tr>
+<tr>
+<td colspan="2" style="margin: 5px; background-color: lavender; text-align: center;"><b>General Information</b>
+</td></tr>
+<tr>
+<td style="width: 100px;"><b>Member of SO since</b>
+</td>
+<td>1985
+</td></tr>
+<tr>
+<td style="width: 100px;"><b>Total teams</b>
+</td>
+<td>24
+</td></tr>
+<tr>
+<td style="width: 100px;"><b><a href="/wiki/index.php/Division_B" title="Division B">Division B</a> Champion</b>
+</td>
+<td><a href="/wiki/index.php/Medomak_Middle_School" title="Medomak Middle School">Medomak Middle School</a>
+</td></tr>
+<tr>
+<td style="width: 100px;"><b><a href="/wiki/index.php/Division_C" title="Division C">Division C</a> Champion</b>
+</td>
+<td><a href="/wiki/index.php/Waynflete_School" title="Waynflete School">Waynflete School</a>
+</td></tr>
+<tr>
+<td style="width: 100px;"><b>State Tournament Location</b>
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="width: 100px;"><b>Date</b>
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="width: 100px;"><b>Website</b>
+</td>
+<td><a rel="nofollow" class="external free" href="https://scilympiad.com/me">https://scilympiad.com/me</a>
+</td></tr>
+</tbody></table>
+<p><br />
+</p>
+<div id="toc" class="toc"><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Past_State_Champions"><span class="tocnumber">1.1</span> <span class="toctext">Past State Champions</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Competitions"><span class="tocnumber">2</span> <span class="toctext">Competitions</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#State_Competition"><span class="tocnumber">2.1</span> <span class="toctext">State Competition</span></a>
+<ul>
+<li class="toclevel-3 tocsection-5"><a href="#Past_Division_B_Competitions"><span class="tocnumber">2.1.1</span> <span class="toctext">Past Division B Competitions</span></a></li>
+<li class="toclevel-3 tocsection-6"><a href="#Past_Division_C_Competitions"><span class="tocnumber">2.1.2</span> <span class="toctext">Past Division C Competitions</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Teams"><span class="tocnumber">3</span> <span class="toctext">Teams</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Division_B"><span class="tocnumber">3.1</span> <span class="toctext">Division B</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Division_C"><span class="tocnumber">3.2</span> <span class="toctext">Division C</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#External_Links"><span class="tocnumber">4</span> <span class="toctext">External Links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span></h2>
+<p>Maine has been part of Science Olympiad since the first years of national competition.  Division C has always had a statewide tournament.  After a long trend of <a href="/wiki/index.php?title=Oxford_Hills_High_School&amp;action=edit&amp;redlink=1" class="new" title="Oxford Hills High School (page does not exist)">Oxford Hills High School</a> of winning back-to-back competitions or alternating up to 1995, <a href="/wiki/index.php/Waterville_Senior_High_School" title="Waterville Senior High School">Waterville Senior High School</a> began an even longer streak that went for fifteen years.  However, especially in the past few years, their margin of victory had been very small: and with more than 20 teams competing at the state event, extending their streak was quite a challenge.  In 2011, their epic streak came to an end with <a href="/wiki/index.php/Mt._Ararat_High_School" title="Mt. Ararat High School">Mt. Ararat High School</a>'s Blue team, a frequent runner-up, surging past the competition, with Belfast Area High School in a close second, closely followed by <a href="/wiki/index.php/Waynflete_School" title="Waynflete School">Waynflete School</a>'s Green team in third.  2012 expected a continuation of the competitiveness around the state with new schools joining competition, and didn't fail to provide that.  <a href="/wiki/index.php/Waterville_Senior_High_School" title="Waterville Senior High School">Waterville Senior High School</a> with much effort overcame tight competition to return itself to the top spot in a close race with <a href="/wiki/index.php/Waynflete_School" title="Waynflete School">Waynflete School</a> Green, <a href="/wiki/index.php?title=Cape_Elizabeth_High_School&amp;action=edit&amp;redlink=1" class="new" title="Cape Elizabeth High School (page does not exist)">Cape Elizabeth High School</a>, and last year's champion <a href="/wiki/index.php/Mt._Ararat_High_School" title="Mt. Ararat High School">Mt. Ararat High School</a> Blue.
+</p><p>2013 saw a clear victory for <a href="/wiki/index.php/Waynflete_School" title="Waynflete School">Waynflete</a>'s Green team which had been in the top 3 for many years.  However, 2nd through 6th place was separated by only eight points, one of the most competitive years yet.  
+</p><p>2014 brought a move for the C tournament up to city of Orono at the University of Maine, which would allow in future years for more teams to participate.
+</p><p>In the 2014 all-day struggle, Waynflete's Green team came in first with 70 points, followed by Waterville in second with 81 points.  
+</p>
+<h3><span class="mw-headline" id="Past_State_Champions">Past State Champions</span></h3>
+<p>This is a record of the past state champions and runners up (where known), and their respective places at the national competition. Scores at the state competition are not made available with tournament results--only rankings. Although a smaller population state, with a lower number of participating teams, Maine has <i>always</i> been represented in Division C at the national.
+</p>
+<table class="wikitable sortable" style="text-align:center">
+
+<tbody><tr>
+<th rowspan="3"><big>Season</big></th>
+<th colspan="5"><big>Division B</big></th>
+<th colspan="5"><big>Division C</big>
+</th></tr>
+<tr>
+<th colspan="2"><big>Champion</big></th>
+<th colspan="2"><big>Runner-Up</big></th>
+<th><big>Third Place</big></th>
+<th colspan="2"><big>Champion</big></th>
+<th colspan="2"><big>Runner-Up</big></th>
+<th><big>Third Place</big>
+</th></tr>
+<tr>
+<th><big>Team</big></th>
+<th><big>Nats Place</big></th>
+<th><big>Team</big></th>
+<th><big>Nats Place</big></th>
+<th><big>Team</big></th>
+<th><big>Team</big></th>
+<th><big>Nats Place</big></th>
+<th><big>Team</big></th>
+<th><big>Nats Place</big></th>
+<th><big>Team</big>
+</th></tr>
+
+
+
+<tr>
+<td><b><a href="/wiki/index.php?title=1985_Maine_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="1985 Maine State Tournament (page does not exist)">1985</a> </b></td>
+<td><a href="/wiki/index.php?title=Yarmouth_Junior_High_School&amp;action=edit&amp;redlink=1" class="new" title="Yarmouth Junior High School (page does not exist)">Yarmouth Junior High School</a>
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td><a href="/wiki/index.php?title=Yarmouth_High_School&amp;action=edit&amp;redlink=1" class="new" title="Yarmouth High School (page does not exist)">Yarmouth High School</a>
+</td>
+<td>8th
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=1986_Maine_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="1986 Maine State Tournament (page does not exist)">1986</a> </b></td>
+<td><a href="/wiki/index.php?title=Yarmouth_Junior_High_School&amp;action=edit&amp;redlink=1" class="new" title="Yarmouth Junior High School (page does not exist)">Yarmouth Junior High School</a>
+</td>
+<td>10th
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td><a href="/wiki/index.php?title=Old_Town_High_School&amp;action=edit&amp;redlink=1" class="new" title="Old Town High School (page does not exist)">Old Town High School</a>
+</td>
+<td>16th
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=1987_Maine_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="1987 Maine State Tournament (page does not exist)">1987</a> </b></td>
+<td><a href="/wiki/index.php?title=Yarmouth_Junior_High_School&amp;action=edit&amp;redlink=1" class="new" title="Yarmouth Junior High School (page does not exist)">Yarmouth Junior High School</a>
+</td>
+<td>31st
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td><a href="/wiki/index.php/Bangor_High_School" title="Bangor High School">Bangor High School</a>
+</td>
+<td>17th
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=1988_Maine_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="1988 Maine State Tournament (page does not exist)">1988</a> </b></td>
+<td><a href="/wiki/index.php/Jay_Junior_High_School" class="mw-redirect" title="Jay Junior High School">Jay Junior High School</a>
+</td>
+<td>33th
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td><a href="/wiki/index.php?title=Waynflete_High_School&amp;action=edit&amp;redlink=1" class="new" title="Waynflete High School (page does not exist)">Waynflete High School</a>
+</td>
+<td>27th
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=1989_Maine_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="1989 Maine State Tournament (page does not exist)">1989</a> </b></td>
+<td><a href="/wiki/index.php/Jay_Junior_High_School" class="mw-redirect" title="Jay Junior High School">Jay Junior High School</a>
+</td>
+<td>35th
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td><a href="/wiki/index.php?title=Oxford_Hills_High_School&amp;action=edit&amp;redlink=1" class="new" title="Oxford Hills High School (page does not exist)">Oxford Hills High School</a>
+</td>
+<td>30th
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=1990_Maine_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="1990 Maine State Tournament (page does not exist)">1990</a> </b></td>
+<td><a href="/wiki/index.php/Jay_Junior_High_School" class="mw-redirect" title="Jay Junior High School">Jay Junior High School</a>
+</td>
+<td>45th
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td><a href="/wiki/index.php?title=Oxford_Hills_High_School&amp;action=edit&amp;redlink=1" class="new" title="Oxford Hills High School (page does not exist)">Oxford Hills High School</a>
+</td>
+<td>36th
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=1991_Maine_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="1991 Maine State Tournament (page does not exist)">1991</a> </b></td>
+<td><a href="/wiki/index.php/Jay_Junior_High_School" class="mw-redirect" title="Jay Junior High School">Jay Junior High School</a>
+</td>
+<td>48th
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td><a href="/wiki/index.php?title=Oxford_Hills_High_School&amp;action=edit&amp;redlink=1" class="new" title="Oxford Hills High School (page does not exist)">Oxford Hills High School</a>
+</td>
+<td>42nd
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=1992_Maine_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="1992 Maine State Tournament (page does not exist)">1992</a> </b></td>
+<td><a href="/wiki/index.php/Jay_Junior_High_School" class="mw-redirect" title="Jay Junior High School">Jay Junior High School</a>
+</td>
+<td>32nd
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td><a href="/wiki/index.php?title=Oxford_Hills_High_School&amp;action=edit&amp;redlink=1" class="new" title="Oxford Hills High School (page does not exist)">Oxford Hills High School</a>
+</td>
+<td>32nd
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=1993_Maine_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="1993 Maine State Tournament (page does not exist)">1993</a> </b></td>
+<td><a href="/wiki/index.php/Jay_Junior_High_School" class="mw-redirect" title="Jay Junior High School">Jay Junior High School</a>
+</td>
+<td>37th
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td><a href="/wiki/index.php?title=Oxford_Hills_High_School&amp;action=edit&amp;redlink=1" class="new" title="Oxford Hills High School (page does not exist)">Oxford Hills High School</a>
+</td>
+<td>44th
+</td>
+<td><a href="/wiki/index.php/Waterville_Senior_High_School" title="Waterville Senior High School">Waterville Senior High School</a>
+</td>
+<td>N/A
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=1994_Maine_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="1994 Maine State Tournament (page does not exist)">1994</a> </b></td>
+<td><a href="/wiki/index.php/Jay_Middle_School" title="Jay Middle School">Jay Middle School</a>
+</td>
+<td>44th
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td><a href="/wiki/index.php?title=Maine_Central_Institute&amp;action=edit&amp;redlink=1" class="new" title="Maine Central Institute (page does not exist)">Maine Central Institute</a>
+</td>
+<td>39th
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=1995_Maine_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="1995 Maine State Tournament (page does not exist)">1995</a> </b></td>
+<td><a href="/wiki/index.php/Jay_Middle_School" title="Jay Middle School">Jay Middle School</a>
+</td>
+<td>48th
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td><a href="/wiki/index.php?title=Oxford_Hills_High_School&amp;action=edit&amp;redlink=1" class="new" title="Oxford Hills High School (page does not exist)">Oxford Hills High School</a>
+</td>
+<td>38th
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=1996_Maine_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="1996 Maine State Tournament (page does not exist)">1996</a> </b></td>
+<td><a href="/wiki/index.php/Jay_Middle_School" title="Jay Middle School">Jay Middle School</a>
+</td>
+<td>51st
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td><a href="/wiki/index.php/Waterville_Senior_High_School" title="Waterville Senior High School">Waterville Senior High School</a>
+</td>
+<td>48th
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=1997_Maine_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="1997 Maine State Tournament (page does not exist)">1997</a> </b></td>
+<td><a href="/wiki/index.php/Jay_Middle_School" title="Jay Middle School">Jay Middle School</a>
+</td>
+<td>50th
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td><a href="/wiki/index.php/Waterville_Senior_High_School" title="Waterville Senior High School">Waterville Senior High School</a>
+</td>
+<td>46th
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=1998_Maine_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="1998 Maine State Tournament (page does not exist)">1998</a> </b></td>
+<td><a href="/wiki/index.php/Jay_Middle_School" title="Jay Middle School">Jay Middle School</a>
+</td>
+<td>35th
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td><a href="/wiki/index.php/Waterville_Senior_High_School" title="Waterville Senior High School">Waterville Senior High School</a>
+</td>
+<td>38th
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=1999_Maine_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="1999 Maine State Tournament (page does not exist)">1999</a> </b></td>
+<td><a href="/wiki/index.php/Jay_Middle_School" title="Jay Middle School">Jay Middle School</a>
+</td>
+<td>51st
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td><a href="/wiki/index.php/Waterville_Senior_High_School" title="Waterville Senior High School">Waterville Senior High School</a>
+</td>
+<td>44th
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=2000_Maine_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2000 Maine State Tournament (page does not exist)">2000</a> </b></td>
+<td><a href="/wiki/index.php?title=Maranacook_Middle_School&amp;action=edit&amp;redlink=1" class="new" title="Maranacook Middle School (page does not exist)">Maranacook Middle School</a>
+</td>
+<td>50th
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td><a href="/wiki/index.php/Waterville_Senior_High_School" title="Waterville Senior High School">Waterville Senior High School</a>
+</td>
+<td>33th
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=2001_Maine_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2001 Maine State Tournament (page does not exist)">2001</a> </b></td>
+<td><a href="/wiki/index.php/Jay_Middle_School" title="Jay Middle School">Jay Middle School</a>
+</td>
+<td>53th
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td><a href="/wiki/index.php/Waterville_Senior_High_School" title="Waterville Senior High School">Waterville Senior High School</a>
+</td>
+<td>38th
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=2002_Maine_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2002 Maine State Tournament (page does not exist)">2002</a> </b></td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td><a href="/wiki/index.php/Waterville_Senior_High_School" title="Waterville Senior High School">Waterville Senior High School</a>
+</td>
+<td>36th
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=2003_Maine_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2003 Maine State Tournament (page does not exist)">2003</a> </b></td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td><a href="/wiki/index.php/Waterville_Senior_High_School" title="Waterville Senior High School">Waterville Senior High School</a>
+</td>
+<td>35th
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=2004_Maine_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2004 Maine State Tournament (page does not exist)">2004</a> </b></td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td><a href="/wiki/index.php/Waterville_Senior_High_School" title="Waterville Senior High School">Waterville Senior High School</a>
+</td>
+<td>27th
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=2005_Maine_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2005 Maine State Tournament (page does not exist)">2005</a> </b></td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td><a href="/wiki/index.php/Waterville_Senior_High_School" title="Waterville Senior High School">Waterville Senior High School</a>
+</td>
+<td>47th
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=2006_Maine_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2006 Maine State Tournament (page does not exist)">2006</a> </b></td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td><a href="/wiki/index.php/Waterville_Senior_High_School" title="Waterville Senior High School">Waterville Senior High School</a>
+</td>
+<td>52nd
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=2007_Maine_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2007 Maine State Tournament (page does not exist)">2007</a> </b></td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td><a href="/wiki/index.php/Waterville_Senior_High_School" title="Waterville Senior High School">Waterville Senior High School</a>
+</td>
+<td>37th
+</td>
+<td><a href="/wiki/index.php/Mt._Ararat_High_School" title="Mt. Ararat High School">Mt. Ararat High School</a>
+</td>
+<td>N/A
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=2008_Maine_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2008 Maine State Tournament (page does not exist)">2008</a> </b></td>
+<td><a href="/wiki/index.php/Troy_Howard_Middle_School" title="Troy Howard Middle School">Troy Howard Middle School</a>
+</td>
+<td>56th
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td><a href="/wiki/index.php/Waterville_Senior_High_School" title="Waterville Senior High School">Waterville Senior High School</a>
+</td>
+<td>44th
+</td>
+<td><a href="/wiki/index.php/Mt._Ararat_High_School" title="Mt. Ararat High School">Mt. Ararat High School</a>
+</td>
+<td>N/A
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=2009_Maine_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2009 Maine State Tournament (page does not exist)">2009</a> </b></td>
+<td><a href="/wiki/index.php/Troy_Howard_Middle_School" title="Troy Howard Middle School">Troy Howard Middle School</a>
+</td>
+<td>54th
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td><a href="/wiki/index.php/Waterville_Senior_High_School" title="Waterville Senior High School">Waterville Senior High School</a>
+</td>
+<td>47th
+</td>
+<td><a href="/wiki/index.php/Mt._Ararat_High_School" title="Mt. Ararat High School">Mt. Ararat High School</a>
+</td>
+<td>N/A
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=2010_Maine_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2010 Maine State Tournament (page does not exist)">2010</a> </b></td>
+<td><a href="/wiki/index.php?title=Bonny_Eagle_Middle_School&amp;action=edit&amp;redlink=1" class="new" title="Bonny Eagle Middle School (page does not exist)">Bonny Eagle Middle School</a>
+</td>
+<td>60th
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td><a href="/wiki/index.php/Waterville_Senior_High_School" title="Waterville Senior High School">Waterville Senior High School</a>
+</td>
+<td>58th
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=2011_Maine_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2011 Maine State Tournament (page does not exist)">2011</a> </b></td>
+<td><a href="/wiki/index.php/Troy_Howard_Middle_School" title="Troy Howard Middle School">Troy Howard Middle School</a>
+</td>
+<td>59th
+</td>
+<td><a href="/wiki/index.php/Medomak_Middle_School" title="Medomak Middle School">Medomak Middle School</a>
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td><a href="/wiki/index.php/Mt._Ararat_High_School" title="Mt. Ararat High School">Mt. Ararat High School</a>
+</td>
+<td>55th
+</td>
+<td><a href="/wiki/index.php/Belfast_Area_High_School" title="Belfast Area High School">Belfast Area High School</a>
+</td>
+<td>N/A
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=2012_Maine_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2012 Maine State Tournament (page does not exist)">2012</a> </b></td>
+<td><a href="/wiki/index.php/Troy_Howard_Middle_School" title="Troy Howard Middle School">Troy Howard Middle School</a>
+</td>
+<td>59th
+</td>
+<td><a href="/wiki/index.php/Medomak_Middle_School" title="Medomak Middle School">Medomak Middle School</a>
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td><a href="/wiki/index.php/Waterville_Senior_High_School" title="Waterville Senior High School">Waterville Senior High School</a>
+</td>
+<td>55th
+</td>
+<td><a href="/wiki/index.php/Waynflete_School" title="Waynflete School">Waynflete School</a>
+</td>
+<td>N/A
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=2013_Maine_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2013 Maine State Tournament (page does not exist)">2013</a> </b></td>
+<td><a href="/wiki/index.php/Medomak_Middle_School" title="Medomak Middle School">Medomak Middle School</a>
+</td>
+<td>60th
+</td>
+<td><a href="/wiki/index.php/Troy_Howard_Middle_School" title="Troy Howard Middle School">Troy Howard Middle School</a>
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td><a href="/wiki/index.php/Waynflete_School" title="Waynflete School">Waynflete School</a>
+</td>
+<td>52nd
+</td>
+<td><a href="/wiki/index.php/Waterville_Senior_High_School" title="Waterville Senior High School">Waterville Senior High School</a>
+</td>
+<td>N/A
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=2014_Maine_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2014 Maine State Tournament (page does not exist)">2014</a> </b></td>
+<td><a href="/wiki/index.php/Medomak_Middle_School" title="Medomak Middle School">Medomak Middle School</a>
+</td>
+<td>58th
+</td>
+<td><a href="/wiki/index.php/Medomak_Middle_School" title="Medomak Middle School">Medomak Middle School</a>
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td><a href="/wiki/index.php/Waynflete_School" title="Waynflete School">Waynflete School</a>
+</td>
+<td>48th
+</td>
+<td><a href="/wiki/index.php/Waterville_Senior_High_School" title="Waterville Senior High School">Waterville Senior High School</a>
+</td>
+<td>N/A
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=2015_Maine_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2015 Maine State Tournament (page does not exist)">2015</a> </b></td>
+<td><a href="/wiki/index.php/Medomak_Middle_School" title="Medomak Middle School">Medomak Middle School</a>
+</td>
+<td>58th
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td><a href="/wiki/index.php/Waynflete_School" title="Waynflete School">Waynflete School</a>
+</td>
+<td>48th
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=2016_Maine_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2016 Maine State Tournament (page does not exist)">2016</a> </b></td>
+<td><a href="/wiki/index.php/Waynflete_School" title="Waynflete School">Waynflete School</a>
+</td>
+<td>N/A<sup>1</sup>
+</td>
+<td><a href="/wiki/index.php/Medomak_Middle_School" title="Medomak Middle School">Medomak Middle School</a>
+</td>
+<td>55th
+</td>
+<td>
+</td>
+<td><a href="/wiki/index.php/Waynflete_School" title="Waynflete School">Waynflete School</a> (102)
+</td>
+<td>50th
+</td>
+<td><a href="/wiki/index.php/Waterville_Senior_High_School" title="Waterville Senior High School">Waterville Senior High School</a> (104)
+</td>
+<td>N/A
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=2017_Maine_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2017 Maine State Tournament (page does not exist)">2017</a> </b></td>
+<td><a href="/wiki/index.php/Medomak_Middle_School" title="Medomak Middle School">Medomak Middle School</a>
+</td>
+<td>57th
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td><a href="/wiki/index.php/Waynflete_School" title="Waynflete School">Waynflete School</a>
+</td>
+<td>N/A<sup>2</sup>
+</td>
+<td><a href="/wiki/index.php/Waterville_Senior_High_School" title="Waterville Senior High School">Waterville Senior High School</a>
+</td>
+<td>50th
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=2018_Maine_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2018 Maine State Tournament (page does not exist)">2018</a> </b></td>
+<td><a href="/wiki/index.php/Medomak_Middle_School" title="Medomak Middle School">Medomak Middle School</a>
+</td>
+<td>59th
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td>
+<td><a href="/wiki/index.php/Waynflete_School" title="Waynflete School">Waynflete School</a>
+</td>
+<td>52nd
+</td>
+<td>
+</td>
+<td>N/A
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php/2019_Maine_State_Tournament" title="2019 Maine State Tournament">2019</a> </b></td>
+<td><a href="/wiki/index.php/Waynflete_School" title="Waynflete School">Waynflete School</a>
+</td>
+<td>N/A<sup>1</sup>
+</td>
+<td><a href="/wiki/index.php/Medomak_Middle_School" title="Medomak Middle School">Medomak Middle School</a>
+</td>
+<td>55th
+</td>
+<td>
+</td>
+<td><a href="/wiki/index.php/Waynflete_School" title="Waynflete School">Waynflete School</a>
+</td>
+<td>N/A<sup>2</sup>
+</td>
+<td><a href="/wiki/index.php/Waterville_Senior_High_School" title="Waterville Senior High School">Waterville Senior High School</a>
+</td>
+<td>52nd
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td><b><a href="/wiki/index.php?title=2020_Maine_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2020 Maine State Tournament (page does not exist)">2020</a> </b></td>
+<td colspan="10"><i>Cancelled due to the <a href="/wiki/index.php/2019-20_Coronavirus_outbreak" title="2019-20 Coronavirus outbreak">2019-20 Coronavirus outbreak</a></i>
+</td></tr>
+
+
+
+
+
+</tbody></table>
+<dl><dd><sup>1</sup> In <a href="/wiki/index.php/University_of_Wisconsin_2016" title="University of Wisconsin 2016">2016</a> and <a href="/wiki/index.php/Cornell_University_2019" title="Cornell University 2019">2019</a>, <a href="/wiki/index.php/Medomak_Middle_School" title="Medomak Middle School">Medomak Middle School</a> represented Maine at the National Tournament.<br /></dd>
+<dd><sup>2</sup> In <a href="/wiki/index.php/Wright_State_University_2017" title="Wright State University 2017">2017</a> and <a href="/wiki/index.php/Cornell_University_2019" title="Cornell University 2019">2019</a>, <a href="/wiki/index.php/Waterville_Senior_High_School" title="Waterville Senior High School">Waterville Senior High School</a> represented Maine at the National Tournament.<br /></dd>
+<dd></dd>
+<dd></dd>
+<dd></dd>
+<dd></dd>
+<dd></dd>
+<dd></dd>
+<dd></dd>
+<dd></dd></dl>
+<p><br />
+</p>
+<h2><span class="mw-headline" id="Competitions">Competitions</span></h2>
+<p>Maine has no invitationals or regionals, the only competition is state.
+</p>
+<h3><span class="mw-headline" id="State_Competition">State Competition</span></h3>
+<dl><dd><s>April 4th, 2020 at the University of Southern Maine at Gorham</s> Cancelled due to <a href="/wiki/index.php/2019-20_Coronavirus_outbreak" title="2019-20 Coronavirus outbreak">2019-20 Coronavirus outbreak</a></dd></dl>
+<h4><span class="mw-headline" id="Past_Division_B_Competitions">Past Division B Competitions</span></h4>
+<dl><dd>2015-2016: University of Southern Maine (Gorham, Maine)
+<dl><dd>2016 March 26, 2016</dd>
+<dd>2015 March 21, 2015</dd></dl></dd>
+<dd>2011 - 2014: University of Maine, Department of Physics &amp; Astronomy (Orono, Maine)
+<dl><dd>2014 March 1, 2014</dd>
+<dd>2013 March 16, 2013</dd>
+<dd>2012 March 10, 2012</dd>
+<dd>2011 March 12, 2011</dd></dl></dd>
+<dd>2008 - 2010: Waynflete School (Portland, Maine)
+<dl><dd>2010 March 6, 2010</dd>
+<dd>2009 March 7, 2009</dd>
+<dd>2008 March 15, 2008</dd></dl></dd>
+<dd>2002? - 2007: not held</dd>
+<dd>1985 - 2001?:&#160;? various locations</dd></dl>
+<h4><span class="mw-headline" id="Past_Division_C_Competitions">Past Division C Competitions</span></h4>
+<dl><dd>2015 - 2016: University of Southern Maine (Gorham, Maine)
+<dl><dd>2016 March 26, 2016</dd>
+<dd>2015 March 21, 2015</dd></dl></dd></dl>
+<dl><dd>2014: University of Maine (Orono, Maine)
+<dl><dd>2014 March 29, 2014</dd></dl></dd></dl>
+<dl><dd>2007 - 2013: University of Southern Maine (Gorham, Maine)
+<dl><dd>2013 April 6, 2013</dd>
+<dd>2012 March 31, 2012</dd>
+<dd>2011 April 9, 2011</dd>
+<dd>2010 April 3, 2010</dd>
+<dd>2009 March 28, 2009</dd>
+<dd>2008 April 5, 2008</dd>
+<dd>2007 March 31, 2007</dd></dl></dd></dl>
+<dl><dd>1985 - 2006&#160;: Various locations, mostly MCI, Waterville Sr HS, Mt. Ararat HS, and Windham HS of which these are certain:
+<dl><dd>1997 Maine School of Science and Mathematics "MSSM" (Limestone, ME)</dd>
+<dd>1996 Mt. Ararat High School (Topsham, ME)</dd>
+<dd>1990 Maine Central Institute "MCI" (Pittsfield, ME)</dd></dl></dd></dl>
+<h2><span class="mw-headline" id="Teams">Teams</span></h2>
+<h3><span class="mw-headline" id="Division_B">Division B</span></h3>
+<dl><dd><a href="/wiki/index.php?title=Bonny_Eagle_Middle_School&amp;action=edit&amp;redlink=1" class="new" title="Bonny Eagle Middle School (page does not exist)">Bonny Eagle Middle School</a></dd>
+<dd><a href="/wiki/index.php/Falmouth_Middle_School" title="Falmouth Middle School">Falmouth Middle School</a></dd>
+<dd><a href="/wiki/index.php?title=Glenburn_School&amp;action=edit&amp;redlink=1" class="new" title="Glenburn School (page does not exist)">Glenburn School</a></dd>
+<dd><a href="/wiki/index.php/Medomak_Middle_School" title="Medomak Middle School">Medomak Middle School</a></dd>
+<dd><a href="/wiki/index.php/Mount_Merici_Middle_School" title="Mount Merici Middle School">Mount Merici Middle School</a></dd>
+<dd><a href="/wiki/index.php?title=Searsport_Middle_School&amp;action=edit&amp;redlink=1" class="new" title="Searsport Middle School (page does not exist)">Searsport Middle School</a></dd>
+<dd><a href="/wiki/index.php/Troy_Howard_Middle_School" title="Troy Howard Middle School">Troy Howard Middle School</a></dd>
+<dd><a href="/wiki/index.php?title=Wagner_Middle_School&amp;action=edit&amp;redlink=1" class="new" title="Wagner Middle School (page does not exist)">Wagner Middle School</a></dd>
+<dd><a href="/wiki/index.php/Waynflete_School" title="Waynflete School">Waynflete School</a></dd>
+<dd><a href="/wiki/index.php?title=Whittier_Middle_School_(Maine)&amp;action=edit&amp;redlink=1" class="new" title="Whittier Middle School (Maine) (page does not exist)">Whittier Middle School</a></dd></dl>
+<h3><span class="mw-headline" id="Division_C">Division C</span></h3>
+<dl><dd><a href="/wiki/index.php/Bangor_High_School" title="Bangor High School">Bangor High School</a></dd>
+<dd><a href="/wiki/index.php/Baxter_Academy_for_Technology_and_Science" title="Baxter Academy for Technology and Science">Baxter Academy for Technology and Science</a></dd>
+<dd><a href="/wiki/index.php/Belfast_Area_High_School" title="Belfast Area High School">Belfast Area High School</a></dd>
+<dd><a href="/wiki/index.php?title=Cape_Elizabeth_High_School&amp;action=edit&amp;redlink=1" class="new" title="Cape Elizabeth High School (page does not exist)">Cape Elizabeth High School</a></dd>
+<dd><a href="/wiki/index.php/Falmouth_High_School" title="Falmouth High School">Falmouth High School</a></dd>
+<dd><a href="/wiki/index.php?title=Freeport_High_School_(Maine)&amp;action=edit&amp;redlink=1" class="new" title="Freeport High School (Maine) (page does not exist)">Freeport High School</a></dd>
+<dd><a href="/wiki/index.php/Gould_Academy" title="Gould Academy">Gould Academy</a></dd>
+<dd><a href="/wiki/index.php/Hebron_Academy" title="Hebron Academy">Hebron Academy</a></dd>
+<dd><a href="/wiki/index.php/Lincoln_Academy" title="Lincoln Academy">Lincoln Academy</a></dd>
+<dd><a href="/wiki/index.php/Lisbon_High_School" title="Lisbon High School">Lisbon High School</a></dd>
+<dd><a href="/wiki/index.php?title=Maine_Central_Institute&amp;action=edit&amp;redlink=1" class="new" title="Maine Central Institute (page does not exist)">Maine Central Institute</a> (MCI)</dd>
+<dd><a href="/wiki/index.php?title=Maine_School_of_Science_and_Mathematics&amp;action=edit&amp;redlink=1" class="new" title="Maine School of Science and Mathematics (page does not exist)">Maine School of Science and Mathematics</a> (MSSM)</dd>
+<dd><a href="/wiki/index.php/Massabesic_High_School" title="Massabesic High School">Massabesic High School</a></dd>
+<dd><a href="/wiki/index.php?title=Medomak_Valley_High_School&amp;action=edit&amp;redlink=1" class="new" title="Medomak Valley High School (page does not exist)">Medomak Valley High School</a></dd>
+<dd><a href="/wiki/index.php/Mt._Ararat_High_School" title="Mt. Ararat High School">Mt. Ararat High School</a></dd>
+<dd><a href="/wiki/index.php?title=Old_Town_High_School&amp;action=edit&amp;redlink=1" class="new" title="Old Town High School (page does not exist)">Old Town High School</a></dd>
+<dd><a href="/wiki/index.php?title=Oxford_Hills_High_School&amp;action=edit&amp;redlink=1" class="new" title="Oxford Hills High School (page does not exist)">Oxford Hills High School</a></dd>
+<dd><a href="/wiki/index.php?title=Searsport_District_High_School&amp;action=edit&amp;redlink=1" class="new" title="Searsport District High School (page does not exist)">Searsport District High School</a></dd>
+<dd><a href="/wiki/index.php/Thornton_Academy" title="Thornton Academy">Thornton Academy</a></dd>
+<dd><a href="/wiki/index.php/Waterville_Senior_High_School" title="Waterville Senior High School">Waterville Senior High School</a></dd>
+<dd><a href="/wiki/index.php/Waynflete_School" title="Waynflete School">Waynflete School</a></dd>
+<dd><a href="/wiki/index.php/Windham_High_School_(Maine)" title="Windham High School (Maine)">Windham High School</a></dd>
+<dd><a href="/wiki/index.php?title=Yarmouth_High_School&amp;action=edit&amp;redlink=1" class="new" title="Yarmouth High School (page does not exist)">Yarmouth High School</a></dd></dl>
+<h2><span class="mw-headline" id="External_Links">External Links</span></h2>
+<div role="navigation" class="navbox" aria-labelledby="Tournaments_of_Maine" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="3"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/index.php/Template:Tournaments_of_Maine" title="Template:Tournaments of Maine"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/index.php?title=Template_talk:Tournaments_of_Maine&amp;action=edit&amp;redlink=1" class="new" title="Template talk:Tournaments of Maine (page does not exist)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a rel="nofollow" class="external text" href="https://scioly.org/wiki/index.php?title=Template:Tournaments_of_Maine&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Tournaments_of_Maine" style="font-size:114%;margin:0 4em">Tournaments of <a class="mw-selflink selflink">Maine</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">States</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php?title=2016_Maine_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2016 Maine State Tournament (page does not exist)">2016</a></li>
+<li><a href="/wiki/index.php?title=2017_Maine_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2017 Maine State Tournament (page does not exist)">2017</a></li>
+<li><a href="/wiki/index.php?title=2018_Maine_State_Tournament&amp;action=edit&amp;redlink=1" class="new" title="2018 Maine State Tournament (page does not exist)">2018</a></li>
+<li><a href="/wiki/index.php/2019_Maine_State_Tournament" title="2019 Maine State Tournament">2019</a></li></ul>
+</div></td><td class="navbox-image" rowspan="1" style="width:1px;padding:0px 0px 0px 2px"><div><a href="/wiki/index.php/Maine" title="Maine"><img alt="FlagOfMaine.png" src="/wiki/images/a/aa/FlagOfMaine.png" width="150" height="118" /></a></div></td></tr><tr><td class="navbox-abovebelow" colspan="3"><div>State Website: <a rel="nofollow" class="external free" href="https://scilympiad.com/me/">https://scilympiad.com/me/</a></div></td></tr></tbody></table></div>
+
+<!-- 
+NewPP limit report
+Cached time: 20200806223259
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.528 seconds
+Real time usage: 0.577 seconds
+Preprocessor visited node count: 2542/1000000
+Preprocessor generated node count: 9603/1000000
+Post‐expand include size: 31009/2097152 bytes
+Template argument size: 11683/2097152 bytes
+Highest expansion depth: 6/40
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.030/7.000 seconds
+Lua virtual size: 8.37 MB/50 MB
+Lua estimated memory usage: 0 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  276.785      1 -total
+ 65.06%  180.079      1 Template:State_tournament_results_box
+ 36.02%   99.689     36 Template:Strb_row
+ 31.99%   88.549      1 Template:Tournaments_of_Maine
+ 30.55%   84.556      1 Template:Navbox
+  2.55%    7.070      1 Template:SOInfoBox
+  2.33%    6.457      2 Template:Break
+-->
+</div>
+<!-- Saved in parser cache with key wiki-wikiv2_:pcache:idhash:259-0!canonical and timestamp 20200806223259 and revision id 102291
+ -->
+</div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://scioly.org/wiki/index.php?title=Maine&amp;oldid=102291">https://scioly.org/wiki/index.php?title=Maine&amp;oldid=102291</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/index.php/Special:Categories" title="Special:Categories">Category</a>: <ul><li><a href="/wiki/index.php/Category:State_Pages" title="Category:State Pages">State Pages</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-login"><a href="//scioly.org/forums/ucp.php?mode=login&amp;redirect=https%3A%2F%2Fscioly.org%2Fwiki%2Findex.php%2FMaine" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/index.php/Maine" title="View the content page [c]" accesskey="c">Page</a></span></li><li id="ca-talk" class="new"><span><a href="/wiki/index.php?title=Talk:Maine&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/index.php/Maine">Read</a></span></li><li id="ca-viewsource" class="collapsible"><span><a href="/wiki/index.php?title=Maine&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li><li id="ca-history" class="collapsible"><span><a href="/wiki/index.php?title=Maine&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/wiki/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Scioly.org" title="Search Scioly.org [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/index.php/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage"><a href="/wiki/index.php/Main_Page" title="Visit the main page [z]" accesskey="z">Main Page</a></li><li id="n-recentchanges"><a href="/wiki/index.php/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/wiki/index.php/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-MediaWiki-Help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">MediaWiki Help</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/index.php/Special:WhatLinksHere/Maine" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/index.php/Special:RecentChangesLinked/Maine" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/wiki/index.php/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="/wiki/index.php?title=Maine&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/wiki/index.php?title=Maine&amp;oldid=102291" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/wiki/index.php?title=Maine&amp;action=info" title="More information about this page">Page information</a></li>				</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 5 July 2020, at 09:16.</li>
+								<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution</a> unless otherwise noted.</li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="http://creativecommons.org/licenses/by/3.0/"><img src="/wiki/resources/assets/licenses/cc-by.png" alt="Creative Commons Attribution" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<style>.MathJax_Display{display:inline !important;}
+.mathjax-wrapper{font-size:120%;}</style>
+<script type='text/x-mathjax-config'>MathJax.Hub.Config({displayAlign:'left',tex2jax:{displayMath:[['[math]','[/math]']]}})</script>
+<script src='//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.528","walltime":"0.577","ppvisitednodes":{"value":2542,"limit":1000000},"ppgeneratednodes":{"value":9603,"limit":1000000},"postexpandincludesize":{"value":31009,"limit":2097152},"templateargumentsize":{"value":11683,"limit":2097152},"expansiondepth":{"value":6,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%  276.785      1 -total"," 65.06%  180.079      1 Template:State_tournament_results_box"," 36.02%   99.689     36 Template:Strb_row"," 31.99%   88.549      1 Template:Tournaments_of_Maine"," 30.55%   84.556      1 Template:Navbox","  2.55%    7.070      1 Template:SOInfoBox","  2.33%    6.457      2 Template:Break"]},"scribunto":{"limitreport-timeusage":{"value":"0.030","limit":"7.000"},"limitreport-virtmemusage":{"value":8777728,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20200806223259","ttl":86400,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":134});});</script>
+	</body>
+</html>

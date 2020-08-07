@@ -1,0 +1,782 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Machines - Scioly.org</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Machines","wgTitle":"Machines","wgCurRevisionId":106480,"wgRevisionId":106480,"wgArticleId":11305,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Physical Science and Chemistry Events","Event Pages","Lab Event Pages"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Machines","wgRelevantArticleId":11305,"wgRequestId":"1612d8dbefc68b4ef918665d","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":[]});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","site":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@1ltrs49",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/wiki/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/wiki/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/wiki/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.8"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/wiki/opensearch_desc.php" title="Scioly.org (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://scioly.org/wiki/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Scioly.org Atom feed" href="/wiki/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/wiki/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Machines rootpage-Machines skin-vector action-view"><meta property="og:title" content="Science Olympiad Student Center"/>
+<meta property="og:type" content="website"/>
+<meta property="og:url" content="https://scioly.org/"/>
+
+<meta property="og:image" content="http://scioly.org/src/img/logo/logo_square.png"/>
+<meta property="og:image:secure_url" content="https://scioly.org/src/img/logo/logo_square.png"/> 
+<meta property="og:image:type" content="image/png"/> 
+<meta property="og:image:width" content="500"/> 
+<meta property="og:image:height" content="500"/>
+
+<meta property="og:description" content="A resource by and for Science Olympiad students, coaches, and alumni nationwide."/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script type="text/javascript" src="/src/js/jquery.min.js"></script>
+<script type="text/javascript" src="/src/js/main.js"></script>
+
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+<link rel="stylesheet" type="text/css" href="/src/css/main.css">
+
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<link rel="icon" href="/favicon.ico" type="image/x-icon"><div class="site-nav">
+	<a href="/">
+		<img src="/src/img/logo/logo.png">
+	</a>
+	<div class="hamburger" onclick="hamburger(this)">
+		<div>
+			<div></div>
+			<div></div>
+			<div></div>
+		</div>
+	</div>
+	<ul>
+		<li><a href="/forums">Forums</a></li>
+		<li><a href="/wiki">Wiki</a></li>
+		<li><a href="/tests">Test Exchange</a></li>
+		<!-- <li><a href="/gallery">Image Gallery</a></li> -->
+		<!-- <li><a href="/invitational">Invites</a></li> -->
+		<li><a href="/chat">Chat</a></li>
+		<li><a href="/login" class="button">Login</a></li>
+	</ul>
+</div>
+<img class="print-only" src="/src/img/logo/logo_black.png" style="max-width: 150px;"><link rel="stylesheet" type="text/css" href="/src/css/wiki.css">
+<div id="wrap-me-up">
+
+
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Machines</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Scioly.org</div>				<div id="contentSub"></div>
+								<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table align="right" class="infobox">
+
+<tbody><tr>
+<th colspan="2" style="font-size: larger; text-align: center;"><b>Machines</b>
+</th></tr>
+<tr>
+<td colspan="2"><center><i>This event is an event held in the current season.</i></center>
+</td></tr>
+<tr>
+<td colspan="2"><hr />
+</td></tr>
+<tr>
+<td><b>Type</b>
+</td>
+<td>Physics
+</td></tr>
+<tr>
+<td><b>Category</b>
+</td>
+<td>Lab
+</td></tr>
+<tr>
+<td colspan="2" class="infobox-header"><b>Event Information</b>
+</td></tr>
+
+
+
+
+
+
+
+<tr>
+<td><b>Latest Appearance</b>
+</td>
+<td>2020
+</td></tr>
+<tr>
+<td colspan="2" class="infobox-header"><b>Forum Threads</b>
+</td></tr>
+
+<tr>
+<td colspan="2" style="padding: 0;">
+<table class="infobox-events-link-table">
+
+<tbody><tr>
+<td><a rel="nofollow" class="external text" href="https://scioly.org/forums/viewforum.php?f=322">2020</a>
+</td>
+<td><span> </span>
+</td>
+<td><span> </span>
+</td>
+<td><span> </span>
+</td>
+<td><span> </span>
+</td></tr>
+</tbody></table>
+</td></tr>
+<tr>
+<td colspan="2" style="padding: 0;">
+<table class="infobox-events-link-table">
+
+<tbody><tr>
+<td><a rel="nofollow" class="external text" href="http://scioly.org/phpBB3/viewtopic.php?f=186&amp;t=5965">2015</a>
+</td>
+<td><a rel="nofollow" class="external text" href="http://www.scioly.org/phpBB3/viewtopic.php?f=167&amp;t=4975">2014</a>
+</td>
+<td><span> </span>
+</td>
+<td><span> </span>
+</td>
+<td><span> </span>
+</td></tr>
+</tbody></table>
+</td></tr>
+
+<tr>
+<td colspan="2" class="infobox-header"><b>Forum Question Threads</b>
+</td></tr>
+
+<tr>
+<td colspan="2" style="padding: 0;">
+<table class="infobox-events-link-table">
+
+<tbody><tr>
+<td><a rel="nofollow" class="external text" href="https://scioly.org/forums/viewtopic.php?f=297&amp;t=15733">2020</a>
+</td>
+<td><span> </span>
+</td>
+<td><span> </span>
+</td>
+<td><span> </span>
+</td>
+<td><span> </span>
+</td></tr>
+</tbody></table>
+</td></tr>
+<tr>
+<td colspan="2" style="padding: 0;">
+<table class="infobox-events-link-table">
+
+<tbody><tr>
+<td><a rel="nofollow" class="external text" href="http://www.scioly.org/phpBB3/viewtopic.php?f=193&amp;t=6236">2015</a>
+</td>
+<td><a rel="nofollow" class="external text" href="http://www.scioly.org/phpBB3/viewtopic.php?f=173&amp;t=5023">2014</a>
+</td>
+<td><span> </span>
+</td>
+<td><span> </span>
+</td>
+<td><span> </span>
+</td></tr>
+</tbody></table>
+</td></tr>
+
+
+
+<tr>
+<td colspan="2" class="infobox-header"><b>Official Resources</b>
+</td></tr>
+<tr>
+<td><b>Division B Website</b>
+</td>
+<td><a rel="nofollow" class="external text" href="https://www.soinc.org/machines-b">soinc.org</a>
+</td></tr>
+<tr>
+<td><b>Division C Website</b>
+</td>
+<td><a rel="nofollow" class="external text" href="https://www.soinc.org/machines-c">soinc.org</a>
+</td></tr>
+<tr>
+<td colspan="2" class="infobox-header"><b>Division B Results</b>
+</td></tr>
+<tr>
+<td colspan="2" style="padding: 0;">
+<table class="infobox-scoreboard" style="margin: 0; padding: 0; width:100%;">
+
+
+<tbody><tr style="background-color: gold;">
+<td style="width: 10%; text-align: center;"><b>1st</b>
+</td>
+<td style="width: 90%; padding-left: 5px;"><b>Piedmont Middle School</b>
+</td></tr>
+<tr style="background-color: silver;">
+<td style="width: 10%; text-align: center;">2nd
+</td>
+<td style="width: 90%; padding-left: 5px;">Longfellow Middle School
+</td></tr>
+<tr style="background-color: #d1965c;">
+<td style="width: 10%; text-align: center;">3rd
+</td>
+<td style="width: 90%; padding-left: 5px;">Solon Middle School
+</td></tr>
+</tbody></table>
+</td></tr>
+<tr>
+<td colspan="2" class="infobox-header"><b>Division C Results</b>
+</td></tr>
+<tr>
+<td colspan="2" style="padding: 0;">
+<table class="infobox-scoreboard" style="margin: 0; padding: 0; width:100%;">
+
+
+<tbody><tr style="background-color: gold;">
+<td style="width: 10%; text-align: center;"><b>1st</b>
+</td>
+<td style="width: 90%; padding-left: 5px;"><b>West Windsor-Plainsboro High School North</b>
+</td></tr>
+<tr style="background-color: silver;">
+<td style="width: 10%; text-align: center;">2nd
+</td>
+<td style="width: 90%; padding-left: 5px;">Mounds View High School
+</td></tr>
+<tr style="background-color: #d1965c;">
+<td style="width: 10%; text-align: center;">3rd
+</td>
+<td style="width: 90%; padding-left: 5px;">New Trier High School
+</td></tr>
+</tbody></table>
+</td></tr>
+</tbody></table>
+<p><b>Machines</b> is a <a href="/wiki/index.php/Division_B" title="Division B">Division B</a> and <a href="/wiki/index.php/Division_C" title="Division C">Division C</a> event for the <a href="/wiki/index.php/2020" title="2020">2020</a> and <a href="/wiki/index.php/2021" title="2021">2021</a> seasons. It consists of both a build and test portion involving the fundamental concepts of simple and compound machines, including the types of simple machines, their uses, input and output forces, mechanical advantage, and more.
+</p><p>When the event was last in rotation, in <a href="/wiki/index.php/2014" title="2014">2014</a> and <a href="/wiki/index.php/2015" title="2015">2015</a>, it was known as <b>Simple Machines</b> in Division B and <b>Compound Machines</b> in Division C.
+</p><p><br />
+</p>
+<div id="toc" class="toc"><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Event_Overview"><span class="tocnumber">1</span> <span class="toctext">Event Overview</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#The_Written_Test"><span class="tocnumber">2</span> <span class="toctext">The Written Test</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Force"><span class="tocnumber">2.1</span> <span class="toctext">Force</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Work"><span class="tocnumber">2.2</span> <span class="toctext">Work</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Energy"><span class="tocnumber">2.3</span> <span class="toctext">Energy</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Conservation_of_Energy"><span class="tocnumber">2.4</span> <span class="toctext">Conservation of Energy</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Mechanical_Advantage"><span class="tocnumber">2.5</span> <span class="toctext">Mechanical Advantage</span></a>
+<ul>
+<li class="toclevel-3 tocsection-8"><a href="#Ideal_Mechanical_Advantage"><span class="tocnumber">2.5.1</span> <span class="toctext">Ideal Mechanical Advantage</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-9"><a href="#Actual_Mechanical_Advantage"><span class="tocnumber">2.6</span> <span class="toctext">Actual Mechanical Advantage</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Efficiency"><span class="tocnumber">2.7</span> <span class="toctext">Efficiency</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Torque"><span class="tocnumber">2.8</span> <span class="toctext">Torque</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Power"><span class="tocnumber">2.9</span> <span class="toctext">Power</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#History"><span class="tocnumber">2.10</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-3 tocsection-14"><a href="#Lever"><span class="tocnumber">2.10.1</span> <span class="toctext">Lever</span></a></li>
+<li class="toclevel-3 tocsection-15"><a href="#Pulley"><span class="tocnumber">2.10.2</span> <span class="toctext">Pulley</span></a></li>
+<li class="toclevel-3 tocsection-16"><a href="#Inclined_Plane"><span class="tocnumber">2.10.3</span> <span class="toctext">Inclined Plane</span></a></li>
+<li class="toclevel-3 tocsection-17"><a href="#Wheel_and_Axle"><span class="tocnumber">2.10.4</span> <span class="toctext">Wheel and Axle</span></a></li>
+<li class="toclevel-3 tocsection-18"><a href="#Wedge"><span class="tocnumber">2.10.5</span> <span class="toctext">Wedge</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-19"><a href="#Significant_Figures"><span class="tocnumber">2.11</span> <span class="toctext">Significant Figures</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-20"><a href="#Types_of_Simple_Machines"><span class="tocnumber">3</span> <span class="toctext">Types of Simple Machines</span></a>
+<ul>
+<li class="toclevel-2 tocsection-21"><a href="#Pulleys"><span class="tocnumber">3.1</span> <span class="toctext">Pulleys</span></a></li>
+<li class="toclevel-2 tocsection-22"><a href="#Belt_and_Pulley_System"><span class="tocnumber">3.2</span> <span class="toctext">Belt and Pulley System</span></a></li>
+<li class="toclevel-2 tocsection-23"><a href="#Inclined_Planes"><span class="tocnumber">3.3</span> <span class="toctext">Inclined Planes</span></a></li>
+<li class="toclevel-2 tocsection-24"><a href="#Wheel_and_Axles"><span class="tocnumber">3.4</span> <span class="toctext">Wheel and Axles</span></a></li>
+<li class="toclevel-2 tocsection-25"><a href="#Levers"><span class="tocnumber">3.5</span> <span class="toctext">Levers</span></a></li>
+<li class="toclevel-2 tocsection-26"><a href="#Wedges"><span class="tocnumber">3.6</span> <span class="toctext">Wedges</span></a></li>
+<li class="toclevel-2 tocsection-27"><a href="#Screws_.28Division_C_only.29"><span class="tocnumber">3.7</span> <span class="toctext">Screws (Division C only)</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-28"><a href="#Common_Compound_Machines"><span class="tocnumber">4</span> <span class="toctext">Common Compound Machines</span></a>
+<ul>
+<li class="toclevel-2 tocsection-29"><a href="#Gear_system"><span class="tocnumber">4.1</span> <span class="toctext">Gear system</span></a></li>
+<li class="toclevel-2 tocsection-30"><a href="#Differential_Pulley_and_Windlass"><span class="tocnumber">4.2</span> <span class="toctext">Differential Pulley and Windlass</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-31"><a href="#The_Device"><span class="tocnumber">5</span> <span class="toctext">The Device</span></a>
+<ul>
+<li class="toclevel-2 tocsection-32"><a href="#Material"><span class="tocnumber">5.1</span> <span class="toctext">Material</span></a></li>
+<li class="toclevel-2 tocsection-33"><a href="#Designing_the_device"><span class="tocnumber">5.2</span> <span class="toctext">Designing the device</span></a></li>
+<li class="toclevel-2 tocsection-34"><a href="#Tips"><span class="tocnumber">5.3</span> <span class="toctext">Tips</span></a></li>
+<li class="toclevel-2 tocsection-35"><a href="#Construction_Restrictions"><span class="tocnumber">5.4</span> <span class="toctext">Construction Restrictions</span></a></li>
+<li class="toclevel-2 tocsection-36"><a href="#During_Competition"><span class="tocnumber">5.5</span> <span class="toctext">During Competition</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-37"><a href="#Additional_Links"><span class="tocnumber">6</span> <span class="toctext">Additional Links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Event_Overview">Event Overview</span></h2>
+<p>Machines is an event in which competitors take a written test and use a homemade lever/lever system to determine the ratios of unknown masses. The included simple machines are levers, pulleys, wheels and axles, inclined planes, wedges, and screws.
+</p><p>A <b>simple machine</b> is a mechanical device for applying force. They are useful because they can make physical jobs easier, by changing the magnitude or direction of the force, or the distance that the force is applied over. <b>Compound machines</b> are made of two or more simple machines. A compound machine can allow more complex machines and more complex outputs and functions. 
+</p>
+<h2><span class="mw-headline" id="The_Written_Test">The Written Test</span></h2>
+<p>The written test will include topics such as IMA, AMA, efficiency, work, torque, power, and history.  A free response answer will be marked as wrong if significant figures are not taken into account, although some graders may give partial credit.  Units should always be included.
+</p>
+<h3><span class="mw-headline" id="Force">Force</span></h3>
+<p>A <b>force</b>, intuitively a push or a pull, is any action that tends to change the motion of an object. A force has the potential to accelerate any object with mass. The SI unit of force is the <b>newton</b> (N). One newton is equivalent to the force required to accelerate a mass of 1 kilogram by 1 meter per second every second ([math]N=\frac{kg\cdot m}{s^2}[/math]).
+</p><p>Forces are represented by the symbol [math]F[/math]. They are vectors, having both magnitude and direction. The net force on an object is the sum of all the forces acting on the object. An object's acceleration is given by Newton's Second Law
+</p>
+<div align="center">[math]F=ma,[/math] </div>
+<p>where [math]m[/math] is the mass of the object.
+</p>
+<h3><span class="mw-headline" id="Work">Work</span></h3>
+<p><b>Work</b> is the application of a force over a distance. That is, a force [math]F[/math] acting on an object is doing 'work' if the object experiences displacement [math]\Delta s[/math] under the force. Work represents how much mechanical energy is being transferred from one object to another. 
+</p><p>The SI unit of work (and energy) is the joule (J), which is equal to the energy required to apply one newton of force applied over a distance of one meter ([math]J=N\cdot m[/math]).
+</p><p>Work can be negative.  For example, if object 2 is transferring mechanical energy to object 1, then the work done by object 1 is negative.  Emphasis should be put on the difference between work done <i>on</i> and work done <i>by</i>.  The work done on an object refers to the mechanical energy transferred to that object, whereas work done by an object refers to the mechanical energy transferred from that object to another.
+</p><p>The amount of work performed by a force can be represented by the formula [math]W = F \cdot d[/math], in which "W" represents the work applied, "F" represents the amount of force, and "d" represents the distance over which the force is applied.
+</p><p>If the angle formed by the force and the displacement is [math]\theta[/math], then the work that [math]F[/math] does on the object is given by 
+</p>
+<div align="center">[math]W=F\cdot \Delta s = |F|\cdot |\Delta s|\cdot\cos \theta, [/math] </div>
+<p>where [math]F, \Delta s[/math] are vectors, while work [math]W[/math] is a scalar.
+</p>
+<h3><span class="mw-headline" id="Energy">Energy</span></h3>
+<p>The <b>energy</b> of an object quantifies its ability to affect its environment. The SI unit of energy is Joule [math]J=N\cdot m[/math].
+</p><p>There are many forms of energy. In this event, we primarily consider an object's kinetic energy (the energy it possess from motion) and potential energy (the energy it posses from its location in a field; in this event, the gravitational field). The total mechanical energy of an object is given by the sum of its kinetic and potential energy.
+</p>
+<h3><span class="mw-headline" id="Conservation_of_Energy">Conservation of Energy</span></h3>
+<p>The <b>law of conservation of energy</b> states that in a closed system with no outside influences, energy is neither lost nor gained. Despite this, energy can change forms. Work can be converted into heat through friction.  Work can be converted into sound. Heat can be converted into work, through engines. But energy is never lost nor gained. This is an important concept to keep in mind.
+</p>
+<h3><span class="mw-headline" id="Mechanical_Advantage">Mechanical Advantage</span></h3>
+<p><b>Mechanical advantage</b> is the factor by which a machine multiplies force. It is described as the ratio of the output force to the input force. 
+</p><p>Because of mechanical advantage, machines are able to multiply the input force, resulting in a greater output force, therefore decreasing the amount of input force required to move an object or perform a task. Although machines may have mechanical advantage and can multiply the force applied, due to the law of conservation of energy, they can never multiply the energy (or work) that is applied. They are able to decrease the amount of force required to perform a task by increasing the distance over which the force is applied. If the distance is increased, a smaller force is required to perform the same amount of work.
+</p><p>Mechanical advantage does not have any units.
+</p><p>Mechanical advantage is the ratio of the output force to the input force, as described in the formula [math]MA = {F_o \over F_i}[/math], where "MA" represents the mechanical advantage of the machine, "F<sub>o</sub>" represents the output force, and "F<sub>i</sub>" represents the input force.
+</p>
+<h4><span class="mw-headline" id="Ideal_Mechanical_Advantage">Ideal Mechanical Advantage</span></h4>
+<p>Ideal Mechanical Advantage (IMA) is the number of times a machine would multiply an effort force if there were no friction or wear on the machine. For example, if a machine has an IMA of 2, that means that the force applied was doubled by the machine (once again assuming no friction). If the IMA of a machine is 1/2, that means that the force applied was halved by the machine. If the IMA is 1, that means the force applied stayed the same. 
+</p><p>However, machines with a high IMA are not always desirable. The higher IMA a machine has, the less distance the load moves in comparison to the distance of the input force. If a machine has an IMA of greater than 1, then the load is being moved less of a distance than the distance of which the force is applied. A machine with an IMA less than one will move an object a further distance, at the sacrifice of force.
+</p><p>The IMA is equal to the ratio of the distance over which the input force is applied to the distance over which the output force is applied. Each type of simple machine has a formula for determining its IMA, as described later in this article. However, the general formula for determining the ideal mechanical advantage is [math]IMA = {d_i \over d_o}[/math], where "IMA" represents the ideal mechanical advantage of the machine, "d<sub>i</sub>" represents the distance over which the input force is applied, and "d<sub>o</sub>" represents the distance over which the output force is applied.
+</p>
+<h3><span class="mw-headline" id="Actual_Mechanical_Advantage">Actual Mechanical Advantage</span></h3>
+<p>Actual Mechanical Advantage (AMA) is experimentally determined mechanical advantage which takes friction and wear of the machine into account. It is always lower than the IMA due to energy losses associated with non-ideal conditions. 
+</p><p>The AMA is experimentally determined and is equal to the ratio of the output force to the input force. The formula for determining actual mechanical advantage is very similar to the general equation for determining mechanical advantage, and is described as [math]AMA = {F_o \over F_i}[/math], where "AMA" represents the actual mechanical advantage of the machine, "F<sub>o</sub>" represents the output force, and "F<sub>i</sub>" represents the input force).
+</p>
+<h3><span class="mw-headline" id="Efficiency">Efficiency</span></h3>
+<p><b>Efficiency</b> describes the effect of friction and wear of the device on the output work. The law of conservation of energy states that the amount of energy in a closed system is constant. However, some work is always converted into other undesired forms of energy, such as heat.
+</p><p>Efficiency is the ratio of output work to input work and is normally expressed as a percent. This is described by the formula [math]\eta = {W_o \over W_i}[/math], in which eta (η) represents the efficiency of the machine, "W<sub>o</sub>" represents the output work, and "W<sub>i</sub>" represents the input work. Efficiency is always less than 100%.  Another way to determine efficiency is the ratio of the actual mechanical advantage to the ideal mechanical advantage ([math]\eta = {AMA \over IMA}[/math]), which amounts to the same thing.
+</p>
+<h3><span class="mw-headline" id="Torque">Torque</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:152px;"><a href="/wiki/index.php/File:LeverTorque.png" class="image"><img alt="" src="/wiki/images/8/8d/LeverTorque.png" width="150" height="116" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/index.php/File:LeverTorque.png" class="internal" title="Enlarge"></a></div>Force and the corresponding moment arm.</div></div></div>
+<p><b>Torque</b>, also known as a <b>moment of force</b>, is the rotation equivalent of force. It is denoted by either [math]\tau[/math] or [math]M[/math]. The SI unit of torque is [math]N\cdot m[/math]. 
+</p><p>
+Torque is equal to the force times the perpendicular distance between where the force is applied and the fulcrum (moment arm). The fulcrum is what the body rotates about. If the force is expressed in Newtons and the distance is expressed in meters, then the units of torque would appear to be Joules. However, in order to put emphasis on the fact that torque is not work, the units would actually be Newton-meters. The net torque on a body whose rotational velocity is not changing is 0. In simple machines, it can be calculated by the formula </p><div align="center">[math]\tau =F\cdot d,[/math]</div><p> where [math]d[/math], known as a moment arm, is calculated by drawing a perpendicular from the center to the force, as shown in the figure to the right.
+The rotation equivalent formula for energy and power, used in calculations with motors, is </p><div align="center">[math]E = \tau\cdot\theta,\ P=\tau\cdot\omega,[/math]</div><p> where [math]\theta[/math] is the angular displacement and [math]\omega[/math] is the angular velocity.
+</p><h3><span class="mw-headline" id="Power">Power</span></h3>
+<p>Power represents how fast energy is being transferred or work is being done from one object to another. It is equal to the amount of energy transferred or the amount of work done over the time it took to transfer that energy or to do the work.  The SI unit of power is a Watt, which is equal to one Joule being transferred per second ([math]W=\frac{J}{s}[/math]).
+</p><p>As described previously, the formula for determining power is [math]P = {W \over t}[/math]
+</p><p>where
+</p>
+<dl><dd>[math]P[/math] is the power developed</dd>
+<dd>[math]W[/math] is the amount of work performed or energy transferred</dd>
+<dd>[math]t[/math] is the time over which the work was performed or the energy was transferred</dd></dl>
+<p>Another useful formula for determining the power a motor is outputting is [math]P=\tau \omega[/math]
+</p><p>where
+</p>
+<dl><dd>[math]\tau[/math] is the torque the motor is exerting</dd>
+<dd>[math]\omega[/math] is the angular velocity the motor's shaft.</dd></dl>
+<h3><span class="mw-headline" id="History">History</span></h3>
+<p><i>Note: History is not a topic on the rules for the <a href="/wiki/index.php/2020" title="2020">2020</a> season</i>
+</p>
+<ul><li>Archimedes studied the lever, pulley and the screw around 3rd century BC, and discovered the principle of mechanical advantage in the lever. He also invented the Archimedes Screw, a device to transfer water to higher elevations.</li></ul>
+<ul><li>Heron of Alexandria listed five devices in his book <i>Mechanics</i> that can "set a load in motion", the simple machines excluding the inclined plane, and with wheel and axle replaced by the windlass.</li></ul>
+<ul><li>Galileo Galilei published the book <i>Le Meccaniche</i> (<i>On Mechanics</i>) in 1600, in which he expanded the theory behind simple machines. He was the first scientist to know that simple machines do not create energy, but only transform it.</li></ul>
+<ul><li>Sir Isaac Newton stated the Laws of Motion in his book <i>Philosophiæ Naturalis Principia Mathematica</i> in 1687.</li></ul>
+<ul><li>Amontons’ Laws of friction, rediscovered by Amontons after da Vinci and expanded by Coulomb, explained the role of friction in simple machines.</li></ul>
+<h4><span class="mw-headline" id="Lever">Lever</span></h4>
+<p>Discovered by Archimedes in 3rd century BC along with pulley and screw.  Archimedes also discovered the idea of mechanical advantage in a lever.  
+</p><p>The first use of a lever by people was opening and breaking into shells and fruits to eat the food inside.
+</p><p>By around 200 BC, scientists like Archimedes were figuring out why levers worked.
+</p>
+<h4><span class="mw-headline" id="Pulley">Pulley</span></h4>
+<p>It is not recorded anywhere when or by whom the first pulley was made. However, it is believed that Archimedes was the first person to have a documented block and tackle pulley system, as recorded by Plutarch.
+</p>
+<h4><span class="mw-headline" id="Inclined_Plane">Inclined Plane</span></h4>
+<p>Inclined planes have been used by people since prehistoric times, to lift heavy objects. 
+</p><p>The inclined plane was the last simple machine to be recognized as a machine.  This is because it is motionless and can be found in nature in the form of hills and slopes.  The ancient Greek philosophers that stated the other five simple machines never decided that an inclined plane should be a machine.
+</p><p>However, the inclined plane was finally recognized during the Renaissance along with other simple machines.  
+</p><p>The first elementary rules of sliding friction on an inclined plane were discovered by Leonardo da Vinci, written in his notebooks in between the years of 1452 and 1519, but they still remain unpublished.
+</p><p>The inclined plane was included as a simple machine after Simon Stevin derived its mechanical advantage in 1586.
+</p>
+<h4><span class="mw-headline" id="Wheel_and_Axle">Wheel and Axle</span></h4>
+<p>The earliest known wheels have been radiocarbon-dated to approximately 4000 to 3500 BCE. In Mesopotamia, wheels served initially as pottery wheels, but several centuries passed before they were placed on vehicles for transportation. Archaeologists have discovered depictions and fragments of vehicles across Afroeurasia, the oldest of which is associated with the Funnelbeaker culture in modern day Germany and Denmark. It remains an open question in archaeology of whether Mesopotamian influence motivated other cultures to create their own wheeled vehicles, or multiple cultures invented wheeled vehicles independently and contemporaneously. 
+</p>
+<h4><span class="mw-headline" id="Wedge">Wedge</span></h4>
+<p>The origin of the wedge is still unknown today.  One of the first examples of a wedge is a hand axe.
+</p>
+<h3><span class="mw-headline" id="Significant_Figures">Significant Figures</span></h3>
+<p>See <a href="/wiki/index.php/Significant_Figures" title="Significant Figures">Significant Figures</a> for information about significant figures. When performing calculations, answers must contain the appropriate number of significant figures when requested.
+</p>
+<h2><span class="mw-headline" id="Types_of_Simple_Machines">Types of Simple Machines</span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:152px;"><a href="/wiki/index.php/File:Fixed_pulley_vs_movable_pulley.jpg" class="image"><img alt="" src="/wiki/images/b/b2/Fixed_pulley_vs_movable_pulley.jpg" width="150" height="159" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/index.php/File:Fixed_pulley_vs_movable_pulley.jpg" class="internal" title="Enlarge"></a></div>A diagram illustrating the difference between a fixed pulley and a movable pulley.</div></div></div>
+<p>There are six types of simple machines; pulleys, inclined planes, wheel and axles, levers, wedges, and screws.
+</p>
+<h3><span class="mw-headline" id="Pulleys">Pulleys</span></h3>
+<div class="thumb tleft"><div class="thumbinner" style="width:72px;"><a href="/wiki/index.php/File:Pulleyima2.png" class="image"><img alt="" src="/wiki/images/d/d7/Pulleyima2.png" width="70" height="269" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/index.php/File:Pulleyima2.png" class="internal" title="Enlarge"></a></div>A pulley system with an ideal mechanical advantage of 2.</div></div></div>
+<p>A <b>pulley</b> is a wheel on an axle that is designed to support movement and change of direction of a cable or belt along its circumference. There are two types of pulleys, fixed pulleys and movable pulleys. A <b>fixed pulley</b> is a stationary pulley that that doesn't move with the load. A <b>movable pulley</b> is a pulley that is freely suspended and moves with the load.
+</p><p>Both types of pulleys are levers. A fixed pulley is a class 1 lever with the effort arm equal to the load arm; a movable pulley is a class 2 lever with the effort arm twice the length of the load arm.
+</p><p>In a single fixed pulley, if a load is attached to one end of the string, the theoretical amount of input force required to raise the load is the same as the force of gravity on the load; it has an ideal mechanical advantage of 1. However, due to frictional losses and wear of the pulley, the actual mechanical advantage of a single fixed pulley is always less than 1. Although using a machine that reduces the force applied may seem ineffective, a single fixed pulley is useful for changing the direction of a force.
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:152px;"><a href="/wiki/index.php/File:Simple_pulley.png" class="image"><img alt="" src="/wiki/images/3/3f/Simple_pulley.png" width="150" height="136" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/index.php/File:Simple_pulley.png" class="internal" title="Enlarge"></a></div>A single fixed pulley has an IMA of 1, and therefore can be balanced by placing two identical loads on each side.</div></div></div>
+<p>Pulleys can be more useful than that when there are multiple pulleys orchestrated into a system. Both fixed and movable pulleys may be integrated into a system, however, two movable pulleys may not be placed adjacent to each other. A common method for determining the ideal mechanical advantage of a system of pulleys is counting the number of lengths of rope directly supporting the load. Another method is counting the number of pulley wheels in the system. For example, in the picture to the left, there are two lengths of rope directly supporting the load, along with a separate length of rope that is used to apply the input force. Because there are two lengths of rope, the ideal mechanical advantage is 2.
+</p><p>In the pulley system to the left, imagine a force is applied the string with the little arrow. If the string is pulled 2 meters downwards, the hook will rise 1 meter. This is because there are two strings that lift the hook and only one string that is being pulled. This means that the distance over which the input force is applied is twice as large as the distance over which the output force is applied. Because of this, the ideal mechanical advantage (which is the ratio of input distance to output distance) of this pulley system is 2:1, commonly stated as just 2. This means that the input force required to lift the load is only half as much as the force of gravity on the load. For example, if a load of 50 newtons is attached to the hook in the pulley system to the left, only 25 newtons of force would be required to lift the load. Pulleys can be arranged into even larger systems with even more pulleys, increasing the ideal mechanical advantage even further.
+</p><p>Pulleys can often be purchased at hardware stores. They can also be constructed out of a wide variety of household materials.
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:122px;"><a href="/wiki/index.php/File:PulleySol1.jpeg" class="image"><img alt="" src="/wiki/images/5/52/PulleySol1.jpeg" width="120" height="153" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/index.php/File:PulleySol1.jpeg" class="internal" title="Enlarge"></a></div>Click on the image for solution to the compound system.</div></div></div>
+<p>There are two methods to calculate the IMA of a compound system:
+</p>
+<ul><li>Use the formula [math]IMA = \frac{d_{in}}{d_{out}}[/math]. When the load is lifted by distance [math]d_{out}[/math], find the distance each pulley moves, then the distance the input force moves, using that the length of strings remain constant.</li></ul>
+<ul><li>Use the formula [math]IMA = \frac{F_{out}}{F_{in}}[/math]. Then tension applied by the same string is equal, and since the system is balanced, one can also draw free body diagram for each pulley to calculate tension of the different strings.</li></ul>
+<p>Deciding which method to use comes from practice, although most often the two methods have similar difficulty. The solution to the compound system of a gun tackle using both of the methods can be found in the picture on the right.
+</p>
+<h3><span class="mw-headline" id="Belt_and_Pulley_System">Belt and Pulley System</span></h3>
+<p>A belt and pulley system has two or more fixed pulleys connected by a belt. The IMA is given by the ratio [math]\frac{r_{out}}{r_{in}}[/math], and the direction of rotation is the same between the pulleys, unless the belt is crossed in an X shape, in which case the directions of rotation are opposites.
+</p>
+<h3><span class="mw-headline" id="Inclined_Planes">Inclined Planes</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:225px;"><a href="/wiki/index.php/File:Inclined_plane.jpg" class="image"><img alt="" src="/wiki/images/c/c9/Inclined_plane.jpg" width="223" height="87" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/index.php/File:Inclined_plane.jpg" class="internal" title="Enlarge"></a></div>An inclined plane with an ideal mechanical advantage of 4.</div></div></div>
+<p>An <b>inclined plane</b> is a flat surface (a plane) that is on an angle (an incline). Inclined planes are used to raise masses to a higher elevation by extending the distance over which the force used to raise the mass is applied. The ideal mechanical advantage of an inclined plane is the ratio of the diagonal length (the length of the inclined surface) to the vertical length of which the surface rises to. This is illustrated in the formula [math]IMA = {d_i \over d_v}[/math], in which "IMA" represents the ideal mechanical advantage of the inclined plane, "d<sub>i</sub>" represents the distance of the inclined surface, and "d<sub>v</sub>" represents the vertical distance to which the inclined surface is raised.
+</p><p>For example, in the diagram to the right, the inclined surface (the red line) is 4 units long, and the vertical distance to which that inclined surface is raised to (the green line) is 1 unit long, yielding an ideal mechanical advantage of 4. This means that moving the load up the inclined plane theoretically only requires one-fourth of the force required to lift the load up directly. For example, if a 60 newton load is placed at the bottom of the inclined plane, it would theoretically only require 15 newtons of force to move the load up the inclined plane. However, there would generally be significant amounts of friction, resulting in an actual mechanical advantage much less than the ideal mechanical advantage of 4.
+</p><p>When static friction is introduced, the minimum required force can be calculated using a free body diagram, with a frictional force towards the bottom of the plane with magnitude [math]|f|=|F_N|\cdot \mu = mg\mu\cos\theta[/math], where [math]\mu[/math] is the coefficient of static friction.
+</p>
+<h3><span class="mw-headline" id="Wheel_and_Axles">Wheel and Axles</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:172px;"><a href="/wiki/index.php/File:Wheelaxle.png" class="image"><img alt="" src="/wiki/images/e/e3/Wheelaxle.png" width="170" height="160" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/index.php/File:Wheelaxle.png" class="internal" title="Enlarge"></a></div>An example of a wheel and axle system depicting the formula for finding a wheel and axle system's ideal mechanical advantage</div></div></div>
+<p>A wheel and axle consists of two parts, a wheel and an axle, in which both parts rotate with each other as a force is transferred from one to another. A wheel and axle system can be used in many ways, including to transport something, to turn something else on the axle, or to turn another wheel and axle. Examples of a wheel and axle include screwdrivers and driving wheel.
+</p><p>The wheel and axle is a lever, where the center of rotation for both the wheel and the axle is the fulcrum, and the rigid bar is turned into a circle. 
+</p><p>As depicted in the diagram to the right, the formula for finding the ideal mechanical advantage of a wheel and axle system is [math]IMA = {R \over r}[/math], in which "IMA" represents the ideal mechanical advantage of the wheel and axle, "R" represents the radius of the wheel, and "r" represents the radius of the axle.
+</p>
+<h3><span class="mw-headline" id="Levers">Levers</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/wiki/index.php/File:Levers.jpg" class="image"><img alt="" src="/wiki/images/6/6e/Levers.jpg" width="300" height="99" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/index.php/File:Levers.jpg" class="internal" title="Enlarge"></a></div>As shown from left to right: 1st class, 2nd class, and 3rd class levers.</div></div></div>
+<p>A <b>lever</b> is a rigid bar resting on a pivot point, known as the <b>fulcrum</b>. There are three types of levers, characterized by the position of the input force (effort), output force (load/resistance), and fulcrum in relation to each other:
+</p>
+<ul><li><b>First Class</b>-The fulcrum is in the middle, the effort is on one side, and the load is on the other. An example of a first class lever would be a seesaw or a crowbar.</li>
+<li><b>Second Class</b>-The fulcrum is to one side, the load is in the middle, and the effort is on the other side. An example of a second class lever would be a wheelbarrow or a nut cracker. Because the effort force is always a greater distance from the fulcrum than the resistance force (the force exerted on the load), a second class lever always has an ideal mechanical advantage greater than one (refer to the formula described below).</li>
+<li><b>Third Class</b>-The fulcrum is to one side, the load is on the other side, and the effort is in the middle. An example of a third class lever would be tweezers or an elbow. Because the resistance force is always a greater distance from the fulcrum than the effort force, a third class lever always has an ideal mechanical advantage of less than 1 (refer to the formula described below).</li></ul>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/wiki/index.php/File:LeverIMAs.jpg" class="image"><img alt="" src="/wiki/images/6/69/LeverIMAs.jpg" width="300" height="158" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/index.php/File:LeverIMAs.jpg" class="internal" title="Enlarge"></a></div>The locations of the load and effort arms of all three classes of levers.</div></div></div>
+<p>To find the IMA of a lever, divide the distance between the fulcrum and the effort by the distance between the fulcrum and the load. This can be represented by the formula [math]IMA = {d_i \over d_o}[/math], in which "IMA" represents the ideal mechanical advantage of the lever, "d<sub>i</sub> represents the distance from the input force to the fulcrum (known as the input or effort arm), and "d<sub>o</sub> represents the distance from the output force to the fulcrum (known as the load, output, or resistance arm). These two distances are depicted in each of the three classes of levers in the diagram to the right.
+</p>
+<div class="thumb tleft"><div class="thumbinner" style="width:177px;"><a href="/wiki/index.php/File:FRE123.jpg" class="image"><img alt="" src="/wiki/images/4/4d/FRE123.jpg" width="175" height="87" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/index.php/File:FRE123.jpg" class="internal" title="Enlarge"></a></div>The "FRE 123" mnemonic</div></div></div>
+<p><br />
+One way to remember the different classes of levers is with the mnemonic "FRE 123", in which "FRE" stands for fulcrum, resistance, and effort, respectively. These correspond in order to the class of lever (the "123" in the mnemonic). Depending on which component of a lever (fulcrum, resistance force, or effort force) is in between the other two, the class of lever can be determined by matching that letter with its corresponding number. For example, knowing that the effort force is in the middle between the fulcrum and resistance force in a pair of tweezers, it can be determined that tweezers are a 3rd class lever (because 3 corresponds the "E" in "FRE"; "E" representing the effort force, which is in the middle for tweezers).
+</p><p>
+The lever is balanced if it is at rest or rotating at a constant rate. When a lever is balanced, the net torque is zero, so the effort torque is equal to the load torque, </p><div align="center">[math]F_{in}d_{in}=F_{out}d_{out},\ IMA = \frac{d_{in}}{d_{out}}.[/math]</div>
+<h3><span class="mw-headline" id="Wedges">Wedges</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:175px;"><a href="/wiki/index.php/File:WedgeFIXED.jpg" class="image"><img alt="" src="/wiki/images/a/a5/WedgeFIXED.jpg" width="173" height="123" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/index.php/File:WedgeFIXED.jpg" class="internal" title="Enlarge"></a></div>The IMA of a wedge is the ratio of the depth of penetration to the width of the wedge.</div></div></div>
+<p>A <b>wedge</b> is a triangularly shaped compound inclined plane. A wedge converts a force applied to its blunt end (the side opposite of where the two inclined surfaces meet) to forces perpendicular to the inclined surfaces. Uses of a wedge include separating two objects, splitting an object, lifting an object, or holding an object in place. Common everyday examples of wedges include knives and axes. A zipper, another example of a wedge, consists of an upper triangular wedge and two lower wedges that close the teeth of the zipper. 
+</p><p>The ideal mechanical advantage of a wedge is the ratio of the length of the wedge (often referred to as the "depth of penetration") to the width of the blunt end. This is shown in the formula [math]IMA = {L \over w}[/math], in which "IMA" represents the ideal mechanical advantage of the wedge, "L" represents the length of the wedge, and "w" represents the width of the blunt end. This is depicted in the diagram to the right.
+</p>
+<h3><span id="Screws_(Division_C_only)"></span><span class="mw-headline" id="Screws_.28Division_C_only.29">Screws (Division C only)</span></h3>
+<p>A <b>screw</b> is essentially an inclined plane wrapped around a central axis. Screws convert rotational force to vertical force. An example would be a scissor jack. [math]IMA = \frac{2\pi L}{p}[/math], where L is the length of the handle and p is the distance between adjacent screw threads.
+</p><p>The curve formed by the inclined plane is known as the thread. The vertical distance between the threads is called the pitch of the screw. A screw is often combined with a screwdriver, which is a wheel and axle. The <a rel="nofollow" class="external text" href="https://en.wikipedia.org/wiki/ISO_metric_screw_thread">ISO</a> regulates the sizes and shapes of the screws.
+</p>
+<h2><span class="mw-headline" id="Common_Compound_Machines">Common Compound Machines</span></h2>
+<h3><span class="mw-headline" id="Gear_system">Gear system</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:202px;"><a href="/wiki/index.php/File:Gears1.jpg" class="image"><img alt="" src="/wiki/images/c/ca/Gears1.jpg" width="200" height="217" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/index.php/File:Gears1.jpg" class="internal" title="Enlarge"></a></div>A diagram of gears.</div></div></div>
+<p>A <b>gear</b> is a rotating machine part with teeth. Two gears with their teeth meshed together transmit torque. If the input gear has [math]n_{in}[/math] teeth, and the output gear has [math]n_{out}[/math] teeth, its mechanical advantage is given by [math]\frac{n_{out}}{n_{in}}[/math]. For most gears (ones with teeth on the outer surface), the rotation of the output gear are in opposite direction as the rotation of the input gear.
+</p><p>A gear system is similar to a belt and pulley system, where the mechanical advantage is given by the ratio of radii, instead of ratio of number of teeth.
+</p>
+<h3><span class="mw-headline" id="Differential_Pulley_and_Windlass">Differential Pulley and Windlass</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:202px;"><a href="/wiki/index.php/File:DifferentialPulley.png" class="image"><img alt="" src="/wiki/images/9/92/DifferentialPulley.png" width="200" height="150" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/index.php/File:DifferentialPulley.png" class="internal" title="Enlarge"></a></div>Diagram for a differential pulley and differential windlass.</div></div></div>
+<p>A <b>differential pulley</b> is made of two pulleys and one string. It is known for its high mechanical advantage and relatively simple design. In the figure to the right, the left is a differential pulley, while the right is a differential windlass.
+</p><p>The axles in the middle are both fixed and rotate together. Let the outer one have radius [math]R[/math], and the inner one have radius [math]r[/math].
+</p><p>Then, when [math]F[/math] moves by [math]2\pi R[/math], both the larger and smaller axles rotate by one revolution. The movable pulley, and therefore the load, moves up by [math]\pi (R-r)[/math].
+</p><p>Therefore, the differential pulley has mechanical advantage [math]\frac{2}{1-\frac{r}{R}}[/math]. As the radius of the two axles become closer, the mechanical advantage becomes much bigger.
+</p><p>The mechanical advantage of a differential windlass can be calculated similarly, with the long handle providing even more mechanical advantage.
+</p>
+<h2><span class="mw-headline" id="The_Device">The Device</span></h2>
+<p>In the Device testing portion of the event, teams use a class 1 lever to determine the ratios between three unknown masses. The goal is to determine the ratios as quickly and accurately as possible. The mass of the unknown masses can vary between parameters specified in the rules. The maximum allowable ratios defined in the rules vary by level of competition.
+</p>
+<h3><span class="mw-headline" id="Material">Material</span></h3>
+<p>Metal is the strongest material to use for building the lever. However, it is more difficult to work with than wood without experience, may produce a wobbling effect, and is also more expensive.
+</p><p>Wood is probably the easiest to work with, but it may bend if the wood is too light, and often causes more friction than the other materials.
+</p><p>PVC pipe will bend and may break with higher masses. However, the material can be used to create a sliding fulcrum design.
+</p>
+<h3><span class="mw-headline" id="Designing_the_device">Designing the device</span></h3>
+<p>Almost all designs involve a stand supporting the lever. However, there are many designs to connect the lever to the stand:
+</p><p><b>1.</b> Put the center of mass of the lever on an object which acts as the fulcrum. This is the simplest design, but is hard to work with because the lever may slide and get unbalanced. The masses will also be placed on top of the lever, so it may be difficult to read the distance from the mass to the fulcrum.
+</p><p><b>2.</b> Build a stand and then hang the lever off of it. This design has minimal friction and thus is accurate. However, because of its minimal friction, balancing the lever would be time consuming, with a lot of fine tuning.
+</p><p><b>3.</b> Build a stand and put a bar on top. Drill a hole through the lever and slide the bar through that hole. The design is similar to Design 1, but it is easier to work with and is higher off the ground. The device has more friction than Design 2, and therefore is faster but less accurate. (not proper description)
+</p><p><b>4.</b> Build a stand and hang a ring from it that the lever can slide through. This design is the fastest for measuring the ratios. However, moving the fulcrum would cause the weight of the lever to also generate torque and produce error in the measurement. This error can be minimized by building the lever with light wood or PVC piping, or by incorporating the weight of wood in the calculation.
+</p>
+<h3><span class="mw-headline" id="Tips">Tips</span></h3>
+<ul><li>The lever is very close to balanced when it is not rotating, even if it is not perfectly level.</li>
+<li>Practice: Make sure the lever can measure the ratio for all possible masses and all possible mass ratio. For example, consider the size parameters for the mass</li>
+<li>Devices such as the <a rel="nofollow" class="external text" href="https://en.wikipedia.org/wiki/Steelyard_balance">Steelyard Balance</a>, although not suitable for the event parameter, may provide inspiration for the design.</li></ul>
+<p><br />
+</p>
+<table>
+
+<tbody><tr>
+<td><div class="toccolours mw-collapsible mw-collapsed" style="width:auto"><b>Past Compound Machines Device Tips</b>
+<div class="mw-collapsible-content">
+<p>The device testing for Compound Machines involves using a series of 2 levers to determine the mass ratios of 3 weights as quickly and accurately as possible. 
+</p>
+<h3><span class="mw-headline" id="Construction_Restrictions">Construction Restrictions</span></h3>
+<p>The device must be made of a Class 1 and Class 2 lever connected in series. The device must fit inside a box of size 100cm * 100cm * 50cm during impound, and the beams must have length at most 50cm. The device can be made out of anything except anything electronic and must not include springs. Students are not allowed to bring any masses of one's own into the competition to determine the weights of the unknown masses.
+</p>
+<h3><span class="mw-headline" id="During_Competition">During Competition</span></h3>
+<p>The supervisors will provide 3 masses, labeled A, B, and C. Teams have a maximum of 4 minutes to determine the mass ratios A/B and B/C using the device. 
+</p><p>The device testing is a tradeoff between speed and accuracy: The total score for device testing is a sum of time and accuracy scores, where
+</p><p>Time Score = [math]\frac{240 - \text{Elapsed Time in Seconds}}{240}\cdot10,[/math]
+</p><p>Mass (Accuracy) Score = [math]\left(1-\frac{|\text{Actual Ratio} - \text{Calculated Ratio}|}{\text{Actual Ratio}}\right)\cdot20.[/math]
+</p><p>Then, for every 1% of improvement in accuracy, one should take at most 3.6 more seconds.
+</p>
+</div></div>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Additional_Links">Additional Links</span></h2>
+<dl><dd><a href="/wiki/images/4/4f/Simple_Machines_Binder_%282015%29.pdf" class="internal" title="Simple Machines Binder (2015).pdf">Example binder (Div B)</a></dd>
+<dd><a rel="nofollow" class="external text" href="http://www.avon.k12.ct.us/avonhigh/Academics/Departments/Science/Physics/SimpleMachine.htm">How Simple Machines Work</a></dd>
+<dd><a rel="nofollow" class="external text" href="http://www.physicsclassroom.com/class/energy">Work, Energy, and Power</a></dd>
+<dd><a rel="nofollow" class="external text" href="http://hyperphysics.phy-astr.gsu.edu/hbase/mechanics/simmac.html#c1">Hyperphysics - Simple Machines</a></dd>
+<dd><a rel="nofollow" class="external text" href="http://library.thinkquest.org/CR0210120/Mechanical%20Advantage.html">Simple Machine Sample Exercises</a></dd>
+<dd><a rel="nofollow" class="external text" href="http://soinc.org/sites/default/files/uploaded_files/trial_events/SimpleMachinesB.pdf">Old Trial Event Rules</a></dd>
+<dd><a rel="nofollow" class="external text" href="http://sln.fi.edu/qa97/spotlight3/spotlight3.html">Franklin Institute page on simple machines</a></dd>
+<dd><a rel="nofollow" class="external text" href="http://www.wisc-online.com/objects/ViewObject.aspx?ID=ENG20504">Wisc-Oline Mechanical Advantage Presentation</a></dd>
+<dd><a rel="nofollow" class="external text" href="https://www.soinc.org/compound-machines-c">Soinc page on Compound Machines</a></dd>
+<dd>Wikipedia pages on <a rel="nofollow" class="external text" href="https://en.wikipedia.org/wiki/Simple_machine">Simple machine</a>, <a rel="nofollow" class="external text" href="https://en.wikipedia.org/wiki/Lever">Lever</a>, <a rel="nofollow" class="external text" href="https://en.wikipedia.org/wiki/Pulley">Pulley</a>, <a rel="nofollow" class="external text" href="https://en.wikipedia.org/wiki/Wheel_and_axle">Wheel and Axle</a>, <a rel="nofollow" class="external text" href="https://en.wikipedia.org/wiki/Inclined_plane">Inclined Plane</a>, <a rel="nofollow" class="external text" href="https://en.wikipedia.org/wiki/Screw">Screw</a>, and <a rel="nofollow" class="external text" href="https://en.wikipedia.org/wiki/Wedge_(mechanical_device)">Wedge</a>.</dd></dl>
+<div role="navigation" class="navbox" aria-labelledby="Physical_Science_and_Chemistry_Events" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/index.php/Template:Physics_and_Chemistry_Event" title="Template:Physics and Chemistry Event"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/index.php?title=Template_talk:Physics_and_Chemistry_Event&amp;action=edit&amp;redlink=1" class="new" title="Template talk:Physics and Chemistry Event (page does not exist)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a rel="nofollow" class="external text" href="https://scioly.org/wiki/index.php?title=Template:Physics_and_Chemistry_Event&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Physical_Science_and_Chemistry_Events" style="font-size:114%;margin:0 4em">Physical Science and Chemistry Events</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">National Events</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Air_Trajectory" title="Air Trajectory">Air Trajectory</a></li>
+<li><a href="/wiki/index.php/Balloon_Race" title="Balloon Race">Balloon Race</a></li>
+<li><a href="/wiki/index.php/Can%27t_Judge_a_Powder" class="mw-redirect" title="Can&#39;t Judge a Powder">Can't Judge a Powder</a></li>
+<li><a href="/wiki/index.php/Chemistry_Lab" title="Chemistry Lab">Chemistry Lab</a></li>
+<li><a href="/wiki/index.php/Circuit_Lab" title="Circuit Lab">Circuit Lab</a></li>
+<li><a href="/wiki/index.php/Crave_the_Wave" title="Crave the Wave">Crave the Wave</a></li>
+<li><a href="/wiki/index.php/Crime_Busters" title="Crime Busters">Crime Busters</a></li>
+<li><a href="/wiki/index.php/Density_Lab" title="Density Lab">Density Lab</a></li>
+<li><a href="/wiki/index.php/Environmental_Chemistry" title="Environmental Chemistry">Environmental Chemistry</a></li>
+<li><a href="/wiki/index.php/Food_Science" title="Food Science">Food Science</a></li>
+<li><a href="/wiki/index.php/Forensics" title="Forensics">Forensics</a></li>
+<li><a href="/wiki/index.php/Hovercraft" title="Hovercraft">Hovercraft</a></li>
+<li><a href="/wiki/index.php/It%27s_About_Time" title="It&#39;s About Time">It's About Time</a></li>
+<li><a class="mw-selflink selflink">Machines</a></li>
+<li><a href="/wiki/index.php/MagLev" title="MagLev">MagLev</a></li>
+<li><a href="/wiki/index.php/Materials_Science" title="Materials Science">Materials Science</a></li>
+<li><a href="/wiki/index.php/Optics" title="Optics">Optics</a></li>
+<li><a href="/wiki/index.php/Physics_Lab" title="Physics Lab">Physics Lab</a></li>
+<li><a href="/wiki/index.php/Potions_and_Poisons" title="Potions and Poisons">Potions and Poisons</a></li>
+<li><a href="/wiki/index.php/Protein_Modeling" title="Protein Modeling">Protein Modeling</a></li>
+<li><a href="/wiki/index.php/Sounds_of_Music" title="Sounds of Music">Sounds of Music</a></li>
+<li><a href="/wiki/index.php/Storm_the_Castle" title="Storm the Castle">Storm the Castle</a></li>
+<li><a href="/wiki/index.php/Thermodynamics" title="Thermodynamics">Thermodynamics</a></li>
+<li><a href="/wiki/index.php/Wind_Power" title="Wind Power">Wind Power</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Trial Events</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Solar_Power" title="Solar Power">Solar Power</a></li>
+<li><a href="/wiki/index.php/WiFi_Lab" title="WiFi Lab">WiFi Lab</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Event Resources</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Circuit_Lab/Episodes" title="Circuit Lab/Episodes">Circuit Lab Episodes</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="2020.2F2021_Events" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/index.php/Template:2021Events" title="Template:2021Events"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/index.php?title=Template_talk:2021Events&amp;action=edit&amp;redlink=1" class="new" title="Template talk:2021Events (page does not exist)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a rel="nofollow" class="external text" href="https://scioly.org/wiki/index.php?title=Template:2021Events&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="2020.2F2021_Events" style="font-size:114%;margin:0 4em">2020/2021 Events</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Division B Events</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Anatomy_and_Physiology" title="Anatomy and Physiology">Anatomy and Physiology</a></li>
+<li><a href="/wiki/index.php/Boomilever" title="Boomilever">Boomilever</a></li>
+<li><a href="/wiki/index.php/Circuit_Lab" title="Circuit Lab">Circuit Lab</a></li>
+<li><a href="/wiki/index.php/Crime_Busters" title="Crime Busters">Crime Busters</a></li>
+<li><a href="/wiki/index.php/Density_Lab" title="Density Lab">Density Lab</a></li>
+<li><a href="/wiki/index.php/Disease_Detectives" title="Disease Detectives">Disease Detectives</a></li>
+<li><a href="/wiki/index.php/Dynamic_Planet_Topics" title="Dynamic Planet Topics">Dynamic Planet</a></li>
+<li><a href="/wiki/index.php/Elastic_Launched_Glider" title="Elastic Launched Glider">Elastic Launched Glider</a></li>
+<li><a href="/wiki/index.php/Experimental_Design" title="Experimental Design">Experimental Design</a></li>
+<li><a href="/wiki/index.php/Food_Science" title="Food Science">Food Science</a></li>
+<li><a href="/wiki/index.php/Fossils" title="Fossils">Fossils</a></li>
+<li><a href="/wiki/index.php/Game_On" title="Game On">Game On</a></li>
+<li><a href="/wiki/index.php/Heredity" title="Heredity">Heredity</a></li>
+<li><a class="mw-selflink selflink">Machines</a></li>
+<li><a href="/wiki/index.php/Meteorology" title="Meteorology">Meteorology</a></li>
+<li><a href="/wiki/index.php/Mission_Possible" title="Mission Possible">Mission Possible</a></li>
+<li><a href="/wiki/index.php/Mousetrap_Vehicle" title="Mousetrap Vehicle">Mousetrap Vehicle</a></li>
+<li><a href="/wiki/index.php/Ornithology" title="Ornithology">Ornithology</a></li>
+<li><a href="/wiki/index.php/Ping_Pong_Parachute" title="Ping Pong Parachute">Ping Pong Parachute</a></li>
+<li><a href="/wiki/index.php/Reach_for_the_Stars" title="Reach for the Stars">Reach for the Stars</a></li>
+<li><a href="/wiki/index.php/Road_Scholar" title="Road Scholar">Road Scholar</a></li>
+<li><a href="/wiki/index.php/Water_Quality" title="Water Quality">Water Quality</a></li>
+<li><a href="/wiki/index.php/Write_It_Do_It" title="Write It Do It">Write It Do It</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Division C Events</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Anatomy_and_Physiology" title="Anatomy and Physiology">Anatomy and Physiology</a></li>
+<li><a href="/wiki/index.php/Astronomy" title="Astronomy">Astronomy</a></li>
+<li><a href="/wiki/index.php/Boomilever" title="Boomilever">Boomilever</a></li>
+<li><a href="/wiki/index.php/Chemistry_Lab" title="Chemistry Lab">Chemistry Lab</a></li>
+<li><a href="/wiki/index.php/Circuit_Lab" title="Circuit Lab">Circuit Lab</a></li>
+<li><a href="/wiki/index.php/Codebusters" title="Codebusters">Codebusters</a></li>
+<li><a href="/wiki/index.php/Designer_Genes" title="Designer Genes">Designer Genes</a></li>
+<li><a href="/wiki/index.php/Detector_Building" title="Detector Building">Detector Building</a></li>
+<li><a href="/wiki/index.php/Disease_Detectives" title="Disease Detectives">Disease Detectives</a></li>
+<li><a href="/wiki/index.php/Dynamic_Planet_Topics" title="Dynamic Planet Topics">Dynamic Planet</a></li>
+<li><a href="/wiki/index.php/Experimental_Design" title="Experimental Design">Experimental Design</a></li>
+<li><a href="/wiki/index.php/Forensics" title="Forensics">Forensics</a></li>
+<li><a href="/wiki/index.php/Fossils" title="Fossils">Fossils</a></li>
+<li><a href="/wiki/index.php/GeoLogic_Mapping" title="GeoLogic Mapping">GeoLogic Mapping</a></li>
+<li><a href="/wiki/index.php/Gravity_Vehicle" title="Gravity Vehicle">Gravity Vehicle</a></li>
+<li><a class="mw-selflink selflink">Machines</a></li>
+<li><a href="/wiki/index.php/Ornithology" title="Ornithology">Ornithology</a></li>
+<li><a href="/wiki/index.php/Ping_Pong_Parachute" title="Ping Pong Parachute">Ping Pong Parachute</a></li>
+<li><a href="/wiki/index.php/Protein_Modeling" title="Protein Modeling">Protein Modeling</a></li>
+<li><a href="/wiki/index.php/Sounds_of_Music" title="Sounds of Music">Sounds of Music</a></li>
+<li><a href="/wiki/index.php/Water_Quality" title="Water Quality">Water Quality</a></li>
+<li><a href="/wiki/index.php/Wright_Stuff" title="Wright Stuff">Wright Stuff</a></li>
+<li><a href="/wiki/index.php/Write_It_Do_It" title="Write It Do It">Write It Do It</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Division B National Trials 2020</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Aerial_Scramble" title="Aerial Scramble">Aerial Scramble</a></li>
+<li><a href="/wiki/index.php/Amazing_Mechatronics" title="Amazing Mechatronics">Amazing Mechatronics</a></li>
+<li><a href="/wiki/index.php/Codebusters" title="Codebusters">Codebusters</a></li>
+<li><a href="/wiki/index.php/Storm_the_Castle" title="Storm the Castle">Storm the Castle</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Division C National Trials 2020</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Aerial_Scramble" title="Aerial Scramble">Aerial Scramble</a></li>
+<li><a href="/wiki/index.php/Amazing_Mechatronics" title="Amazing Mechatronics">Amazing Mechatronics</a></li>
+<li><a href="/wiki/index.php/Environmental_Chemistry" title="Environmental Chemistry">Environmental Chemistry</a></li>
+<li><a href="/wiki/index.php/Trajectory" title="Trajectory">Trajectory</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Division B National Trials 2021</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Aerial_Scramble" title="Aerial Scramble">Aerial Scramble</a></li>
+<li><a href="/wiki/index.php/Awesome_Aquifers" title="Awesome Aquifers">Awesome Aquifers</a></li>
+<li><a href="/wiki/index.php/Botany" title="Botany">Botany</a></li>
+<li><a href="/wiki/index.php/Codebusters" title="Codebusters">Codebusters</a></li>
+<li><a href="/wiki/index.php/Electric_Wright_Stuff" title="Electric Wright Stuff">Electric Wright Stuff</a></li>
+<li><a href="/wiki/index.php/Home_Horticulture" title="Home Horticulture">Home Horticulture</a></li>
+<li><a href="/wiki/index.php/Solar_Power" title="Solar Power">Solar Power</a></li>
+<li><a href="/wiki/index.php/Storm_the_Castle" title="Storm the Castle">Storm the Castle</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Division C National Trials 2021</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/index.php/Aerial_Scramble" title="Aerial Scramble">Aerial Scramble</a></li>
+<li><a href="/wiki/index.php/Botany" title="Botany">Botany</a></li>
+<li><a href="/wiki/index.php/Electric_Wright_Stuff" title="Electric Wright Stuff">Electric Wright Stuff</a></li>
+<li><a href="/wiki/index.php/Environmental_Chemistry" title="Environmental Chemistry">Environmental Chemistry</a></li>
+<li><a href="/wiki/index.php/Home_Horticulture" title="Home Horticulture">Home Horticulture</a></li>
+<li><a href="/wiki/index.php/Robot_Tour" title="Robot Tour">Robot Tour</a></li>
+<li><a href="/wiki/index.php/Solar_Power" title="Solar Power">Solar Power</a></li>
+<li><a href="/wiki/index.php/Trajectory" title="Trajectory">Trajectory</a></li>
+<li><a href="/wiki/index.php/WiFi_Lab" title="WiFi Lab">WiFi Lab</a></li></ul>
+</div></td></tr></tbody></table></div>
+
+<!-- 
+NewPP limit report
+Cached time: 20200806174629
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.484 seconds
+Real time usage: 0.622 seconds
+Preprocessor visited node count: 719/1000000
+Preprocessor generated node count: 4864/1000000
+Post‐expand include size: 26985/2097152 bytes
+Template argument size: 2283/2097152 bytes
+Highest expansion depth: 10/40
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.040/7.000 seconds
+Lua virtual size: 8.62 MB/50 MB
+Lua estimated memory usage: 0 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  192.843      1 -total
+ 50.93%   98.208      2 Template:Navbox
+ 42.44%   81.839      1 Template:Physics_and_Chemistry_Event
+ 33.12%   63.879      1 Template:EventLinksBox
+ 14.40%   27.765      1 Template:2021Events
+  5.07%    9.780      1 Template:SpoilerBoxBegin
+  1.68%    3.246      1 Template:SpoilerBoxContent
+  1.50%    2.902      1 Template:SpoilerBoxEnd
+-->
+</div>
+<!-- Saved in parser cache with key wiki-wikiv2_:pcache:idhash:11305-0!canonical and timestamp 20200806174628 and revision id 106480
+ -->
+</div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://scioly.org/wiki/index.php?title=Machines&amp;oldid=106480">https://scioly.org/wiki/index.php?title=Machines&amp;oldid=106480</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/index.php/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/index.php/Category:Physical_Science_and_Chemistry_Events" title="Category:Physical Science and Chemistry Events">Physical Science and Chemistry Events</a></li><li><a href="/wiki/index.php/Category:Event_Pages" title="Category:Event Pages">Event Pages</a></li><li><a href="/wiki/index.php/Category:Lab_Event_Pages" title="Category:Lab Event Pages">Lab Event Pages</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-login"><a href="//scioly.org/forums/ucp.php?mode=login&amp;redirect=https%3A%2F%2Fscioly.org%2Fwiki%2Findex.php%2FMachines" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/index.php/Machines" title="View the content page [c]" accesskey="c">Page</a></span></li><li id="ca-talk" class="new"><span><a href="/wiki/index.php?title=Talk:Machines&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/index.php/Machines">Read</a></span></li><li id="ca-viewsource" class="collapsible"><span><a href="/wiki/index.php?title=Machines&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li><li id="ca-history" class="collapsible"><span><a href="/wiki/index.php?title=Machines&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/wiki/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Scioly.org" title="Search Scioly.org [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/index.php/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage"><a href="/wiki/index.php/Main_Page" title="Visit the main page [z]" accesskey="z">Main Page</a></li><li id="n-recentchanges"><a href="/wiki/index.php/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/wiki/index.php/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-MediaWiki-Help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">MediaWiki Help</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/index.php/Special:WhatLinksHere/Machines" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/index.php/Special:RecentChangesLinked/Machines" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/wiki/index.php/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="/wiki/index.php?title=Machines&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/wiki/index.php?title=Machines&amp;oldid=106480" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/wiki/index.php?title=Machines&amp;action=info" title="More information about this page">Page information</a></li>				</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 6 August 2020, at 06:20.</li>
+								<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution</a> unless otherwise noted.</li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="http://creativecommons.org/licenses/by/3.0/"><img src="/wiki/resources/assets/licenses/cc-by.png" alt="Creative Commons Attribution" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<style>.MathJax_Display{display:inline !important;}
+.mathjax-wrapper{font-size:120%;}</style>
+<script type='text/x-mathjax-config'>MathJax.Hub.Config({displayAlign:'left',tex2jax:{displayMath:[['[math]','[/math]']]}})</script>
+<script src='//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.484","walltime":"0.622","ppvisitednodes":{"value":719,"limit":1000000},"ppgeneratednodes":{"value":4864,"limit":1000000},"postexpandincludesize":{"value":26985,"limit":2097152},"templateargumentsize":{"value":2283,"limit":2097152},"expansiondepth":{"value":10,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%  192.843      1 -total"," 50.93%   98.208      2 Template:Navbox"," 42.44%   81.839      1 Template:Physics_and_Chemistry_Event"," 33.12%   63.879      1 Template:EventLinksBox"," 14.40%   27.765      1 Template:2021Events","  5.07%    9.780      1 Template:SpoilerBoxBegin","  1.68%    3.246      1 Template:SpoilerBoxContent","  1.50%    2.902      1 Template:SpoilerBoxEnd"]},"scribunto":{"limitreport-timeusage":{"value":"0.040","limit":"7.000"},"limitreport-virtmemusage":{"value":9035776,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20200806174629","ttl":86400,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":127});});</script>
+	</body>
+</html>
