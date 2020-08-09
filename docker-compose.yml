@@ -50,6 +50,7 @@ services:
         networks:
             - frontend
             - backend
+        container_name: phpmyadmin
         environment:
             PMA_ARBITRARY: 1
             # PMA_USER: root

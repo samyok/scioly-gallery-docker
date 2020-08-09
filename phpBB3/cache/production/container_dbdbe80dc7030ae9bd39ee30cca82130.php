@@ -3112,7 +3112,7 @@ class phpbb_cache_container extends Symfony\Component\DependencyInjection\Contai
         if ($lazyLoad) {
             $container = $this;
 
-            return $this->services['template.twig.lexer'] = new phpbbtemplatetwiglexer_00000000077b3b6b0000000040a825a9(
+            return $this->services['template.twig.lexer'] = new phpbbtemplatetwiglexer_00000000680b38f700000000158b823a(
                 function (&$wrappedInstance, \ProxyManager\Proxy\LazyLoadingInterface $proxy) use ($container) {
                     $wrappedInstance = $container->getTemplate_Twig_LexerService(false);
 
@@ -3613,23 +3613,23 @@ class phpbb_cache_container extends Symfony\Component\DependencyInjection\Contai
     }
 }
 
-class phpbbtemplatetwiglexer_00000000077b3b6b0000000040a825a9 extends \phpbb\template\twig\lexer implements \ProxyManager\Proxy\VirtualProxyInterface
+class phpbbtemplatetwiglexer_00000000680b38f700000000158b823a extends \phpbb\template\twig\lexer implements \ProxyManager\Proxy\VirtualProxyInterface
 {
 
     /**
      * @var \Closure|null initializer responsible for generating the wrapped object
      */
-    private $valueHolder5f29c892aeacc008290020 = null;
+    private $valueHolder5f300b6ce3624533899558 = null;
 
     /**
      * @var \Closure|null initializer responsible for generating the wrapped object
      */
-    private $initializer5f29c892aead2019004651 = null;
+    private $initializer5f300b6ce3629479759055 = null;
 
     /**
      * @var bool[] map of public properties of the parent class
      */
-    private static $publicProperties5f29c892aeab9827663941 = array(
+    private static $publicProperties5f300b6ce3612373220496 = array(
         
     );
 
@@ -3638,9 +3638,9 @@ class phpbbtemplatetwiglexer_00000000077b3b6b0000000040a825a9 extends \phpbb\tem
      */
     public function set_environment(\Twig\Environment $env)
     {
-        $this->initializer5f29c892aead2019004651 && ($this->initializer5f29c892aead2019004651->__invoke($valueHolder5f29c892aeacc008290020, $this, 'set_environment', array('env' => $env), $this->initializer5f29c892aead2019004651) || 1) && $this->valueHolder5f29c892aeacc008290020 = $valueHolder5f29c892aeacc008290020;
+        $this->initializer5f300b6ce3629479759055 && ($this->initializer5f300b6ce3629479759055->__invoke($valueHolder5f300b6ce3624533899558, $this, 'set_environment', array('env' => $env), $this->initializer5f300b6ce3629479759055) || 1) && $this->valueHolder5f300b6ce3624533899558 = $valueHolder5f300b6ce3624533899558;
 
-        return $this->valueHolder5f29c892aeacc008290020->set_environment($env);
+        return $this->valueHolder5f300b6ce3624533899558->set_environment($env);
     }
 
     /**
@@ -3648,9 +3648,9 @@ class phpbbtemplatetwiglexer_00000000077b3b6b0000000040a825a9 extends \phpbb\tem
      */
     public function tokenize($code, $filename = null)
     {
-        $this->initializer5f29c892aead2019004651 && ($this->initializer5f29c892aead2019004651->__invoke($valueHolder5f29c892aeacc008290020, $this, 'tokenize', array('code' => $code, 'filename' => $filename), $this->initializer5f29c892aead2019004651) || 1) && $this->valueHolder5f29c892aeacc008290020 = $valueHolder5f29c892aeacc008290020;
+        $this->initializer5f300b6ce3629479759055 && ($this->initializer5f300b6ce3629479759055->__invoke($valueHolder5f300b6ce3624533899558, $this, 'tokenize', array('code' => $code, 'filename' => $filename), $this->initializer5f300b6ce3629479759055) || 1) && $this->valueHolder5f300b6ce3624533899558 = $valueHolder5f300b6ce3624533899558;
 
-        return $this->valueHolder5f29c892aeacc008290020->tokenize($code, $filename);
+        return $this->valueHolder5f300b6ce3624533899558->tokenize($code, $filename);
     }
 
     /**
@@ -3658,9 +3658,9 @@ class phpbbtemplatetwiglexer_00000000077b3b6b0000000040a825a9 extends \phpbb\tem
      */
     public function fix_begin_tokens($code, $parent_nodes = array())
     {
-        $this->initializer5f29c892aead2019004651 && ($this->initializer5f29c892aead2019004651->__invoke($valueHolder5f29c892aeacc008290020, $this, 'fix_begin_tokens', array('code' => $code, 'parent_nodes' => $parent_nodes), $this->initializer5f29c892aead2019004651) || 1) && $this->valueHolder5f29c892aeacc008290020 = $valueHolder5f29c892aeacc008290020;
+        $this->initializer5f300b6ce3629479759055 && ($this->initializer5f300b6ce3629479759055->__invoke($valueHolder5f300b6ce3624533899558, $this, 'fix_begin_tokens', array('code' => $code, 'parent_nodes' => $parent_nodes), $this->initializer5f300b6ce3629479759055) || 1) && $this->valueHolder5f300b6ce3624533899558 = $valueHolder5f300b6ce3624533899558;
 
-        return $this->valueHolder5f29c892aeacc008290020->fix_begin_tokens($code, $parent_nodes);
+        return $this->valueHolder5f300b6ce3624533899558->fix_begin_tokens($code, $parent_nodes);
     }
 
     /**
@@ -3670,7 +3670,7 @@ class phpbbtemplatetwiglexer_00000000077b3b6b0000000040a825a9 extends \phpbb\tem
      */
     public function __construct($initializer)
     {
-        $this->initializer5f29c892aead2019004651 = $initializer;
+        $this->initializer5f300b6ce3629479759055 = $initializer;
     }
 
     /**
@@ -3678,16 +3678,16 @@ class phpbbtemplatetwiglexer_00000000077b3b6b0000000040a825a9 extends \phpbb\tem
      */
     public function & __get($name)
     {
-        $this->initializer5f29c892aead2019004651 && ($this->initializer5f29c892aead2019004651->__invoke($valueHolder5f29c892aeacc008290020, $this, '__get', array('name' => $name), $this->initializer5f29c892aead2019004651) || 1) && $this->valueHolder5f29c892aeacc008290020 = $valueHolder5f29c892aeacc008290020;
+        $this->initializer5f300b6ce3629479759055 && ($this->initializer5f300b6ce3629479759055->__invoke($valueHolder5f300b6ce3624533899558, $this, '__get', array('name' => $name), $this->initializer5f300b6ce3629479759055) || 1) && $this->valueHolder5f300b6ce3624533899558 = $valueHolder5f300b6ce3624533899558;
 
-        if (isset(self::$publicProperties5f29c892aeab9827663941[$name])) {
-            return $this->valueHolder5f29c892aeacc008290020->$name;
+        if (isset(self::$publicProperties5f300b6ce3612373220496[$name])) {
+            return $this->valueHolder5f300b6ce3624533899558->$name;
         }
 
         $realInstanceReflection = new \ReflectionClass(get_parent_class($this));
 
         if (! $realInstanceReflection->hasProperty($name)) {
-            $targetObject = $this->valueHolder5f29c892aeacc008290020;
+            $targetObject = $this->valueHolder5f300b6ce3624533899558;
 
             $backtrace = debug_backtrace(false);
             trigger_error('Undefined property: ' . get_parent_class($this) . '::$' . $name . ' in ' . $backtrace[0]['file'] . ' on line ' . $backtrace[0]['line'], \E_USER_NOTICE);
@@ -3695,7 +3695,7 @@ class phpbbtemplatetwiglexer_00000000077b3b6b0000000040a825a9 extends \phpbb\tem
             return;
         }
 
-        $targetObject = $this->valueHolder5f29c892aeacc008290020;
+        $targetObject = $this->valueHolder5f300b6ce3624533899558;
         $accessor = function & () use ($targetObject, $name) {
             return $targetObject->$name;
         };
@@ -3713,18 +3713,18 @@ class phpbbtemplatetwiglexer_00000000077b3b6b0000000040a825a9 extends \phpbb\tem
      */
     public function __set($name, $value)
     {
-        $this->initializer5f29c892aead2019004651 && ($this->initializer5f29c892aead2019004651->__invoke($valueHolder5f29c892aeacc008290020, $this, '__set', array('name' => $name, 'value' => $value), $this->initializer5f29c892aead2019004651) || 1) && $this->valueHolder5f29c892aeacc008290020 = $valueHolder5f29c892aeacc008290020;
+        $this->initializer5f300b6ce3629479759055 && ($this->initializer5f300b6ce3629479759055->__invoke($valueHolder5f300b6ce3624533899558, $this, '__set', array('name' => $name, 'value' => $value), $this->initializer5f300b6ce3629479759055) || 1) && $this->valueHolder5f300b6ce3624533899558 = $valueHolder5f300b6ce3624533899558;
 
         $realInstanceReflection = new \ReflectionClass(get_parent_class($this));
 
         if (! $realInstanceReflection->hasProperty($name)) {
-            $targetObject = $this->valueHolder5f29c892aeacc008290020;
+            $targetObject = $this->valueHolder5f300b6ce3624533899558;
 
             return $targetObject->$name = $value;;
             return;
         }
 
-        $targetObject = $this->valueHolder5f29c892aeacc008290020;
+        $targetObject = $this->valueHolder5f300b6ce3624533899558;
         $accessor = function & () use ($targetObject, $name, $value) {
             return $targetObject->$name = $value;
         };
@@ -3741,18 +3741,18 @@ class phpbbtemplatetwiglexer_00000000077b3b6b0000000040a825a9 extends \phpbb\tem
      */
     public function __isset($name)
     {
-        $this->initializer5f29c892aead2019004651 && ($this->initializer5f29c892aead2019004651->__invoke($valueHolder5f29c892aeacc008290020, $this, '__isset', array('name' => $name), $this->initializer5f29c892aead2019004651) || 1) && $this->valueHolder5f29c892aeacc008290020 = $valueHolder5f29c892aeacc008290020;
+        $this->initializer5f300b6ce3629479759055 && ($this->initializer5f300b6ce3629479759055->__invoke($valueHolder5f300b6ce3624533899558, $this, '__isset', array('name' => $name), $this->initializer5f300b6ce3629479759055) || 1) && $this->valueHolder5f300b6ce3624533899558 = $valueHolder5f300b6ce3624533899558;
 
         $realInstanceReflection = new \ReflectionClass(get_parent_class($this));
 
         if (! $realInstanceReflection->hasProperty($name)) {
-            $targetObject = $this->valueHolder5f29c892aeacc008290020;
+            $targetObject = $this->valueHolder5f300b6ce3624533899558;
 
             return isset($targetObject->$name);;
             return;
         }
 
-        $targetObject = $this->valueHolder5f29c892aeacc008290020;
+        $targetObject = $this->valueHolder5f300b6ce3624533899558;
         $accessor = function () use ($targetObject, $name) {
             return isset($targetObject->$name);
         };
@@ -3769,18 +3769,18 @@ class phpbbtemplatetwiglexer_00000000077b3b6b0000000040a825a9 extends \phpbb\tem
      */
     public function __unset($name)
     {
-        $this->initializer5f29c892aead2019004651 && ($this->initializer5f29c892aead2019004651->__invoke($valueHolder5f29c892aeacc008290020, $this, '__unset', array('name' => $name), $this->initializer5f29c892aead2019004651) || 1) && $this->valueHolder5f29c892aeacc008290020 = $valueHolder5f29c892aeacc008290020;
+        $this->initializer5f300b6ce3629479759055 && ($this->initializer5f300b6ce3629479759055->__invoke($valueHolder5f300b6ce3624533899558, $this, '__unset', array('name' => $name), $this->initializer5f300b6ce3629479759055) || 1) && $this->valueHolder5f300b6ce3624533899558 = $valueHolder5f300b6ce3624533899558;
 
         $realInstanceReflection = new \ReflectionClass(get_parent_class($this));
 
         if (! $realInstanceReflection->hasProperty($name)) {
-            $targetObject = $this->valueHolder5f29c892aeacc008290020;
+            $targetObject = $this->valueHolder5f300b6ce3624533899558;
 
             unset($targetObject->$name);;
             return;
         }
 
-        $targetObject = $this->valueHolder5f29c892aeacc008290020;
+        $targetObject = $this->valueHolder5f300b6ce3624533899558;
         $accessor = function () use ($targetObject, $name) {
             unset($targetObject->$name);
         };
@@ -3794,16 +3794,16 @@ class phpbbtemplatetwiglexer_00000000077b3b6b0000000040a825a9 extends \phpbb\tem
 
     public function __clone()
     {
-        $this->initializer5f29c892aead2019004651 && ($this->initializer5f29c892aead2019004651->__invoke($valueHolder5f29c892aeacc008290020, $this, '__clone', array(), $this->initializer5f29c892aead2019004651) || 1) && $this->valueHolder5f29c892aeacc008290020 = $valueHolder5f29c892aeacc008290020;
+        $this->initializer5f300b6ce3629479759055 && ($this->initializer5f300b6ce3629479759055->__invoke($valueHolder5f300b6ce3624533899558, $this, '__clone', array(), $this->initializer5f300b6ce3629479759055) || 1) && $this->valueHolder5f300b6ce3624533899558 = $valueHolder5f300b6ce3624533899558;
 
-        $this->valueHolder5f29c892aeacc008290020 = clone $this->valueHolder5f29c892aeacc008290020;
+        $this->valueHolder5f300b6ce3624533899558 = clone $this->valueHolder5f300b6ce3624533899558;
     }
 
     public function __sleep()
     {
-        $this->initializer5f29c892aead2019004651 && ($this->initializer5f29c892aead2019004651->__invoke($valueHolder5f29c892aeacc008290020, $this, '__sleep', array(), $this->initializer5f29c892aead2019004651) || 1) && $this->valueHolder5f29c892aeacc008290020 = $valueHolder5f29c892aeacc008290020;
+        $this->initializer5f300b6ce3629479759055 && ($this->initializer5f300b6ce3629479759055->__invoke($valueHolder5f300b6ce3624533899558, $this, '__sleep', array(), $this->initializer5f300b6ce3629479759055) || 1) && $this->valueHolder5f300b6ce3624533899558 = $valueHolder5f300b6ce3624533899558;
 
-        return array('valueHolder5f29c892aeacc008290020');
+        return array('valueHolder5f300b6ce3624533899558');
     }
 
     public function __wakeup()
@@ -3815,7 +3815,7 @@ class phpbbtemplatetwiglexer_00000000077b3b6b0000000040a825a9 extends \phpbb\tem
      */
     public function setProxyInitializer(\Closure $initializer = null)
     {
-        $this->initializer5f29c892aead2019004651 = $initializer;
+        $this->initializer5f300b6ce3629479759055 = $initializer;
     }
 
     /**
@@ -3823,7 +3823,7 @@ class phpbbtemplatetwiglexer_00000000077b3b6b0000000040a825a9 extends \phpbb\tem
      */
     public function getProxyInitializer()
     {
-        return $this->initializer5f29c892aead2019004651;
+        return $this->initializer5f300b6ce3629479759055;
     }
 
     /**
@@ -3831,7 +3831,7 @@ class phpbbtemplatetwiglexer_00000000077b3b6b0000000040a825a9 extends \phpbb\tem
      */
     public function initializeProxy()
     {
-        return $this->initializer5f29c892aead2019004651 && ($this->initializer5f29c892aead2019004651->__invoke($valueHolder5f29c892aeacc008290020, $this, 'initializeProxy', array(), $this->initializer5f29c892aead2019004651) || 1) && $this->valueHolder5f29c892aeacc008290020 = $valueHolder5f29c892aeacc008290020;
+        return $this->initializer5f300b6ce3629479759055 && ($this->initializer5f300b6ce3629479759055->__invoke($valueHolder5f300b6ce3624533899558, $this, 'initializeProxy', array(), $this->initializer5f300b6ce3629479759055) || 1) && $this->valueHolder5f300b6ce3624533899558 = $valueHolder5f300b6ce3624533899558;
     }
 
     /**
@@ -3839,7 +3839,7 @@ class phpbbtemplatetwiglexer_00000000077b3b6b0000000040a825a9 extends \phpbb\tem
      */
     public function isProxyInitialized()
     {
-        return null !== $this->valueHolder5f29c892aeacc008290020;
+        return null !== $this->valueHolder5f300b6ce3624533899558;
     }
 
     /**
@@ -3847,7 +3847,7 @@ class phpbbtemplatetwiglexer_00000000077b3b6b0000000040a825a9 extends \phpbb\tem
      */
     public function getWrappedValueHolderValue()
     {
-        return $this->valueHolder5f29c892aeacc008290020;
+        return $this->valueHolder5f300b6ce3624533899558;
     }
 
 
